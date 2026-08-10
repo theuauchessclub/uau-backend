@@ -1,0 +1,364 @@
+{
+  "collector": {
+    "source": "Prime Video public Live TV page",
+    "collected_at": "2026-08-09T23:14:18.267105-04:00",
+    "page_url": "https://www.primevideo.com/livetv?tr=us&language=en_US",
+    "http_ok": true,
+    "channel_images_found": 47,
+    "channels_with_schedule": 44,
+    "programmes": 2158,
+    "channels": [
+      "AMC",
+      "AMC +",
+      "BBC America",
+      "BET x Tyler Perry Comedy",
+      "Ben Azelart",
+      "Big Ten Network",
+      "CNN International",
+      "CNN Originals",
+      "CNN Stream",
+      "Cinemax Action",
+      "Cinemax Classics",
+      "Cinemax HD East",
+      "Cinemax Hits",
+      "Cinemax West",
+      "Dateline 24/7",
+      "FOX 2 San Francisco",
+      "FOX Business",
+      "FOX Deportes",
+      "FOX News Channel",
+      "FOX News Talk",
+      "FOX Soul",
+      "FOX Weather",
+      "FS1",
+      "FS2",
+      "Fox Justice",
+      "Fox Weather",
+      "IFC",
+      "ION",
+      "IShowSpeed",
+      "Judy Justice",
+      "KQED (PBS KQED)",
+      "KTVU Plus",
+      "Law & Order",
+      "LiveNOW by FOX",
+      "MAX Latino East",
+      "MGM+",
+      "MGM+ DRIVE-IN",
+      "MGM+ HITS",
+      "MGM+ MARQUEE",
+      "Murder, She Wrote",
+      "Sundance TV",
+      "The First 48 by A&E",
+      "The Incredible Dr. Pol",
+      "The Walking Dead Channel"
+    ],
+    "error": null
+  },
+  "direct_matches": 26,
+  "direct_programmes": 1253,
+  "new_channel_declarations": 15,
+  "rejected_amazon_channels": [
+    {
+      "amazon_name": "Ben Azelart",
+      "best_score": 77.1,
+      "target": ""
+    },
+    {
+      "amazon_name": "Big Ten Network",
+      "best_score": 90.0,
+      "target": ""
+    },
+    {
+      "amazon_name": "CNN Stream",
+      "best_score": 90.0,
+      "target": ""
+    },
+    {
+      "amazon_name": "Cinemax Action",
+      "best_score": 90.0,
+      "target": ""
+    },
+    {
+      "amazon_name": "Cinemax Classics",
+      "best_score": 90.0,
+      "target": ""
+    },
+    {
+      "amazon_name": "Cinemax Hits",
+      "best_score": 85.5,
+      "target": ""
+    },
+    {
+      "amazon_name": "FOX Business",
+      "best_score": 85.5,
+      "target": ""
+    },
+    {
+      "amazon_name": "FOX Deportes",
+      "best_score": 85.5,
+      "target": ""
+    },
+    {
+      "amazon_name": "FOX News Channel",
+      "best_score": 90.0,
+      "target": ""
+    },
+    {
+      "amazon_name": "FOX News Talk",
+      "best_score": 85.5,
+      "target": ""
+    },
+    {
+      "amazon_name": "FS1",
+      "best_score": 80.0,
+      "target": ""
+    },
+    {
+      "amazon_name": "FS2",
+      "best_score": 60.0,
+      "target": ""
+    },
+    {
+      "amazon_name": "Fox Justice",
+      "best_score": 85.5,
+      "target": ""
+    },
+    {
+      "amazon_name": "Fox Weather",
+      "best_score": 100.0,
+      "target": "PRIME: FOX WEATHER RAW"
+    },
+    {
+      "amazon_name": "IShowSpeed",
+      "best_score": 66.7,
+      "target": ""
+    },
+    {
+      "amazon_name": "KQED (PBS KQED)",
+      "best_score": 85.5,
+      "target": ""
+    },
+    {
+      "amazon_name": "KTVU Plus",
+      "best_score": 85.5,
+      "target": ""
+    },
+    {
+      "amazon_name": "Law & Order",
+      "best_score": 85.5,
+      "target": ""
+    }
+  ],
+  "matches": [
+    {
+      "amazon_id": "amazon::AMC",
+      "amazon_name": "AMC",
+      "target": "PRIME: AMC RAW",
+      "score": 100.0,
+      "method": "amazon-fuzzy",
+      "programmes": 37
+    },
+    {
+      "amazon_id": "amazon::AMC +",
+      "amazon_name": "AMC +",
+      "target": "PRIME: AMC + RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 37
+    },
+    {
+      "amazon_id": "amazon::BBC America",
+      "amazon_name": "BBC America",
+      "target": "PRIME: BBC AMERICA RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 37
+    },
+    {
+      "amazon_id": "amazon::BET x Tyler Perry Comedy",
+      "amazon_name": "BET x Tyler Perry Comedy",
+      "target": "PRIME: BET X TYLER PERRY COMEDY RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 93
+    },
+    {
+      "amazon_id": "amazon::CNN International",
+      "amazon_name": "CNN International",
+      "target": "PRIME: CNN INTERNATIONAL RAW",
+      "score": 100.0,
+      "method": "amazon-fuzzy",
+      "programmes": 12
+    },
+    {
+      "amazon_id": "amazon::CNN Originals",
+      "amazon_name": "CNN Originals",
+      "target": "PRIME: CNN ORIGINALS RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 12
+    },
+    {
+      "amazon_id": "amazon::Cinemax HD East",
+      "amazon_name": "Cinemax HD East",
+      "target": "PRIME: CINEMAX EAST RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 15
+    },
+    {
+      "amazon_id": "amazon::Cinemax West",
+      "amazon_name": "Cinemax West",
+      "target": "PRIME: CINEMAX WEST RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 15
+    },
+    {
+      "amazon_id": "amazon::Dateline 24/7",
+      "amazon_name": "Dateline 24/7",
+      "target": "PRIME: DATELINE 24/7 RAW",
+      "score": 100.0,
+      "method": "amazon-fuzzy",
+      "programmes": 93
+    },
+    {
+      "amazon_id": "amazon::FOX 2 San Francisco",
+      "amazon_name": "FOX 2 San Francisco",
+      "target": "PRIME: FOX 2 SAN FRANCISCO RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 62
+    },
+    {
+      "amazon_id": "amazon::FOX Soul",
+      "amazon_name": "FOX Soul",
+      "target": "PRIME: FOX SOUL RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 62
+    },
+    {
+      "amazon_id": "amazon::FOX Weather",
+      "amazon_name": "FOX Weather",
+      "target": "PRIME: FOX WEATHER RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 62
+    },
+    {
+      "amazon_id": "amazon::IFC",
+      "amazon_name": "IFC",
+      "target": "PRIME: IFC RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 37
+    },
+    {
+      "amazon_id": "amazon::ION",
+      "amazon_name": "ION",
+      "target": "PRIME: ION RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 93
+    },
+    {
+      "amazon_id": "amazon::Judy Justice",
+      "amazon_name": "Judy Justice",
+      "target": "PRIME: JUDY JUSTICE RAW",
+      "score": 100.0,
+      "method": "amazon-fuzzy",
+      "programmes": 93
+    },
+    {
+      "amazon_id": "amazon::LiveNOW by FOX",
+      "amazon_name": "LiveNOW by FOX",
+      "target": "PRIME: LIVE NOW BY FOX RAW",
+      "score": 99.0,
+      "method": "amazon-compact",
+      "programmes": 93
+    },
+    {
+      "amazon_id": "amazon::MAX Latino East",
+      "amazon_name": "MAX Latino East",
+      "target": "PRIME: MAX LATINO EAST RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 15
+    },
+    {
+      "amazon_id": "amazon::MGM+",
+      "amazon_name": "MGM+",
+      "target": "PRIME: MGM+ RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 8
+    },
+    {
+      "amazon_id": "amazon::MGM+ DRIVE-IN",
+      "amazon_name": "MGM+ DRIVE-IN",
+      "target": "PRIME: MGM+ DRIVE-IN RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 8
+    },
+    {
+      "amazon_id": "amazon::MGM+ HITS",
+      "amazon_name": "MGM+ HITS",
+      "target": "PRIME: MGM+ HITS RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 8
+    },
+    {
+      "amazon_id": "amazon::MGM+ MARQUEE",
+      "amazon_name": "MGM+ MARQUEE",
+      "target": "PRIME: MGM+ MARQUEE RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 8
+    },
+    {
+      "amazon_id": "amazon::Murder, She Wrote",
+      "amazon_name": "Murder, She Wrote",
+      "target": "PRIME: MURDER, SHE WROTE RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 93
+    },
+    {
+      "amazon_id": "amazon::Sundance TV",
+      "amazon_name": "Sundance TV",
+      "target": "PRIME: SUNDANCE TV RAW",
+      "score": 100.0,
+      "method": "amazon-fuzzy",
+      "programmes": 37
+    },
+    {
+      "amazon_id": "amazon::The First 48 by A&E",
+      "amazon_name": "The First 48 by A&E",
+      "target": "PRIME: THE FIRST 48 BY A&E RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 93
+    },
+    {
+      "amazon_id": "amazon::The Incredible Dr. Pol",
+      "amazon_name": "The Incredible Dr. Pol",
+      "target": "PRIME: THE INCREDIBLE DR. POL RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 93
+    },
+    {
+      "amazon_id": "amazon::The Walking Dead Channel",
+      "amazon_name": "The Walking Dead Channel",
+      "target": "PRIME: THE WALKING DEAD CHANNEL RAW",
+      "score": 100.0,
+      "method": "amazon-fuzzy",
+      "programmes": 37
+    }
+  ],
+  "combined_match_rate_percent": 18.7
+}
