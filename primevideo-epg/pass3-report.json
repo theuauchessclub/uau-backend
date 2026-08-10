@@ -1,22 +1,22 @@
 {
-  "starting_unmatched": 809,
+  "starting_unmatched": 798,
   "candidate_names_loaded": 11655,
-  "provisional_matches": 510,
-  "new_matches_with_programmes": 495,
-  "remaining_unmatched": 309,
-  "combined_match_rate_percent": 63.8,
-  "programmes_added": 30602,
+  "provisional_matches": 500,
+  "new_matches_with_programmes": 485,
+  "remaining_unmatched": 308,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 29925,
   "source_programmes": {
-    "pluto": 2142,
-    "samsung": 1093,
-    "roku": 10373,
+    "pluto": 2126,
+    "samsung": 1072,
+    "roku": 9738,
     "plex_mjh": 3507,
     "canada": 4464,
     "uk": 1790,
     "whaletv": 733,
     "fanduel": 210,
     "rakuten": 2693,
-    "australia": 3248,
+    "australia": 3243,
     "distro": 0,
     "mexico": 49,
     "tbnplus": 300
@@ -919,16 +919,6 @@
       "source": "samsung",
       "epg_id": "USBD7000145C",
       "source_display": "Comedy Dynamics",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: COMO DICE EL DICHO RAW",
-      "base_name": "COMO DICE EL DICHO",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD2700004ME",
-      "source_display": "Como Dice el Dicho",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2243,26 +2233,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC 10 BOSTON NEWS RAW",
-      "base_name": "NBC 10 BOSTON NEWS",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "5ff5d4ad0db2591994479ff4c7573b26",
-      "source_display": "NBC 10 Boston News",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC 10 PHILADELPHIA NEWS RAW",
-      "base_name": "NBC 10 PHILADELPHIA NEWS",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "80734e4fe58c5bf08ee466c51d97b956",
-      "source_display": "NBC 10 Philadelphia News",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: NBC 4 LOS ANGELES NEWS RAW",
       "base_name": "NBC 4 LOS ANGELES NEWS",
       "stream_id": "",
@@ -2273,42 +2243,12 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC 4 NEW YORK NEWS RAW",
-      "base_name": "NBC 4 NEW YORK NEWS",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "f389d9e365a5526b93b076fbb73a8160",
-      "source_display": "NBC 4 New York News",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: NBC 4 WASHINGTON NEWS RAW",
       "base_name": "NBC 4 WASHINGTON NEWS",
       "stream_id": "",
       "source": "roku",
       "epg_id": "021707311e0b595597f97a389e0051e6",
       "source_display": "NBC 4 Washington News",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC 5 CHICAGO NEWS RAW",
-      "base_name": "NBC 5 CHICAGO NEWS",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "9c0ccaa28c0b50f28ad27aaf2f224cf5",
-      "source_display": "NBC 5 Chicago News",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC 6 SOUTH FLORIDA NEWS RAW",
-      "base_name": "NBC 6 SOUTH FLORIDA NEWS",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "122de661427a5a90803487fdfb2a1aab",
-      "source_display": "NBC 6 South Florida News",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2349,16 +2289,6 @@
       "source": "samsung",
       "epg_id": "USBB40000028E",
       "source_display": "NBC LX Home",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "australia",
-      "epg_id": "NBCNEWSNOW.au",
-      "source_display": "NBC NEWS NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2819,16 +2749,6 @@
       "source": "roku",
       "epg_id": "aea5e7ccd9a35a4abd9193147fb4d593",
       "source_display": "Slightly Off IFC",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: SNL VAULT RAW",
-      "base_name": "SNL VAULT",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "US1800012MT",
-      "source_display": "SNL Vault",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4483,16 +4403,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5df97894467dfa00091c873c",
-      "source_display": "NBC News NOW",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: PATERNITY COURT RAW",
       "base_name": "PATERNITY COURT",
       "stream_id": "",
@@ -4919,16 +4829,6 @@
       "source": "pluto",
       "epg_id": "5da0c85bd2c9c10009370984",
       "source_display": "Naruto",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBB2200014DK",
-      "source_display": "NBC News NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
