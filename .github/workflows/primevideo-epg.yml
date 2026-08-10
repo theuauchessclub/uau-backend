@@ -8,6 +8,7 @@ on:
     paths:
       - "primevideo-epg/build_epg.py"
       - "primevideo-epg/amazon_direct.py"
+      - "primevideo-epg/amazon_direct_2b_runner.py"
       - "primevideo-epg/merge_amazon_direct.py"
       - "primevideo-epg/pass3_expand_sources.py"
       - "primevideo-epg/channels-catalog.b64"
@@ -45,7 +46,7 @@ jobs:
           PY
 
       - name: Pass 2B - crawl Amazon Prime Video pagination
-        run: python primevideo-epg/amazon_direct.py
+        run: python primevideo-epg/amazon_direct_2b_runner.py
 
       - name: Build base XMLTV guide
         run: python primevideo-epg/build_epg.py
