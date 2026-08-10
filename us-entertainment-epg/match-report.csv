@@ -15,12 +15,14 @@ US: BET JAMS HD,BETjams.us,us2,BET.Jams.us2,98.0,name-exact,96
 US: BET SOUL,BETSoul.us,us2,BET.Soul.us2,98.0,name-exact,68
 US: BLAZE TV,BlazeTV.us,us2,Blaze.TV.us2,98.0,name-exact,65
 US: AXS TV HD,AXSTV.us,us2,AXS.TV.us2,98.0,name-exact,157
+US: BOUNCE XL,PlutoBounceXL.us,tubi,TUBI:BOUNCE XL,98.0,name-exact,53
 US: BOUNCE TV HD,BounceTV.us,us2,Bounce.TV.us2,98.0,name-exact,92
 US: BRAVO HD,Bravo.us,us2,Bravo.(Pacific).us2,98.0,name-exact,95
 US: BRAVO WEST HD,Bravo.us,us2,Bravo.(Pacific).us2,96.0,name-relaxed,95
 US: BRAVO EAST HD,,us2,Bravo.(Pacific).us2,96.0,name-relaxed,95
 US: CATCHY COMEDY HD,,us2,Catchy.Comedy.us2,99.0,alias-name,179
 US: BYU TV,BrighamYoungUniversity.us,us2,BYU-TV.us2,98.0,name-exact,118
+US: BUZZR,BuzzrTV.us,tubi,TUBI:BUZZR,98.0,name-exact,76
 US: CHARGE!,ChargeTV.us,us2,CHARGE!.us2,98.0,name-exact,116
 US: CMT HD,CMT.us,us2,CMT.HD.us2,98.0,name-exact,153
 US: COMEDY CENTRAL HD,ComedyCentral.us,us2,Comedy.Central.HD.(Pacific).us2,98.0,name-exact,176
@@ -51,12 +53,17 @@ US: FXX HD,FXX.us,us2,FXX.HD.us2,98.0,name-exact,155
 US: FXX WEST HD,FXX.us,us2,FXX.HD.us2,96.0,name-relaxed,155
 US: FYI HD,fyi.us,us2,FYI.Channel.HD.us2,96.0,name-relaxed,149
 US: GRIT,Grit.us,us2,Grit.us2,98.0,name-exact,109
+US: Game Show Central,,tubi,TUBI:GAME SHOW CENTRAL,99.0,alias-name,99
 US: HALLMARK HD,Hallmark.us,us2,Hallmark.Channel.HD.us2,96.0,name-relaxed,119
 US: HBO COMEDY HD,HBOComedy.us,us2,HBO.Comedy.HD.us2,98.0,name-exact,71
+US: HGTV HD,hgtv.us,prime,PRIME: HGTV RAW,98.0,name-exact,268
+US: HGTV WEST HD,hgtv.us,prime,PRIME: HGTV RAW,96.0,name-relaxed,268
 US: HISTORY HD,HistoryChannel.us,us2,History.HD.us2,98.0,name-exact,101
 US: HLN HD,HLN.us,us2,HLN.HD.us2,98.0,name-exact,173
 US: ID INVESTIGATION DISCOVERY HD,investigationdiscovery.us,us2,Investigation.Discovery.HD.us2,93.9,fuzzy,96
+US: ION,,tubi,TUBI:ION,99.0,alias-name,46
 US: ION MYSTERY,,us2,ION.Mystery.us2,99.0,alias-name,72
+US: ION PLUS,,tubi,TUBI:ION PLUS,99.0,alias-name,41
 US: IFC HD,IndependentFilmChannel.us,us2,IFC.HD.us2,98.0,name-exact,168
 US: INDIEPLEX HD,IndiePlex.us,us2,IndiePlex.HD.us2,98.0,name-exact,59
 US: INSP HD,INSP.us,us2,INSP.HD.us2,98.0,name-exact,107
@@ -80,6 +87,7 @@ US: PIXL HD,PixLTV.us,us2,PixL.us2,98.0,name-exact,65
 US: POP HD,Pop.uk,us2,POP.HD.us2,98.0,name-exact,96
 US: PURSUIT CHANNEL HD,PursuitChannel.us,us2,Pursuit.Channel.us2,98.0,name-exact,190
 US: QVC HD,QVC.us,us2,QVC.HD.us2,98.0,name-exact,70
+US: RED BULL TV HD,,prime,PRIME: RED BULL TV RAW,98.0,name-exact,113
 US: RETROPLEX HD,RetroPlex.us,us2,RetroPlex.HD.us2,98.0,name-exact,73
 US: REVOLT HD,Revolt.us,us2,Revolt.HD.us2,98.0,name-exact,116
 US: RFD TV HD,RFDTV.us,us2,RFD.TV.HD.us2,98.0,name-exact,133
@@ -90,6 +98,7 @@ US: SMITHSONIAN CHANNEL WEST HD,SmithsonianChannel.us,us2,Smithsonian.HD.Network
 US: SYFY HD,Syfy.us,us2,Syfy.HD.(Pacific).us2,98.0,name-exact,62
 US: SYFY WEST HD,Syfy.us,us2,Syfy.HD.(Pacific).us2,96.0,name-relaxed,62
 US: TASTEMADE HD,Tastemade.us,us2,Tastemade.us2,98.0,name-exact,173
+US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,171
 US: TBS HD,,us2,TBS.HD.(Pacific).us2,99.0,alias-name,158
 US: TCM HD,,us2,Turner.Classic.Movies.HD.us2,99.0,alias-name,52
 US: TEEN NICK,,us2,Teen.Nick.us2,98.0,name-exact,221
