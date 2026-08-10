@@ -1,0 +1,36 @@
+name: Build Tubi EPG
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "tubi-epg/build_tubi_epg.py"
+      - ".github/workflows/build-tubi-epg.yml"
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build normalized Tubi XMLTV
+        run: python tubi-epg/build_tubi_epg.py
+      - name: Commit guide
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tubi-epg/tubi-us.xml tubi-epg/summary.json
+          if git diff --cached --quiet; then
+            echo "No EPG changes."
+          else
+            git commit -m "Update Tubi EPG"
+            git push
+          fi
