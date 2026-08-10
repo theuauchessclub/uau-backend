@@ -20,6 +20,7 @@ SOURCES = [
     ("us2", "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"),
     ("locals", "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz"),
     ("tubi", "https://raw.githubusercontent.com/theuauchessclub/uau-backend/main/tubi-epg/tubi-us.xml"),
+    ("prime", "https://raw.githubusercontent.com/theuauchessclub/uau-backend/main/primevideo-epg/primevideo-us.xml"),
 ]
 
 ALIASES = {
@@ -78,7 +79,7 @@ def ascii_text(s):
 def clean_name(s, relaxed=False):
     s = ascii_text(s).upper()
     s = s.replace("&", " AND ")
-    s = re.sub(r"^US\s*:\s*", "", s)
+    s = re.sub(r"^(US|PRIME|TUBI)\s*:\s*", "", s)
     s = re.sub(r"\([^)]*\)", " ", s)
     s = re.sub(r"[^A-Z0-9]+", " ", s)
     toks = [t for t in s.split() if t]
@@ -105,7 +106,6 @@ def build_source(name, url):
     relaxed_index = {}
     id_lower = {}
     programmes = {}
-
     for ch in root.findall("channel"):
         cid = ch.get("id", "")
         if not cid:
@@ -121,29 +121,16 @@ def build_source(name, url):
             if rk:
                 relaxed_index.setdefault(rk, []).append(cid)
         programmes.setdefault(cid, [])
-
     for p in root.findall("programme"):
         cid = p.get("channel", "")
         if cid:
             programmes.setdefault(cid, []).append(p)
-
-    return {
-        "name": name,
-        "url": url,
-        "channels": channels,
-        "id_lower": id_lower,
-        "display": display_index,
-        "relaxed": relaxed_index,
-        "programmes": programmes,
-    }
-
-def alias_key(name):
-    return clean_name(name, True)
+    return {"name": name, "url": url, "channels": channels, "id_lower": id_lower,
+            "display": display_index, "relaxed": relaxed_index, "programmes": programmes}
 
 def choose_candidate(item, sources):
     name = item["name"]
     provider_id = (item.get("provider_epg_id") or "").strip()
-
     if provider_id:
         for src in sources:
             cid = src["id_lower"].get(provider_id.lower())
@@ -152,20 +139,15 @@ def choose_candidate(item, sources):
 
     exact = clean_name(name, False)
     relaxed = clean_name(name, True)
-
-    akey = alias_key(name)
-    values = ALIASES.get(akey, [])
-    for val in values:
+    for val in ALIASES.get(relaxed, []):
         for src in sources:
             cid = src["id_lower"].get(val.lower())
             if cid:
                 return src, cid, 100.0, "alias-id"
-            k = clean_name(val, False)
-            ids = src["display"].get(k, [])
+            ids = src["display"].get(clean_name(val, False), [])
             if ids:
                 return src, ids[0], 99.0, "alias-name"
-            rk = clean_name(val, True)
-            ids = src["relaxed"].get(rk, [])
+            ids = src["relaxed"].get(clean_name(val, True), [])
             if ids:
                 return src, ids[0], 98.0, "alias-relaxed"
 
@@ -173,7 +155,6 @@ def choose_candidate(item, sources):
         ids = src["display"].get(exact, [])
         if ids:
             return src, ids[0], 98.0, "name-exact"
-
     for src in sources:
         ids = src["relaxed"].get(relaxed, [])
         if ids:
@@ -212,49 +193,32 @@ def main():
         try:
             src = build_source(name, url)
             sources.append(src)
-            source_status.append({
-                "source": name,
-                "ok": True,
-                "channels": len(src["channels"]),
-                "programmes": sum(len(v) for v in src["programmes"].values()),
-            })
+            source_status.append({"source": name, "ok": True, "channels": len(src["channels"]),
+                                  "programmes": sum(len(v) for v in src["programmes"].values())})
         except Exception as e:
             source_status.append({"source": name, "ok": False, "error": repr(e)})
-
     if not sources:
         raise RuntimeError("No EPG sources loaded")
 
-    out = ET.Element("tv", {
-        "generator-info-name": "UAU US Entertainment EPG",
-        "source-info-name": "Normalized US Entertainment guide for TiviMate",
-    })
-
-    rows = []
-    unmatched = []
-    matched = 0
-    programme_count = 0
-
+    out = ET.Element("tv", {"generator-info-name": "UAU US Entertainment EPG",
+                            "source-info-name": "Normalized US Entertainment guide for TiviMate"})
+    rows, unmatched = [], []
+    matched = programme_count = 0
     for item in catalog:
         result = choose_candidate(item, sources)
         if not result:
-            unmatched.append({
-                "name": item["name"],
-                "provider_epg_id": item.get("provider_epg_id", ""),
-            })
+            unmatched.append({"name": item["name"], "provider_epg_id": item.get("provider_epg_id", "")})
             continue
-
         src, source_cid, score, method = result
         target_cid = canon_id(item["name"])
         src_ch = src["channels"].get(source_cid)
         ch = ET.Element("channel", {"id": target_cid})
-        dn = ET.SubElement(ch, "display-name")
-        dn.text = target_cid
+        ET.SubElement(ch, "display-name").text = target_cid
         if src_ch is not None:
             icon = src_ch.find("icon")
             if icon is not None and icon.get("src"):
                 ET.SubElement(ch, "icon", {"src": icon.get("src")})
         out.append(ch)
-
         pcount = 0
         for p in src["programmes"].get(source_cid, []):
             cp = clone(p)
@@ -263,39 +227,22 @@ def main():
             pcount += 1
         programme_count += pcount
         matched += 1
-        rows.append({
-            "name": item["name"],
-            "provider_epg_id": item.get("provider_epg_id", ""),
-            "source": src["name"],
-            "source_epg_id": source_cid,
-            "score": score,
-            "method": method,
-            "programmes": pcount,
-        })
+        rows.append({"name": item["name"], "provider_epg_id": item.get("provider_epg_id", ""),
+                     "source": src["name"], "source_epg_id": source_cid, "score": score,
+                     "method": method, "programmes": pcount})
 
     ET.indent(out, space="  ")
     ET.ElementTree(out).write(OUT_XML, encoding="utf-8", xml_declaration=True)
-
     with REPORT.open("w", newline="", encoding="utf-8") as f:
         fields = ["name","provider_epg_id","source","source_epg_id","score","method","programmes"]
-        w = csv.DictWriter(f, fieldnames=fields)
-        w.writeheader()
-        w.writerows(rows)
-
+        w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(rows)
     with UNMATCHED.open("w", newline="", encoding="utf-8") as f:
         fields = ["name","provider_epg_id"]
-        w = csv.DictWriter(f, fieldnames=fields)
-        w.writeheader()
-        w.writerows(unmatched)
-
-    summary = {
-        "catalog_channels": len(catalog),
-        "matched_channels": matched,
-        "unmatched_channels": len(unmatched),
-        "match_rate_percent": round(100.0 * matched / len(catalog), 1),
-        "programmes_written": programme_count,
-        "source_status": source_status,
-    }
+        w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(unmatched)
+    summary = {"catalog_channels": len(catalog), "matched_channels": matched,
+               "unmatched_channels": len(unmatched),
+               "match_rate_percent": round(100.0 * matched / len(catalog), 1),
+               "programmes_written": programme_count, "source_status": source_status}
     SUMMARY.write_text(json.dumps(summary, indent=2), encoding="utf-8")
     print(json.dumps(summary, indent=2))
 
