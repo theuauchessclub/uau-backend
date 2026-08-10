@@ -7,6 +7,8 @@ on:
   push:
     paths:
       - "primevideo-epg/build_epg.py"
+      - "primevideo-epg/amazon_direct.py"
+      - "primevideo-epg/merge_amazon_direct.py"
       - "primevideo-epg/channels-catalog.b64"
       - "primevideo-epg/aliases.json"
       - ".github/workflows/primevideo-epg.yml"
@@ -29,7 +31,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: python -m pip install --upgrade requests lxml rapidfuzz
+        run: python -m pip install --upgrade requests lxml rapidfuzz beautifulsoup4
 
       - name: Expand PRIME channel catalog
         run: |
@@ -41,12 +43,28 @@ jobs:
           (root / 'channels-01.json').write_bytes(raw)
           PY
 
-      - name: Build XMLTV guide
+      - name: Collect Amazon Prime Video guide
+        run: python primevideo-epg/amazon_direct.py
+
+      - name: Build base XMLTV guide
         run: python primevideo-epg/build_epg.py
+
+      - name: Merge Amazon direct schedules
+        run: python primevideo-epg/merge_amazon_direct.py
+
+      - name: Compress merged XMLTV guide
+        run: |
+          python - <<'PY'
+          import gzip, shutil
+          from pathlib import Path
+          root = Path('primevideo-epg')
+          with (root / 'primevideo-us.xml').open('rb') as src, gzip.open(root / 'primevideo-us.xml.gz', 'wb', compresslevel=9) as dst:
+              shutil.copyfileobj(src, dst)
+          PY
 
       - name: Commit refreshed guide
         run: |
-          rm -f primevideo-epg/channels-01.json
+          rm -f primevideo-epg/channels-01.json primevideo-epg/amazon-direct-debug.html
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add \
@@ -54,7 +72,10 @@ jobs:
             primevideo-epg/primevideo-us.xml.gz \
             primevideo-epg/match-report.csv \
             primevideo-epg/unmatched.csv \
-            primevideo-epg/summary.json
+            primevideo-epg/summary.json \
+            primevideo-epg/amazon-direct.xml \
+            primevideo-epg/amazon-direct-report.json \
+            primevideo-epg/pass2-report.json
           if git diff --cached --quiet; then
             echo "No guide changes to commit."
           else
