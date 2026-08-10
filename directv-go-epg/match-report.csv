@@ -10,7 +10,7 @@ GO: ACCUWEATHER,us2,AccuWeather.HD.us2,98.0,exact,23
 GO: ALIEN NATION BY DUST,tubi,TUBI:ALIEN NATION BY DUST,98.0,exact,47
 GO: ALWAYS FUNNY,tubi,TUBI:ALWAYS FUNNY,98.0,exact,88
 GO: AMC,us2,AMC+.us2,98.0,exact,125
-GO: AMERICA'S GOT TALENT,samsung,US3500006VF,98.0,exact,5
+GO: AMERICA'S GOT TALENT,samsung,US3500006VF,98.0,exact,4
 GO: AMERICA'S TEST KITCHEN,tubi,TUBI:AMERICA S TEST KITCHEN,98.0,exact,94
 GO: AMERICAN CRIMES,us2,American.Crimes.us2,98.0,exact,114
 GO: AMERICAN HEROES,us2,American.Heroes.Channel.HD.us2,96.0,relaxed,98
@@ -41,7 +41,7 @@ GO: BUZZR,usent,US: BUZZR,98.0,exact,76
 GO: CARTOON NETWORK,us2,Cartoon.Network.HD.us2,98.0,exact,253
 GO: CBS SPORTS NETWORK,us2,CBS.Sports.Network.HD.us2,98.0,exact,67
 GO: CBS-WCBS,locals,WCBS-DT.us_locals1,100.0,callsign,130
-GO: CHEDDAR NEWS,samsung,USAJ3504714A,98.0,exact,10
+GO: CHEDDAR NEWS,samsung,USAJ3504714A,98.0,exact,12
 GO: CLEO TV,us2,Cleo.TV.HD.us2,98.0,exact,192
 GO: CMT,us2,CMT.HD.us2,98.0,exact,153
 GO: CNBC,us2,CNBC.HD.us2,98.0,exact,92
@@ -71,13 +71,13 @@ GO: DISNEY JUNIOR,us2,Disney.Channel.HD.us2,100.0,alias-id,167
 GO: DISNEY XD,us2,Disney.Channel.HD.us2,100.0,alias-id,167
 GO: DOCUMENTARY+,samsung,USAJ3504701A,98.0,exact,5
 GO: DOG WHISPERER,samsung,US3400001FX,98.0,exact,7
-GO: DOVE TV,samsung,USBD700016JY,96.0,relaxed,4
+GO: DOVE TV,samsung,USBD700016JY,96.0,relaxed,5
 GO: DRAFTKINGS,roku,5976983fa00953dab911a0ebea932943,98.0,exact,57
 GO: DUCK DYNASTY,tubi,TUBI:DUCK DYNASTY,98.0,exact,93
 GO: E!,us2,E!.Entertainment.Television.HD.us2,100.0,alias-id,133
 GO: E! KEEPING UP,us2,E!.Entertainment.Television.HD.us2,100.0,alias-id,133
 GO: EARTHX,us2,EarthX.us2,98.0,exact,122
-GO: EBONY TV,roku,d0c6ac240cb8529992ee3340e5b7f102,96.0,relaxed,112
+GO: EBONY TV,roku,d0c6ac240cb8529992ee3340e5b7f102,96.0,relaxed,114
 GO: EL REY REBEL,prime,PRIME: EL REY REBEL RAW,98.0,exact,10
 GO: ESPN,us2,ESPN.HD.us2,98.0,exact,69
 GO: ESPN2,us2,ESPN2.HD.us2,100.0,alias-id,82
@@ -96,7 +96,7 @@ GO: FOX SOUL,us2,FOX.SOUL.us2,98.0,exact,131
 GO: FOX WEATHER,tubi,TUBI:FOX WEATHER,98.0,exact,70
 GO: FOX-WNYW,locals,WNYW-DT.us_locals1,100.0,callsign,117
 GO: FREEFORM,us2,Freeform.HD.us2,100.0,alias-id,103
-GO: FUEL TV,plex,6a1610bebdf296985fd95603-62d15f16001c04178f555e40,98.0,exact,46
+GO: FUEL TV,plex,6a1610bebdf296985fd95603-62d15f16001c04178f555e40,98.0,exact,95
 GO: FUSE,us2,Fuse.HD.us2,98.0,exact,116
 GO: FX,us2,FX.HD.(Pacific).us2,98.0,exact,64
 GO: FX MOVIE CHANNEL,us2,FX.Movie.Channel.HD.us2,100.0,alias-id,51
@@ -110,7 +110,7 @@ GO: GOTRAVELER,plex,6a1610bebdf296985fd95603-60a53634126de9002e694bc2,98.0,exact
 GO: GREAT AMERICAN ADVENTURES,us2,Great.American.Adventures.us2,98.0,exact,69
 GO: GREAT AMERICAN FAMILY,us2,Great.American.Family.HD.us2,100.0,alias-id,58
 GO: GRIT,us2,Grit.us2,98.0,exact,109
-GO: GUSTO TV,samsung,USAK3508724A,98.0,exact,13
+GO: GUSTO TV,samsung,USAK3508724A,98.0,exact,11
 GO: HALLMARK CHANNEL,us2,Hallmark.Channel.HD.us2,100.0,alias-id,119
 GO: HBO EAST,us2,HBO.East.us2,100.0,alias-id,80
 GO: HBO LATINO,us2,HBO.East.us2,100.0,alias-id,80
@@ -118,7 +118,7 @@ GO: HBO2 EAST,us2,HBO2.HD.us2,100.0,alias-id,77
 GO: HERSPHERE,tubi,TUBI:HERSPHERE,98.0,exact,67
 GO: HGTV,usent,US: HGTV HD,98.0,exact,268
 GO: HISTORY,us2,History.HD.us2,98.0,exact,101
-GO: HISTORY & WARFARE,plex,6a1610bebdf296985fd95603-635c5c6ac3585aefbd236576,98.0,exact,70
+GO: HISTORY & WARFARE,plex,6a1610bebdf296985fd95603-635c5c6ac3585aefbd236576,98.0,exact,49
 GO: HLN,us2,HLN.HD.us2,98.0,exact,173
 GO: HOME SHOPPING NETWORK,us2,HSN.Home.Shopping.Network.HD.us2,100.0,alias-id,96
 GO: HORROR BY ALTER,tubi,TUBI:HORROR BY ALTER,98.0,exact,35
@@ -128,7 +128,7 @@ GO: ICE ROAD TRUCKERS,tubi,TUBI:ICE ROAD TRUCKERS,98.0,exact,54
 GO: IFC,us2,IFC.HD.us2,98.0,exact,168
 GO: INFAST,us2,INFAST.US.us2,98.0,exact,152
 GO: INVESTIGATION DISCOVERY,us2,Investigation.Discovery.HD.us2,100.0,alias-id,96
-GO: INWONDER,samsung,USBA300023G8,98.0,exact,16
+GO: INWONDER,samsung,USBA300023G8,98.0,exact,9
 GO: ION EAST,usent,US: ION,96.0,relaxed,46
 GO: JAMIE OLIVER,prime,PRIME: JAMIE OLIVER RAW,98.0,exact,9
 GO: JOEL OSTEEN,prime,PRIME: JOEL OSTEEN CHANNEL RAW,96.0,relaxed,132
@@ -181,7 +181,7 @@ GO: PARAMOUNT TV,us2,Paramount.Network.HD.us2,100.0,alias-id,79
 GO: PBS KIDS,us2,PBS.KIDS.HD.us2,98.0,exact,189
 GO: PBS-WNET,locals,WNET-DT.us_locals1,100.0,callsign,119
 GO: PBS-WNJN,locals,WNJN-DT.us_locals1,100.0,callsign,157
-GO: PICKLEBALL TV,roku,9e545e4543ef52bda9d68842fb583f19,98.0,exact,55
+GO: PICKLEBALL TV,roku,9e545e4543ef52bda9d68842fb583f19,98.0,exact,59
 GO: POKERGO,tubi,TUBI:POKERGO,98.0,exact,31
 GO: POP,us2,POP.HD.us2,100.0,alias-id,96
 GO: POWERNATION,prime,PRIME: POWERNATION RAW,98.0,exact,38
@@ -191,7 +191,7 @@ GO: QVC,us2,QVC.HD.us2,98.0,exact,70
 GO: QVC2,us2,QVC2.us2,100.0,alias-id,63
 GO: QVC3,us2,QVC3.us2,100.0,alias-id,62
 GO: RACER NETWORK,us2,RACER.Network.HD.us2,100.0,alias-id,126
-GO: RACING AMERICA,plex,6a1610bebdf296985fd95603-61a945156547ba4d6d238dc9,98.0,exact,31
+GO: RACING AMERICA,plex,6a1610bebdf296985fd95603-61a945156547ba4d6d238dc9,98.0,exact,60
 GO: REAL HOUSEWIVES VAULT,prime,PRIME: REAL HOUSEWIVES VAULT RAW,98.0,exact,113
 GO: REELZCHANNEL,us2,ReelzChannel.HD.us2,100.0,alias-id,120
 GO: REVOLT,us2,Revolt.HD.us2,98.0,exact,116
@@ -221,7 +221,7 @@ GO: STARZ ENCORE WEST,us2,Starz.Encore.HD.us2,100.0,alias-id,53
 GO: STARZ ENCORE WESTERNS,us2,Starz.Encore.HD.us2,100.0,alias-id,53
 GO: SUNDANCE TV,us2,SundanceTV.HD.us2,100.0,alias-id,86
 GO: SUPERMARKET SWEEP,tubi,TUBI:SUPERMARKET SWEEP,98.0,exact,104
-GO: SURF CINEMA,plex,6a1610bebdf296985fd95603-656fbbd6dbcce28c3a41741b,98.0,exact,25
+GO: SURF CINEMA,plex,6a1610bebdf296985fd95603-656fbbd6dbcce28c3a41741b,98.0,exact,55
 GO: SWEET ESCAPES,tubi,TUBI:SWEET ESCAPES,98.0,exact,71
 GO: SWERVE COMBAT,prime,PRIME: SWERVE COMBAT RAW,98.0,exact,53
 GO: SYFY,us2,Syfy.HD.us2,100.0,alias-id,63
@@ -233,7 +233,7 @@ GO: TCM,us2,Turner.Classic.Movies.HD.us2,100.0,alias-id,52
 GO: TEENNICK,us2,Teen.Nick.us2,100.0,alias-id,221
 GO: TENNIS CHANNEL,us2,Tennis.Channel.HD.us2,100.0,alias-id,20
 GO: TENNIS CHANNEL 2,us2,Tennis.Channel.HD.us2,100.0,alias-id,20
-GO: THE DESIGN NETWORK,samsung,USBD1200022S1,98.0,exact,12
+GO: THE DESIGN NETWORK,samsung,USBD1200022S1,98.0,exact,13
 GO: THE FIRST,us2,The.First.us2,98.0,exact,96
 GO: THE JIM ROME SHOW,prime,PRIME: THE JIM ROME SHOW RAW,98.0,exact,7
 GO: THE PET COLLECTIVE,tubi,TUBI:THE PET COLLECTIVE,98.0,exact,88
@@ -266,7 +266,7 @@ GO: WE TV,us2,WE.tv.HD.us2,98.0,exact,112
 GO: WILLOW SPORTS,us2,Willow.Cricket.HD.us2,100.0,alias-id,106
 GO: WLNY,locals,WLNY-DT.us_locals1,100.0,callsign,168
 GO: WOMEN'S SPORTS NETWORK,tubi,TUBI:WOMEN S SPORTS NETWORK,98.0,exact,39
-GO: YAHOO FINANCE,samsung,USAJ4300005PJ,98.0,exact,13
+GO: YAHOO FINANCE,samsung,USAJ4300005PJ,98.0,exact,10
 GO: YANKEES ENTERTAINMENT & SPORTS NETWORK,us2,Yes.Network.us2,100.0,alias-id,71
 GO: YES NETWORK,us2,Yes.Network.us2,100.0,alias-id,71
 GO: YU-GI-OH!,prime,PRIME: YU-GI-OH! RAW,98.0,exact,44
