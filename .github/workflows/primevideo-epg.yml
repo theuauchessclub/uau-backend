@@ -9,6 +9,7 @@ on:
       - "primevideo-epg/build_epg.py"
       - "primevideo-epg/amazon_direct.py"
       - "primevideo-epg/merge_amazon_direct.py"
+      - "primevideo-epg/pass3_expand_sources.py"
       - "primevideo-epg/channels-catalog.b64"
       - "primevideo-epg/aliases.json"
       - ".github/workflows/primevideo-epg.yml"
@@ -43,7 +44,7 @@ jobs:
           (root / 'channels-01.json').write_bytes(raw)
           PY
 
-      - name: Collect Amazon Prime Video guide
+      - name: Pass 2B - crawl Amazon Prime Video pagination
         run: python primevideo-epg/amazon_direct.py
 
       - name: Build base XMLTV guide
@@ -52,7 +53,10 @@ jobs:
       - name: Merge Amazon direct schedules
         run: python primevideo-epg/merge_amazon_direct.py
 
-      - name: Compress merged XMLTV guide
+      - name: Pass 3 - expand FAST and linear EPG sources
+        run: python primevideo-epg/pass3_expand_sources.py
+
+      - name: Compress final XMLTV guide
         run: |
           python - <<'PY'
           import gzip, shutil
@@ -75,10 +79,11 @@ jobs:
             primevideo-epg/summary.json \
             primevideo-epg/amazon-direct.xml \
             primevideo-epg/amazon-direct-report.json \
-            primevideo-epg/pass2-report.json
+            primevideo-epg/pass2-report.json \
+            primevideo-epg/pass3-report.json
           if git diff --cached --quiet; then
             echo "No guide changes to commit."
           else
-            git commit -m "Refresh Prime Video EPG"
+            git commit -m "Refresh Prime Video EPG - Pass 2B and Pass 3"
             git push
           fi
