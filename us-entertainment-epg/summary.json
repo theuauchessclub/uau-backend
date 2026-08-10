@@ -1,0 +1,27 @@
+{
+  "catalog_channels": 213,
+  "matched_channels": 121,
+  "unmatched_channels": 92,
+  "match_rate_percent": 56.8,
+  "programmes_written": 13738,
+  "source_status": [
+    {
+      "source": "us2",
+      "ok": true,
+      "channels": 761,
+      "programmes": 77298
+    },
+    {
+      "source": "locals",
+      "ok": true,
+      "channels": 4450,
+      "programmes": 557906
+    },
+    {
+      "source": "tubi",
+      "ok": true,
+      "channels": 183,
+      "programmes": 11986
+    }
+  ]
+}
