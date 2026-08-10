@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="PRIME: 50 CENT ACTION RAW"><display-name>PRIME: 50 CENT ACTION RAW</display-name></channel>
-<channel id="PRIME: 60 MINUTES RAW"><display-name>PRIME: 60 MINUTES RAW</display-name></channel>
-<programme start="20260810000000 -0400" stop="20260810030000 -0400" channel="PRIME: 50 CENT ACTION RAW"><title>NAME MATCH TEST 50 CENT ACTION</title></programme>
-<programme start="20260810000000 -0400" stop="20260810030000 -0400" channel="PRIME: 60 MINUTES RAW"><title>NAME MATCH TEST 60 MINUTES</title></programme>
+<channel id="PRIME: 50 CENT ACTION &#x1D3F;&#x1D2C;&#x1D42;"><display-name>PRIME: 50 CENT ACTION &#x1D3F;&#x1D2C;&#x1D42;</display-name></channel>
+<channel id="PRIME: 60 MINUTES &#x1D3F;&#x1D2C;&#x1D42;"><display-name>PRIME: 60 MINUTES &#x1D3F;&#x1D2C;&#x1D42;</display-name></channel>
+<programme start="20260810000000 -0400" stop="20260810030000 -0400" channel="PRIME: 50 CENT ACTION &#x1D3F;&#x1D2C;&#x1D42;"><title>NAME MATCH TEST 50 CENT ACTION</title></programme>
+<programme start="20260810000000 -0400" stop="20260810030000 -0400" channel="PRIME: 60 MINUTES &#x1D3F;&#x1D2C;&#x1D42;"><title>NAME MATCH TEST 60 MINUTES</title></programme>
 </tv>
