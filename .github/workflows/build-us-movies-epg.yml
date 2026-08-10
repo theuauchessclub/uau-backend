@@ -1,0 +1,32 @@
+name: Build US Movies EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */6 * * *"
+  push:
+    paths:
+      - "us-movies-epg/catalog.json"
+      - "us-movies-epg/build_epg.py"
+      - ".github/workflows/build-us-movies-epg.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Build XMLTV
+        run: python us-movies-epg/build_epg.py
+      - name: Commit generated guide
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add us-movies-epg/us-movies.xml us-movies-epg/match-report.csv us-movies-epg/unmatched.csv us-movies-epg/summary.json
+          git diff --cached --quiet || git commit -m "Update US Movies EPG"
+          git push
