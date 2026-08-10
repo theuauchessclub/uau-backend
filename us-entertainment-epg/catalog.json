@@ -6,5 +6,849 @@
   {
     "name": "US: BIG BROTHER 2 4K",
     "provider_epg_id": ""
+  },
+  {
+    "name": "US: BIG BROTHER 3 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: BIG BROTHER 4 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: BIG BROTHER QUAD VIEW 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: A&E HD",
+    "provider_epg_id": "AandE.us"
+  },
+  {
+    "name": "US: ACC NETWORK HD",
+    "provider_epg_id": "ACCNetwork.us"
+  },
+  {
+    "name": "US: AMC HD",
+    "provider_epg_id": "AMC.us"
+  },
+  {
+    "name": "US: AMC PLUS",
+    "provider_epg_id": "AMC.us"
+  },
+  {
+    "name": "US: AMERICA HEROES HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: ANIMAL PLANET HD",
+    "provider_epg_id": "animalplanet.us"
+  },
+  {
+    "name": "US: ANIMAL PLANET WEST HD",
+    "provider_epg_id": "animalplanet.us"
+  },
+  {
+    "name": "US: ANTENNA TV",
+    "provider_epg_id": "AntennaTV.us"
+  },
+  {
+    "name": "US: ASPIRE HD",
+    "provider_epg_id": "AspireTV.us"
+  },
+  {
+    "name": "US: AWE HD",
+    "provider_epg_id": "AWealthofEntertainment.us"
+  },
+  {
+    "name": "US: BBC AMERICA HD",
+    "provider_epg_id": "BBCAmerica.us"
+  },
+  {
+    "name": "US: BET GOSPEL",
+    "provider_epg_id": "BETGospel.us"
+  },
+  {
+    "name": "US: BET HD",
+    "provider_epg_id": "BET.us"
+  },
+  {
+    "name": "US: BET HER HD",
+    "provider_epg_id": "BetHer.us"
+  },
+  {
+    "name": "US: BET JAMS HD",
+    "provider_epg_id": "BETjams.us"
+  },
+  {
+    "name": "US: BET SOUL",
+    "provider_epg_id": "BETSoul.us"
+  },
+  {
+    "name": "US: BLAZE TV",
+    "provider_epg_id": "BlazeTV.us"
+  },
+  {
+    "name": "US: AXS TV HD",
+    "provider_epg_id": "AXSTV.us"
+  },
+  {
+    "name": "US: AXS TV NOW",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: BOUNCE XL",
+    "provider_epg_id": "PlutoBounceXL.us"
+  },
+  {
+    "name": "US: BOUNCE TV HD",
+    "provider_epg_id": "BounceTV.us"
+  },
+  {
+    "name": "US: BRAVO HD",
+    "provider_epg_id": "Bravo.us"
+  },
+  {
+    "name": "US: BRAVO WEST HD",
+    "provider_epg_id": "Bravo.us"
+  },
+  {
+    "name": "US: BRAVO EAST HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CATCHY COMEDY HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: BYU TV",
+    "provider_epg_id": "BrighamYoungUniversity.us"
+  },
+  {
+    "name": "US: BUZZR",
+    "provider_epg_id": "BuzzrTV.us"
+  },
+  {
+    "name": "US: CHARGE!",
+    "provider_epg_id": "ChargeTV.us"
+  },
+  {
+    "name": "US: CHICAGO SPORTS NETWORK 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CHEDDAR BUSINESS HD",
+    "provider_epg_id": "CheddarBusiness.us"
+  },
+  {
+    "name": "US: CMT HD",
+    "provider_epg_id": "CMT.us"
+  },
+  {
+    "name": "US: CNC 3 TRINIDAD HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: COMEDY CENTRAL HD",
+    "provider_epg_id": "ComedyCentral.us"
+  },
+  {
+    "name": "US: CLEO TV 4K",
+    "provider_epg_id": "CleoTV.us"
+  },
+  {
+    "name": "US: COMEDY TV HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: COMET HD",
+    "provider_epg_id": "Comet.us"
+  },
+  {
+    "name": "US: COOKING CHANNEL HD",
+    "provider_epg_id": "CookingChannel.us"
+  },
+  {
+    "name": "US: COURT TV HD",
+    "provider_epg_id": "CourtTV.us"
+  },
+  {
+    "name": "US: COWBOY CHANNEL",
+    "provider_epg_id": "TheCowboyChannel.us"
+  },
+  {
+    "name": "US: COZI",
+    "provider_epg_id": "CoziTV.us"
+  },
+  {
+    "name": "US: CRIME & INVESTIGATION HD",
+    "provider_epg_id": "CrimeInvestigation.us"
+  },
+  {
+    "name": "US: DAYSTAR HD",
+    "provider_epg_id": "Daystar.us"
+  },
+  {
+    "name": "US: DECADES",
+    "provider_epg_id": "Decades.us"
+  },
+  {
+    "name": "US: DESTINATION AMERICA HD",
+    "provider_epg_id": "DestinationAmerica.us"
+  },
+  {
+    "name": "US: DISCOVERY HD",
+    "provider_epg_id": "DiscoveryChannel.us"
+  },
+  {
+    "name": "US: DISCOVERY FAMILY HD",
+    "provider_epg_id": "DiscoveryFamily.us"
+  },
+  {
+    "name": "US: DISCOVERY LIFE HD",
+    "provider_epg_id": "DiscoveryLife.us"
+  },
+  {
+    "name": "US: DISCOVERY SCIENCE HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: DISCOVERY WEST HD",
+    "provider_epg_id": "DiscoveryChannel.us"
+  },
+  {
+    "name": "US: DISCOVERY EAST HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: DOG TV HD",
+    "provider_epg_id": "DogTV.us"
+  },
+  {
+    "name": "US: DIY HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: DABL",
+    "provider_epg_id": "WKMGDT2.us"
+  },
+  {
+    "name": "US: MYTV 9 (WCTX)  WATERBURY HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: E! ENTERTAINMENT WEST HD",
+    "provider_epg_id": "EEntertainment.us"
+  },
+  {
+    "name": "US: E! ENTERTAINMENT HD",
+    "provider_epg_id": "EEntertainment.us"
+  },
+  {
+    "name": "US: EWTN CATHOLIC",
+    "provider_epg_id": "EWTN.us"
+  },
+  {
+    "name": "US: FASHION ONE ᵁᴴᴰ 3840P",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: FETV",
+    "provider_epg_id": "FamilyEntertainment.us"
+  },
+  {
+    "name": "US: TBS WEST",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: FOOD NETWORK HD",
+    "provider_epg_id": "foodnetwork.us"
+  },
+  {
+    "name": "US: FOX SOUL",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: FREEFORM WEST HD",
+    "provider_epg_id": "Freeform.us"
+  },
+  {
+    "name": "US: FREEFORM EAST HD",
+    "provider_epg_id": "Freeform.us"
+  },
+  {
+    "name": "US: FX WEST HD",
+    "provider_epg_id": "FX.us"
+  },
+  {
+    "name": "US: FX HD",
+    "provider_epg_id": "FX.us"
+  },
+  {
+    "name": "US: FXM HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: FXX HD",
+    "provider_epg_id": "FXX.us"
+  },
+  {
+    "name": "US: FXX WEST HD",
+    "provider_epg_id": "FXX.us"
+  },
+  {
+    "name": "US: FL WMBB ABC 13",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: FYI HD",
+    "provider_epg_id": "fyi.us"
+  },
+  {
+    "name": "US: GAME TV HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: GET TV",
+    "provider_epg_id": "GetTV.us"
+  },
+  {
+    "name": "US: GREAT AMERICAN COUNTRY 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: GRIT",
+    "provider_epg_id": "Grit.us"
+  },
+  {
+    "name": "US: Game Show Central",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: GSN HD",
+    "provider_epg_id": "GameShowNetwork.us"
+  },
+  {
+    "name": "US: HALLMARK DRAMA HD",
+    "provider_epg_id": "HallmarkDrama.us"
+  },
+  {
+    "name": "US: HALLMARK HD",
+    "provider_epg_id": "Hallmark.us"
+  },
+  {
+    "name": "US: HALLMARK M & M HD",
+    "provider_epg_id": "Hallmark.us"
+  },
+  {
+    "name": "US: HALLMARK MOVIES/MYSTERIES 4K",
+    "provider_epg_id": "HallmarkMoviesMysteries.us"
+  },
+  {
+    "name": "US: HBO COMEDY HD",
+    "provider_epg_id": "HBOComedy.us"
+  },
+  {
+    "name": "US: HD NET MOVIES HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: HEROES & ICONS",
+    "provider_epg_id": "HeroesAndIconsTV.us"
+  },
+  {
+    "name": "US: HGTV HD",
+    "provider_epg_id": "hgtv.us"
+  },
+  {
+    "name": "US: HGTV WEST HD",
+    "provider_epg_id": "hgtv.us"
+  },
+  {
+    "name": "US: HISTORY HD",
+    "provider_epg_id": "HistoryChannel.us"
+  },
+  {
+    "name": "US: HLN HD",
+    "provider_epg_id": "HLN.us"
+  },
+  {
+    "name": "US: HOPE CHANNEL",
+    "provider_epg_id": "HopeChannel.us"
+  },
+  {
+    "name": "US: ID INVESTIGATION DISCOVERY HD",
+    "provider_epg_id": "investigationdiscovery.us"
+  },
+  {
+    "name": "US: ION",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: ION MYSTERY",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: ION PLUS",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MY 9 WWOR NEW YORK",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: IFC HD",
+    "provider_epg_id": "IndependentFilmChannel.us"
+  },
+  {
+    "name": "US: INDIEPLEX HD",
+    "provider_epg_id": "IndiePlex.us"
+  },
+  {
+    "name": "US: INFOWARS TV HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: IT| 20THCENTURYFOX 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: INSP HD",
+    "provider_epg_id": "INSP.us"
+  },
+  {
+    "name": "US: IT| PIRATI DEI CARAIBI CHANNEL 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: JUSTICE CENTRAL HD",
+    "provider_epg_id": "JusticeCentral.us"
+  },
+  {
+    "name": "US: LIFETIME HD",
+    "provider_epg_id": "LifetimeNetwork.us"
+  },
+  {
+    "name": "US: LIFETIME MOVIE NETWORK HD",
+    "provider_epg_id": "LifetimeMovieNetwork.us"
+  },
+  {
+    "name": "US: LIFETIME REAL WOMEN HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: LOCAL NOW HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: LOGO HD",
+    "provider_epg_id": "Logo.us"
+  },
+  {
+    "name": "US:  LAFF TV  HD",
+    "provider_epg_id": "Laff.us"
+  },
+  {
+    "name": "US: MAV TV HD",
+    "provider_epg_id": "MAVTV.us"
+  },
+  {
+    "name": "US: ME TV",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MeTV Plus (WZME) HD (SP)",
+    "provider_epg_id": "MeTVPlus.us"
+  },
+  {
+    "name": "US: MGM HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MOTORTREND HD",
+    "provider_epg_id": "MotorTrend.us"
+  },
+  {
+    "name": "US: MILITARY HISTORY",
+    "provider_epg_id": "MilitaryHistory.us"
+  },
+  {
+    "name": "US: MSG 2 HD",
+    "provider_epg_id": "MadisonSquareGarden2.us"
+  },
+  {
+    "name": "US: MSG HD",
+    "provider_epg_id": "MadisonSquareGarden.us"
+  },
+  {
+    "name": "US: MSG PLUS HD",
+    "provider_epg_id": "MadisonSquareGardenPlus.us"
+  },
+  {
+    "name": "US: MTV HD",
+    "provider_epg_id": "MTV.us"
+  },
+  {
+    "name": "US: MEGA TV",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MTV 2 HD",
+    "provider_epg_id": "MTV2.us"
+  },
+  {
+    "name": "US: MUSIC CHOICE  MAX",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US:  THE VICTORY CHANNEL HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US:  MUSIC CHOICE POP HITS",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MUSIC CHOICE TROPICALES HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MUSIC CHOICE CLASSIC COUNTRY HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MUSIC CHOICE HIP-HOP AND R&B",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MUSIC CHOICE: HIP-HOP CLASSICS",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: : NATIONAL GEOGRAPHIC HD",
+    "provider_epg_id": "NatGeo.us"
+  },
+  {
+    "name": "US: MTV LIVE HD",
+    "provider_epg_id": "MTVLive.us"
+  },
+  {
+    "name": "US:  LATIN PASIONES",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: : NATIONAL GEOGRAPHIC WILD HD",
+    "provider_epg_id": "NatGeoWild.us"
+  },
+  {
+    "name": "US: NBC 4 LITTLE ROCK AR (KARK)",
+    "provider_epg_id": "KARK.us"
+  },
+  {
+    "name": "US: OUTDOOR CHANNEL HD",
+    "provider_epg_id": "OutdoorChannel.us"
+  },
+  {
+    "name": "US: OUTSIDE TV HD",
+    "provider_epg_id": "OutsideTV.us"
+  },
+  {
+    "name": "US: OVATION HD",
+    "provider_epg_id": "Ovation.us"
+  },
+  {
+    "name": "US: OWN HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: OXYGEN HD",
+    "provider_epg_id": "Oxygen.us"
+  },
+  {
+    "name": "US: OXYGEN WEST HD",
+    "provider_epg_id": "Oxygen.us"
+  },
+  {
+    "name": "US: PARAMOUNT HD",
+    "provider_epg_id": "ParamountNetwork.us"
+  },
+  {
+    "name": "US: JEWELRY tv",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: PBS HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: PIXL HD",
+    "provider_epg_id": "PixLTV.us"
+  },
+  {
+    "name": "US: POP HD",
+    "provider_epg_id": "Pop.uk"
+  },
+  {
+    "name": "US: PURSUIT CHANNEL HD",
+    "provider_epg_id": "PursuitChannel.us"
+  },
+  {
+    "name": "US: QVC 2 HD",
+    "provider_epg_id": "QVCPlus.us"
+  },
+  {
+    "name": "US: QVC HD",
+    "provider_epg_id": "QVC.us"
+  },
+  {
+    "name": "US: RED BULL TV HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: AFV FAMILY",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: REELZ FAMUS HD",
+    "provider_epg_id": "reelzchannel.us"
+  },
+  {
+    "name": "US: RETROPLEX HD",
+    "provider_epg_id": "RetroPlex.us"
+  },
+  {
+    "name": "US: RETRO TV",
+    "provider_epg_id": "RetroTV.us"
+  },
+  {
+    "name": "US: REVOLT HD",
+    "provider_epg_id": "Revolt.us"
+  },
+  {
+    "name": "US: RFD TV HD",
+    "provider_epg_id": "RFDTV.us"
+  },
+  {
+    "name": "US: RIDE TV HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: RT DOCUMENTARY HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: SEC NETWORK HD",
+    "provider_epg_id": "SECNetwork.us"
+  },
+  {
+    "name": "US: SHOWTIME BET HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: SMITHSONIAN CHANNEL HD",
+    "provider_epg_id": "SmithsonianChannel.us"
+  },
+  {
+    "name": "US: SMITHSONIAN CHANNEL WEST HD",
+    "provider_epg_id": "SmithsonianChannel.us"
+  },
+  {
+    "name": "US: SUNDANCE HD",
+    "provider_epg_id": "SundanceTV.us"
+  },
+  {
+    "name": "US: SYFY HD",
+    "provider_epg_id": "Syfy.us"
+  },
+  {
+    "name": "US: SYFY WEST HD",
+    "provider_epg_id": "Syfy.us"
+  },
+  {
+    "name": "US: SPECTRUM BAY NEWS 9 HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TASTEMADE HD",
+    "provider_epg_id": "Tastemade.us"
+  },
+  {
+    "name": "US: TBN",
+    "provider_epg_id": "TBN.us"
+  },
+  {
+    "name": "US: TBS HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TCM HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TEEN NICK",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TELEMUNDO 47 NY (WNJU)",
+    "provider_epg_id": "WNJU.us"
+  },
+  {
+    "name": "US: TELEMUNDO 51 MIAMI (WSCV)",
+    "provider_epg_id": "WSCV.us"
+  },
+  {
+    "name": "US: THE WEATHER CHANNEL HD",
+    "provider_epg_id": "TheWeatherNetwork.ca"
+  },
+  {
+    "name": "US: TLC HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TLC WEST",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TNT HD",
+    "provider_epg_id": "TNT.us"
+  },
+  {
+    "name": "US: TNT SD",
+    "provider_epg_id": "TNT.us"
+  },
+  {
+    "name": "US: TNT 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TNT WEST 4K",
+    "provider_epg_id": "TNT.us"
+  },
+  {
+    "name": "US: TNT EAST 4K",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TRAVEL CHANNEL HD",
+    "provider_epg_id": "TravelChannel.us"
+  },
+  {
+    "name": "US: TRAVEL CHANNEL WEST HD",
+    "provider_epg_id": "TravelChannel.us"
+  },
+  {
+    "name": "US: TRUTV 4K",
+    "provider_epg_id": "truTV.us"
+  },
+  {
+    "name": "US: TRUTV WEST 4K",
+    "provider_epg_id": "truTV.us"
+  },
+  {
+    "name": "US: TV LAND HD",
+    "provider_epg_id": "TVLand.us"
+  },
+  {
+    "name": "US: TV ONE HD",
+    "provider_epg_id": "TVOne.us"
+  },
+  {
+    "name": "US: TVG NETWORK",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: TVG NETWORK 2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: UP TV HD",
+    "provider_epg_id": "UpliftingEntertainment.us"
+  },
+  {
+    "name": "US: USA NETWORK 4K",
+    "provider_epg_id": "USANetwork.us"
+  },
+  {
+    "name": "US: USA NETWORK EAST HD",
+    "provider_epg_id": "USANetwork.us"
+  },
+  {
+    "name": "US: USA NETWORK HD",
+    "provider_epg_id": "USANetwork.us"
+  },
+  {
+    "name": "US: USA NETWORK WEST HD",
+    "provider_epg_id": "USANetwork.us"
+  },
+  {
+    "name": "US: VH 1 HD",
+    "provider_epg_id": "VH1.us"
+  },
+  {
+    "name": "US: VH 1 4K",
+    "provider_epg_id": "VH1.us"
+  },
+  {
+    "name": "US: VICELAND HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: WE TV HD",
+    "provider_epg_id": "WeTV.us"
+  },
+  {
+    "name": "US: A WEALTH OF ENTERTAINMENT (AWE)",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: OVATION",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: LAW & CRIME",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: EL REY",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: GREAT AMERICAN FAITH & LIVING",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CIRCLE TV HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: DUS (S)",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: WORLD FISHING NETWORK HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: WTRF Wheeling WV 7 HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: WGN9",
+    "provider_epg_id": "WGN.us"
+  },
+  {
+    "name": "US: KTLA LOS ANGELES HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: REAL AMERICA'S VOICE HD",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: Magnolia Network West (Y) HD",
+    "provider_epg_id": "MagnoliaNetwork.us"
+  },
+  {
+    "name": "US: FOOD NETWORK WEST HD",
+    "provider_epg_id": "foodnetwork.us"
   }
 ]
