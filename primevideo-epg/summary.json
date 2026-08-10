@@ -1,0 +1,39 @@
+{
+  "channels_total": 1032,
+  "channels_matched": 189,
+  "channels_unmatched": 843,
+  "match_rate_percent": 18.3,
+  "programmes_written": 19485,
+  "source_status": [
+    {
+      "source": "us2",
+      "ids": 761,
+      "ok": true
+    },
+    {
+      "source": "locals",
+      "ids": 4450,
+      "ok": true
+    },
+    {
+      "source": "sports",
+      "ids": 267,
+      "ok": true
+    },
+    {
+      "source": "plex",
+      "ids": 693,
+      "ok": true
+    },
+    {
+      "source": "peacock",
+      "ids": 31,
+      "ok": true
+    }
+  ],
+  "source_programmes": {
+    "us2": 10299,
+    "locals": 6767,
+    "plex": 2419
+  }
+}
