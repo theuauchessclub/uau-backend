@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
-"""Collect schedule data directly from the public US Prime Video Live TV page.
+"""Collect public US Prime Video Live TV schedules, including pagination links.
 
-This intentionally uses only the public, unauthenticated guide page. Amazon can change
-its markup at any time, so the collector is conservative: it only publishes programme
-rows when it can identify a channel plus two consecutive explicit clock times.
+Pass 2B follows server-rendered Prime Video Live TV pagination/service-token links
+found on each public page. It remains unauthenticated and conservative: only rows
+with explicit consecutive clock times are emitted.
 """
 from __future__ import annotations
 
 import json
 import re
+from collections import deque
 from datetime import datetime, timedelta
 from pathlib import Path
+from urllib.parse import urljoin, urlparse
 from zoneinfo import ZoneInfo
 
 import requests
@@ -21,11 +23,8 @@ ROOT = Path(__file__).resolve().parent
 OUT_XML = ROOT / "amazon-direct.xml"
 OUT_REPORT = ROOT / "amazon-direct-report.json"
 DEBUG_HTML = ROOT / "amazon-direct-debug.html"
-
-URLS = [
-    "https://www.primevideo.com/livetv?tr=us&language=en_US",
-    "https://www.primevideo.com/livetv?language=en_US&tr=us",
-]
+SEED_URL = "https://www.primevideo.com/livetv?tr=us&language=en_US"
+MAX_PAGES = 40
 TZ = ZoneInfo("America/New_York")
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131 Safari/537.36",
@@ -33,7 +32,7 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 TIME_RE = re.compile(r"\b(1[0-2]|0?[1-9]):([0-5]\d)\s*([AP]M)\b", re.I)
-CHANNEL_ALT_RE = re.compile(r"^(.*?)\s+(?:Channel|channel|Canal|canal|Cha[iî]ne|canal|频道|チャンネル)$", re.I)
+CHANNEL_ALT_RE = re.compile(r"^(.*?)\s+(?:Channel|channel|Canal|canal|Cha[iî]ne|频道|チャンネル)$", re.I)
 NOISE_RE = re.compile(
     r"^(?:watch live|live now|currently airing|on now|scroll|prime|image|more|remaining|"
     r"\d+\s*(?:min|mins|minutes|hr|hrs|hours)\s*(?:remaining|left)?|"
@@ -42,20 +41,18 @@ NOISE_RE = re.compile(
 )
 
 
-def fetch_page() -> tuple[str, str]:
-    last_error = None
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    session.cookies.set("lc-main", "en_US", domain="www.primevideo.com")
-    for url in URLS:
-        try:
-            r = session.get(url, timeout=60)
-            r.raise_for_status()
-            if len(r.text) > 20_000:
-                return r.text, r.url
-        except Exception as exc:  # noqa: BLE001
-            last_error = exc
-    raise RuntimeError(f"Prime Video Live TV page could not be downloaded: {last_error}")
+def canonical_url(url: str) -> str:
+    return url.split("#", 1)[0]
+
+
+def is_pagination_url(url: str) -> bool:
+    p = urlparse(url)
+    if p.netloc not in {"www.primevideo.com", "primevideo.com"}:
+        return False
+    if "/livetv" not in p.path:
+        return False
+    q = p.query.lower()
+    return any(k in q for k in ("servicetoken=", "startindex=", "pagesize=", "page="))
 
 
 def clean_channel_alt(alt: str) -> str | None:
@@ -64,20 +61,16 @@ def clean_channel_alt(alt: str) -> str | None:
     return m.group(1).strip() if m else None
 
 
-def find_schedule_container(img) -> object | None:
-    """Find the smallest ancestor around a channel image that contains guide times."""
-    node = img
-    best = None
+def find_schedule_container(node) -> object | None:
+    cur = node
     for _ in range(12):
-        node = getattr(node, "parent", None)
-        if node is None:
+        cur = getattr(cur, "parent", None)
+        if cur is None:
             break
-        text = node.get_text("\n", strip=True)
-        times = list(TIME_RE.finditer(text))
-        if len(times) >= 2 and len(text) <= 30_000:
-            best = node
-            break
-    return best
+        text = cur.get_text("\n", strip=True)
+        if len(TIME_RE.findall(text)) >= 2 and len(text) <= 30000:
+            return cur
+    return None
 
 
 def meaningful_lines(segment: str, channel_name: str) -> list[str]:
@@ -88,7 +81,7 @@ def meaningful_lines(segment: str, channel_name: str) -> list[str]:
         if not line or len(line) > 220:
             continue
         low = line.casefold()
-        if low == channel_lower or low == f"{channel_lower} channel":
+        if low in {channel_lower, f"{channel_lower} channel"}:
             continue
         if TIME_RE.fullmatch(line) or NOISE_RE.match(line):
             continue
@@ -104,8 +97,6 @@ def parse_clock(token: str, base_date, previous: datetime | None) -> datetime:
     candidate = datetime.combine(base_date, tm, TZ)
     now = datetime.now(TZ)
     if previous is None:
-        # The explicit rows on the page are normally current/upcoming. If the clock
-        # time is far behind now, treat it as tomorrow.
         if candidate < now - timedelta(hours=3):
             candidate += timedelta(days=1)
     else:
@@ -119,34 +110,27 @@ def extract_programmes(channel_name: str, container) -> list[dict]:
     matches = list(TIME_RE.finditer(text))
     if len(matches) < 2:
         return []
-
-    starts: list[datetime] = []
-    entries: list[tuple[datetime, list[str]]] = []
+    entries = []
     previous = None
     today = datetime.now(TZ).date()
     for i, match in enumerate(matches):
         start = parse_clock(match.group(0), today, previous)
         previous = start
         end_pos = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        segment = text[match.end():end_pos]
-        lines = meaningful_lines(segment, channel_name)
-        starts.append(start)
+        lines = meaningful_lines(text[match.end():end_pos], channel_name)
         entries.append((start, lines))
-
     programmes = []
     for i in range(len(entries) - 1):
         start, lines = entries[i]
         stop = entries[i + 1][0]
         if not lines or stop <= start or stop - start > timedelta(hours=6):
             continue
-        title = lines[0]
-        subtitle = lines[1] if len(lines) > 1 and len(lines[1]) <= 140 else ""
         programmes.append({
             "channel": channel_name,
             "start": start,
             "stop": stop,
-            "title": title,
-            "subtitle": subtitle,
+            "title": lines[0],
+            "subtitle": lines[1] if len(lines) > 1 and len(lines[1]) <= 140 else "",
         })
     return programmes
 
@@ -155,78 +139,98 @@ def fmt_xmltv(dt: datetime) -> str:
     return dt.strftime("%Y%m%d%H%M%S %z")
 
 
+def programme_key(item: dict) -> tuple:
+    return (item["start"].isoformat(), item["stop"].isoformat(), item["title"], item.get("subtitle", ""))
+
+
 def main() -> None:
     report = {
-        "source": "Prime Video public Live TV page",
+        "source": "Prime Video public Live TV pages (Pass 2B pagination crawl)",
         "collected_at": datetime.now(TZ).isoformat(),
-        "page_url": None,
+        "seed_url": SEED_URL,
         "http_ok": False,
+        "pages_fetched": 0,
+        "pagination_links_discovered": 0,
         "channel_images_found": 0,
         "channels_with_schedule": 0,
         "programmes": 0,
         "channels": [],
-        "error": None,
+        "page_urls": [],
+        "errors": [],
     }
-    root = etree.Element("tv", attrib={"generator-info-name": "Prime Video Direct Collector"})
-    try:
-        html, final_url = fetch_page()
-        report["page_url"] = final_url
-        report["http_ok"] = True
-        # Keep the raw response only for troubleshooting in Actions; workflow removes it
-        # before commit unless explicitly requested.
-        DEBUG_HTML.write_text(html, encoding="utf-8")
-        soup = BeautifulSoup(html, "lxml")
-        seen_channels: set[str] = set()
-        channel_programmes: dict[str, list[dict]] = {}
+    root = etree.Element("tv", attrib={"generator-info-name": "Prime Video Direct Collector Pass 2B"})
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    session.cookies.set("lc-main", "en_US", domain="www.primevideo.com")
+    queue = deque([SEED_URL])
+    queued = {canonical_url(SEED_URL)}
+    seen = set()
+    channel_programmes: dict[str, dict[tuple, dict]] = {}
+    first_html = None
 
-        for img in soup.find_all("img", alt=True):
-            channel = clean_channel_alt(img.get("alt", ""))
-            if not channel:
-                continue
-            report["channel_images_found"] += 1
-            if channel in seen_channels:
-                continue
-            seen_channels.add(channel)
-            container = find_schedule_container(img)
-            if not container:
-                continue
-            programmes = extract_programmes(channel, container)
-            if programmes:
-                channel_programmes[channel] = programmes
+    while queue and len(seen) < MAX_PAGES:
+        url = canonical_url(queue.popleft())
+        if url in seen:
+            continue
+        seen.add(url)
+        try:
+            r = session.get(url, timeout=60)
+            r.raise_for_status()
+            if len(r.text) < 10000:
+                raise RuntimeError(f"response too small: {len(r.text)} bytes")
+            report["http_ok"] = True
+            report["pages_fetched"] += 1
+            report["page_urls"].append(r.url)
+            if first_html is None:
+                first_html = r.text
+            soup = BeautifulSoup(r.text, "lxml")
 
-        # Fallback: Amazon sometimes exposes channel labels in aria-label rather than img alt.
-        if not channel_programmes:
-            for node in soup.find_all(attrs={"aria-label": True}):
-                channel = clean_channel_alt(node.get("aria-label", ""))
-                if not channel or channel in seen_channels:
+            for a in soup.find_all("a", href=True):
+                full = canonical_url(urljoin(r.url, a.get("href", "")))
+                if is_pagination_url(full) and full not in queued and full not in seen:
+                    queued.add(full)
+                    queue.append(full)
+            report["pagination_links_discovered"] = max(0, len(queued) - 1)
+
+            nodes = list(soup.find_all("img", alt=True)) + list(soup.find_all(attrs={"aria-label": True}))
+            per_page_seen = set()
+            for node in nodes:
+                label = node.get("alt", "") or node.get("aria-label", "")
+                channel = clean_channel_alt(label)
+                if not channel or channel in per_page_seen:
                     continue
-                seen_channels.add(channel)
+                per_page_seen.add(channel)
+                report["channel_images_found"] += 1
                 container = find_schedule_container(node)
                 if not container:
                     continue
-                programmes = extract_programmes(channel, container)
-                if programmes:
-                    channel_programmes[channel] = programmes
+                progs = extract_programmes(channel, container)
+                if not progs:
+                    continue
+                bucket = channel_programmes.setdefault(channel, {})
+                for item in progs:
+                    bucket[programme_key(item)] = item
+        except Exception as exc:  # noqa: BLE001
+            report["errors"].append({"url": url, "error": str(exc)})
 
-        for channel in sorted(channel_programmes):
-            ch = etree.SubElement(root, "channel", id=f"amazon::{channel}")
-            etree.SubElement(ch, "display-name").text = channel
-            for item in channel_programmes[channel]:
-                p = etree.SubElement(root, "programme", channel=f"amazon::{channel}", start=fmt_xmltv(item["start"]), stop=fmt_xmltv(item["stop"]))
-                etree.SubElement(p, "title", lang="en").text = item["title"]
-                if item["subtitle"]:
-                    etree.SubElement(p, "sub-title", lang="en").text = item["subtitle"]
+    if first_html:
+        DEBUG_HTML.write_text(first_html, encoding="utf-8")
 
-        report["channels_with_schedule"] = len(channel_programmes)
-        report["programmes"] = sum(len(v) for v in channel_programmes.values())
-        report["channels"] = sorted(channel_programmes)
-    except Exception as exc:  # noqa: BLE001
-        report["error"] = str(exc)
-        print(f"WARNING: Amazon direct collection failed: {exc}")
+    for channel in sorted(channel_programmes):
+        ch = etree.SubElement(root, "channel", id=f"amazon::{channel}")
+        etree.SubElement(ch, "display-name").text = channel
+        for item in sorted(channel_programmes[channel].values(), key=lambda x: x["start"]):
+            p = etree.SubElement(root, "programme", channel=f"amazon::{channel}", start=fmt_xmltv(item["start"]), stop=fmt_xmltv(item["stop"]))
+            etree.SubElement(p, "title", lang="en").text = item["title"]
+            if item["subtitle"]:
+                etree.SubElement(p, "sub-title", lang="en").text = item["subtitle"]
 
+    report["channels_with_schedule"] = len(channel_programmes)
+    report["programmes"] = sum(len(v) for v in channel_programmes.values())
+    report["channels"] = sorted(channel_programmes)
     etree.ElementTree(root).write(str(OUT_XML), encoding="UTF-8", xml_declaration=True, pretty_print=False)
     OUT_REPORT.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(json.dumps(report, indent=2, ensure_ascii=False))
+    print(json.dumps({k: v for k, v in report.items() if k not in {"channels", "page_urls"}}, indent=2, ensure_ascii=False))
 
 
 if __name__ == "__main__":
