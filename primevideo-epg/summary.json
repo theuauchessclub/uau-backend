@@ -1,9 +1,9 @@
 {
   "channels_total": 1032,
-  "channels_matched": 193,
-  "channels_unmatched": 839,
-  "match_rate_percent": 18.7,
-  "programmes_written": 19313,
+  "channels_matched": 206,
+  "channels_unmatched": 826,
+  "match_rate_percent": 20.0,
+  "programmes_written": 20543,
   "source_status": [
     {
       "source": "us2",
@@ -35,8 +35,8 @@
     "us2": 10299,
     "locals": 6767,
     "plex": 2419,
-    "amazon_direct": 1253
+    "amazon_direct": 3119
   },
-  "amazon_direct_channels": 26,
-  "amazon_direct_programmes": 1253
+  "amazon_direct_channels": 45,
+  "amazon_direct_programmes": 3119
 }

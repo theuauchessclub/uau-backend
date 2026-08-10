@@ -35,6 +35,7 @@ PRIME: AMAZON MOVIES RAW,AMAZON MOVIES,,us2,Amazon.Movies.us2,98.0,exact
 PRIME: AMC + RAW,AMC +,,amazon_direct,amazon::AMC +,100.0,amazon-exact
 PRIME: AMC RAW,AMC,,amazon_direct,amazon::AMC,100.0,amazon-fuzzy
 PRIME: AMERICAN CRIMES RAW,AMERICAN CRIMES,,us2,American.Crimes.us2,98.0,exact
+PRIME: ANIMATION FAVORITES RAW,ANIMATION FAVORITES,,amazon_direct,amazon::Animation Favorites,100.0,amazon-exact
 PRIME: AT HOME WITH FAMILY HANDYMAN RAW,AT HOME WITH FAMILY HANDYMAN,,plex,plex.tv.At.Home.with.Family.Handyman.plex,95.0,fuzzy
 PRIME: AT THE MOVIES RAW,AT THE MOVIES,,us2,ATN.Movies.us2,94.7,fuzzy
 PRIME: ATRESERIES RAW,ATRESERIES,,us2,Atreseries.us2,98.0,exact
@@ -44,7 +45,7 @@ PRIME: BET X TYLER PERRY COMEDY RAW,BET X TYLER PERRY COMEDY,,amazon_direct,amaz
 PRIME: BET X TYLER PERRY DRAMA RAW,BET X TYLER PERRY DRAMA,,plex,plex.tv.BET.x.Tyler.Perry.Drama.plex,95.0,fuzzy
 PRIME: BILLIARD TV RAW,BILLIARD TV,,us2,Billiard.TV.us2,98.0,exact
 PRIME: BIZARRE FOODS WITH ANDREW ZIMMERN RAW,BIZARRE FOODS WITH ANDREW ZIMMERN,,plex,plex.tv.Bizarre.Foods.with.Andrew.Zimmern.plex,95.0,fuzzy
-PRIME: BLACK VOICES RAW,BLACK VOICES,,us2,Black.Voices.us2,98.0,exact
+PRIME: BLACK VOICES RAW,BLACK VOICES,,amazon_direct,amazon::Black Voices,100.0,amazon-exact
 PRIME: BOOMERANG RAW,BOOMERANG,,us2,Boomerang.us2,98.0,exact
 PRIME: BRAVO RAW,BRAVO,,us2,Bravo.HD.us2,98.0,exact
 PRIME: CARTOON NETWORK RAW,CARTOON NETWORK,,us2,Cartoon.Network.HD.us2,98.0,exact
@@ -71,6 +72,7 @@ PRIME: CNN ORIGINALS RAW,CNN ORIGINALS,,amazon_direct,amazon::CNN Originals,100.
 PRIME: CNN RAW,CNN,,us2,CNN.HD.us2,98.0,exact
 PRIME: COURT TV LEGENDARY TRIALS RAW,COURT TV LEGENDARY TRIALS,,plex,plex.tv.Court.TV.Legendary.Trials.plex,95.0,fuzzy
 PRIME: COURT TV RAW,COURT TV,,us2,Court.TV.us2,98.0,exact
+PRIME: CSI RAW,CSI,,amazon_direct,amazon::CSI,100.0,amazon-exact
 PRIME: CURIOSITY NOW RAW,CURIOSITY NOW,,us2,Curiosity.NOW.us2,98.0,exact
 PRIME: DATELINE 24/7 RAW,DATELINE 24/7,,amazon_direct,amazon::Dateline 24/7,100.0,amazon-fuzzy
 PRIME: DINOS 24/7 RAW,DINOS 24/7,,us2,BBC.Dinos.24/7.us2,95.0,fuzzy
@@ -83,7 +85,6 @@ PRIME: ESPN OCHO RAW,ESPN OCHO,,us2,ESPN8.The.Ocho.us2,94.7,fuzzy
 PRIME: ESTRELLA NEWS RAW,ESTRELLA NEWS,,us2,ESTRELLA.NEWS.us2,98.0,exact
 PRIME: ESTRELLA TV RAW,ESTRELLA TV,,us2,Estrella.TV.us2,98.0,exact
 PRIME: FOOD NETWORK RAW,FOOD NETWORK,,us2,Food.Network.HD.us2,98.0,exact
-PRIME: FOX 2 SAN FRANCISCO RAW,FOX 2 SAN FRANCISCO,,amazon_direct,amazon::FOX 2 San Francisco,100.0,amazon-exact
 PRIME: FOX BALTIMORE NEWS (WBFF) RAW,FOX BALTIMORE NEWS (WBFF),,locals,WBFF-DT.us_locals1,99.0,callsign
 PRIME: FOX FORT MYERS NEWS (WFTX) RAW,FOX FORT MYERS NEWS (WFTX),,locals,WFTX-DT.us_locals1,99.0,callsign
 PRIME: FOX FRESNO NEWS (KMPH) RAW,FOX FRESNO NEWS (KMPH),,locals,KMPH-DT.us_locals1,99.0,callsign
@@ -98,10 +99,11 @@ PRIME: FOX WEATHER RAW,FOX WEATHER,,amazon_direct,amazon::FOX Weather,100.0,amaz
 PRIME: FX RAW,FX,,us2,FX.HD.us2,98.0,exact
 PRIME: GREAT AMERICAN ADVENTURES RAW,GREAT AMERICAN ADVENTURES,,us2,Great.American.Adventures.us2,98.0,exact
 PRIME: HBO 2 RAW,HBO 2,,us2,HBO2.HD.us2,97.0,compact
-PRIME: HBO COMEDY RAW,HBO COMEDY,,us2,HBO.Comedy.HD.us2,98.0,exact
-PRIME: HBO LATINO RAW,HBO LATINO,,us2,HBO.Latino.HD.us2,98.0,exact
+PRIME: HBO COMEDY RAW,HBO COMEDY,,amazon_direct,amazon::HBO Comedy,100.0,amazon-exact
+PRIME: HBO LATINO RAW,HBO LATINO,,amazon_direct,amazon::HBO Latino,100.0,amazon-exact
+PRIME: HBO RAW,HBO,,amazon_direct,amazon::HBO,100.0,amazon-exact
 PRIME: HBO SIGNATURE RAW,HBO SIGNATURE,,us2,HBO.Signature.HD.us2,98.0,exact
-PRIME: HBO WEST RAW,HBO WEST,,us2,HBO.West.us2,98.0,exact
+PRIME: HBO WEST RAW,HBO WEST,,amazon_direct,amazon::HBO West,100.0,amazon-exact
 PRIME: HBO ZONE RAW,HBO ZONE,,us2,HBO.Zone.HD.us2,98.0,exact
 PRIME: HISTORY RAW,HISTORY,,us2,History.HD.us2,98.0,exact
 PRIME: IFC RAW,IFC,,amazon_direct,amazon::IFC,100.0,amazon-exact
@@ -109,6 +111,7 @@ PRIME: INVESTIGATION DISCOVERY RAW,INVESTIGATION DISCOVERY,,us2,Investigation.Di
 PRIME: ION MYSTERY RAW,ION MYSTERY,,us2,ION.Mystery.us2,98.0,exact
 PRIME: ION RAW,ION,,amazon_direct,amazon::ION,100.0,amazon-exact
 PRIME: JUDY JUSTICE RAW,JUDY JUSTICE,,amazon_direct,amazon::Judy Justice,100.0,amazon-fuzzy
+PRIME: KIDS & FAMILY FUN RAW,KIDS & FAMILY FUN,,amazon_direct,amazon::Kids & Family Fun,100.0,amazon-exact
 PRIME: LAW & CRIME RAW,LAW & CRIME,,us2,Law.and.Crime.us2,98.0,exact
 PRIME: LIFETIME MOVIES LOVE & DRAMA RAW,LIFETIME MOVIES LOVE & DRAMA,,plex,plex.tv.Lifetime.Movies.Love.&amp;.Drama.plex,95.0,fuzzy
 PRIME: LIVE NOW BY FOX RAW,LIVE NOW BY FOX,,amazon_direct,amazon::LiveNOW by FOX,99.0,amazon-compact
@@ -125,7 +128,7 @@ PRIME: MGM+ HITS RAW,MGM+ HITS,,amazon_direct,amazon::MGM+ HITS,100.0,amazon-exa
 PRIME: MGM+ MARQUEE RAW,MGM+ MARQUEE,,amazon_direct,amazon::MGM+ MARQUEE,100.0,amazon-exact
 PRIME: MGM+ RAW,MGM+,,amazon_direct,amazon::MGM+,100.0,amazon-exact
 PRIME: MILLION DOLLAR LISTING VAULT RAW,MILLION DOLLAR LISTING VAULT,,plex,plex.tv.Million.Dollar.Listing.Vault.plex,95.0,fuzzy
-PRIME: MLB RAW,MLB,,us2,MLB.Network.HD.us2,98.0,exact
+PRIME: MLB RAW,MLB,,amazon_direct,amazon::MLB Network,100.0,amazon-exact
 PRIME: MODERN INNOVATIONS BY HISTORY RAW,MODERN INNOVATIONS BY HISTORY,,plex,plex.tv.Modern.Innovations.by.History.plex,95.0,fuzzy
 PRIME: MOVIES RAW,MOVIES,,us2,Movies!.us2,98.0,exact
 PRIME: MOVIESPHERE RAW,MOVIESPHERE,,us2,MovieSphere.Gold.us2,95.0,fuzzy
@@ -135,6 +138,7 @@ PRIME: MV CLASSIC RAW,MV CLASSIC,,us2,MTV.Classic.us2,95.2,fuzzy
 PRIME: NASCAR RAW,NASCAR,,us2,NASCAR.Channel.us2,98.0,exact
 PRIME: NATIONAL GEOGRAPHIC RAW,NATIONAL GEOGRAPHIC,,us2,National.Geographic.HD.us2,98.0,exact
 PRIME: NBA RAW,NBA,,us2,NBA.TV.HD.us2,98.0,exact
+PRIME: NBA TV HDTV RAW,NBA TV HDTV,,amazon_direct,amazon::NBA TV HDTV,100.0,amazon-exact
 PRIME: NBC 5 DALLAS-FORT WORTH NEWS RAW,NBC 5 DALLAS-FORT WORTH NEWS,,plex,plex.tv.NBC.5.Dallas.Fort.Worth.News.plex,95.0,fuzzy
 PRIME: NBC COLORADO SPRINGS NEWS (KOAA) RAW,NBC COLORADO SPRINGS NEWS (KOAA),,locals,KOAA-DT.us_locals1,99.0,callsign
 PRIME: NBC COMEDY VAULT RAW,NBC COMEDY VAULT,,us2,NBC.Comedy.Vault.us2,98.0,exact
@@ -152,11 +156,14 @@ PRIME: NHL CHANNEL RAW,NHL CHANNEL,,us2,NHL.Network.HD.us2,98.0,exact
 PRIME: NOTICIAS TELEMUNDO AHORA RAW,NOTICIAS TELEMUNDO AHORA,,plex,plex.tv.Noticias.Telemundo.AHORA.plex,95.0,fuzzy
 PRIME: ONE RAW,ONE,,us2,TV.ONE.HD.us2,98.0,exact
 PRIME: OXYGEN TRUE CRIME ARCHIVES RAW,OXYGEN TRUE CRIME ARCHIVES,,plex,plex.tv.Oxygen.True.Crime.Archives.plex,95.0,fuzzy
+PRIME: PAW PATROL RAW,PAW PATROL,,amazon_direct,amazon::PAW Patrol,100.0,amazon-exact
 PRIME: PBS ANTIQUES ROADSHOW RAW,PBS ANTIQUES ROADSHOW,,plex,plex.tv.PBS.Antiques.Roadshow.plex,95.0,fuzzy
 PRIME: PIXL RAW,PIXL,,us2,PixL.us2,98.0,exact
 PRIME: PUREFLIX TV RAW,PUREFLIX TV,,us2,Pure.Flix.TV.us2,97.0,compact
 PRIME: QVC RAW,QVC,,us2,QVC.HD.us2,98.0,exact
 PRIME: REAL HOUSEWIVES VAULT RAW,REAL HOUSEWIVES VAULT,,plex,plex.tv.Real.Housewives.Vault.plex,95.0,fuzzy
+PRIME: REALITY TV: SHORES RAW,REALITY TV: SHORES,,amazon_direct,amazon::Reality TV: Shores,100.0,amazon-exact
+PRIME: RUPAUL'S DRAG RACE RAW,RUPAUL'S DRAG RACE,,amazon_direct,amazon::RuPaul's Drag Race,100.0,amazon-exact
 PRIME: RYZ SPORTS RAW,RYZ SPORTS,,us2,Ryz.Sports.Network.us2,98.0,exact
 PRIME: SCARES BY SHUDDER RAW,SCARES BY SHUDDER,,us2,Scares.by.Shudder.us2,98.0,exact
 PRIME: SCREENPIX ACTION RAW,SCREENPIX ACTION,,us2,ScreenPix.Action.us2,98.0,exact
@@ -166,19 +173,25 @@ PRIME: SCREENPIX WESTERNS RAW,SCREENPIX WESTERNS,,us2,ScreenPix.Westerns.us2,98.
 PRIME: SCRIPPS NEWS RAW,SCRIPPS NEWS,,us2,Scripps.News.us2,98.0,exact
 PRIME: SHADES OF BLACK RAW,SHADES OF BLACK,,us2,Shades.of.Black.us2,98.0,exact
 PRIME: SHERIFFS: EL DORADO COUNTY RAW,SHERIFFS: EL DORADO COUNTY,,plex,plex.tv.Sheriffs:.El.Dorado.County.plex,95.0,fuzzy
-PRIME: SHOWTIME RAW,SHOWTIME,,us2,Showtime.2.HD.us2,95.0,fuzzy
+PRIME: SHOWTIME RAW,SHOWTIME,,amazon_direct,amazon::Showtime,100.0,amazon-exact
+PRIME: SHOWTIME WEST RAW,SHOWTIME WEST,,amazon_direct,amazon::Showtime West,100.0,amazon-exact
+PRIME: SPONGEBOB SQUAREPANTS UNIVERSE RAW,SPONGEBOB SQUAREPANTS UNIVERSE,,amazon_direct,amazon::SpongeBob SquarePants Universe,100.0,amazon-exact
 PRIME: SPORTSGRID RAW,SPORTSGRID,,us2,SportsGrid.us2,98.0,exact
+PRIME: STAR TREK RAW,STAR TREK,,amazon_direct,amazon::Star Trek,100.0,amazon-exact
 PRIME: SUNDANCE TV RAW,SUNDANCE TV,,amazon_direct,amazon::Sundance TV,100.0,amazon-fuzzy
+PRIME: SURVIVOR RAW,SURVIVOR,,amazon_direct,amazon::Survivor,100.0,amazon-exact
 PRIME: SYFY RAW,SYFY,,us2,Syfy.HD.us2,98.0,exact
 PRIME: TASTEMADE HOME RAW,TASTEMADE HOME,,us2,Tastemade.Home.us2,98.0,exact
 PRIME: TASTEMADE RAW,TASTEMADE,,us2,Tastemade.us2,98.0,exact
 PRIME: TASTEMADE TRAVEL RAW,TASTEMADE TRAVEL,,us2,Tastemade.Travel.us2,98.0,exact
 PRIME: TENNIS CHANNEL 2 RAW,TENNIS CHANNEL 2,,us2,Tennis.Channel.HD.us2,95.0,fuzzy
+PRIME: THE CHALLENGE RAW,THE CHALLENGE,,amazon_direct,amazon::The Challenge,100.0,amazon-exact
 PRIME: THE FIRST 48 BY A&E RAW,THE FIRST 48 BY A&E,,amazon_direct,amazon::The First 48 by A&E,100.0,amazon-exact
 PRIME: THE INCREDIBLE DR. POL RAW,THE INCREDIBLE DR. POL,,amazon_direct,amazon::The Incredible Dr. Pol,100.0,amazon-exact
 PRIME: THE REPAIR SHOP RAW,THE REPAIR SHOP,,us2,The.Repair.Shop.us2,98.0,exact
 PRIME: THE WALKING DEAD CHANNEL RAW,THE WALKING DEAD CHANNEL,,amazon_direct,amazon::The Walking Dead Channel,100.0,amazon-fuzzy
 PRIME: THE WALKING DEAD UNIVERSE RAW,THE WALKING DEAD UNIVERSE,,plex,plex.tv.The.Walking.Dead.Universe.plex,95.0,fuzzy
+PRIME: TMZ RAW,TMZ,,amazon_direct,amazon::The TMZ Channel,100.0,amazon-exact
 PRIME: UNIVERSAL ACTION RAW,UNIVERSAL ACTION,,us2,Universal.Action.us2,98.0,exact
 PRIME: UNIVERSAL CRIME RAW,UNIVERSAL CRIME,,us2,Universal.Crime.us2,98.0,exact
 PRIME: UNIVERSAL MONSTERS RAW,UNIVERSAL MONSTERS,,us2,Universal.Monsters.us2,98.0,exact
