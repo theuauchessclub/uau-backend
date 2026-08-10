@@ -1,50 +1,50 @@
 {
-  "starting_unmatched": 843,
-  "candidate_names_loaded": 11655,
-  "provisional_matches": 524,
-  "new_matches_with_programmes": 509,
-  "remaining_unmatched": 329,
-  "combined_match_rate_percent": 62.2,
-  "programmes_added": 30861,
+  "starting_unmatched": 804,
+  "candidate_names_loaded": 11659,
+  "provisional_matches": 506,
+  "new_matches_with_programmes": 491,
+  "remaining_unmatched": 308,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 31538,
   "source_programmes": {
-    "pluto": 2312,
-    "samsung": 1117,
-    "roku": 10438,
-    "plex_mjh": 3507,
-    "canada": 4464,
+    "pluto": 2107,
+    "samsung": 1084,
+    "roku": 10334,
+    "plex_mjh": 4645,
+    "canada": 4379,
     "uk": 1790,
     "whaletv": 733,
-    "fanduel": 210,
-    "rakuten": 2693,
-    "australia": 3248,
+    "fanduel": 188,
+    "rakuten": 2664,
+    "australia": 3266,
     "distro": 0,
     "mexico": 49,
-    "tbnplus": 300
+    "tbnplus": 299
   },
   "source_status": [
     {
       "source": "distro",
       "ok": true,
       "candidate_names": 180,
-      "bytes": 34221
+      "bytes": 32774
     },
     {
       "source": "fanduel",
       "ok": true,
       "candidate_names": 90,
-      "bytes": 120428
+      "bytes": 106372
     },
     {
       "source": "rakuten",
       "ok": true,
       "candidate_names": 2894,
-      "bytes": 8697568
+      "bytes": 8647720
     },
     {
       "source": "tbnplus",
       "ok": true,
       "candidate_names": 24,
-      "bytes": 22194
+      "bytes": 20416
     },
     {
       "source": "whaletv",
@@ -62,13 +62,13 @@
       "source": "canada",
       "ok": true,
       "candidate_names": 1392,
-      "bytes": 6714715
+      "bytes": 6655452
     },
     {
       "source": "australia",
       "ok": true,
       "candidate_names": 711,
-      "bytes": 3972628
+      "bytes": 4042031
     },
     {
       "source": "mexico",
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 846,
-      "bytes": 944686
+      "bytes": 944003
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1160,
-      "bytes": 512623
+      "bytes": 517711
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1396,
-      "bytes": 3310945
+      "candidate_names": 1400,
+      "bytes": 3289368
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 1660132
+      "bytes": 2082230
     }
   ],
   "matches": [
@@ -883,16 +883,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: CNN ORIGINALS RAW",
-      "base_name": "CNN ORIGINALS",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "66e0b4536ad04d0008fff4b2",
-      "source_display": "CNN Originals",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: COLD CASE FILES RAW",
       "base_name": "COLD CASE FILES",
       "stream_id": "",
@@ -929,16 +919,6 @@
       "source": "samsung",
       "epg_id": "USBD7000145C",
       "source_display": "Comedy Dynamics",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: COMO DICE EL DICHO RAW",
-      "base_name": "COMO DICE EL DICHO",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD2700004ME",
-      "source_display": "Como Dice el Dicho",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1013,16 +993,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: CSI RAW",
-      "base_name": "CSI",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5efbd29e4aa26700076c0d06",
-      "source_display": "CSI",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: CW FOREVER RAW",
       "base_name": "CW FOREVER",
       "stream_id": "",
@@ -1049,16 +1019,6 @@
       "source": "samsung",
       "epg_id": "USBC3900021HS",
       "source_display": "Dance Moms",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: DATELINE 24/7 RAW",
-      "base_name": "DATELINE 24/7",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "637413d8531e0c0007442d6d",
-      "source_display": "Dateline 24/7",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1327,8 +1287,8 @@
       "base_name": "FIFTH GEAR",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Fifth.Gear.be",
-      "source_display": "UK: Fifth Gear",
+      "epg_id": "DK:.Fifth.Gear.be",
+      "source_display": "DK: Fifth Gear",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -1399,16 +1359,6 @@
       "source": "pluto",
       "epg_id": "5bb1af6a268cae539bcedb0a",
       "source_display": "Forensic Files",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: FOX WEATHER RAW",
-      "base_name": "FOX WEATHER",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "640a68880e884c0009979cc2",
-      "source_display": "FOX Weather",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1813,16 +1763,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: ION RAW",
-      "base_name": "ION",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "65453f30085df200085883d8",
-      "source_display": "ION",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: ION PLUS RAW",
       "base_name": "ION PLUS",
       "stream_id": "",
@@ -2223,16 +2163,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: MURDER, SHE WROTE RAW",
-      "base_name": "MURDER, SHE WROTE",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "6549337183595c000815ad05",
-      "source_display": "Murder, She Wrote",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: MYSTERIOUS WORLDS RAW",
       "base_name": "MYSTERIOUS WORLDS",
       "stream_id": "",
@@ -2409,16 +2339,6 @@
       "source": "samsung",
       "epg_id": "USBB40000028E",
       "source_display": "NBC LX Home",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "australia",
-      "epg_id": "NBCNEWSNOW.au",
-      "source_display": "NBC NEWS NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2883,16 +2803,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: SNL VAULT RAW",
-      "base_name": "SNL VAULT",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "US1800012MT",
-      "source_display": "SNL Vault",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: SPACE & BEYOND RAW",
       "base_name": "SPACE & BEYOND",
       "stream_id": "",
@@ -2929,16 +2839,6 @@
       "source": "samsung",
       "epg_id": "USAJ3504705A",
       "source_display": "Stadium",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: STAR TREK RAW",
-      "base_name": "STAR TREK",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5efbd39f8c4ce900075d7698",
-      "source_display": "Star Trek",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2999,16 +2899,6 @@
       "source": "roku",
       "epg_id": "4b73f84b1b72b6d4883f972c3de7394e",
       "source_display": "Survive or Die",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: SURVIVOR RAW",
-      "base_name": "SURVIVOR",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5f21e7b24744c60007c1f6fc",
-      "source_display": "Survivor",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3133,16 +3023,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: THE CHALLENGE RAW",
-      "base_name": "THE CHALLENGE",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5d48685da7e9f476aa8a1888",
-      "source_display": "The Challenge",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: THE CONNERS RAW",
       "base_name": "THE CONNERS",
       "stream_id": "",
@@ -3219,26 +3099,6 @@
       "source": "plex_mjh",
       "epg_id": "6a1610bebdf296985fd95603-6582a024a90606db3c841b1b",
       "source_display": "The FBI Files",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: THE FIRST 48 BY A&E RAW",
-      "base_name": "THE FIRST 48 BY A&E",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "6887aaade3703b7d42b64be8",
-      "source_display": "The First 48 by A&E",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: THE INCREDIBLE DR. POL RAW",
-      "base_name": "THE INCREDIBLE DR. POL",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "US4100031FK",
-      "source_display": "The Incredible Dr. Pol",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3887,8 +3747,8 @@
       "base_name": "CITYTV CALGARY",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Citytv.Calgary.ca2",
-      "source_display": "Citytv Calgary",
+      "epg_id": "Citytv.Calgary.HD.ca2",
+      "source_display": "Citytv Calgary HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3907,8 +3767,8 @@
       "base_name": "CITYTV MONTREAL",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Citytv.Montreal.HD.ca2",
-      "source_display": "Citytv Montreal HD",
+      "epg_id": "Citytv.Montreal.ca2",
+      "source_display": "Citytv Montreal",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3957,8 +3817,8 @@
       "base_name": "GLOBAL BC",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Global.BC.ca2",
-      "source_display": "Global BC",
+      "epg_id": "Global.BC.HD.ca2",
+      "source_display": "Global BC HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4007,8 +3867,8 @@
       "base_name": "GLOBAL NEWS TORONTO",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Global.Toronto.HD.ca2",
-      "source_display": "Global Toronto HD",
+      "epg_id": "Global.Toronto.ca2",
+      "source_display": "Global Toronto",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4077,8 +3937,8 @@
       "base_name": "LIFETIME (CANADA)",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Lifetime.(Canada).ca2",
-      "source_display": "Lifetime (Canada)",
+      "epg_id": "Lifetime.HD.(Canada).ca2",
+      "source_display": "Lifetime HD (Canada)",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4097,8 +3957,8 @@
       "base_name": "SLICE",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "SLICE.ca2",
-      "source_display": "SLICE",
+      "epg_id": "SLICE.HD.ca2",
+      "source_display": "SLICE HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4127,8 +3987,8 @@
       "base_name": "SUPER CHANNEL FUSE",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Super.Channel.Fuse.ca2",
-      "source_display": "Super Channel Fuse",
+      "epg_id": "Super.Channel.Fuse.HD.ca2",
+      "source_display": "Super Channel Fuse HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4267,8 +4127,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FI:.Bloomberg.TV+.be",
-      "source_display": "FI: Bloomberg TV+",
+      "epg_id": "IT:.Bloomberg.TV+.be",
+      "source_display": "IT: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4327,8 +4187,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NL:.Bloomberg.TV+.be",
-      "source_display": "NL: Bloomberg TV+",
+      "epg_id": "PL:.Bloomberg.TV+.be",
+      "source_display": "PL: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4359,16 +4219,6 @@
       "source": "roku",
       "epg_id": "42523afdfa3a0230d7268a238df5ef65",
       "source_display": "CNN Headlines",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: DATELINE 24/7 RAW",
-      "base_name": "DATELINE 24/7",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBB5200007BY",
-      "source_display": "Dateline 24/7",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4407,8 +4257,8 @@
       "base_name": "EURO CRIME",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FI:.Euro.Crime.Channel.be",
-      "source_display": "FI: Euro Crime Channel",
+      "epg_id": "DK:.Euro.Crime.Channel.be",
+      "source_display": "DK: Euro Crime Channel",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4437,8 +4287,8 @@
       "base_name": "FIFTH GEAR",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "SE:.Fifth.Gear.be",
-      "source_display": "SE: Fifth Gear",
+      "epg_id": "NO:.Fifth.Gear.be",
+      "source_display": "NO: Fifth Gear",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4507,8 +4357,8 @@
       "base_name": "HOMES UNDER THE HAMMER",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Homes.Under.the.Hammer.be",
-      "source_display": "UK: Homes Under the Hammer",
+      "epg_id": "SE:.Homes.Under.the.Hammer.be",
+      "source_display": "SE: Homes Under the Hammer",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4613,16 +4463,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5df97894467dfa00091c873c",
-      "source_display": "NBC News NOW",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: PATERNITY COURT RAW",
       "base_name": "PATERNITY COURT",
       "stream_id": "",
@@ -4687,8 +4527,8 @@
       "base_name": "RED BULL TV",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NO:.Red.Bull.TV.be",
-      "source_display": "NO: Red Bull TV",
+      "epg_id": "SE:.Red.Bull.TV.be",
+      "source_display": "SE: Red Bull TV",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4707,8 +4547,8 @@
       "base_name": "ROOKIE BLUE",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Rookie.Blue.be",
-      "source_display": "UK: Rookie Blue",
+      "epg_id": "SE:.Rookie.Blue.be",
+      "source_display": "SE: Rookie Blue",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4887,8 +4727,8 @@
       "base_name": "BLOOMBERG ORIGINALS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FI:.Bloomberg.Originals.be",
-      "source_display": "FI: Bloomberg Originals",
+      "epg_id": "IT:.Bloomberg.Originals.be",
+      "source_display": "IT: Bloomberg Originals",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4897,8 +4737,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DK:.Bloomberg.TV+.be",
-      "source_display": "DK: Bloomberg TV+",
+      "epg_id": "UK:.Bloomberg.TV+.be",
+      "source_display": "UK: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4931,16 +4771,6 @@
       "source_display": "DE: Crime Scene TV",
       "score": 100.0,
       "method": "pass3-fuzzy"
-    },
-    {
-      "name": "PRIME: DATELINE 24/7 RAW",
-      "base_name": "DATELINE 24/7",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "18c5f5feae8855baba4d1ccfd75be3db",
-      "source_display": "Dateline 24/7",
-      "score": 100.0,
-      "method": "pass3-exact"
     },
     {
       "name": "PRIME: DEFA TV RAW",
@@ -5063,16 +4893,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBB2200014DK",
-      "source_display": "NBC News NOW",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: OUTTV RAW",
       "base_name": "OUTTV",
       "stream_id": "",
@@ -5097,8 +4917,8 @@
       "base_name": "RED BULL TV",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DK:.Red.Bull.TV.be",
-      "source_display": "DK: Red Bull TV",
+      "epg_id": "FR:.Red.Bull.TV.be",
+      "source_display": "FR: Red Bull TV",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -5167,8 +4987,8 @@
       "base_name": "TOP SCI-FI",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FR:.Top.Sci-Fi.be",
-      "source_display": "FR: Top Sci-Fi",
+      "epg_id": "DE:.TOP.SCI-FI.be",
+      "source_display": "DE: TOP SCI-FI",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
