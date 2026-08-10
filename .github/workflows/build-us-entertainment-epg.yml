@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "us-entertainment-epg/**"
+      - "us-entertainment-epg/build_epg.py"
+      - "us-entertainment-epg/catalog.json"
       - ".github/workflows/build-us-entertainment-epg.yml"
   schedule:
     - cron: "23 */6 * * *"
