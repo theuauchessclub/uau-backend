@@ -1,0 +1,367 @@
+[
+  {
+    "name": "US: HBO HD",
+    "source_epg_id": "HBO.East.us2",
+    "provider_epg_id": "HBO.us"
+  },
+  {
+    "name": "US: HBO 2 HD",
+    "source_epg_id": "HBO2.HD.us2",
+    "provider_epg_id": "HBO2.us"
+  },
+  {
+    "name": "US: HBO FAMILY HD",
+    "source_epg_id": "",
+    "provider_epg_id": "HBOFamily.us"
+  },
+  {
+    "name": "US: HBO SIGNATURE HD",
+    "source_epg_id": "HBO.Signature.HD.us2",
+    "provider_epg_id": "HBOSignature.us"
+  },
+  {
+    "name": "US: HBO WEST HD",
+    "source_epg_id": "HBO.West.us2",
+    "provider_epg_id": "HBO.us"
+  },
+  {
+    "name": "US: HBO LATINO HD",
+    "source_epg_id": "HBO.Latino.HD.us2",
+    "provider_epg_id": "HBOLatino.us"
+  },
+  {
+    "name": "US: AMC THRILLERS 4K",
+    "source_epg_id": "",
+    "provider_epg_id": "AMCThrillers.us"
+  },
+  {
+    "name": "US: HBO ZONE HD",
+    "source_epg_id": "HBO.Zone.HD.us2",
+    "provider_epg_id": "HBOZone.us"
+  },
+  {
+    "name": "US: EPIX HD",
+    "source_epg_id": "MGM+.HD.us2",
+    "provider_epg_id": "epix.us"
+  },
+  {
+    "name": "US: EPIX 2",
+    "source_epg_id": "MGM+.Marquee.HD.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: EPIX DRIVE IN",
+    "source_epg_id": "MGM+.Drive-In.us2",
+    "provider_epg_id": "epixdrivein.us"
+  },
+  {
+    "name": "US: EPIX HITS",
+    "source_epg_id": "MGM+.Hits.HD.us2",
+    "provider_epg_id": "EpixHits.us"
+  },
+  {
+    "name": "US: SCREENPIX HD",
+    "source_epg_id": "ScreenPix.us2",
+    "provider_epg_id": "ScreenPix.us"
+  },
+  {
+    "name": "US: FETV HD",
+    "source_epg_id": "Family.Entertainment.Television.us2",
+    "provider_epg_id": "FamilyEntertainment.us"
+  },
+  {
+    "name": "US: ACTION MAX HD",
+    "source_epg_id": "ActionMAX.HD.us2",
+    "provider_epg_id": "ActionMax.us"
+  },
+  {
+    "name": "US: SCREENPIX ACTION HD",
+    "source_epg_id": "ScreenPix.Action.us2",
+    "provider_epg_id": "ScreenPixAction.us"
+  },
+  {
+    "name": "US: SHOWTIME HD",
+    "source_epg_id": "Paramount+.with.Showtime.HD.us2",
+    "provider_epg_id": "Showtime.us"
+  },
+  {
+    "name": "US: SCREENPIX VOICES HD",
+    "source_epg_id": "ScreenPix.Voices.us2",
+    "provider_epg_id": "ScreenPixVoices.us"
+  },
+  {
+    "name": "US: SHOWTIME 2 HD",
+    "source_epg_id": "Showtime.2.HD.us2",
+    "provider_epg_id": "Showtime2.us"
+  },
+  {
+    "name": "US: SHOWTIME EAST HD",
+    "source_epg_id": "Paramount+.with.Showtime.HD.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: SHOWTIME WEST HD",
+    "source_epg_id": "Paramount+.with.Showtime.HD.(Pacific).us2",
+    "provider_epg_id": "Showtime.us"
+  },
+  {
+    "name": "US: SHOWTIME NEXT HD",
+    "source_epg_id": "Showtime.Next.HD.us2",
+    "provider_epg_id": "ShowtimeNext.us"
+  },
+  {
+    "name": "US: SHOWTIME WOMEN HD",
+    "source_epg_id": "Showtime.Women.HD.us2",
+    "provider_epg_id": "ShowtimeWomen.us"
+  },
+  {
+    "name": "US: SHOWTIME EXTREME HD",
+    "source_epg_id": "Showtime.Extreme.HD.us2",
+    "provider_epg_id": "ShowtimeExtreme.us"
+  },
+  {
+    "name": "US: SHOWTIME SHOWCASE HD",
+    "source_epg_id": "Showtime.Showcase.HD.us2",
+    "provider_epg_id": "ShowtimeShowcase.us"
+  },
+  {
+    "name": "US: SHOWTIME FAMILY ZONE HD",
+    "source_epg_id": "Showtime.Familyzone.HD.us2",
+    "provider_epg_id": "ShowtimeFamilyZone.us"
+  },
+  {
+    "name": "US: PETER GRIFFIN 24H",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: PBS ARIZONA PHOENIX HD",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: THE MOVIE CHANNEL HD",
+    "source_epg_id": "The.Movie.Channel.HD.us2",
+    "provider_epg_id": "TMC.us"
+  },
+  {
+    "name": "US: START TV",
+    "source_epg_id": "Start.TV.Network.us2",
+    "provider_epg_id": "StartTV.us"
+  },
+  {
+    "name": "US: CINEMAX HD",
+    "source_epg_id": "Cinemax.HD.us2",
+    "provider_epg_id": "Cinemax.us"
+  },
+  {
+    "name": "US: CINEMAX EAST HD",
+    "source_epg_id": "Cinemax.HD.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CINEMAX ACTION EAST HD",
+    "source_epg_id": "Cinemax.Action.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CINEMAX MOREMAX HDAR",
+    "source_epg_id": "MoreMax.HD.us2",
+    "provider_epg_id": "Cinemax.us"
+  },
+  {
+    "name": "US: CINEMAX THRILLERMAX HD",
+    "source_epg_id": "",
+    "provider_epg_id": "Cinemax.us"
+  },
+  {
+    "name": "US: CINEMAX WEST HD",
+    "source_epg_id": "Cinemax.HD.(Pacific).us2",
+    "provider_epg_id": "Cinemax.us"
+  },
+  {
+    "name": "US: CINEMAX 5 STAR MAX",
+    "source_epg_id": "5.StarMAX.HD.East.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CINEMA DINAMITA 4K",
+    "source_epg_id": "Cinema.Dinamita.(HD.Feed).us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CINEMAX 5 STARMAX 4K",
+    "source_epg_id": "5.StarMAX.HD.East.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CINE CLUB",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CINE PRO BET+",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: ANTENA 3 INTERNACIONAL",
+    "source_epg_id": "Antena.3.Internacional.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: CINE SONY",
+    "source_epg_id": "Sony.Cine.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: MOREMAX HD",
+    "source_epg_id": "MoreMax.HD.us2",
+    "provider_epg_id": "MoreMax.us"
+  },
+  {
+    "name": "US: MOVIEMAX HD",
+    "source_epg_id": "",
+    "provider_epg_id": "MovieMax.us"
+  },
+  {
+    "name": "US: OUTERMAX HD",
+    "source_epg_id": "",
+    "provider_epg_id": "OuterMax.us"
+  },
+  {
+    "name": "US: FX MOVIES",
+    "source_epg_id": "FX.Movie.Channel.HD.us2",
+    "provider_epg_id": "FXMovieChannel.us"
+  },
+  {
+    "name": "US: MOVIEPLEX HD",
+    "source_epg_id": "MoviePlex.HD.us2",
+    "provider_epg_id": "MoviePlex.us"
+  },
+  {
+    "name": "US: STARZ HD",
+    "source_epg_id": "Starz.HD.us2",
+    "provider_epg_id": "Starz.us"
+  },
+  {
+    "name": "US: STARZ BLACK HD",
+    "source_epg_id": "Starz.in.Black.HD.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: STARZ CINEMA HD",
+    "source_epg_id": "Starz.Cinema.HD.us2",
+    "provider_epg_id": "StarzCinema.us"
+  },
+  {
+    "name": "US: STARZ CINEMA EAST HD",
+    "source_epg_id": "Starz.Cinema.HD.us2",
+    "provider_epg_id": "StarzCinema.us"
+  },
+  {
+    "name": "US: STARZ COMEDY HD",
+    "source_epg_id": "Starz.Comedy.HD.us2",
+    "provider_epg_id": "StarzComedy.us"
+  },
+  {
+    "name": "US: STARZ EAST HD",
+    "source_epg_id": "Starz.HD.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: STARZ WEST HD",
+    "source_epg_id": "Starz.HD.(Pacific).us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: STARZ EDGE HD",
+    "source_epg_id": "Starz.Edge.HD.us2",
+    "provider_epg_id": "StarzEdge.us"
+  },
+  {
+    "name": "US: STARZ FAMILY HD",
+    "source_epg_id": "Starz.Encore.Family.SD.us2",
+    "provider_epg_id": "StarzEncoreFamily.us"
+  },
+  {
+    "name": "US: STARZ ENCORE HD",
+    "source_epg_id": "Starz.Encore.HD.us2",
+    "provider_epg_id": "StarzEncore.us"
+  },
+  {
+    "name": "US: STARZ ENCORE EAST HD",
+    "source_epg_id": "Starz.Encore.HD.us2",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: STARZ ENCORE ACTION HD",
+    "source_epg_id": "Starz.Encore.Action.HD.us2",
+    "provider_epg_id": "StarzEncoreAction.us"
+  },
+  {
+    "name": "US: STARZ ENCORE BLACK HD",
+    "source_epg_id": "Starz.Encore.Black.us2",
+    "provider_epg_id": "StarzEncoreBlack.us"
+  },
+  {
+    "name": "US: STARZ ENCORE CLASSIC HD",
+    "source_epg_id": "Starz.Encore.Classic.us2",
+    "provider_epg_id": "StarzEncoreClassics.us"
+  },
+  {
+    "name": "US: STARZ ENCORE FAMILY HD",
+    "source_epg_id": "Starz.Encore.Family.SD.us2",
+    "provider_epg_id": "StarzEncoreFamily.us"
+  },
+  {
+    "name": "US: STARZ KIDS & FAMILY HD",
+    "source_epg_id": "Starz.Kids.HD.us2",
+    "provider_epg_id": "StarzKidsFamily.us"
+  },
+  {
+    "name": "US: SONY MOVIE CHANNEL HD",
+    "source_epg_id": "Sony.Movie.Channel.HD.us2",
+    "provider_epg_id": "SonyMovieChannel.us"
+  },
+  {
+    "name": "US: STARZ ENCORE WESTERNS HD",
+    "source_epg_id": "Starz.Encore.Westerns.SD.us2",
+    "provider_epg_id": "StarzEncoreWesterns.us"
+  },
+  {
+    "name": "US: STARZ ENCORE WEST HD",
+    "source_epg_id": "Starz.Encore.(Pacific).us2",
+    "provider_epg_id": "StarzEncore.us"
+  },
+  {
+    "name": "US: ZEE TV",
+    "source_epg_id": "Zee.TV.us2",
+    "provider_epg_id": "zeetv.us"
+  },
+  {
+    "name": "US: 24/7 UGLY BETTY HD",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: 24/7 THE O.C. 4K",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: 24/7 SCRUBS HD",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: 24/7 ONE TREE HILL 4K",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  },
+  {
+    "name": "US: 24/7 MIDSOMER MURDERS 4K",
+    "source_epg_id": "",
+    "provider_epg_id": ""
+  }
+]
