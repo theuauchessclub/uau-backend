@@ -1,0 +1,33 @@
+name: Build Peacock RAW EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+  push:
+    paths:
+      - 'peacock-raw-epg/**'
+      - '.github/workflows/build-peacock-raw-epg.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build Peacock RAW XMLTV
+        run: python peacock-raw-epg/build_epg.py
+      - name: Commit generated EPG
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add peacock-raw-epg/peacock-raw.xml peacock-raw-epg/match-report.csv peacock-raw-epg/unmatched.csv peacock-raw-epg/summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update Peacock RAW EPG'
+            git push
+          fi
