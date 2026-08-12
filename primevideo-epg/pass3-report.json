@@ -2,15 +2,15 @@
   "starting_unmatched": 803,
   "candidate_names_loaded": 11667,
   "provisional_matches": 504,
-  "new_matches_with_programmes": 490,
-  "remaining_unmatched": 308,
-  "combined_match_rate_percent": 63.9,
-  "programmes_added": 33121,
+  "new_matches_with_programmes": 489,
+  "remaining_unmatched": 309,
+  "combined_match_rate_percent": 63.8,
+  "programmes_added": 31757,
   "source_programmes": {
-    "pluto": 2149,
-    "samsung": 1101,
-    "roku": 10306,
-    "plex_mjh": 5893,
+    "pluto": 2182,
+    "samsung": 1104,
+    "roku": 10246,
+    "plex_mjh": 4553,
     "canada": 4547,
     "uk": 1774,
     "whaletv": 780,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 846,
-      "bytes": 933722
+      "bytes": 938546
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 516564
+      "bytes": 518056
     },
     {
       "source": "roku",
       "ok": true,
       "candidate_names": 1410,
-      "bytes": 3298449
+      "bytes": 3316607
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2429165
+      "bytes": 1895317
     }
   ],
   "matches": [
@@ -3629,16 +3629,6 @@
       "source": "samsung",
       "epg_id": "USBD330000948",
       "source_display": "XITE R&B Classic Jams",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: XITE R&B FEELS RAW",
-      "base_name": "XITE R&B FEELS",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
-      "source_display": "XITE R&B Feels",
       "score": 100.0,
       "method": "pass3-exact"
     },
