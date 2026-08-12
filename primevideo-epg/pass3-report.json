@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11667,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 491,
-  "remaining_unmatched": 307,
-  "combined_match_rate_percent": 64.0,
-  "programmes_added": 30171,
+  "candidate_names_loaded": 11663,
+  "provisional_matches": 504,
+  "new_matches_with_programmes": 490,
+  "remaining_unmatched": 308,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 32883,
   "source_programmes": {
-    "pluto": 2158,
-    "samsung": 1077,
-    "roku": 10415,
-    "plex_mjh": 2820,
+    "pluto": 2164,
+    "samsung": 1062,
+    "roku": 10387,
+    "plex_mjh": 5558,
     "canada": 4581,
-    "uk": 1781,
-    "whaletv": 760,
+    "uk": 1774,
+    "whaletv": 780,
     "fanduel": 182,
     "rakuten": 2789,
     "australia": 3269,
     "distro": 0,
-    "mexico": 41,
+    "mexico": 39,
     "tbnplus": 298
   },
   "source_status": [
@@ -50,13 +50,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 618568
+      "bytes": 608174
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 962,
-      "bytes": 2692972
+      "bytes": 2706413
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 354,
-      "bytes": 370497
+      "bytes": 406609
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 846,
-      "bytes": 949413
+      "bytes": 947844
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1154,
-      "bytes": 516173
+      "bytes": 510884
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1410,
-      "bytes": 3314899
+      "candidate_names": 1406,
+      "bytes": 3320269
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 1465791
+      "bytes": 2110590
     }
   ],
   "matches": [
@@ -3239,16 +3239,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
