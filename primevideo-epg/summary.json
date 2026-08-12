@@ -1,9 +1,9 @@
 {
   "channels_total": 955,
-  "channels_matched": 659,
-  "channels_unmatched": 296,
-  "match_rate_percent": 69.0,
-  "programmes_written": 53590,
+  "channels_matched": 660,
+  "channels_unmatched": 295,
+  "match_rate_percent": 69.1,
+  "programmes_written": 53856,
   "source_status": [
     {
       "source": "us2",
@@ -35,9 +35,9 @@
     "us2": 10342,
     "locals": 6851,
     "plex": 2395,
-    "amazon_direct": 3569,
+    "amazon_direct": 3826,
     "pass3_pluto": 2164,
-    "pass3_samsung": 1062,
+    "pass3_samsung": 1071,
     "pass3_roku": 10387,
     "pass3_plex_mjh": 5558,
     "pass3_canada": 4581,
@@ -51,17 +51,17 @@
     "pass3_tbnplus": 298
   },
   "amazon_direct_channels": 54,
-  "amazon_direct_programmes": 3569,
-  "pass3_new_channels": 490,
-  "pass3_programmes": 32883,
+  "amazon_direct_programmes": 3826,
+  "pass3_new_channels": 491,
+  "pass3_programmes": 32892,
   "catalog_entries_total": 1032,
   "catalog_unique_channels": 955,
   "duplicate_catalog_entries": 77,
-  "matched_unique_channels": 659,
-  "unmatched_unique_channels": 296,
-  "unique_match_rate_percent": 69.0,
-  "covered_catalog_entries": 724,
-  "entry_coverage_percent": 70.2,
-  "unmatched_report_rows": 308,
-  "unmatched_report_unique_names": 296
+  "matched_unique_channels": 660,
+  "unmatched_unique_channels": 295,
+  "unique_match_rate_percent": 69.1,
+  "covered_catalog_entries": 725,
+  "entry_coverage_percent": 70.3,
+  "unmatched_report_rows": 307,
+  "unmatched_report_unique_names": 295
 }

@@ -1,14 +1,14 @@
 {
   "starting_unmatched": 803,
   "candidate_names_loaded": 11663,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 490,
-  "remaining_unmatched": 308,
-  "combined_match_rate_percent": 63.9,
-  "programmes_added": 32883,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 491,
+  "remaining_unmatched": 307,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 32892,
   "source_programmes": {
     "pluto": 2164,
-    "samsung": 1062,
+    "samsung": 1071,
     "roku": 10387,
     "plex_mjh": 5558,
     "canada": 4581,
@@ -3239,6 +3239,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
