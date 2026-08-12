@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11661,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 491,
-  "remaining_unmatched": 307,
-  "combined_match_rate_percent": 64.0,
-  "programmes_added": 31466,
+  "candidate_names_loaded": 11667,
+  "provisional_matches": 504,
+  "new_matches_with_programmes": 490,
+  "remaining_unmatched": 308,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 33121,
   "source_programmes": {
-    "pluto": 2155,
-    "samsung": 1111,
-    "roku": 10346,
-    "plex_mjh": 4182,
+    "pluto": 2149,
+    "samsung": 1101,
+    "roku": 10306,
+    "plex_mjh": 5893,
     "canada": 4547,
     "uk": 1774,
     "whaletv": 780,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 846,
-      "bytes": 941015
+      "bytes": 933722
     },
     {
       "source": "samsung",
       "ok": true,
-      "candidate_names": 1154,
-      "bytes": 518558
+      "candidate_names": 1158,
+      "bytes": 516564
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1408,
-      "bytes": 3293823
+      "candidate_names": 1410,
+      "bytes": 3298449
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 1860547
+      "bytes": 2429165
     }
   ],
   "matches": [
@@ -3243,16 +3243,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -3336,8 +3326,8 @@
       "name": "PRIME: TV ONE CRIME & JUSTICE RAW",
       "base_name": "TV ONE CRIME & JUSTICE",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-65282a6091e77473f1a44ff2",
+      "source": "samsung",
+      "epg_id": "US46000120T",
       "source_display": "TV One Crime & Justice",
       "score": 100.0,
       "method": "pass3-exact"
