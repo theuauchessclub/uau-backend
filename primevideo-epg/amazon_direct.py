@@ -18,6 +18,8 @@ from zoneinfo import ZoneInfo
 import requests
 from bs4 import BeautifulSoup
 from lxml import etree
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 ROOT = Path(__file__).resolve().parent
 OUT_XML = ROOT / "amazon-direct.xml"
@@ -143,6 +145,27 @@ def programme_key(item: dict) -> tuple:
     return (item["start"].isoformat(), item["stop"].isoformat(), item["title"], item.get("subtitle", ""))
 
 
+def build_session() -> requests.Session:
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    session.cookies.set("lc-main", "en_US", domain="www.primevideo.com")
+    retry = Retry(
+        total=4,
+        connect=4,
+        read=4,
+        status=4,
+        backoff_factor=1.0,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset({"GET"}),
+        respect_retry_after_header=True,
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
 def main() -> None:
     report = {
         "source": "Prime Video public Live TV pages (Pass 2B pagination crawl)",
@@ -159,9 +182,7 @@ def main() -> None:
         "errors": [],
     }
     root = etree.Element("tv", attrib={"generator-info-name": "Prime Video Direct Collector Pass 2B"})
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    session.cookies.set("lc-main", "en_US", domain="www.primevideo.com")
+    session = build_session()
     queue = deque([SEED_URL])
     queued = {canonical_url(SEED_URL)}
     seen = set()
@@ -174,7 +195,7 @@ def main() -> None:
             continue
         seen.add(url)
         try:
-            r = session.get(url, timeout=60)
+            r = session.get(url, timeout=(15, 60))
             r.raise_for_status()
             if len(r.text) < 10000:
                 raise RuntimeError(f"response too small: {len(r.text)} bytes")
