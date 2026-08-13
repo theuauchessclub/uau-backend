@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11667,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 489,
-  "remaining_unmatched": 309,
-  "combined_match_rate_percent": 63.8,
-  "programmes_added": 31757,
+  "candidate_names_loaded": 11669,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 491,
+  "remaining_unmatched": 307,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 33233,
   "source_programmes": {
-    "pluto": 2182,
-    "samsung": 1104,
-    "roku": 10246,
-    "plex_mjh": 4553,
+    "pluto": 2140,
+    "samsung": 1108,
+    "roku": 10288,
+    "plex_mjh": 6011,
     "canada": 4547,
-    "uk": 1774,
-    "whaletv": 780,
+    "uk": 1785,
+    "whaletv": 768,
     "fanduel": 182,
     "rakuten": 2735,
     "australia": 3322,
     "distro": 0,
-    "mexico": 39,
+    "mexico": 54,
     "tbnplus": 293
   },
   "source_status": [
@@ -50,13 +50,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 608174
+      "bytes": 591771
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 962,
-      "bytes": 2706413
+      "bytes": 2739344
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 354,
-      "bytes": 406609
+      "bytes": 424428
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 846,
-      "bytes": 938546
+      "bytes": 935720
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 518056
+      "bytes": 511895
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1410,
-      "bytes": 3316607
+      "candidate_names": 1412,
+      "bytes": 3360288
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 1895317
+      "bytes": 2605570
     }
   ],
   "matches": [
@@ -3243,6 +3243,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -3629,6 +3639,16 @@
       "source": "samsung",
       "epg_id": "USBD330000948",
       "source_display": "XITE R&B Classic Jams",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE R&B FEELS RAW",
+      "base_name": "XITE R&B FEELS",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
+      "source_display": "XITE R&B Feels",
       "score": 100.0,
       "method": "pass3-exact"
     },
