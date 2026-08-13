@@ -56,8 +56,8 @@ US: GRIT,Grit.us,us2,Grit.us2,98.0,name-exact,116
 US: Game Show Central,,tubi,TUBI:GAME SHOW CENTRAL,99.0,alias-name,99
 US: HALLMARK HD,Hallmark.us,us2,Hallmark.Channel.HD.us2,96.0,name-relaxed,115
 US: HBO COMEDY HD,HBOComedy.us,us2,HBO.Comedy.HD.us2,98.0,name-exact,106
-US: HGTV HD,hgtv.us,prime,PRIME: HGTV RAW,98.0,name-exact,265
-US: HGTV WEST HD,hgtv.us,prime,PRIME: HGTV RAW,96.0,name-relaxed,265
+US: HGTV HD,hgtv.us,prime,PRIME: HGTV RAW,98.0,name-exact,264
+US: HGTV WEST HD,hgtv.us,prime,PRIME: HGTV RAW,96.0,name-relaxed,264
 US: HISTORY HD,HistoryChannel.us,us2,History.HD.us2,98.0,name-exact,104
 US: HLN HD,HLN.us,us2,HLN.HD.us2,98.0,name-exact,181
 US: ID INVESTIGATION DISCOVERY HD,investigationdiscovery.us,us2,Investigation.Discovery.HD.(Pacific).us2,93.9,fuzzy,97
@@ -87,7 +87,7 @@ US: PIXL HD,PixLTV.us,us2,PixL.us2,98.0,name-exact,65
 US: POP HD,Pop.uk,us2,POP.HD.us2,98.0,name-exact,90
 US: PURSUIT CHANNEL HD,PursuitChannel.us,us2,Pursuit.Channel.us2,98.0,name-exact,179
 US: QVC HD,QVC.us,us2,QVC.HD.us2,98.0,name-exact,72
-US: RED BULL TV HD,,prime,PRIME: RED BULL TV RAW,98.0,name-exact,221
+US: RED BULL TV HD,,prime,PRIME: RED BULL TV RAW,98.0,name-exact,118
 US: RETROPLEX HD,RetroPlex.us,us2,RetroPlex.HD.us2,98.0,name-exact,70
 US: REVOLT HD,Revolt.us,us2,Revolt.HD.us2,98.0,name-exact,122
 US: RFD TV HD,RFDTV.us,us2,RFD.TV.HD.us2,98.0,name-exact,127
@@ -98,7 +98,7 @@ US: SMITHSONIAN CHANNEL WEST HD,SmithsonianChannel.us,us2,Smithsonian.HD.Network
 US: SYFY HD,Syfy.us,us2,Syfy.HD.(Pacific).us2,98.0,name-exact,55
 US: SYFY WEST HD,Syfy.us,us2,Syfy.HD.(Pacific).us2,96.0,name-relaxed,55
 US: TASTEMADE HD,Tastemade.us,us2,Tastemade.us2,98.0,name-exact,149
-US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,165
+US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,166
 US: TBS HD,,us2,TBS.HD.us2,99.0,alias-name,158
 US: TCM HD,,us2,Turner.Classic.Movies.HD.us2,99.0,alias-name,51
 US: TEEN NICK,,us2,Teen.Nick.us2,98.0,name-exact,221
