@@ -1,13 +1,13 @@
 {
   "source": "Prime Video public Live TV pages (Pass 2B pagination crawl)",
-  "collected_at": "2026-08-13T22:47:38.046922-04:00",
+  "collected_at": "2026-08-14T03:52:59.667769-04:00",
   "seed_url": "https://www.primevideo.com/livetv?tr=us&language=en_US",
   "http_ok": true,
   "pages_fetched": 3,
   "pagination_links_discovered": 2,
   "channel_images_found": 118,
-  "channels_with_schedule": 115,
-  "programmes": 7819,
+  "channels_with_schedule": 116,
+  "programmes": 7580,
   "channels": [
     "40 y 20",
     "AMC",
@@ -23,6 +23,7 @@
     "CNN Originals",
     "CNN Stream",
     "CSI",
+    "Cascade PBS (PBS KCTS)",
     "Cinemax Action",
     "Cinemax Classics",
     "Cinemax HD East",
@@ -40,7 +41,7 @@
     "FOX Weather",
     "FS1",
     "FS2",
-    "Fox 17",
+    "Fox 28",
     "Fox Justice",
     "Fox Weather",
     "France24 EN",
@@ -57,8 +58,9 @@
     "IFC",
     "ION",
     "IShowSpeed",
-    "Iowa PBS (PBS KDIN)",
     "Judy Justice",
+    "KHQ by Peacock",
+    "KSPS Public Television (PBS KSPS)",
     "Kids & Family Fun",
     "La Rosa de Guadalupe",
     "La fea más bella",
@@ -73,7 +75,6 @@
     "MGM+ MARQUEE",
     "MLB Network",
     "MLF and Bass Channel",
-    "Marquee Sports Network",
     "Murder, She Wrote",
     "N+ Univision 24/7",
     "NBA TV HDTV",
@@ -112,6 +113,7 @@
     "Starz in Black",
     "Sundance TV",
     "Survivor",
+    "Tennis Channel",
     "Teresa",
     "The Challenge",
     "The First 48 by A&E",
@@ -120,15 +122,14 @@
     "The Walking Dead Channel",
     "Vecinos",
     "ViX Música",
-    "WHO by Peacock",
     "beIN SPORTS",
     "beIN SPORTS en Español",
     "pixl"
   ],
   "page_urls": [
     "https://www.primevideo.com/livetv?tr=us&language=en_US",
-    "https://www.primevideo.com/livetv?ref_=atv_hm_nxt_2&startIndex=13&tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&serviceToken=v0_Cl0KJGZjMzUwM2NkLWYxYWEtNDg0Yy1hZTk2LTMzZDkyZTY3MDUwORCQ-qvx_zMaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAoSiQxZDMxMjFkMy1mNDI3LTQxZmEtODQ5Ni1kY2FjNGZmYjRkYzJSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA4ZTdkOTAxZTY2Njc4ZWMyYjJiYmVjNDIyZThjMWVlMDkzMjBmNjk4N2U1MzgyZmUwMmRlMjBmZjEyMDQyYTZhIn16tgIqKjI6TFJDMEY2OERDNTFGNzYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkExN0QzRjVEN0Y0OSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSMjBCNjhFMjE1RTgyIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIzRDNGNzE4REUwNTcjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkM2MzREMDUzNDc3NCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNkFDRkNDODVBMTk2IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI5MEM3NDI0M0QwOEEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTTAHggEGMABQAHAA&pageSize=14&page=2",
-    "https://www.primevideo.com/livetv?tr=us&serviceToken=v0_Cl0KJDYxZjJhYTQ5LTU3ZmQtNDg5OS1hMDMyLTNmNjlmM2FhMWEyNRD4gazx_zMaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAoSiQxZDMxMjFkMy1mNDI3LTQxZmEtODQ5Ni1kY2FjNGZmYjRkYzJSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA4ZTdkOTAxZTY2Njc4ZWMyYjJiYmVjNDIyZThjMWVlMDkzMjBmNjk4N2U1MzgyZmUwMmRlMjBmZjEyMDQyYTZhIn16jgMqKjI6TFJBM0JGOTYxNjNEOEQjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkMyRkRBODIzNDJBQiMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSQ0FCQzJGRDMxQzgzIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI3NUZGOEMzMEMxN0IjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjBGREEwOERBNEVENiMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNzM1MTE0OUQyOEY5IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFJEMkM4RjNGNzdGOUMjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkYwQzU0MzdDM0FCQyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNTY2RDcyMzAxNDk1IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0wEIIBBjAAUABwAA%3D%3D&page=3&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&ref_=atv_hm_nxt_3&startIndex=27"
+    "https://www.primevideo.com/livetv?ref_=atv_hm_nxt_2&startIndex=13&tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&serviceToken=v0_Cl0KJDlmZDJjZWM1LTcwMjctNDMxNS1hYWYzLTYwZDljYTNiMWUyYhD4lor6_zMaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAoSiQ3MjI1ZmRjYi1lMjA4LTRiYWMtYjc0Yy01YWU0ZWVjMWJlMGNSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVAwMzEzZWRjNWMwMjY4NGIyMzJmZjUzMmM1NDc2MmE4ZjkzMjBmNjk4N2U1MzgyZmUwMmRlMjBmZjEyMDQyYTZhIn16tgIqKjI6TFJDMEY2OERDNTFGNzYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkExN0QzRjVEN0Y0OSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSMjBCNjhFMjE1RTgyIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIzRDNGNzE4REUwNTcjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkM2MzREMDUzNDc3NCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNkFDRkNDODVBMTk2IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI5MEM3NDI0M0QwOEEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTTAHggEGMABQAHAA&page=2",
+    "https://www.primevideo.com/livetv?serviceToken=v0_Cl0KJDQ3Yzk2YjI0LWFkMTEtNDYxZC1iYTQ4LTUxOWEwZmRiOGVhYxDIpor6_zMaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAoSiQ3MjI1ZmRjYi1lMjA4LTRiYWMtYjc0Yy01YWU0ZWVjMWJlMGNSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVAwMzEzZWRjNWMwMjY4NGIyMzJmZjUzMmM1NDc2MmE4ZjkzMjBmNjk4N2U1MzgyZmUwMmRlMjBmZjEyMDQyYTZhIn164gIqKjI6TFJBM0JGOTYxNjNEOEQjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkMyRkRBODIzNDJBQiMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNzVGRjhDMzBDMTdCIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIwRkRBMDhEQTRFRDYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjczNTExNDlEMjhGOSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSRDJDOEYzRjc3RjlDIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFJGMEM1NDM3QzNBQkMjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjU2NkQ3MjMwMTQ5NSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNMA-CAQYwAFAAcAA%3D&tr=us&page=3&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&ref_=atv_hm_nxt_3&startIndex=27"
   ],
   "errors": []
 }
