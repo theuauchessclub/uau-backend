@@ -1,7 +1,7 @@
 {
-  "amazon_channels_before": 116,
+  "amazon_channels_before": 115,
   "amazon_channels_kept_for_safe_merge": 55,
-  "amazon_channels_removed_from_fuzzy_merge": 61,
+  "amazon_channels_removed_from_fuzzy_merge": 60,
   "removed": [
     "40 y 20",
     "Amor Real",
@@ -19,7 +19,7 @@
     "FOX News Talk",
     "FS1",
     "FS2",
-    "Fox Chicago Plus",
+    "Fox 17",
     "Fox Justice",
     "France24 EN",
     "France24 ES",
@@ -29,9 +29,9 @@
     "HBO Movies",
     "HuntStream",
     "IShowSpeed",
+    "Iowa PBS (PBS KDIN)",
     "La Rosa de Guadalupe",
     "La fea más bella",
-    "Lakeshore PBS (PBS WYIN)",
     "Law & Order",
     "Lo mejor de Liga MX",
     "Lo que la vida me robó",
@@ -60,8 +60,7 @@
     "Teresa",
     "Vecinos",
     "ViX Música",
-    "WMAQ by Peacock",
-    "WTTW (PBS WTTW)",
+    "WHO by Peacock",
     "beIN SPORTS",
     "beIN SPORTS en Español"
   ]
