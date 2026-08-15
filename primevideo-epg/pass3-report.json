@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11663,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 489,
-  "remaining_unmatched": 309,
-  "combined_match_rate_percent": 63.8,
-  "programmes_added": 31888,
+  "candidate_names_loaded": 11667,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 490,
+  "remaining_unmatched": 308,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 30467,
   "source_programmes": {
-    "pluto": 2131,
-    "samsung": 1098,
-    "roku": 10030,
-    "plex_mjh": 5143,
+    "pluto": 2062,
+    "samsung": 1089,
+    "roku": 10145,
+    "plex_mjh": 3685,
     "canada": 4391,
     "uk": 1796,
     "whaletv": 747,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 846,
-      "bytes": 940859
+      "bytes": 907773
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 511362
+      "bytes": 500973
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1406,
-      "bytes": 3341397
+      "candidate_names": 1410,
+      "bytes": 3334488
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2246197
+      "bytes": 1864621
     }
   ],
   "matches": [
@@ -2269,6 +2269,16 @@
       "source": "roku",
       "epg_id": "021707311e0b595597f97a389e0051e6",
       "source_display": "NBC 4 Washington News",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: NBC 5 CHICAGO NEWS RAW",
+      "base_name": "NBC 5 CHICAGO NEWS",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "9c0ccaa28c0b50f28ad27aaf2f224cf5",
+      "source_display": "NBC 5 Chicago News",
       "score": 100.0,
       "method": "pass3-exact"
     },
