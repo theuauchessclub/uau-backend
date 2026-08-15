@@ -87,7 +87,7 @@ US: PIXL HD,PixLTV.us,us2,PixL.us2,98.0,name-exact,65
 US: POP HD,Pop.uk,us2,POP.HD.us2,98.0,name-exact,89
 US: PURSUIT CHANNEL HD,PursuitChannel.us,us2,Pursuit.Channel.us2,98.0,name-exact,179
 US: QVC HD,QVC.us,us2,QVC.HD.us2,98.0,name-exact,70
-US: RED BULL TV HD,,prime,PRIME: RED BULL TV RAW,98.0,name-exact,245
+US: RED BULL TV HD,,prime,PRIME: RED BULL TV RAW,98.0,name-exact,219
 US: RETROPLEX HD,RetroPlex.us,us2,RetroPlex.HD.us2,98.0,name-exact,70
 US: REVOLT HD,Revolt.us,us2,Revolt.HD.us2,98.0,name-exact,123
 US: RFD TV HD,RFDTV.us,us2,RFD.TV.HD.us2,98.0,name-exact,135
@@ -98,7 +98,7 @@ US: SMITHSONIAN CHANNEL WEST HD,SmithsonianChannel.us,us2,Smithsonian.HD.Network
 US: SYFY HD,Syfy.us,us2,Syfy.HD.us2,98.0,name-exact,54
 US: SYFY WEST HD,Syfy.us,us2,Syfy.HD.us2,96.0,name-relaxed,54
 US: TASTEMADE HD,Tastemade.us,us2,Tastemade.us2,98.0,name-exact,151
-US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,167
+US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,165
 US: TBS HD,,us2,TBS.HD.us2,99.0,alias-name,141
 US: TCM HD,,us2,Turner.Classic.Movies.HD.us2,99.0,alias-name,48
 US: TEEN NICK,,us2,Teen.Nick.us2,98.0,name-exact,221

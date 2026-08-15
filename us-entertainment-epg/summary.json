@@ -3,7 +3,7 @@
   "matched_channels": 130,
   "unmatched_channels": 83,
   "match_rate_percent": 61.0,
-  "programmes_written": 14777,
+  "programmes_written": 14749,
   "source_status": [
     {
       "source": "us2",
@@ -26,8 +26,8 @@
     {
       "source": "prime",
       "ok": true,
-      "channels": 660,
-      "programmes": 53180
+      "channels": 659,
+      "programmes": 51352
     }
   ]
 }
