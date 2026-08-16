@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11665,
+  "candidate_names_loaded": 11659,
   "provisional_matches": 504,
-  "new_matches_with_programmes": 485,
-  "remaining_unmatched": 315,
-  "combined_match_rate_percent": 63.4,
-  "programmes_added": 31396,
+  "new_matches_with_programmes": 490,
+  "remaining_unmatched": 308,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 30383,
   "source_programmes": {
-    "pluto": 2077,
-    "samsung": 1063,
-    "roku": 10118,
-    "plex_mjh": 4617,
+    "pluto": 1724,
+    "samsung": 1080,
+    "roku": 9891,
+    "plex_mjh": 4167,
     "canada": 4349,
     "uk": 1802,
     "whaletv": 739,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 846,
-      "bytes": 908030
+      "bytes": 787184
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 507934
+      "bytes": 505061
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1408,
-      "bytes": 3298856
+      "candidate_names": 1402,
+      "bytes": 3272039
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2078181
+      "bytes": 1880082
     }
   ],
   "matches": [
@@ -786,8 +786,8 @@
       "name": "PRIME: CHAOS ON CAM BY A&E RAW",
       "base_name": "CHAOS ON CAM BY A&E",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "99e44ea6699928b32c444dce774b9b32",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
       "source_display": "Chaos on Cam by A&E",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1316,8 +1316,8 @@
       "name": "PRIME: FILMRISE CLASSIC TV RAW",
       "base_name": "FILMRISE CLASSIC TV",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "e2e10d08139b56aba73a448f5555b6fd",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66ea07049502c5778b828d3f",
       "source_display": "FilmRise Classic TV",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1806,8 +1806,8 @@
       "name": "PRIME: JOHNNY CARSON TV RAW",
       "base_name": "JOHNNY CARSON TV",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "92b50144a69f5862a6d398c478fa6aa0",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123",
       "source_display": "Johnny Carson TV",
       "score": 100.0,
       "method": "pass3-exact"
@@ -2103,6 +2103,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: MODERN MARVELS RAW",
+      "base_name": "MODERN MARVELS",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "f2ad636c723a58b78276ee28f5edba58",
+      "source_display": "Modern Marvels",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: MONSTER JAM RAW",
       "base_name": "MONSTER JAM",
       "stream_id": "",
@@ -2389,6 +2399,16 @@
       "source": "samsung",
       "epg_id": "USBD1200007FE",
       "source_display": "OuterSphere",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: OUTLAW RAW",
+      "base_name": "OUTLAW",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4",
+      "source_display": "Outlaw",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2953,6 +2973,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: THE BIGGEST LOSER RAW",
+      "base_name": "THE BIGGEST LOSER",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6515ff231fc969615e69d170",
+      "source_display": "The Biggest Loser",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: THE BOB ROSS CHANNEL RAW",
       "base_name": "THE BOB ROSS CHANNEL",
       "stream_id": "",
@@ -3209,16 +3239,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3503,6 +3523,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: XITE 60S & 70S GROOVE RAW",
+      "base_name": "XITE 60S & 70S GROOVE",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-688005bc015fe7e375a1a0aa",
+      "source_display": "XITE 60s & 70s Groove",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: XITE 80S FLASHBACK RAW",
       "base_name": "XITE 80S FLASHBACK",
       "stream_id": "",
@@ -3519,6 +3549,16 @@
       "source": "samsung",
       "epg_id": "USBB3200007AK",
       "source_display": "XITE 90s Throwback",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE CELEBRATES RAW",
+      "base_name": "XITE CELEBRATES",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503",
+      "source_display": "XITE Celebrates",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3599,6 +3639,16 @@
       "source": "plex_mjh",
       "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
       "source_display": "XITE R&B Feels",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE RAP GAME RAW",
+      "base_name": "XITE RAP GAME",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800b694033a6a442ad9239",
+      "source_display": "XITE Rap Game",
       "score": 100.0,
       "method": "pass3-exact"
     },
