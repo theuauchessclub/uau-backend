@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11659,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 490,
-  "remaining_unmatched": 308,
-  "combined_match_rate_percent": 63.9,
-  "programmes_added": 30383,
+  "candidate_names_loaded": 11665,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 491,
+  "remaining_unmatched": 307,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 31398,
   "source_programmes": {
-    "pluto": 1724,
-    "samsung": 1080,
-    "roku": 9891,
-    "plex_mjh": 4167,
+    "pluto": 1740,
+    "samsung": 1079,
+    "roku": 10308,
+    "plex_mjh": 4750,
     "canada": 4349,
     "uk": 1802,
     "whaletv": 739,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 846,
-      "bytes": 787184
+      "bytes": 785844
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 505061
+      "bytes": 506603
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1402,
-      "bytes": 3272039
+      "candidate_names": 1408,
+      "bytes": 3289932
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 1880082
+      "bytes": 2359840
     }
   ],
   "matches": [
@@ -786,8 +786,8 @@
       "name": "PRIME: CHAOS ON CAM BY A&E RAW",
       "base_name": "CHAOS ON CAM BY A&E",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
+      "source": "roku",
+      "epg_id": "99e44ea6699928b32c444dce774b9b32",
       "source_display": "Chaos on Cam by A&E",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1316,8 +1316,8 @@
       "name": "PRIME: FILMRISE CLASSIC TV RAW",
       "base_name": "FILMRISE CLASSIC TV",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66ea07049502c5778b828d3f",
+      "source": "roku",
+      "epg_id": "e2e10d08139b56aba73a448f5555b6fd",
       "source_display": "FilmRise Classic TV",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1806,8 +1806,8 @@
       "name": "PRIME: JOHNNY CARSON TV RAW",
       "base_name": "JOHNNY CARSON TV",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123",
+      "source": "roku",
+      "epg_id": "92b50144a69f5862a6d398c478fa6aa0",
       "source_display": "Johnny Carson TV",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3239,6 +3239,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
