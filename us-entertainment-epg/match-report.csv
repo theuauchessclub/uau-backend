@@ -1,131 +1,131 @@
 name,provider_epg_id,source,source_epg_id,score,method,programmes
-US: A&E HD,AandE.us,us2,A.and.E.HD.East.us2,96.0,name-relaxed,140
-US: ACC NETWORK HD,ACCNetwork.us,us2,ACC.Network.us2,98.0,name-exact,59
-US: AMC HD,AMC.us,us2,AMC.HD.us2,98.0,name-exact,55
+US: A&E HD,AandE.us,us2,A.and.E.HD.East.us2,96.0,name-relaxed,147
+US: ACC NETWORK HD,ACCNetwork.us,us2,ACC.Network.us2,98.0,name-exact,63
+US: AMC HD,AMC.us,us2,AMC.HD.us2,98.0,name-exact,65
 US: AMERICA HEROES HD,,us2,American.Heroes.Channel.HD.us2,99.0,alias-name,98
-US: ANIMAL PLANET HD,animalplanet.us,us2,Animal.Planet.HD.(Pacific).us2,98.0,name-exact,93
-US: ANIMAL PLANET WEST HD,animalplanet.us,us2,Animal.Planet.HD.(Pacific).us2,96.0,name-relaxed,93
-US: ANTENNA TV,AntennaTV.us,us2,Antenna.TV.us2,98.0,name-exact,187
-US: ASPIRE HD,AspireTV.us,us2,ASPiRE.HD.us2,98.0,name-exact,138
-US: BBC AMERICA HD,BBCAmerica.us,us2,BBC.America.HD.us2,98.0,name-exact,68
-US: BET GOSPEL,BETGospel.us,us2,BET.GOSPEL.us2,98.0,name-exact,100
-US: BET HD,BET.us,us2,BET.HD.(Pacific).us2,98.0,name-exact,128
-US: BET HER HD,BetHer.us,us2,BET.Her.us2,98.0,name-exact,103
+US: ANIMAL PLANET HD,animalplanet.us,us2,Animal.Planet.HD.(Pacific).us2,98.0,name-exact,91
+US: ANIMAL PLANET WEST HD,animalplanet.us,us2,Animal.Planet.HD.(Pacific).us2,96.0,name-relaxed,91
+US: ANTENNA TV,AntennaTV.us,us2,Antenna.TV.us2,98.0,name-exact,188
+US: ASPIRE HD,AspireTV.us,us2,ASPiRE.HD.us2,98.0,name-exact,139
+US: BBC AMERICA HD,BBCAmerica.us,us2,BBC.America.HD.us2,98.0,name-exact,67
+US: BET GOSPEL,BETGospel.us,us2,BET.GOSPEL.us2,98.0,name-exact,102
+US: BET HD,BET.us,us2,BET.HD.us2,98.0,name-exact,144
+US: BET HER HD,BetHer.us,us2,BET.Her.us2,98.0,name-exact,109
 US: BET JAMS HD,BETjams.us,us2,BET.Jams.us2,98.0,name-exact,96
-US: BET SOUL,BETSoul.us,us2,BET.Soul.us2,98.0,name-exact,66
-US: BLAZE TV,BlazeTV.us,us2,Blaze.TV.us2,98.0,name-exact,70
-US: AXS TV HD,AXSTV.us,us2,AXS.TV.us2,98.0,name-exact,161
-US: BOUNCE XL,PlutoBounceXL.us,tubi,TUBI:BOUNCE XL,98.0,name-exact,49
-US: BOUNCE TV HD,BounceTV.us,us2,Bounce.TV.us2,98.0,name-exact,90
-US: BRAVO HD,Bravo.us,us2,Bravo.(Pacific).us2,98.0,name-exact,84
-US: BRAVO WEST HD,Bravo.us,us2,Bravo.(Pacific).us2,96.0,name-relaxed,84
-US: BRAVO EAST HD,,us2,Bravo.(Pacific).us2,96.0,name-relaxed,84
-US: CATCHY COMEDY HD,,us2,Catchy.Comedy.us2,99.0,alias-name,182
-US: BYU TV,BrighamYoungUniversity.us,us2,BYU-TV.us2,98.0,name-exact,114
-US: BUZZR,BuzzrTV.us,tubi,TUBI:BUZZR,98.0,name-exact,82
+US: BET SOUL,BETSoul.us,us2,BET.Soul.us2,98.0,name-exact,68
+US: BLAZE TV,BlazeTV.us,us2,Blaze.TV.us2,98.0,name-exact,68
+US: AXS TV HD,AXSTV.us,us2,AXS.TV.us2,98.0,name-exact,162
+US: BOUNCE XL,PlutoBounceXL.us,tubi,TUBI:BOUNCE XL,98.0,name-exact,50
+US: BOUNCE TV HD,BounceTV.us,us2,Bounce.TV.us2,98.0,name-exact,92
+US: BRAVO HD,Bravo.us,us2,Bravo.(Pacific).us2,98.0,name-exact,93
+US: BRAVO WEST HD,Bravo.us,us2,Bravo.(Pacific).us2,96.0,name-relaxed,93
+US: BRAVO EAST HD,,us2,Bravo.(Pacific).us2,96.0,name-relaxed,93
+US: CATCHY COMEDY HD,,us2,Catchy.Comedy.us2,99.0,alias-name,179
+US: BYU TV,BrighamYoungUniversity.us,us2,BYU-TV.us2,98.0,name-exact,115
+US: BUZZR,BuzzrTV.us,tubi,TUBI:BUZZR,98.0,name-exact,76
 US: CHARGE!,ChargeTV.us,us2,CHARGE!.us2,98.0,name-exact,116
-US: CMT HD,CMT.us,us2,CMT.HD.us2,98.0,name-exact,126
-US: COMEDY CENTRAL HD,ComedyCentral.us,us2,Comedy.Central.HD.(Pacific).us2,98.0,name-exact,170
+US: CMT HD,CMT.us,us2,CMT.HD.us2,98.0,name-exact,148
+US: COMEDY CENTRAL HD,ComedyCentral.us,us2,Comedy.Central.HD.us2,98.0,name-exact,179
 US: CLEO TV 4K,CleoTV.us,us2,Cleo.TV.HD.us2,98.0,name-exact,192
-US: COMEDY TV HD,,us2,Comedy.TV.HD.us2,98.0,name-exact,165
-US: COMET HD,Comet.us,us2,Comet.(Pacific).us2,98.0,name-exact,115
-US: COOKING CHANNEL HD,CookingChannel.us,us2,Cooking.Channel.HD.us2,98.0,name-exact,149
-US: COURT TV HD,CourtTV.us,us2,Court.TV.us2,98.0,name-exact,117
-US: CRIME & INVESTIGATION HD,CrimeInvestigation.us,us2,Crime.and.Investigation.Network.HD.us2,96.0,name-relaxed,109
-US: DESTINATION AMERICA HD,DestinationAmerica.us,us2,Destination.America.HD.us2,98.0,name-exact,180
-US: DISCOVERY HD,DiscoveryChannel.us,us2,Discovery.Channel.HD.us2,96.0,name-relaxed,90
-US: DISCOVERY FAMILY HD,DiscoveryFamily.us,us2,Discovery.Family.Channel.HD.us2,96.0,name-relaxed,177
-US: DISCOVERY LIFE HD,DiscoveryLife.us,us2,Discovery.Life.Channel.us2,96.0,name-relaxed,83
+US: COMEDY TV HD,,us2,Comedy.TV.HD.us2,98.0,name-exact,169
+US: COMET HD,Comet.us,us2,Comet.us2,98.0,name-exact,116
+US: COOKING CHANNEL HD,CookingChannel.us,us2,Cooking.Channel.HD.us2,98.0,name-exact,155
+US: COURT TV HD,CourtTV.us,us2,Court.TV.us2,98.0,name-exact,109
+US: CRIME & INVESTIGATION HD,CrimeInvestigation.us,us2,Crime.and.Investigation.Network.HD.us2,96.0,name-relaxed,107
+US: DESTINATION AMERICA HD,DestinationAmerica.us,us2,Destination.America.HD.us2,98.0,name-exact,175
+US: DISCOVERY HD,DiscoveryChannel.us,us2,Discovery.Channel.HD.us2,96.0,name-relaxed,86
+US: DISCOVERY FAMILY HD,DiscoveryFamily.us,us2,Discovery.Family.Channel.HD.us2,96.0,name-relaxed,179
+US: DISCOVERY LIFE HD,DiscoveryLife.us,us2,Discovery.Life.Channel.us2,96.0,name-relaxed,77
 US: DISCOVERY SCIENCE HD,,us2,Science.Channel.HD.us2,99.0,alias-name,100
-US: DISCOVERY WEST HD,DiscoveryChannel.us,us2,Discovery.Channel.HD.us2,96.0,name-relaxed,90
-US: DISCOVERY EAST HD,,us2,Discovery.Channel.HD.us2,96.0,name-relaxed,90
+US: DISCOVERY WEST HD,DiscoveryChannel.us,us2,Discovery.Channel.HD.us2,96.0,name-relaxed,86
+US: DISCOVERY EAST HD,,us2,Discovery.Channel.HD.us2,96.0,name-relaxed,86
 US: DOG TV HD,DogTV.us,us2,DOG.TV.us2,98.0,name-exact,96
-US: DIY HD,,us2,Magnolia.Network.HD.us2,99.0,alias-name,106
+US: DIY HD,,us2,Magnolia.Network.HD.us2,99.0,alias-name,102
 US: DABL,WKMGDT2.us,us2,Dabl.us2,98.0,name-exact,192
-US: TBS WEST,,us2,TBS.HD.us2,99.0,alias-name,145
-US: FOOD NETWORK HD,foodnetwork.us,us2,Food.Network.HD.us2,98.0,name-exact,144
-US: FOX SOUL,,us2,FOX.SOUL.us2,99.0,alias-name,125
-US: FREEFORM WEST HD,Freeform.us,us2,Freeform.HD.us2,96.0,name-relaxed,94
-US: FREEFORM EAST HD,Freeform.us,us2,Freeform.HD.us2,96.0,name-relaxed,94
-US: FX WEST HD,FX.us,us2,FX.HD.(Pacific).us2,96.0,name-relaxed,60
-US: FX HD,FX.us,us2,FX.HD.(Pacific).us2,98.0,name-exact,60
-US: FXX HD,FXX.us,us2,FXX.HD.us2,98.0,name-exact,167
-US: FXX WEST HD,FXX.us,us2,FXX.HD.us2,96.0,name-relaxed,167
-US: FYI HD,fyi.us,us2,FYI.Channel.HD.us2,96.0,name-relaxed,161
-US: GRIT,Grit.us,us2,Grit.us2,98.0,name-exact,94
-US: Game Show Central,,tubi,TUBI:GAME SHOW CENTRAL,99.0,alias-name,104
-US: HALLMARK HD,Hallmark.us,us2,Hallmark.Channel.HD.us2,96.0,name-relaxed,110
-US: HBO COMEDY HD,HBOComedy.us,us2,HBO.Comedy.HD.us2,98.0,name-exact,86
-US: HGTV HD,hgtv.us,prime,PRIME: HGTV RAW,98.0,name-exact,267
-US: HGTV WEST HD,hgtv.us,prime,PRIME: HGTV RAW,96.0,name-relaxed,267
-US: HISTORY HD,HistoryChannel.us,us2,History.HD.us2,98.0,name-exact,102
-US: HLN HD,HLN.us,us2,HLN.HD.us2,98.0,name-exact,167
-US: ID INVESTIGATION DISCOVERY HD,investigationdiscovery.us,us2,Investigation.Discovery.HD.(Pacific).us2,93.9,fuzzy,98
+US: TBS WEST,,us2,TBS.HD.us2,99.0,alias-name,165
+US: FOOD NETWORK HD,foodnetwork.us,us2,Food.Network.HD.us2,98.0,name-exact,130
+US: FOX SOUL,,us2,FOX.SOUL.us2,99.0,alias-name,132
+US: FREEFORM WEST HD,Freeform.us,us2,Freeform.HD.us2,96.0,name-relaxed,102
+US: FREEFORM EAST HD,Freeform.us,us2,Freeform.HD.us2,96.0,name-relaxed,102
+US: FX WEST HD,FX.us,us2,FX.HD.(Pacific).us2,96.0,name-relaxed,62
+US: FX HD,FX.us,us2,FX.HD.(Pacific).us2,98.0,name-exact,62
+US: FXX HD,FXX.us,us2,FXX.HD.us2,98.0,name-exact,160
+US: FXX WEST HD,FXX.us,us2,FXX.HD.us2,96.0,name-relaxed,160
+US: FYI HD,fyi.us,us2,FYI.Channel.HD.us2,96.0,name-relaxed,139
+US: GRIT,Grit.us,us2,Grit.us2,98.0,name-exact,103
+US: Game Show Central,,tubi,TUBI:GAME SHOW CENTRAL,99.0,alias-name,103
+US: HALLMARK HD,Hallmark.us,us2,Hallmark.Channel.HD.us2,96.0,name-relaxed,119
+US: HBO COMEDY HD,HBOComedy.us,us2,HBO.Comedy.HD.us2,98.0,name-exact,68
+US: HGTV HD,hgtv.us,prime,PRIME: HGTV RAW,98.0,name-exact,266
+US: HGTV WEST HD,hgtv.us,prime,PRIME: HGTV RAW,96.0,name-relaxed,266
+US: HISTORY HD,HistoryChannel.us,us2,History.HD.us2,98.0,name-exact,105
+US: HLN HD,HLN.us,us2,HLN.HD.us2,98.0,name-exact,163
+US: ID INVESTIGATION DISCOVERY HD,investigationdiscovery.us,us2,Investigation.Discovery.HD.us2,93.9,fuzzy,102
 US: ION,,tubi,TUBI:ION,99.0,alias-name,47
 US: ION MYSTERY,,us2,ION.Mystery.us2,99.0,alias-name,72
 US: ION PLUS,,tubi,TUBI:ION PLUS,99.0,alias-name,42
-US: IFC HD,IndependentFilmChannel.us,us2,IFC.HD.us2,98.0,name-exact,134
-US: INDIEPLEX HD,IndiePlex.us,us2,IndiePlex.HD.us2,98.0,name-exact,61
-US: INSP HD,INSP.us,us2,INSP.HD.us2,98.0,name-exact,104
+US: IFC HD,IndependentFilmChannel.us,us2,IFC.HD.us2,98.0,name-exact,172
+US: INDIEPLEX HD,IndiePlex.us,us2,IndiePlex.HD.us2,98.0,name-exact,60
+US: INSP HD,INSP.us,us2,INSP.HD.us2,98.0,name-exact,107
 US: JUSTICE CENTRAL HD,JusticeCentral.us,us2,Justice.Central.HD.us2,98.0,name-exact,192
-US: LIFETIME HD,LifetimeNetwork.us,us2,Lifetime.HD.us2,98.0,name-exact,101
+US: LIFETIME HD,LifetimeNetwork.us,us2,Lifetime.HD.us2,98.0,name-exact,104
 US: LIFETIME REAL WOMEN HD,,us2,Lifetime.Real.Women.us2,99.0,alias-name,108
-US: LOGO HD,Logo.us,us2,Logo.us2,98.0,name-exact,108
-US: ME TV,,us2,Me.TV.Network.us2,96.0,name-relaxed,141
-US: MeTV Plus (WZME) HD (SP),MeTVPlus.us,us2,MeTV.Plus.us2,98.0,name-exact,115
-US: MGM HD,,us2,MGM+.HD.us2,98.0,name-exact,57
-US: MOTORTREND HD,MotorTrend.us,us2,MOTORTREND.HD.us2,98.0,name-exact,106
+US: LOGO HD,Logo.us,us2,Logo.us2,98.0,name-exact,94
+US: ME TV,,us2,Me.TV.Network.us2,96.0,name-relaxed,145
+US: MeTV Plus (WZME) HD (SP),MeTVPlus.us,us2,MeTV.Plus.us2,98.0,name-exact,100
+US: MGM HD,,us2,MGM+.HD.us2,98.0,name-exact,56
+US: MOTORTREND HD,MotorTrend.us,us2,MOTORTREND.HD.us2,98.0,name-exact,100
 US: MILITARY HISTORY,MilitaryHistory.us,us2,Military.History.Channel.us2,96.0,name-relaxed,87
 US: MSG PLUS HD,MadisonSquareGardenPlus.us,us2,MSG.Plus.us2,98.0,name-exact,81
-US: MEGA TV,,us2,Mega.TV.HD.us2,98.0,name-exact,117
-US: : NATIONAL GEOGRAPHIC HD,NatGeo.us,us2,National.Geographic.HD.(Pacific).us2,98.0,name-exact,115
-US: : NATIONAL GEOGRAPHIC WILD HD,NatGeoWild.us,us2,National.Geographic.Wild.HD.us2,98.0,name-exact,115
-US: OUTDOOR CHANNEL HD,OutdoorChannel.us,us2,Outdoor.Channel.HD.us2,98.0,name-exact,176
-US: OVATION HD,Ovation.us,us2,Ovation.HD.us2,99.0,alias-name,100
-US: PARAMOUNT HD,ParamountNetwork.us,us2,Paramount.Network.HD.us2,96.0,name-relaxed,80
+US: MEGA TV,,us2,Mega.TV.HD.us2,98.0,name-exact,108
+US: : NATIONAL GEOGRAPHIC HD,NatGeo.us,us2,National.Geographic.HD.us2,98.0,name-exact,111
+US: : NATIONAL GEOGRAPHIC WILD HD,NatGeoWild.us,us2,National.Geographic.Wild.HD.us2,98.0,name-exact,117
+US: OUTDOOR CHANNEL HD,OutdoorChannel.us,us2,Outdoor.Channel.HD.us2,98.0,name-exact,182
+US: OVATION HD,Ovation.us,us2,Ovation.HD.us2,99.0,alias-name,96
+US: PARAMOUNT HD,ParamountNetwork.us,us2,Paramount.Network.HD.us2,96.0,name-relaxed,82
 US: PIXL HD,PixLTV.us,us2,PixL.us2,98.0,name-exact,65
-US: POP HD,Pop.uk,us2,POP.HD.us2,98.0,name-exact,89
-US: PURSUIT CHANNEL HD,PursuitChannel.us,us2,Pursuit.Channel.us2,98.0,name-exact,185
-US: QVC HD,QVC.us,us2,QVC.HD.us2,98.0,name-exact,71
-US: RED BULL TV HD,,prime,PRIME: RED BULL TV RAW,98.0,name-exact,246
-US: RETROPLEX HD,RetroPlex.us,us2,RetroPlex.HD.us2,98.0,name-exact,71
-US: REVOLT HD,Revolt.us,us2,Revolt.HD.us2,98.0,name-exact,121
-US: RFD TV HD,RFDTV.us,us2,RFD.TV.HD.us2,98.0,name-exact,132
-US: SEC NETWORK HD,SECNetwork.us,us2,SEC.Network.HD.us2,98.0,name-exact,71
+US: POP HD,Pop.uk,us2,POP.HD.us2,98.0,name-exact,95
+US: PURSUIT CHANNEL HD,PursuitChannel.us,us2,Pursuit.Channel.us2,98.0,name-exact,190
+US: QVC HD,QVC.us,us2,QVC.HD.us2,98.0,name-exact,73
+US: RED BULL TV HD,,prime,PRIME: RED BULL TV RAW,98.0,name-exact,224
+US: RETROPLEX HD,RetroPlex.us,us2,RetroPlex.HD.us2,98.0,name-exact,74
+US: REVOLT HD,Revolt.us,us2,Revolt.HD.us2,98.0,name-exact,117
+US: RFD TV HD,RFDTV.us,us2,RFD.TV.HD.us2,98.0,name-exact,129
+US: SEC NETWORK HD,SECNetwork.us,us2,SEC.Network.HD.us2,98.0,name-exact,76
 US: SHOWTIME BET HD,,us2,SHO.x.BET.HD.us2,99.0,alias-name,55
 US: SMITHSONIAN CHANNEL HD,SmithsonianChannel.us,us2,Smithsonian.HD.Network.us2,96.0,name-relaxed,96
 US: SMITHSONIAN CHANNEL WEST HD,SmithsonianChannel.us,us2,Smithsonian.HD.Network.us2,96.0,name-relaxed,96
-US: SYFY HD,Syfy.us,us2,Syfy.HD.us2,98.0,name-exact,52
-US: SYFY WEST HD,Syfy.us,us2,Syfy.HD.us2,96.0,name-relaxed,52
-US: TASTEMADE HD,Tastemade.us,us2,Tastemade.us2,98.0,name-exact,155
-US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,172
-US: TBS HD,,us2,TBS.HD.us2,99.0,alias-name,145
+US: SYFY HD,Syfy.us,us2,Syfy.HD.(Pacific).us2,98.0,name-exact,48
+US: SYFY WEST HD,Syfy.us,us2,Syfy.HD.(Pacific).us2,96.0,name-relaxed,48
+US: TASTEMADE HD,Tastemade.us,us2,Tastemade.us2,98.0,name-exact,156
+US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,171
+US: TBS HD,,us2,TBS.HD.us2,99.0,alias-name,165
 US: TCM HD,,us2,Turner.Classic.Movies.HD.us2,99.0,alias-name,48
 US: TEEN NICK,,us2,Teen.Nick.us2,98.0,name-exact,221
 US: THE WEATHER CHANNEL HD,TheWeatherNetwork.ca,us2,The.Weather.Channel.HD.us2,98.0,name-exact,96
-US: TLC HD,,us2,TLC.HD.(US).us2,99.0,alias-name,95
-US: TLC WEST,,us2,TLC.HD.(US).us2,99.0,alias-name,95
+US: TLC HD,,us2,TLC.HD.(US).us2,99.0,alias-name,93
+US: TLC WEST,,us2,TLC.HD.(US).us2,99.0,alias-name,93
 US: TNT HD,TNT.us,us2,TNT.HD.us2,99.0,alias-name,70
 US: TNT 4K,,us2,TNT.HD.us2,99.0,alias-name,70
 US: TNT WEST 4K,TNT.us,us2,TNT.HD.us2,99.0,alias-name,70
 US: TNT EAST 4K,,us2,TNT.HD.us2,99.0,alias-name,70
-US: TRUTV 4K,truTV.us,us2,truTV.HD.(Pacific).us2,98.0,name-exact,132
-US: TRUTV WEST 4K,truTV.us,us2,truTV.HD.(Pacific).us2,96.0,name-relaxed,132
-US: TV LAND HD,TVLand.us,us2,TV.Land.HD.us2,98.0,name-exact,172
-US: TV ONE HD,TVOne.us,us2,TV.ONE.HD.us2,98.0,name-exact,165
-US: USA NETWORK 4K,USANetwork.us,us2,USA.Network.HD.(Pacific).us2,98.0,name-exact,99
-US: USA NETWORK EAST HD,USANetwork.us,us2,USA.Network.HD.(Pacific).us2,96.0,name-relaxed,99
-US: USA NETWORK HD,USANetwork.us,us2,USA.Network.HD.(Pacific).us2,98.0,name-exact,99
-US: USA NETWORK WEST HD,USANetwork.us,us2,USA.Network.HD.(Pacific).us2,96.0,name-relaxed,99
-US: VICELAND HD,,us2,Vice.HD.us2,99.0,alias-name,113
-US: WE TV HD,WeTV.us,us2,WE.tv.HD.us2,98.0,name-exact,111
+US: TRUTV 4K,truTV.us,us2,truTV.HD.us2,98.0,name-exact,144
+US: TRUTV WEST 4K,truTV.us,us2,truTV.HD.us2,96.0,name-relaxed,144
+US: TV LAND HD,TVLand.us,us2,TV.Land.HD.us2,98.0,name-exact,167
+US: TV ONE HD,TVOne.us,us2,TV.ONE.HD.us2,98.0,name-exact,162
+US: USA NETWORK 4K,USANetwork.us,us2,USA.Network.HD.(Pacific).us2,98.0,name-exact,98
+US: USA NETWORK EAST HD,USANetwork.us,us2,USA.Network.HD.(Pacific).us2,96.0,name-relaxed,98
+US: USA NETWORK HD,USANetwork.us,us2,USA.Network.HD.(Pacific).us2,98.0,name-exact,98
+US: USA NETWORK WEST HD,USANetwork.us,us2,USA.Network.HD.(Pacific).us2,96.0,name-relaxed,98
+US: VICELAND HD,,us2,Vice.us2,99.0,alias-name,114
+US: WE TV HD,WeTV.us,us2,WE.tv.HD.us2,98.0,name-exact,112
 US: A WEALTH OF ENTERTAINMENT (AWE),,us2,AWE.A.Wealth.of.Entertainment.HD.us2,92.6,fuzzy,164
-US: OVATION,,us2,Ovation.HD.us2,99.0,alias-name,100
-US: LAW & CRIME,,us2,Law.and.Crime.us2,99.0,alias-name,139
-US: EL REY,,us2,El.Rey.Network.us2,98.0,alias-relaxed,63
-US: GREAT AMERICAN FAITH & LIVING,,us2,Great.American.Faith.and.Living.us2,99.0,alias-name,144
-US: WORLD FISHING NETWORK HD,,us2,World.Fishing.Network.HD.(US).us2,99.0,alias-name,165
-US: KTLA LOS ANGELES HD,,locals,KTLA-DT.us_locals1,100.0,alias-id,127
-US: REAL AMERICA'S VOICE HD,,us2,Real.Americas.Voice.us2,97.4,fuzzy,80
-US: Magnolia Network West (Y) HD,MagnoliaNetwork.us,us2,Magnolia.Network.HD.us2,96.0,name-relaxed,106
-US: FOOD NETWORK WEST HD,foodnetwork.us,us2,Food.Network.HD.us2,96.0,name-relaxed,144
+US: OVATION,,us2,Ovation.HD.us2,99.0,alias-name,96
+US: LAW & CRIME,,us2,Law.and.Crime.us2,99.0,alias-name,144
+US: EL REY,,us2,El.Rey.Network.us2,98.0,alias-relaxed,62
+US: GREAT AMERICAN FAITH & LIVING,,us2,Great.American.Faith.and.Living.us2,99.0,alias-name,150
+US: WORLD FISHING NETWORK HD,,us2,World.Fishing.Network.HD.(US).us2,99.0,alias-name,171
+US: KTLA LOS ANGELES HD,,locals,KTLA-DT.us_locals1,100.0,alias-id,122
+US: REAL AMERICA'S VOICE HD,,us2,Real.Americas.Voice.us2,97.4,fuzzy,75
+US: Magnolia Network West (Y) HD,MagnoliaNetwork.us,us2,Magnolia.Network.HD.us2,96.0,name-relaxed,102
+US: FOOD NETWORK WEST HD,foodnetwork.us,us2,Food.Network.HD.us2,96.0,name-relaxed,130
