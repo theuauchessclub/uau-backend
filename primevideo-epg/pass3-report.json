@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11665,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 490,
-  "remaining_unmatched": 308,
-  "combined_match_rate_percent": 63.9,
-  "programmes_added": 30519,
+  "candidate_names_loaded": 11617,
+  "provisional_matches": 501,
+  "new_matches_with_programmes": 486,
+  "remaining_unmatched": 312,
+  "combined_match_rate_percent": 63.6,
+  "programmes_added": 31828,
   "source_programmes": {
-    "pluto": 1683,
-    "samsung": 1100,
-    "roku": 10425,
-    "plex_mjh": 3694,
+    "pluto": 2140,
+    "samsung": 1069,
+    "roku": 9873,
+    "plex_mjh": 5129,
     "canada": 4506,
     "uk": 1808,
     "whaletv": 747,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 786397
+      "bytes": 931363
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 510657
+      "bytes": 516157
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1412,
-      "bytes": 3255465
+      "candidate_names": 1364,
+      "bytes": 3166189
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 1791541
+      "bytes": 2403868
     }
   ],
   "matches": [
@@ -1183,16 +1183,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: EXTREME LIVING RAW",
-      "base_name": "EXTREME LIVING",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "687995812bc843a56232473877273766",
-      "source_display": "Extreme Living",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: EXTREME MAKEOVER: HOME EDITION RAW",
       "base_name": "EXTREME MAKEOVER: HOME EDITION",
       "stream_id": "",
@@ -1883,16 +1873,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: LEAVE IT TO BEAVER RAW",
-      "base_name": "LEAVE IT TO BEAVER",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "227141061ce994a5401122a76c090f34",
-      "source_display": "Leave It to Beaver",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: LET'S MAKE A DEAL RAW",
       "base_name": "LET'S MAKE A DEAL",
       "stream_id": "",
@@ -2099,16 +2079,6 @@
       "source": "samsung",
       "epg_id": "US18000163F",
       "source_display": "Miramax Movie Channel",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: MODERN MARVELS RAW",
-      "base_name": "MODERN MARVELS",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "f2ad636c723a58b78276ee28f5edba58",
-      "source_display": "Modern Marvels",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3056,8 +3026,8 @@
       "name": "PRIME: THE ED SULLIVAN SHOW RAW",
       "base_name": "THE ED SULLIVAN SHOW",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "707e6e216be8369fb30f6960f8cf667e",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-640205c68ecb41f2d89d5814",
       "source_display": "The Ed Sullivan Show",
       "score": 100.0,
       "method": "pass3-exact"
@@ -4139,16 +4109,6 @@
       "source": "roku",
       "epg_id": "1c235612cec3540f85bb5e2bf7982047",
       "source_display": "Are We There Yet?",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: AX MEN RAW",
-      "base_name": "AX MEN",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "363db0b37f315e52b2ba9e1015f417b5",
-      "source_display": "Ax Men",
       "score": 100.0,
       "method": "pass3-exact"
     },
