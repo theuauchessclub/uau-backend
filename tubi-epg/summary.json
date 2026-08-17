@@ -1,6 +1,6 @@
 {
-  "source_channels": 175,
-  "normalized_channels": 175,
-  "programmes_written": 11540,
+  "source_channels": 180,
+  "normalized_channels": 180,
+  "programmes_written": 11929,
   "source_epg": "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
 }
