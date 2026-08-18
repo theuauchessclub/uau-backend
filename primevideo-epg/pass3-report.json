@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11617,
-  "provisional_matches": 501,
-  "new_matches_with_programmes": 486,
-  "remaining_unmatched": 312,
-  "combined_match_rate_percent": 63.6,
-  "programmes_added": 31828,
+  "candidate_names_loaded": 11623,
+  "provisional_matches": 503,
+  "new_matches_with_programmes": 488,
+  "remaining_unmatched": 310,
+  "combined_match_rate_percent": 63.8,
+  "programmes_added": 32748,
   "source_programmes": {
-    "pluto": 2140,
-    "samsung": 1069,
-    "roku": 9873,
-    "plex_mjh": 5129,
+    "pluto": 1678,
+    "samsung": 1076,
+    "roku": 10111,
+    "plex_mjh": 6366,
     "canada": 4506,
-    "uk": 1808,
-    "whaletv": 747,
+    "uk": 1797,
+    "whaletv": 640,
     "fanduel": 188,
     "rakuten": 2693,
     "australia": 3359,
     "distro": 0,
-    "mexico": 17,
+    "mexico": 35,
     "tbnplus": 299
   },
   "source_status": [
@@ -50,13 +50,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 599285
+      "bytes": 479660
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 962,
-      "bytes": 2782767
+      "bytes": 2729597
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 354,
-      "bytes": 336811
+      "bytes": 400412
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 931363
+      "bytes": 757368
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 516157
+      "bytes": 506851
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1364,
-      "bytes": 3166189
+      "candidate_names": 1370,
+      "bytes": 3185969
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2403868
+      "bytes": 2740991
     }
   ],
   "matches": [
@@ -757,7 +757,7 @@
       "base_name": "CBS NEWS PITTSBURGH",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "62cdcac1be7a970008781a64",
+      "epg_id": "5eb1b17aa5277e00083f6521",
       "source_display": "CBS News Pittsburgh",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1179,6 +1179,16 @@
       "source": "pluto",
       "epg_id": "5dc0c78281eddb0009a02d5e",
       "source_display": "ET",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: EXTREME LIVING RAW",
+      "base_name": "EXTREME LIVING",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "687995812bc843a56232473877273766",
+      "source_display": "Extreme Living",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1869,6 +1879,16 @@
       "source": "plex_mjh",
       "epg_id": "6a1610bebdf296985fd95603-654a6d313713a28d9f0b917f",
       "source_display": "Lawless",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: LEAVE IT TO BEAVER RAW",
+      "base_name": "LEAVE IT TO BEAVER",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "227141061ce994a5401122a76c090f34",
+      "source_display": "Leave It to Beaver",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2756,8 +2776,8 @@
       "name": "PRIME: SLIGHTLY OFF IFC RAW",
       "base_name": "SLIGHTLY OFF IFC",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "aea5e7ccd9a35a4abd9193147fb4d593",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-5fc705eea2236e002d69f5ae",
       "source_display": "Slightly Off IFC",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3026,8 +3046,8 @@
       "name": "PRIME: THE ED SULLIVAN SHOW RAW",
       "base_name": "THE ED SULLIVAN SHOW",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-640205c68ecb41f2d89d5814",
+      "source": "roku",
+      "epg_id": "707e6e216be8369fb30f6960f8cf667e",
       "source_display": "The Ed Sullivan Show",
       "score": 100.0,
       "method": "pass3-exact"
