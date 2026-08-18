@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11629,
-  "provisional_matches": 502,
-  "new_matches_with_programmes": 486,
-  "remaining_unmatched": 312,
-  "combined_match_rate_percent": 63.6,
-  "programmes_added": 31247,
+  "candidate_names_loaded": 11631,
+  "provisional_matches": 503,
+  "new_matches_with_programmes": 488,
+  "remaining_unmatched": 310,
+  "combined_match_rate_percent": 63.8,
+  "programmes_added": 29417,
   "source_programmes": {
-    "pluto": 2024,
-    "samsung": 1061,
-    "roku": 10088,
-    "plex_mjh": 4719,
+    "pluto": 2075,
+    "samsung": 1079,
+    "roku": 10269,
+    "plex_mjh": 2639,
     "canada": 4414,
     "uk": 1797,
     "whaletv": 640,
@@ -79,26 +79,26 @@
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 846,
-      "bytes": 910672
+      "candidate_names": 842,
+      "bytes": 926924
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 516506
+      "bytes": 510883
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1372,
-      "bytes": 3184809
+      "candidate_names": 1378,
+      "bytes": 3203810
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2081696
+      "bytes": 1456614
     }
   ],
   "matches": [
@@ -749,6 +749,16 @@
       "source": "pluto",
       "epg_id": "5eb1b05ea168cc000767ba67",
       "source_display": "CBS News Philadelphia",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: CBS NEWS PITTSBURGH RAW",
+      "base_name": "CBS NEWS PITTSBURGH",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5eb1b17aa5277e00083f6521",
+      "source_display": "CBS News Pittsburgh",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1626,8 +1636,8 @@
       "name": "PRIME: HOW TO RAW",
       "base_name": "HOW TO",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66a1aa319101f360242499a8",
+      "source": "roku",
+      "epg_id": "37638e4236da59f2baf44138b1482fa7",
       "source_display": "How To",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3219,6 +3229,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
