@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11631,
-  "provisional_matches": 503,
-  "new_matches_with_programmes": 488,
-  "remaining_unmatched": 310,
+  "candidate_names_loaded": 11669,
+  "provisional_matches": 504,
+  "new_matches_with_programmes": 489,
+  "remaining_unmatched": 309,
   "combined_match_rate_percent": 63.8,
-  "programmes_added": 29417,
+  "programmes_added": 31684,
   "source_programmes": {
-    "pluto": 2075,
-    "samsung": 1079,
-    "roku": 10269,
-    "plex_mjh": 2639,
+    "pluto": 2117,
+    "samsung": 1073,
+    "roku": 10410,
+    "plex_mjh": 4729,
     "canada": 4414,
     "uk": 1797,
     "whaletv": 640,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 926924
+      "bytes": 935472
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 510883
+      "bytes": 512671
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1378,
-      "bytes": 3203810
+      "candidate_names": 1416,
+      "bytes": 3282411
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 1456614
+      "bytes": 2341521
     }
   ],
   "matches": [
@@ -2103,6 +2103,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: MODERN MARVELS RAW",
+      "base_name": "MODERN MARVELS",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "f2ad636c723a58b78276ee28f5edba58",
+      "source_display": "Modern Marvels",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: MONSTER JAM RAW",
       "base_name": "MONSTER JAM",
       "stream_id": "",
@@ -3233,16 +3243,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -4129,6 +4129,16 @@
       "source": "roku",
       "epg_id": "1c235612cec3540f85bb5e2bf7982047",
       "source_display": "Are We There Yet?",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: AX MEN RAW",
+      "base_name": "AX MEN",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "363db0b37f315e52b2ba9e1015f417b5",
+      "source_display": "Ax Men",
       "score": 100.0,
       "method": "pass3-exact"
     },
