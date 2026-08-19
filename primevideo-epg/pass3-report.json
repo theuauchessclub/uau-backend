@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 804,
-  "candidate_names_loaded": 11669,
-  "provisional_matches": 506,
-  "new_matches_with_programmes": 492,
+  "starting_unmatched": 803,
+  "candidate_names_loaded": 11671,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 491,
   "remaining_unmatched": 307,
   "combined_match_rate_percent": 64.0,
-  "programmes_added": 30543,
+  "programmes_added": 30657,
   "source_programmes": {
-    "pluto": 2101,
-    "samsung": 1114,
-    "roku": 10305,
-    "plex_mjh": 4120,
+    "pluto": 2145,
+    "samsung": 1094,
+    "roku": 10298,
+    "plex_mjh": 4217,
     "canada": 4419,
     "uk": 1802,
     "whaletv": 510,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 929947
+      "bytes": 922518
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1156,
-      "bytes": 507715
+      "bytes": 514876
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1418,
-      "bytes": 3276200
+      "candidate_names": 1420,
+      "bytes": 3307024
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2033611
+      "bytes": 1954202
     }
   ],
   "matches": [
@@ -3249,16 +3249,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
