@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11671,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 488,
-  "remaining_unmatched": 310,
-  "combined_match_rate_percent": 63.7,
-  "programmes_added": 29577,
+  "candidate_names_loaded": 11669,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 490,
+  "remaining_unmatched": 308,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 30743,
   "source_programmes": {
-    "pluto": 2036,
-    "samsung": 1112,
-    "roku": 10202,
-    "plex_mjh": 4061,
+    "pluto": 1728,
+    "samsung": 1081,
+    "roku": 10169,
+    "plex_mjh": 5599,
     "canada": 4567,
     "uk": 1815,
     "whaletv": 494,
@@ -79,26 +79,26 @@
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 846,
-      "bytes": 921386
+      "candidate_names": 842,
+      "bytes": 789230
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1156,
-      "bytes": 512342
+      "bytes": 512210
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1418,
-      "bytes": 3337139
+      "candidate_names": 1420,
+      "bytes": 3357692
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1374,
-      "bytes": 1994399
+      "bytes": 2566019
     }
   ],
   "matches": [
@@ -749,6 +749,16 @@
       "source": "pluto",
       "epg_id": "5eb1b05ea168cc000767ba67",
       "source_display": "CBS News Philadelphia",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: CBS NEWS PITTSBURGH RAW",
+      "base_name": "CBS NEWS PITTSBURGH",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5eb1b17aa5277e00083f6521",
+      "source_display": "CBS News Pittsburgh",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3229,6 +3239,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
