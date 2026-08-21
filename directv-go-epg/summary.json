@@ -3,19 +3,19 @@
   "matched_channels": 271,
   "unmatched_channels": 41,
   "match_rate_percent": 86.9,
-  "programmes_written": 25852,
+  "programmes_written": 25315,
   "source_status": [
     {
       "source": "us2",
       "ok": true,
       "channels": 763,
-      "programmes": 78777
+      "programmes": 78194
     },
     {
       "source": "locals",
       "ok": true,
       "channels": 4452,
-      "programmes": 571041
+      "programmes": 557686
     },
     {
       "source": "usent",
@@ -32,32 +32,32 @@
     {
       "source": "prime",
       "ok": true,
-      "channels": 657,
-      "programmes": 50745
+      "channels": 659,
+      "programmes": 51871
     },
     {
       "source": "pluto",
       "ok": true,
       "channels": 421,
-      "programmes": 7094
+      "programmes": 8211
     },
     {
       "source": "samsung",
       "ok": true,
       "channels": 578,
-      "programmes": 4916
+      "programmes": 4906
     },
     {
       "source": "plex",
       "ok": true,
-      "channels": 687,
-      "programmes": 50957
+      "channels": 688,
+      "programmes": 40399
     },
     {
       "source": "roku",
       "ok": true,
-      "channels": 710,
-      "programmes": 65121
+      "channels": 708,
+      "programmes": 64911
     }
   ]
 }
