@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11667,
+  "candidate_names_loaded": 11673,
   "provisional_matches": 505,
-  "new_matches_with_programmes": 490,
-  "remaining_unmatched": 308,
-  "combined_match_rate_percent": 63.9,
-  "programmes_added": 29864,
+  "new_matches_with_programmes": 489,
+  "remaining_unmatched": 309,
+  "combined_match_rate_percent": 63.8,
+  "programmes_added": 29364,
   "source_programmes": {
-    "pluto": 2098,
-    "samsung": 1077,
-    "roku": 10158,
-    "plex_mjh": 4983,
+    "pluto": 2052,
+    "samsung": 1063,
+    "roku": 10189,
+    "plex_mjh": 4512,
     "canada": 4501,
     "uk": 1825,
     "whaletv": 556,
@@ -79,26 +79,26 @@
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 842,
-      "bytes": 928342
+      "candidate_names": 846,
+      "bytes": 895319
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1156,
-      "bytes": 505222
+      "bytes": 496335
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1418,
-      "bytes": 3339269
+      "candidate_names": 1420,
+      "bytes": 3375603
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1374,
-      "bytes": 2411414
+      "bytes": 2086463
     }
   ],
   "matches": [
@@ -749,16 +749,6 @@
       "source": "pluto",
       "epg_id": "5eb1b05ea168cc000767ba67",
       "source_display": "CBS News Philadelphia",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: CBS NEWS PITTSBURGH RAW",
-      "base_name": "CBS NEWS PITTSBURGH",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5eb1b17aa5277e00083f6521",
-      "source_display": "CBS News Pittsburgh",
       "score": 100.0,
       "method": "pass3-exact"
     },
