@@ -1,9 +1,9 @@
 {
   "channels_total": 955,
-  "channels_matched": 695,
-  "channels_unmatched": 260,
-  "match_rate_percent": 72.8,
-  "programmes_written": 61173,
+  "channels_matched": 679,
+  "channels_unmatched": 276,
+  "match_rate_percent": 71.1,
+  "programmes_written": 60243,
   "source_status": [
     {
       "source": "us2",
@@ -22,8 +22,9 @@
     },
     {
       "source": "plex",
-      "ids": 693,
-      "ok": true
+      "ids": 0,
+      "ok": false,
+      "error": "522 Server Error: <none> for url: https://epgshare01.online/epgshare01/epg_ripper_PLEX1.txt"
     },
     {
       "source": "peacock",
@@ -34,32 +35,31 @@
   "source_programmes": {
     "us2": 10680,
     "locals": 6559,
-    "plex": 2397,
-    "amazon_direct": 26701,
-    "pass3_pluto": 975,
-    "pass3_roku": 6873,
-    "pass3_plex_mjh": 3074,
-    "pass3_samsung": 671,
-    "pass3_canada": 4383,
+    "amazon_direct": 27564,
+    "pass3_pluto": 992,
+    "pass3_roku": 7202,
+    "pass3_plex_mjh": 2790,
+    "pass3_samsung": 725,
+    "pass3_canada": 4258,
     "pass3_whaletv": 241,
-    "pass3_fanduel": 204,
-    "pass3_rakuten": 646,
-    "pass3_australia": 2221,
+    "pass3_fanduel": 206,
+    "pass3_rakuten": 180,
+    "pass3_australia": 2200,
     "pass3_distro": 0,
     "pass3_uk": 1480
   },
-  "amazon_direct_channels": 257,
-  "amazon_direct_programmes": 26701,
-  "pass3_new_channels": 332,
-  "pass3_programmes": 20768,
+  "amazon_direct_channels": 256,
+  "amazon_direct_programmes": 27564,
+  "pass3_new_channels": 328,
+  "pass3_programmes": 20274,
   "catalog_entries_total": 1032,
   "catalog_unique_channels": 955,
   "duplicate_catalog_entries": 77,
-  "matched_unique_channels": 695,
-  "unmatched_unique_channels": 260,
-  "unique_match_rate_percent": 72.8,
-  "covered_catalog_entries": 760,
-  "entry_coverage_percent": 73.6,
-  "unmatched_report_rows": 272,
-  "unmatched_report_unique_names": 260
+  "matched_unique_channels": 679,
+  "unmatched_unique_channels": 276,
+  "unique_match_rate_percent": 71.1,
+  "covered_catalog_entries": 742,
+  "entry_coverage_percent": 71.9,
+  "unmatched_report_rows": 290,
+  "unmatched_report_unique_names": 276
 }
