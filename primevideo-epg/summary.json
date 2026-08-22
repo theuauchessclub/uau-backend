@@ -1,9 +1,9 @@
 {
   "channels_total": 955,
-  "channels_matched": 679,
-  "channels_unmatched": 276,
-  "match_rate_percent": 71.1,
-  "programmes_written": 60243,
+  "channels_matched": 642,
+  "channels_unmatched": 313,
+  "match_rate_percent": 67.2,
+  "programmes_written": 49654,
   "source_status": [
     {
       "source": "us2",
@@ -22,9 +22,8 @@
     },
     {
       "source": "plex",
-      "ids": 0,
-      "ok": false,
-      "error": "522 Server Error: <none> for url: https://epgshare01.online/epgshare01/epg_ripper_PLEX1.txt"
+      "ids": 693,
+      "ok": true
     },
     {
       "source": "peacock",
@@ -34,32 +33,35 @@
   ],
   "source_programmes": {
     "us2": 10680,
-    "locals": 6559,
-    "amazon_direct": 27564,
-    "pass3_pluto": 992,
-    "pass3_roku": 7202,
-    "pass3_plex_mjh": 2790,
-    "pass3_samsung": 725,
-    "pass3_canada": 4258,
-    "pass3_whaletv": 241,
+    "locals": 6497,
+    "plex": 2415,
+    "amazon_direct": 3770,
+    "pass3_pluto": 2115,
+    "pass3_samsung": 1096,
+    "pass3_roku": 10247,
+    "pass3_plex_mjh": 4602,
+    "pass3_canada": 4371,
+    "pass3_uk": 1826,
+    "pass3_whaletv": 411,
     "pass3_fanduel": 206,
     "pass3_rakuten": 180,
-    "pass3_australia": 2200,
+    "pass3_australia": 3362,
     "pass3_distro": 0,
-    "pass3_uk": 1480
+    "pass3_mexico": 43,
+    "pass3_tbnplus": 290
   },
-  "amazon_direct_channels": 256,
-  "amazon_direct_programmes": 27564,
-  "pass3_new_channels": 328,
-  "pass3_programmes": 20274,
+  "amazon_direct_channels": 54,
+  "amazon_direct_programmes": 3770,
+  "pass3_new_channels": 472,
+  "pass3_programmes": 28749,
   "catalog_entries_total": 1032,
   "catalog_unique_channels": 955,
   "duplicate_catalog_entries": 77,
-  "matched_unique_channels": 679,
-  "unmatched_unique_channels": 276,
-  "unique_match_rate_percent": 71.1,
-  "covered_catalog_entries": 742,
-  "entry_coverage_percent": 71.9,
-  "unmatched_report_rows": 290,
-  "unmatched_report_unique_names": 276
+  "matched_unique_channels": 642,
+  "unmatched_unique_channels": 313,
+  "unique_match_rate_percent": 67.2,
+  "covered_catalog_entries": 705,
+  "entry_coverage_percent": 68.3,
+  "unmatched_report_rows": 327,
+  "unmatched_report_unique_names": 313
 }
