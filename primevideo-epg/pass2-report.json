@@ -1,237 +1,93 @@
 {
   "collector": {
     "source": "Prime Video public Live TV pages (Pass 2B pagination crawl)",
-    "collected_at": "2026-08-23T03:03:04.975932-04:00",
+    "collected_at": "2026-08-23T09:03:43.413572-04:00",
     "seed_url": "https://www.primevideo.com/livetv?tr=us&language=en_US",
     "http_ok": true,
-    "pages_fetched": 3,
-    "pagination_links_discovered": 2,
-    "channel_images_found": 119,
-    "channels_with_schedule": 116,
-    "programmes": 7778,
+    "pages_fetched": 2,
+    "pagination_links_discovered": 1,
+    "channel_images_found": 52,
+    "channels_with_schedule": 51,
+    "programmes": 2542,
     "channels": [
       "40 y 20",
-      "AMC",
-      "AMC +",
-      "Amor Real",
-      "Animation Favorites",
-      "BBC America",
-      "BET x Tyler Perry Comedy",
-      "Big Ten Network",
-      "Black Voices",
-      "CNN International",
-      "CNN Originals",
-      "CNN Stream",
-      "CSI",
-      "Cinemax Action",
-      "Cinemax Classics",
-      "Cinemax HD East",
-      "Cinemax Hits",
-      "Cinemax West",
+      "ADN 40",
+      "Antena 3 Internacional",
+      "Atrescine",
+      "Atreseries",
+      "Azteca Uno",
+      "Bloomberg TV Latin America",
+      "Canal 5",
+      "Canal Claro",
+      "Cine de Oro",
+      "Cinema",
+      "Claro Cinema",
+      "Claro Concert",
+      "Claro Networks",
+      "Clic",
       "Como Dice el Dicho",
-      "Dateline 24/7",
-      "Encore",
-      "Encore Action",
-      "FOX 5 Washington, DC",
-      "FOX Business",
-      "FOX Deportes",
-      "FOX News Channel",
-      "FOX News Talk",
-      "FOX Soul",
-      "FOX Weather",
-      "FS1",
-      "FS2",
-      "Fox 5 Plus",
-      "Fox Justice",
-      "Fox Weather",
-      "France24 EN",
-      "France24 ES",
-      "France24 FR",
-      "HBO",
-      "HBO Comedy",
-      "HBO Drama",
-      "HBO Hits",
-      "HBO Latino",
-      "HBO Movies",
-      "HBO West",
-      "HuntStream",
-      "IFC",
-      "ION",
-      "IShowSpeed",
-      "Judy Justice",
-      "Kids & Family Fun",
+      "Corazon",
+      "Distrito Comedia",
+      "FOX One",
+      "Fox Sports",
+      "Fox Sports 2",
+      "Fox Sports 3",
+      "Fox Sports Premium",
+      "Golden",
+      "Golden Edge",
+      "Golden Multiplex",
+      "JAJAJA",
       "La Rosa de Guadalupe",
-      "La fea más bella",
-      "Law & Order",
-      "LiveNOW by FOX",
-      "Lo mejor de Liga MX",
+      "Las 3 Marias",
       "Lo que la vida me robó",
-      "MAX Latino East",
-      "MGM+",
-      "MGM+ DRIVE-IN",
-      "MGM+ HITS",
-      "MGM+ MARQUEE",
-      "MLB Network",
-      "MLF and Bass Channel",
-      "MPT/Maryland Public Television (PBS WMPB)",
-      "Monumental Sports Network",
-      "Murder, She Wrote",
-      "N+ Univision 24/7",
-      "NBA TV HDTV",
-      "NBC Boston News",
-      "NBC Chicago News",
-      "NBC LA News",
-      "NBC New York News",
-      "NBC News Now",
-      "NBC Philadelphia News",
-      "NBC South Florida News",
-      "NBC Sports on Peacock",
+      "Milenio TV",
+      "Mundo",
+      "N+",
+      "N+ Foro",
+      "NBA TV International",
       "Nosotros los Guapos",
-      "PAW Patrol",
-      "Premier League TV",
-      "REELZ by Reelz+",
-      "Reality TV: Shores",
-      "RuPaul's Drag Race",
-      "SNL Vault",
-      "ScreenPix",
-      "ScreenPix Action",
-      "ScreenPix Voices",
-      "ScreenPix Westerns HD",
-      "Scripps News",
-      "Showtime",
-      "Showtime West",
-      "Sortilegio",
-      "South Park",
-      "SpongeBob SquarePants Universe",
-      "Star Trek",
-      "Starz Cinema",
-      "Starz Comedy",
-      "Starz East",
-      "Starz Edge",
-      "Starz Kids & Family",
-      "Starz West",
-      "Starz in Black",
-      "Sundance TV",
-      "Survivor",
-      "Teresa",
-      "The Challenge",
-      "The First 48 by A&E",
-      "The Incredible Dr. Pol",
-      "The Walking Dead Channel",
+      "TUDN",
+      "Una Familia de Diez",
+      "Unicable",
+      "Universal Cinema",
+      "Universal Comedy",
+      "Universal Crime",
+      "Universal Premiere",
+      "Universal Reality",
       "Vecinos",
       "ViX Música",
-      "WETA (PBS WETA)",
-      "WHUT - Howard University Television (PBS WHUT)",
-      "WRC by Peacock",
-      "beIN SPORTS",
-      "beIN SPORTS en Español",
-      "pixl"
+      "las estrellas",
+      "las estrellas -1 HORA",
+      "las estrellas -2 HORAS",
+      "tlnovelas",
+      "¡HOLA! TV"
     ],
     "page_urls": [
       "https://www.primevideo.com/livetv?tr=us&language=en_US",
-      "https://www.primevideo.com/livetv?ref_=atv_hm_nxt_2&serviceToken=v0_Cl0KJDZlODU5ZWVlLWM1MTctNGI2YS1iYWE0LWQxNjk5NjRkYzdmZBCosLjrgjQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAoSiQ1NjRkNGNjMS05YjJlLTQwMTEtYTQ2MC0zZmFjY2VkMmY0MzJSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA0OTY0MTA5YmVhMmMyZjVmNWFhODNjMzFmYjA3ZjY5ZTkzMjBmNjk4N2U1MzgyZmUwMmRlMjBmZjEyMDQyYTZhIn16tgIqKjI6TFJDMEY2OERDNTFGNzYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkExN0QzRjVEN0Y0OSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSMjBCNjhFMjE1RTgyIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIzRDNGNzE4REUwNTcjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkM2MzREMDUzNDc3NCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNkFDRkNDODVBMTk2IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI5MEM3NDI0M0QwOEEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTTAHggEGMABQAHAA&startIndex=13&tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&page=2",
-      "https://www.primevideo.com/livetv?tr=us&page=3&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&ref_=atv_hm_nxt_3&serviceToken=v0_Cl0KJGEzZTA1MjM1LWJiYWEtNGYyZC1iYjE2LWZkNGU4ZGQwZTYxOBDgx7jrgjQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAoSiQ1NjRkNGNjMS05YjJlLTQwMTEtYTQ2MC0zZmFjY2VkMmY0MzJSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA0OTY0MTA5YmVhMmMyZjVmNWFhODNjMzFmYjA3ZjY5ZTkzMjBmNjk4N2U1MzgyZmUwMmRlMjBmZjEyMDQyYTZhIn16jgMqKjI6TFJBM0JGOTYxNjNEOEQjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkMyRkRBODIzNDJBQiMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNzVGRjhDMzBDMTdCIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIwRkRBMDhEQTRFRDYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjczNTExNDlEMjhGOSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNEFFN0I2NEFCOTlEIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFJEMkM4RjNGNzdGOUMjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkYwQzU0MzdDM0FCQyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNTY2RDcyMzAxNDk1IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0wEIIBBjAAUABwAA%3D%3D&startIndex=27"
+      "https://www.primevideo.com/livetv?ref_=atv_hm_nxt_2&tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&startIndex=11&pageSize=14&page=2&serviceToken=v0_Cl0KJDNiYTVkMDAzLWFjNzgtNGY1My04YTU3LTY2MWRhOWY5ZTNmNBCYh-H1gjQaLGRiUXZLSUgvWlNob1RBdmlHREgxY1NmVW1GeExRYThzN1JmQlp0TUNpbk09IAESBXZwYWdlGAAyBmNlbnRlckAUSiRjMDIzZGRiYy05ZmRiLTQxOGUtOTJlMS0wMDNhN2EyYzAyODJSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVBkZjliMzdhZGFhYTJkOGY2NDYxNDAyOGE5MmU4YTk5Mjk5MTMzODIwNTNmM2I4NzQ2YTgyZTY0ZDgzMDMzY2RiIn16tgIqKjE6MTMwR0hNRExNRFRUV0IjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjNEOUIxMTUxMTBFNyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNEE3OUQyRjUwQTFEIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI2RDBBNTA5QjRGMTYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjlCOEI4MUVBNzAzMSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSODlDNEMyQzhCRjkwIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI1NkI2MDJBMUEzN0IjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTTAHggEGMABQAHAA"
     ],
     "errors": []
   },
-  "direct_matches": 54,
-  "direct_programmes": 3801,
-  "new_channel_declarations": 31,
-  "rejected_amazon_channels": [
-    {
-      "amazon_name": "Fox Weather",
-      "best_score": 100.0,
-      "target": "PRIME: FOX WEATHER RAW"
-    }
-  ],
+  "direct_matches": 7,
+  "direct_programmes": 528,
+  "new_channel_declarations": 5,
+  "rejected_amazon_channels": [],
   "matches": [
     {
-      "amazon_id": "amazon::AMC",
-      "amazon_name": "AMC",
-      "target": "PRIME: AMC RAW",
-      "score": 100.0,
-      "method": "amazon-fuzzy",
-      "programmes": 38
-    },
-    {
-      "amazon_id": "amazon::AMC +",
-      "amazon_name": "AMC +",
-      "target": "PRIME: AMC + RAW",
+      "amazon_id": "amazon::Atreseries",
+      "amazon_name": "Atreseries",
+      "target": "PRIME: ATRESERIES RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 38
+      "programmes": 27
     },
     {
-      "amazon_id": "amazon::Animation Favorites",
-      "amazon_name": "Animation Favorites",
-      "target": "PRIME: ANIMATION FAVORITES RAW",
+      "amazon_id": "amazon::Cine de Oro",
+      "amazon_name": "Cine de Oro",
+      "target": "PRIME: CINE DE ORO RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::BBC America",
-      "amazon_name": "BBC America",
-      "target": "PRIME: BBC AMERICA RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 38
-    },
-    {
-      "amazon_id": "amazon::BET x Tyler Perry Comedy",
-      "amazon_name": "BET x Tyler Perry Comedy",
-      "target": "PRIME: BET X TYLER PERRY COMEDY RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::Black Voices",
-      "amazon_name": "Black Voices",
-      "target": "PRIME: BLACK VOICES RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::CNN International",
-      "amazon_name": "CNN International",
-      "target": "PRIME: CNN INTERNATIONAL RAW",
-      "score": 100.0,
-      "method": "amazon-fuzzy",
-      "programmes": 12
-    },
-    {
-      "amazon_id": "amazon::CNN Originals",
-      "amazon_name": "CNN Originals",
-      "target": "PRIME: CNN ORIGINALS RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 12
-    },
-    {
-      "amazon_id": "amazon::CSI",
-      "amazon_name": "CSI",
-      "target": "PRIME: CSI RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::Cinemax HD East",
-      "amazon_name": "Cinemax HD East",
-      "target": "PRIME: CINEMAX EAST RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 13
-    },
-    {
-      "amazon_id": "amazon::Cinemax West",
-      "amazon_name": "Cinemax West",
-      "target": "PRIME: CINEMAX WEST RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 13
+      "programmes": 113
     },
     {
       "amazon_id": "amazon::Como Dice el Dicho",
@@ -239,344 +95,40 @@
       "target": "PRIME: COMO DICE EL DICHO RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 98
+      "programmes": 113
     },
     {
-      "amazon_id": "amazon::Dateline 24/7",
-      "amazon_name": "Dateline 24/7",
-      "target": "PRIME: DATELINE 24/7 RAW",
+      "amazon_id": "amazon::JAJAJA",
+      "amazon_name": "JAJAJA",
+      "target": "PRIME: JAJAJA RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 113
+    },
+    {
+      "amazon_id": "amazon::Las 3 Marias",
+      "amazon_name": "Las 3 Marias",
+      "target": "PRIME: LAS 3 MARIAS RAW",
+      "score": 100.0,
+      "method": "amazon-exact",
+      "programmes": 113
+    },
+    {
+      "amazon_id": "amazon::NBA TV International",
+      "amazon_name": "NBA TV International",
+      "target": "PRIME: NBA TV INTERNATIONAL RAW",
       "score": 100.0,
       "method": "amazon-fuzzy",
-      "programmes": 102
+      "programmes": 5
     },
     {
-      "amazon_id": "amazon::FOX 5 Washington, DC",
-      "amazon_name": "FOX 5 Washington, DC",
-      "target": "PRIME: FOX 5 WASHINGTON DC RAW",
+      "amazon_id": "amazon::Universal Crime",
+      "amazon_name": "Universal Crime",
+      "target": "PRIME: UNIVERSAL CRIME RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 63
-    },
-    {
-      "amazon_id": "amazon::FOX Soul",
-      "amazon_name": "FOX Soul",
-      "target": "PRIME: FOX SOUL RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 63
-    },
-    {
-      "amazon_id": "amazon::FOX Weather",
-      "amazon_name": "FOX Weather",
-      "target": "PRIME: FOX WEATHER RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 63
-    },
-    {
-      "amazon_id": "amazon::HBO",
-      "amazon_name": "HBO",
-      "target": "PRIME: HBO RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 33
-    },
-    {
-      "amazon_id": "amazon::HBO Comedy",
-      "amazon_name": "HBO Comedy",
-      "target": "PRIME: HBO COMEDY RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 33
-    },
-    {
-      "amazon_id": "amazon::HBO Latino",
-      "amazon_name": "HBO Latino",
-      "target": "PRIME: HBO LATINO RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 33
-    },
-    {
-      "amazon_id": "amazon::HBO West",
-      "amazon_name": "HBO West",
-      "target": "PRIME: HBO WEST RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 33
-    },
-    {
-      "amazon_id": "amazon::IFC",
-      "amazon_name": "IFC",
-      "target": "PRIME: IFC RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 38
-    },
-    {
-      "amazon_id": "amazon::ION",
-      "amazon_name": "ION",
-      "target": "PRIME: ION RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::Judy Justice",
-      "amazon_name": "Judy Justice",
-      "target": "PRIME: JUDY JUSTICE RAW",
-      "score": 100.0,
-      "method": "amazon-fuzzy",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::Kids & Family Fun",
-      "amazon_name": "Kids & Family Fun",
-      "target": "PRIME: KIDS & FAMILY FUN RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::LiveNOW by FOX",
-      "amazon_name": "LiveNOW by FOX",
-      "target": "PRIME: LIVE NOW BY FOX RAW",
-      "score": 99.0,
-      "method": "amazon-compact",
-      "programmes": 75
-    },
-    {
-      "amazon_id": "amazon::MAX Latino East",
-      "amazon_name": "MAX Latino East",
-      "target": "PRIME: MAX LATINO EAST RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 13
-    },
-    {
-      "amazon_id": "amazon::MGM+",
-      "amazon_name": "MGM+",
-      "target": "PRIME: MGM+ RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 11
-    },
-    {
-      "amazon_id": "amazon::MGM+ DRIVE-IN",
-      "amazon_name": "MGM+ DRIVE-IN",
-      "target": "PRIME: MGM+ DRIVE-IN RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 11
-    },
-    {
-      "amazon_id": "amazon::MGM+ HITS",
-      "amazon_name": "MGM+ HITS",
-      "target": "PRIME: MGM+ HITS RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 11
-    },
-    {
-      "amazon_id": "amazon::MGM+ MARQUEE",
-      "amazon_name": "MGM+ MARQUEE",
-      "target": "PRIME: MGM+ MARQUEE RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 11
-    },
-    {
-      "amazon_id": "amazon::MLB Network",
-      "amazon_name": "MLB Network",
-      "target": "PRIME: MLB RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 7
-    },
-    {
-      "amazon_id": "amazon::Murder, She Wrote",
-      "amazon_name": "Murder, She Wrote",
-      "target": "PRIME: MURDER, SHE WROTE RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::NBA TV HDTV",
-      "amazon_name": "NBA TV HDTV",
-      "target": "PRIME: NBA TV HDTV RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 3
-    },
-    {
-      "amazon_id": "amazon::NBC News Now",
-      "amazon_name": "NBC News Now",
-      "target": "PRIME: NBC NEWS NOW RAW",
-      "score": 100.0,
-      "method": "amazon-fuzzy",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::PAW Patrol",
-      "amazon_name": "PAW Patrol",
-      "target": "PRIME: PAW PATROL RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::Reality TV: Shores",
-      "amazon_name": "Reality TV: Shores",
-      "target": "PRIME: REALITY TV: SHORES RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::RuPaul's Drag Race",
-      "amazon_name": "RuPaul's Drag Race",
-      "target": "PRIME: RUPAUL'S DRAG RACE RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::SNL Vault",
-      "amazon_name": "SNL Vault",
-      "target": "PRIME: SNL VAULT RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::ScreenPix",
-      "amazon_name": "ScreenPix",
-      "target": "PRIME: SCREENPIX RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 13
-    },
-    {
-      "amazon_id": "amazon::ScreenPix Action",
-      "amazon_name": "ScreenPix Action",
-      "target": "PRIME: SCREENPIX ACTION RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 13
-    },
-    {
-      "amazon_id": "amazon::ScreenPix Voices",
-      "amazon_name": "ScreenPix Voices",
-      "target": "PRIME: SCREENPIX VOICES RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 13
-    },
-    {
-      "amazon_id": "amazon::ScreenPix Westerns HD",
-      "amazon_name": "ScreenPix Westerns HD",
-      "target": "PRIME: SCREENPIX WESTERNS RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 13
-    },
-    {
-      "amazon_id": "amazon::Scripps News",
-      "amazon_name": "Scripps News",
-      "target": "PRIME: SCRIPPS NEWS RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::Showtime",
-      "amazon_name": "Showtime",
-      "target": "PRIME: SHOWTIME RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 3
-    },
-    {
-      "amazon_id": "amazon::Showtime West",
-      "amazon_name": "Showtime West",
-      "target": "PRIME: SHOWTIME WEST RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 3
-    },
-    {
-      "amazon_id": "amazon::SpongeBob SquarePants Universe",
-      "amazon_name": "SpongeBob SquarePants Universe",
-      "target": "PRIME: SPONGEBOB SQUAREPANTS UNIVERSE RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::Star Trek",
-      "amazon_name": "Star Trek",
-      "target": "PRIME: STAR TREK RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::Sundance TV",
-      "amazon_name": "Sundance TV",
-      "target": "PRIME: SUNDANCE TV RAW",
-      "score": 100.0,
-      "method": "amazon-fuzzy",
-      "programmes": 38
-    },
-    {
-      "amazon_id": "amazon::Survivor",
-      "amazon_name": "Survivor",
-      "target": "PRIME: SURVIVOR RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::The Challenge",
-      "amazon_name": "The Challenge",
-      "target": "PRIME: THE CHALLENGE RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 171
-    },
-    {
-      "amazon_id": "amazon::The First 48 by A&E",
-      "amazon_name": "The First 48 by A&E",
-      "target": "PRIME: THE FIRST 48 BY A&E RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::The Incredible Dr. Pol",
-      "amazon_name": "The Incredible Dr. Pol",
-      "target": "PRIME: THE INCREDIBLE DR. POL RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 102
-    },
-    {
-      "amazon_id": "amazon::The Walking Dead Channel",
-      "amazon_name": "The Walking Dead Channel",
-      "target": "PRIME: THE WALKING DEAD CHANNEL RAW",
-      "score": 100.0,
-      "method": "amazon-fuzzy",
-      "programmes": 38
-    },
-    {
-      "amazon_id": "amazon::pixl",
-      "amazon_name": "pixl",
-      "target": "PRIME: PIXL RAW",
-      "score": 100.0,
-      "method": "amazon-exact",
-      "programmes": 3
+      "programmes": 44
     }
   ],
-  "combined_match_rate_percent": 20.3
+  "combined_match_rate_percent": 17.8
 }

@@ -1,22 +1,22 @@
 {
-  "starting_unmatched": 803,
-  "candidate_names_loaded": 11667,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 470,
-  "remaining_unmatched": 329,
-  "combined_match_rate_percent": 62.0,
-  "programmes_added": 28821,
+  "starting_unmatched": 836,
+  "candidate_names_loaded": 11665,
+  "provisional_matches": 521,
+  "new_matches_with_programmes": 488,
+  "remaining_unmatched": 344,
+  "combined_match_rate_percent": 60.9,
+  "programmes_added": 27609,
   "source_programmes": {
-    "pluto": 2089,
-    "samsung": 1071,
-    "roku": 10252,
-    "plex_mjh": 4665,
+    "pluto": 1778,
+    "samsung": 1099,
+    "roku": 10262,
+    "plex_mjh": 3582,
     "canada": 4492,
     "uk": 1842,
     "whaletv": 314,
     "fanduel": 206,
     "rakuten": 180,
-    "australia": 3378,
+    "australia": 3522,
     "distro": 0,
     "mexico": 32,
     "tbnplus": 300
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 931887
+      "bytes": 756705
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1156,
-      "bytes": 505361
+      "bytes": 503495
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1418,
-      "bytes": 3369697
+      "candidate_names": 1416,
+      "bytes": 3351899
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1374,
-      "bytes": 2034578
+      "bytes": 1715632
     }
   ],
   "matches": [
@@ -803,16 +803,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: CINE DE ORO RAW",
-      "base_name": "CINE DE ORO",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD2700005KL",
-      "source_display": "Cine de Oro",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: CINE RETRO RAW",
       "base_name": "CINE RETRO",
       "stream_id": "",
@@ -869,6 +859,16 @@
       "source": "pluto",
       "epg_id": "5421f71da6af422839419cb3",
       "source_display": "CNN HEADLINES",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: CNN ORIGINALS RAW",
+      "base_name": "CNN ORIGINALS",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "66e0b4536ad04d0008fff4b2",
+      "source_display": "CNN Originals",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -983,6 +983,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: CSI RAW",
+      "base_name": "CSI",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5efbd29e4aa26700076c0d06",
+      "source_display": "CSI",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: CW FOREVER RAW",
       "base_name": "CW FOREVER",
       "stream_id": "",
@@ -1009,6 +1019,16 @@
       "source": "samsung",
       "epg_id": "USBC3900021HS",
       "source_display": "Dance Moms",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: DATELINE 24/7 RAW",
+      "base_name": "DATELINE 24/7",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "637413d8531e0c0007442d6d",
+      "source_display": "Dateline 24/7",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1349,6 +1369,16 @@
       "source": "pluto",
       "epg_id": "5bb1af6a268cae539bcedb0a",
       "source_display": "Forensic Files",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: FOX WEATHER RAW",
+      "base_name": "FOX WEATHER",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "640a68880e884c0009979cc2",
+      "source_display": "FOX Weather",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1753,6 +1783,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: ION RAW",
+      "base_name": "ION",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "65453f30085df200085883d8",
+      "source_display": "ION",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: ION PLUS RAW",
       "base_name": "ION PLUS",
       "stream_id": "",
@@ -2153,6 +2193,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: MURDER, SHE WROTE RAW",
+      "base_name": "MURDER, SHE WROTE",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "6549337183595c000815ad05",
+      "source_display": "Murder, She Wrote",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: MYSTERIOUS WORLDS RAW",
       "base_name": "MYSTERIOUS WORLDS",
       "stream_id": "",
@@ -2329,6 +2379,16 @@
       "source": "samsung",
       "epg_id": "USBB40000028E",
       "source_display": "NBC LX Home",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: NBC NEWS NOW RAW",
+      "base_name": "NBC NEWS NOW",
+      "stream_id": "",
+      "source": "australia",
+      "epg_id": "NBCNEWSNOW.au",
+      "source_display": "NBC NEWS NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2793,6 +2853,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: SNL VAULT RAW",
+      "base_name": "SNL VAULT",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "US1800012MT",
+      "source_display": "SNL Vault",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: SPACE & BEYOND RAW",
       "base_name": "SPACE & BEYOND",
       "stream_id": "",
@@ -2829,6 +2899,16 @@
       "source": "samsung",
       "epg_id": "USAJ3504705A",
       "source_display": "Stadium",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: STAR TREK RAW",
+      "base_name": "STAR TREK",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5efbd39f8c4ce900075d7698",
+      "source_display": "Star Trek",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2889,6 +2969,16 @@
       "source": "roku",
       "epg_id": "4b73f84b1b72b6d4883f972c3de7394e",
       "source_display": "Survive or Die",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: SURVIVOR RAW",
+      "base_name": "SURVIVOR",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5f21e7b24744c60007c1f6fc",
+      "source_display": "Survivor",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3006,9 +3096,19 @@
       "name": "PRIME: THE CAROL BURNETT SHOW RAW",
       "base_name": "THE CAROL BURNETT SHOW",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "e3cd976116d5578ab9be32baa738ade2",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-60d4edd6b2fdec002c141125",
       "source_display": "The Carol Burnett Show",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: THE CHALLENGE RAW",
+      "base_name": "THE CHALLENGE",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5d48685da7e9f476aa8a1888",
+      "source_display": "The Challenge",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3093,22 +3193,32 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: THE FIRST 48 BY A&E RAW",
+      "base_name": "THE FIRST 48 BY A&E",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "6887aaade3703b7d42b64be8",
+      "source_display": "The First 48 by A&E",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: THE INCREDIBLE DR. POL RAW",
+      "base_name": "THE INCREDIBLE DR. POL",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "US4100031FK",
+      "source_display": "The Incredible Dr. Pol",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: THE JACK HANNA CHANNEL RAW",
       "base_name": "THE JACK HANNA CHANNEL",
       "stream_id": "",
       "source": "samsung",
       "epg_id": "USBC2100009GT",
       "source_display": "The Jack Hanna Channel",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: THE JIM ROME SHOW RAW",
-      "base_name": "THE JIM ROME SHOW",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "US2900014UU",
-      "source_display": "The Jim Rome Show",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3533,6 +3643,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: XITE 60S & 70S GROOVE RAW",
+      "base_name": "XITE 60S & 70S GROOVE",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-688005bc015fe7e375a1a0aa",
+      "source_display": "XITE 60s & 70s Groove",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: XITE 80S FLASHBACK RAW",
       "base_name": "XITE 80S FLASHBACK",
       "stream_id": "",
@@ -3629,6 +3749,26 @@
       "source": "samsung",
       "epg_id": "USBD330000948",
       "source_display": "XITE R&B Classic Jams",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE R&B FEELS RAW",
+      "base_name": "XITE R&B FEELS",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
+      "source_display": "XITE R&B Feels",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE RAP GAME RAW",
+      "base_name": "XITE RAP GAME",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800b694033a6a442ad9239",
+      "source_display": "XITE Rap Game",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4183,6 +4323,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: DATELINE 24/7 RAW",
+      "base_name": "DATELINE 24/7",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBB5200007BY",
+      "source_display": "Dateline 24/7",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: DOG THE BOUNTY HUNTER RAW",
       "base_name": "DOG THE BOUNTY HUNTER",
       "stream_id": "",
@@ -4369,6 +4519,16 @@
       "source": "samsung",
       "epg_id": "USBC3900018K6",
       "source_display": "MyTime Movie Network",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: NBC NEWS NOW RAW",
+      "base_name": "NBC NEWS NOW",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5df97894467dfa00091c873c",
+      "source_display": "NBC News NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4643,6 +4803,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: DATELINE 24/7 RAW",
+      "base_name": "DATELINE 24/7",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "18c5f5feae8855baba4d1ccfd75be3db",
+      "source_display": "Dateline 24/7",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: FILMRISE TRUE CRIME RAW",
       "base_name": "FILMRISE TRUE CRIME",
       "stream_id": "",
@@ -4719,6 +4889,16 @@
       "source": "pluto",
       "epg_id": "5da0c85bd2c9c10009370984",
       "source_display": "Naruto",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: NBC NEWS NOW RAW",
+      "base_name": "NBC NEWS NOW",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBB2200014DK",
+      "source_display": "NBC News NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
