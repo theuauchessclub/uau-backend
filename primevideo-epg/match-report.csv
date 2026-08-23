@@ -225,7 +225,7 @@ PRIME: FANDUEL SPORTS NETWORK DETROIT RAW,FANDUEL SPORTS NETWORK DETROIT,,pass3_
 PRIME: FANDUEL SPORTS NETWORK EXTRA RAW,FANDUEL SPORTS NETWORK EXTRA,,pass3_fanduel,FanDuel.Sports.Network.Detroit.Extra.us,95.0,pass3-fuzzy
 PRIME: FARSCAPE RAW,FARSCAPE,,pass3_plex_mjh,6a1610bebdf296985fd95603-635195e9ccee3e1547a8831a,100.0,pass3-exact
 PRIME: FEAR FACTOR USA RAW,FEAR FACTOR USA,,pass3_samsung,USBB2300002Q6,95.0,pass3-fuzzy
-PRIME: FGTEEV RAW,FGTEEV,,amazon_direct,amazon::FGTeeV,100.0,amazon-exact
+PRIME: FGTEEV RAW,FGTEEV,,pass3_roku,e63d49e8acd7557596d091b3fa262999,100.0,pass3-exact
 PRIME: FIFA+ RAW,FIFA+,,pass3_samsung,USBD12000255B,100.0,pass3-exact
 PRIME: FIFTH GEAR RAW,FIFTH GEAR,,pass3_rakuten,NL:.Fifth.Gear.be,95.0,pass3-fuzzy
 PRIME: FILMRISE ACTION RAW,FILMRISE ACTION,,pass3_plex_mjh,6a1610bebdf296985fd95603-66ea0504c24d95b51b7cd189,100.0,pass3-exact
@@ -238,7 +238,6 @@ PRIME: FILMRISE WESTERNS RAW,FILMRISE WESTERNS,,amazon_direct,amazon::FilmRise W
 PRIME: FLAVOUR NETWORK RAW,FLAVOUR NETWORK,,pass3_canada,Flavour.Network.HD.ca2,100.0,pass3-exact
 PRIME: FOOD NETWORK RAW,FOOD NETWORK,,us2,Food.Network.HD.us2,98.0,exact
 PRIME: FORENSIC FILES RAW,FORENSIC FILES,,amazon_direct,amazon::Forensic Files,100.0,amazon-exact
-PRIME: FOX 2 SAN FRANCISCO RAW,FOX 2 SAN FRANCISCO,,amazon_direct,amazon::FOX 2 San Francisco,100.0,amazon-exact
 PRIME: FOX BALTIMORE NEWS (WBFF) RAW,FOX BALTIMORE NEWS (WBFF),,locals,WBFF-DT.us_locals1,99.0,callsign
 PRIME: FOX FORT MYERS NEWS (WFTX) RAW,FOX FORT MYERS NEWS (WFTX),,locals,WFTX-DT.us_locals1,99.0,callsign
 PRIME: FOX FRESNO NEWS (KMPH) RAW,FOX FRESNO NEWS (KMPH),,locals,KMPH-DT.us_locals1,99.0,callsign
@@ -255,7 +254,6 @@ PRIME: FX RAW,FX,,us2,FX.HD.us2,98.0,exact
 PRIME: FXX CANADA RAW,FXX CANADA,,pass3_canada,FXX.Canada.ca2,100.0,pass3-exact
 PRIME: GALANES RAW,GALANES,,pass3_samsung,USBD2700002DU,100.0,pass3-exact
 PRIME: GAME SHOW CENTRAL RAW,GAME SHOW CENTRAL,,amazon_direct,amazon::Game Show Central,100.0,amazon-exact
-PRIME: GAMEPLAY MINECRAFT RAW,GAMEPLAY MINECRAFT,,amazon_direct,amazon::Gameplay Minecraft,100.0,amazon-exact
 PRIME: GENERAL HOSPITAL RAW,GENERAL HOSPITAL,,pass3_roku,4b60ec5efcacd29014e53227575a3bdc,100.0,pass3-exact
 PRIME: GET COMEDY RAW,GET COMEDY,,pass3_samsung,US350000563,100.0,pass3-exact
 PRIME: GHOST HUNTERS RAW,GHOST HUNTERS,,amazon_direct,amazon::Ghost Hunters,100.0,amazon-fuzzy
@@ -498,6 +496,7 @@ PRIME: REBELDE RAW,REBELDE,,amazon_direct,amazon::Rebelde,100.0,amazon-exact
 PRIME: RED BULL RAW,RED BULL,,pass3_roku,c5e8a74546771de365652cd053f73351,95.0,pass3-fuzzy
 PRIME: RED BULL TV RAW,RED BULL TV,,pass3_rakuten,NL:.Red.Bull.TV.be,95.0,pass3-fuzzy
 PRIME: REELZ FAMOUS AND INFAMOUS RAW,REELZ FAMOUS AND INFAMOUS,,amazon_direct,amazon::REELZ Famous and Infamous,100.0,amazon-exact
+PRIME: REUTERS 60 RAW,REUTERS 60,,pass3_roku,a4ed8522d196587cbc82a399f95db51c,100.0,pass3-exact
 PRIME: RIFFTRAX RAW,RIFFTRAX,,pass3_pluto,58d947b9e420d8656ee101ab,100.0,pass3-exact
 PRIME: ROOKIE BLUE RAW,ROOKIE BLUE,,pass3_rakuten,DK:.Rookie.Blue.be,95.0,pass3-fuzzy
 PRIME: ROVR PETS RAW,ROVR PETS,,pass3_samsung,USBC2400024FN,100.0,pass3-exact
@@ -519,7 +518,7 @@ PRIME: SHADES OF BLACK RAW,SHADES OF BLACK,,amazon_direct,amazon::Shades of Blac
 PRIME: SHERIFFS: EL DORADO COUNTY RAW,SHERIFFS: EL DORADO COUNTY,,plex,plex.tv.Sheriffs:.El.Dorado.County.plex,95.0,fuzzy
 PRIME: SHOUT! MOVIES RAW,SHOUT! MOVIES,,pass3_plex_mjh,6a1610bebdf296985fd95603-67ddc2c01d30518241f9249d,100.0,pass3-exact
 PRIME: SHOWCASE RAW,SHOWCASE,,pass3_australia,Showcase.au,100.0,pass3-exact
-PRIME: SHOWTIME RAW,SHOWTIME,,us2,Showtime.2.HD.us2,95.0,fuzzy
+PRIME: SHOWTIME RAW,SHOWTIME,,amazon_direct,amazon::Showtime,100.0,amazon-exact
 PRIME: SILENT WITNESS & NEW TRICKS RAW,SILENT WITNESS & NEW TRICKS,,pass3_roku,e07a11be574e544a801fac1fc3e716f1,100.0,pass3-exact
 PRIME: SKY NEWS RAW,SKY NEWS,,amazon_direct,amazon::Sky News,100.0,amazon-exact
 PRIME: SLICE RAW,SLICE,,pass3_canada,SLICE.ca2,100.0,pass3-exact

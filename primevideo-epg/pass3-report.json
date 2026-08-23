@@ -1,23 +1,23 @@
 {
-  "starting_unmatched": 604,
-  "candidate_names_loaded": 11651,
-  "provisional_matches": 343,
-  "new_matches_with_programmes": 313,
-  "remaining_unmatched": 289,
-  "combined_match_rate_percent": 65.9,
-  "programmes_added": 19511,
+  "starting_unmatched": 607,
+  "candidate_names_loaded": 11669,
+  "provisional_matches": 344,
+  "new_matches_with_programmes": 315,
+  "remaining_unmatched": 290,
+  "combined_match_rate_percent": 65.8,
+  "programmes_added": 21135,
   "source_programmes": {
-    "pluto": 795,
-    "roku": 6741,
-    "plex_mjh": 2739,
-    "samsung": 671,
+    "pluto": 947,
+    "roku": 6914,
+    "plex_mjh": 4100,
+    "samsung": 665,
     "canada": 4258,
-    "whaletv": 241,
+    "whaletv": 169,
     "fanduel": 206,
     "rakuten": 180,
     "australia": 2200,
     "distro": 0,
-    "uk": 1480
+    "uk": 1496
   },
   "source_status": [
     {
@@ -48,13 +48,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 251831
+      "bytes": 220217
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 962,
-      "bytes": 2878366
+      "bytes": 2831121
     },
     {
       "source": "canada",
@@ -72,31 +72,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 354,
-      "bytes": 444914
+      "bytes": 447093
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 801501
+      "bytes": 934682
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1156,
-      "bytes": 496280
+      "bytes": 493796
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1402,
-      "bytes": 3359938
+      "candidate_names": 1420,
+      "bytes": 3383255
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1374,
-      "bytes": 1665538
+      "bytes": 2447793
     }
   ],
   "matches": [
@@ -869,6 +869,16 @@
       "source_display": "Fear Factor",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: FGTEEV RAW",
+      "base_name": "FGTEEV",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "e63d49e8acd7557596d091b3fa262999",
+      "source_display": "FGTeeV",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: FIFTH GEAR RAW",
@@ -1789,6 +1799,16 @@
       "source_display": "Red Bull TV",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: REUTERS 60 RAW",
+      "base_name": "REUTERS 60",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "a4ed8522d196587cbc82a399f95db51c",
+      "source_display": "Reuters 60",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: RIFFTRAX RAW",
