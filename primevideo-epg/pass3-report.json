@@ -1,19 +1,19 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11649,
+  "candidate_names_loaded": 11667,
   "provisional_matches": 504,
   "new_matches_with_programmes": 471,
-  "remaining_unmatched": 327,
-  "combined_match_rate_percent": 62.2,
-  "programmes_added": 28526,
+  "remaining_unmatched": 328,
+  "combined_match_rate_percent": 62.1,
+  "programmes_added": 28943,
   "source_programmes": {
-    "pluto": 1748,
-    "samsung": 1070,
-    "roku": 10276,
-    "plex_mjh": 4688,
+    "pluto": 2103,
+    "samsung": 1092,
+    "roku": 10363,
+    "plex_mjh": 4755,
     "canada": 4492,
-    "uk": 1842,
-    "whaletv": 314,
+    "uk": 1851,
+    "whaletv": 191,
     "fanduel": 206,
     "rakuten": 180,
     "australia": 3378,
@@ -50,13 +50,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 220217
+      "bytes": 196902
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 962,
-      "bytes": 2831121
+      "bytes": 2773494
     },
     {
       "source": "canada",
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 806172
+      "bytes": 944451
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1156,
-      "bytes": 500217
+      "bytes": 506613
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1400,
-      "bytes": 3347808
+      "candidate_names": 1418,
+      "bytes": 3342547
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1374,
-      "bytes": 2269315
+      "bytes": 2199393
     }
   ],
   "matches": [
@@ -1733,16 +1733,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: IN TOUCH + RAW",
-      "base_name": "IN TOUCH +",
-      "stream_id": "",
-      "source": "whaletv",
-      "epg_id": "In.Touch.+.us",
-      "source_display": "In Touch +",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: INSIDE EDITION RAW",
       "base_name": "INSIDE EDITION",
       "stream_id": "",
@@ -2663,6 +2653,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: REUTERS 60 RAW",
+      "base_name": "REUTERS 60",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "a4ed8522d196587cbc82a399f95db51c",
+      "source_display": "Reuters 60",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: RIFFTRAX RAW",
       "base_name": "RIFFTRAX",
       "stream_id": "",
@@ -3229,16 +3229,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4196,8 +4186,8 @@
       "name": "PRIME: CNN HEADLINES RAW",
       "base_name": "CNN HEADLINES",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545",
+      "source": "roku",
+      "epg_id": "42523afdfa3a0230d7268a238df5ef65",
       "source_display": "CNN Headlines",
       "score": 100.0,
       "method": "pass3-exact"
@@ -4641,6 +4631,16 @@
       "source_display": "ES: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: CNN HEADLINES RAW",
+      "base_name": "CNN HEADLINES",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545",
+      "source_display": "CNN Headlines",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: CRIME + INVESTIGATION PLAY RAW",
