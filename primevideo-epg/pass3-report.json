@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11743,
-  "provisional_matches": 510,
+  "candidate_names_loaded": 11741,
+  "provisional_matches": 509,
   "new_matches_with_programmes": 496,
   "remaining_unmatched": 302,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 31714,
+  "programmes_added": 31518,
   "source_programmes": {
-    "pluto": 2101,
-    "samsung": 1102,
-    "roku": 10259,
-    "plex_mjh": 4639,
+    "pluto": 2092,
+    "samsung": 1091,
+    "roku": 10432,
+    "plex_mjh": 4290,
     "canada": 4435,
     "uk": 1847,
     "whaletv": 83,
@@ -79,26 +79,26 @@
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 846,
-      "bytes": 936803
+      "candidate_names": 842,
+      "bytes": 932346
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1156,
-      "bytes": 515133
+      "bytes": 508801
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1410,
-      "bytes": 3267317
+      "candidate_names": 1412,
+      "bytes": 3264990
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1374,
-      "bytes": 2180312
+      "bytes": 1956844
     }
   ],
   "matches": [
@@ -747,8 +747,18 @@
       "base_name": "CBS NEWS PHILADELPHIA",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "5eb1b05ea168cc000767ba67",
+      "epg_id": "62cdca1cda044a00077b903d",
       "source_display": "CBS News Philadelphia",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: CBS NEWS PITTSBURGH RAW",
+      "base_name": "CBS NEWS PITTSBURGH",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5eb1b17aa5277e00083f6521",
+      "source_display": "CBS News Pittsburgh",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -776,8 +786,8 @@
       "name": "PRIME: CHAOS ON CAM BY A&E RAW",
       "base_name": "CHAOS ON CAM BY A&E",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
+      "source": "roku",
+      "epg_id": "99e44ea6699928b32c444dce774b9b32",
       "source_display": "Chaos on Cam by A&E",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3219,16 +3229,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
