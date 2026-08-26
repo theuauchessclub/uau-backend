@@ -3,7 +3,7 @@
   "channels_matched": 661,
   "channels_unmatched": 294,
   "match_rate_percent": 69.2,
-  "programmes_written": 51701,
+  "programmes_written": 54205,
   "source_status": [
     {
       "source": "us2",
@@ -12,7 +12,7 @@
     },
     {
       "source": "locals",
-      "ids": 4452,
+      "ids": 4455,
       "ok": true
     },
     {
@@ -32,17 +32,17 @@
     }
   ],
   "source_programmes": {
-    "us2": 10886,
-    "locals": 6823,
+    "us2": 10847,
+    "locals": 6751,
     "plex": 2409,
-    "amazon_direct": 3455,
-    "pass3_pluto": 1243,
-    "pass3_samsung": 1069,
-    "pass3_roku": 10411,
-    "pass3_plex_mjh": 4282,
+    "amazon_direct": 3707,
+    "pass3_pluto": 2132,
+    "pass3_samsung": 1083,
+    "pass3_roku": 10456,
+    "pass3_plex_mjh": 5558,
     "pass3_canada": 4435,
-    "pass3_uk": 1847,
-    "pass3_whaletv": 83,
+    "pass3_uk": 1843,
+    "pass3_whaletv": 193,
     "pass3_fanduel": 176,
     "pass3_rakuten": 3395,
     "pass3_australia": 3350,
@@ -51,9 +51,9 @@
     "pass3_tbnplus": 298
   },
   "amazon_direct_channels": 54,
-  "amazon_direct_programmes": 3455,
+  "amazon_direct_programmes": 3707,
   "pass3_new_channels": 496,
-  "pass3_programmes": 30618,
+  "pass3_programmes": 32948,
   "catalog_entries_total": 1032,
   "catalog_unique_channels": 955,
   "duplicate_catalog_entries": 77,

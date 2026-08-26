@@ -1,19 +1,19 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11743,
+  "candidate_names_loaded": 11735,
   "provisional_matches": 510,
   "new_matches_with_programmes": 496,
   "remaining_unmatched": 302,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 30618,
+  "programmes_added": 32948,
   "source_programmes": {
-    "pluto": 1243,
-    "samsung": 1069,
-    "roku": 10411,
-    "plex_mjh": 4282,
+    "pluto": 2132,
+    "samsung": 1083,
+    "roku": 10456,
+    "plex_mjh": 5558,
     "canada": 4435,
-    "uk": 1847,
-    "whaletv": 83,
+    "uk": 1843,
+    "whaletv": 193,
     "fanduel": 176,
     "rakuten": 3395,
     "australia": 3350,
@@ -50,13 +50,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 203304
+      "bytes": 193922
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2748636
+      "bytes": 2755166
     },
     {
       "source": "canada",
@@ -79,26 +79,26 @@
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 846,
-      "bytes": 607158
+      "candidate_names": 842,
+      "bytes": 946851
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1156,
-      "bytes": 516379
+      "bytes": 508735
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1410,
-      "bytes": 3278351
+      "candidate_names": 1406,
+      "bytes": 3275345
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1374,
-      "bytes": 2161817
+      "bytes": 2412077
     }
   ],
   "matches": [
@@ -747,8 +747,18 @@
       "base_name": "CBS NEWS PHILADELPHIA",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "5eb1b05ea168cc000767ba67",
+      "epg_id": "62cdca1cda044a00077b903d",
       "source_display": "CBS News Philadelphia",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: CBS NEWS PITTSBURGH RAW",
+      "base_name": "CBS NEWS PITTSBURGH",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5eb1b17aa5277e00083f6521",
+      "source_display": "CBS News Pittsburgh",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -809,16 +819,6 @@
       "source": "samsung",
       "epg_id": "USBD2500022U5",
       "source_display": "Cine Retro",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: CIRQUE DU SOLEIL RAW",
-      "base_name": "CIRQUE DU SOLEIL",
-      "stream_id": "",
-      "source": "whaletv",
-      "epg_id": "Cirque.Du.Soleil.us",
-      "source_display": "Cirque Du Soleil",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1789,16 +1789,6 @@
       "source": "roku",
       "epg_id": "92b50144a69f5862a6d398c478fa6aa0",
       "source_display": "Johnny Carson TV",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: JUDGE NOSEY RAW",
-      "base_name": "JUDGE NOSEY",
-      "stream_id": "",
-      "source": "whaletv",
-      "epg_id": "Judge.Nosey.us",
-      "source_display": "Judge Nosey",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4891,6 +4881,16 @@
       "source_display": "Inspector Gadget",
       "score": 100.0,
       "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: MOTORVISION DE RAW",
+      "base_name": "MOTORVISION DE",
+      "stream_id": "",
+      "source": "whaletv",
+      "epg_id": "Motorvision.us",
+      "source_display": "Motorvision",
+      "score": 95.0,
+      "method": "pass3-fuzzy"
     },
     {
       "name": "PRIME: MOVIESPHERE BY LIONSGATE RAW",
