@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11735,
-  "provisional_matches": 509,
-  "new_matches_with_programmes": 495,
-  "remaining_unmatched": 303,
-  "combined_match_rate_percent": 64.0,
-  "programmes_added": 31549,
+  "candidate_names_loaded": 11741,
+  "provisional_matches": 510,
+  "new_matches_with_programmes": 496,
+  "remaining_unmatched": 302,
+  "combined_match_rate_percent": 64.1,
+  "programmes_added": 31723,
   "source_programmes": {
-    "pluto": 2130,
-    "samsung": 1091,
-    "roku": 10000,
-    "plex_mjh": 4633,
+    "pluto": 2127,
+    "samsung": 1107,
+    "roku": 10159,
+    "plex_mjh": 4635,
     "canada": 4392,
     "uk": 1811,
     "whaletv": 333,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 943893
+      "bytes": 939974
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1154,
-      "bytes": 511263
+      "bytes": 497502
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1404,
-      "bytes": 3340984
+      "candidate_names": 1410,
+      "bytes": 3332618
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2234880
+      "bytes": 2218255
     }
   ],
   "matches": [
@@ -1729,6 +1729,16 @@
       "source": "whaletv",
       "epg_id": "In.Touch.+.us",
       "source_display": "In Touch +",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: INSIDE EDITION RAW",
+      "base_name": "INSIDE EDITION",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "d4a795f8590d54218069b495d273ac5a",
+      "source_display": "Inside Edition",
       "score": 100.0,
       "method": "pass3-exact"
     },
