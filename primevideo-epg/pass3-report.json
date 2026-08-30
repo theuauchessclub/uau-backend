@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11737,
+  "candidate_names_loaded": 11741,
   "provisional_matches": 510,
   "new_matches_with_programmes": 497,
   "remaining_unmatched": 301,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 32663,
+  "programmes_added": 32810,
   "source_programmes": {
-    "pluto": 2140,
-    "samsung": 1059,
-    "roku": 10035,
-    "plex_mjh": 5514,
+    "pluto": 2168,
+    "samsung": 1052,
+    "roku": 10221,
+    "plex_mjh": 5454,
     "canada": 4481,
     "uk": 1817,
     "whaletv": 372,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 919605
+      "bytes": 925816
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1154,
-      "bytes": 501029
+      "bytes": 500269
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1406,
-      "bytes": 3301968
+      "candidate_names": 1410,
+      "bytes": 3304696
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2410851
+      "bytes": 2443626
     }
   ],
   "matches": [
@@ -1156,8 +1156,8 @@
       "name": "PRIME: ELECTRIC NOW RAW",
       "base_name": "ELECTRIC NOW",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-5f170d61b898490041b49360",
+      "source": "roku",
+      "epg_id": "15cc44e50d8453e18f21ea37713319c5",
       "source_display": "Electric Now",
       "score": 100.0,
       "method": "pass3-exact"
@@ -4156,8 +4156,8 @@
       "name": "PRIME: BAYWATCH RAW",
       "base_name": "BAYWATCH",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-63e63f20abacad42ed3d1acf",
+      "source": "roku",
+      "epg_id": "ab47c5037be851e6a929a4d09daafeac",
       "source_display": "Baywatch",
       "score": 100.0,
       "method": "pass3-exact"
