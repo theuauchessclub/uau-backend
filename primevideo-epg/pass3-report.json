@@ -1,21 +1,21 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11731,
-  "provisional_matches": 510,
-  "new_matches_with_programmes": 496,
-  "remaining_unmatched": 302,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 32336,
+  "candidate_names_loaded": 11695,
+  "provisional_matches": 508,
+  "new_matches_with_programmes": 494,
+  "remaining_unmatched": 304,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 32621,
   "source_programmes": {
-    "pluto": 2121,
-    "samsung": 1087,
-    "roku": 10211,
-    "plex_mjh": 5120,
+    "pluto": 2084,
+    "samsung": 1083,
+    "roku": 9702,
+    "plex_mjh": 5764,
     "canada": 4481,
     "uk": 1824,
     "whaletv": 256,
     "fanduel": 212,
-    "rakuten": 3243,
+    "rakuten": 3434,
     "australia": 3437,
     "distro": 0,
     "mexico": 44,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 842,
-      "bytes": 928595
+      "bytes": 919818
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1154,
-      "bytes": 506940
+      "bytes": 506550
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1400,
-      "bytes": 3268558
+      "candidate_names": 1364,
+      "bytes": 3130547
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2354425
+      "bytes": 2358458
     }
   ],
   "matches": [
@@ -786,8 +786,8 @@
       "name": "PRIME: CHAOS ON CAM BY A&E RAW",
       "base_name": "CHAOS ON CAM BY A&E",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "99e44ea6699928b32c444dce774b9b32",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
       "source_display": "Chaos on Cam by A&E",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1471,16 +1471,6 @@
       "source_display": "Grit Xtra",
       "score": 100.0,
       "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: GROWING UP HIP HOP WE TV RAW",
-      "base_name": "GROWING UP HIP HOP WE TV",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "a4d5fe37a0f5592dee5dbbb242d73fac",
-      "source_display": "Growing Up Hip Hop WeTV",
-      "score": 99.0,
-      "method": "pass3-compact"
     },
     {
       "name": "PRIME: HALLMARK MOVIES & MORE RAW",
@@ -2719,16 +2709,6 @@
       "source": "roku",
       "epg_id": "a5de566e8ec2f3736be8a9db178f2689",
       "source_display": "Say Yes to the Dress",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: SCIENCE IS AMAZING RAW",
-      "base_name": "SCIENCE IS AMAZING",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "cc7c474f22c9a6b9019fc8c4ad9d44ab",
-      "source_display": "Science is Amazing",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4246,11 +4226,11 @@
       "name": "PRIME: DUCK DYNASTY RAW",
       "base_name": "DUCK DYNASTY",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "34d90b2ece59551f9bd3257d7d132c25",
-      "source_display": "Duck Dynasty",
-      "score": 100.0,
-      "method": "pass3-exact"
+      "source": "rakuten",
+      "epg_id": "NO:.Duck.Dynasty.be",
+      "source_display": "NO: Duck Dynasty",
+      "score": 95.0,
+      "method": "pass3-fuzzy"
     },
     {
       "name": "PRIME: EURO CRIME RAW",
@@ -4556,8 +4536,8 @@
       "name": "PRIME: SO...REAL RAW",
       "base_name": "SO...REAL",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "b41118f76d1a5abcb701b9cc0a035c5b",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec012",
       "source_display": "So... Real",
       "score": 100.0,
       "method": "pass3-exact"
