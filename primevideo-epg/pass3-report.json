@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 11695,
-  "provisional_matches": 508,
-  "new_matches_with_programmes": 494,
-  "remaining_unmatched": 304,
-  "combined_match_rate_percent": 63.9,
-  "programmes_added": 32621,
+  "candidate_names_loaded": 11731,
+  "provisional_matches": 509,
+  "new_matches_with_programmes": 496,
+  "remaining_unmatched": 302,
+  "combined_match_rate_percent": 64.1,
+  "programmes_added": 32283,
   "source_programmes": {
-    "pluto": 2084,
-    "samsung": 1083,
-    "roku": 9702,
-    "plex_mjh": 5764,
+    "pluto": 2132,
+    "samsung": 1057,
+    "roku": 10182,
+    "plex_mjh": 4837,
     "canada": 4481,
-    "uk": 1824,
-    "whaletv": 256,
+    "uk": 1826,
+    "whaletv": 536,
     "fanduel": 212,
-    "rakuten": 3434,
+    "rakuten": 3243,
     "australia": 3437,
     "distro": 0,
-    "mexico": 44,
+    "mexico": 40,
     "tbnplus": 300
   },
   "source_status": [
@@ -50,13 +50,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 236466
+      "bytes": 223964
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2798329
+      "bytes": 2731101
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 401025
+      "bytes": 370997
     },
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 842,
-      "bytes": 919818
+      "candidate_names": 840,
+      "bytes": 939421
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1154,
-      "bytes": 506550
+      "bytes": 512261
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1364,
-      "bytes": 3130547
+      "candidate_names": 1402,
+      "bytes": 3225467
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2358458
+      "bytes": 2263227
     }
   ],
   "matches": [
@@ -687,7 +687,7 @@
       "base_name": "CBS NEWS CHICAGO",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "5eb1aeb2fd4b8a00076c2047",
+      "epg_id": "62cdc75b1a1cbd0007ed45dc",
       "source_display": "CBS News Chicago",
       "score": 100.0,
       "method": "pass3-exact"
@@ -747,7 +747,7 @@
       "base_name": "CBS NEWS PHILADELPHIA",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "62cdca1cda044a00077b903d",
+      "epg_id": "5eb1b05ea168cc000767ba67",
       "source_display": "CBS News Philadelphia",
       "score": 100.0,
       "method": "pass3-exact"
@@ -786,8 +786,8 @@
       "name": "PRIME: CHAOS ON CAM BY A&E RAW",
       "base_name": "CHAOS ON CAM BY A&E",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
+      "source": "roku",
+      "epg_id": "99e44ea6699928b32c444dce774b9b32",
       "source_display": "Chaos on Cam by A&E",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1406,8 +1406,8 @@
       "name": "PRIME: GHOSTS ARE REAL RAW",
       "base_name": "GHOSTS ARE REAL",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "f2dbaed0a18d5488a19038cee2660d6f",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66a294d3e1a2934adfe851f5",
       "source_display": "Ghosts Are Real",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1471,6 +1471,16 @@
       "source_display": "Grit Xtra",
       "score": 100.0,
       "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: GROWING UP HIP HOP WE TV RAW",
+      "base_name": "GROWING UP HIP HOP WE TV",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "a4d5fe37a0f5592dee5dbbb242d73fac",
+      "source_display": "Growing Up Hip Hop WeTV",
+      "score": 99.0,
+      "method": "pass3-compact"
     },
     {
       "name": "PRIME: HALLMARK MOVIES & MORE RAW",
@@ -2713,6 +2723,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: SCIENCE IS AMAZING RAW",
+      "base_name": "SCIENCE IS AMAZING",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "cc7c474f22c9a6b9019fc8c4ad9d44ab",
+      "source_display": "Science is Amazing",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: SCREAMBOXTV RAW",
       "base_name": "SCREAMBOXTV",
       "stream_id": "",
@@ -3209,16 +3229,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4226,11 +4236,11 @@
       "name": "PRIME: DUCK DYNASTY RAW",
       "base_name": "DUCK DYNASTY",
       "stream_id": "",
-      "source": "rakuten",
-      "epg_id": "NO:.Duck.Dynasty.be",
-      "source_display": "NO: Duck Dynasty",
-      "score": 95.0,
-      "method": "pass3-fuzzy"
+      "source": "roku",
+      "epg_id": "34d90b2ece59551f9bd3257d7d132c25",
+      "source_display": "Duck Dynasty",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: EURO CRIME RAW",
@@ -4536,8 +4546,8 @@
       "name": "PRIME: SO...REAL RAW",
       "base_name": "SO...REAL",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec012",
+      "source": "roku",
+      "epg_id": "b41118f76d1a5abcb701b9cc0a035c5b",
       "source_display": "So... Real",
       "score": 100.0,
       "method": "pass3-exact"
@@ -4871,6 +4881,16 @@
       "source_display": "Inspector Gadget",
       "score": 100.0,
       "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: MOTORVISION DE RAW",
+      "base_name": "MOTORVISION DE",
+      "stream_id": "",
+      "source": "whaletv",
+      "epg_id": "Motorvision.us",
+      "source_display": "Motorvision",
+      "score": 95.0,
+      "method": "pass3-fuzzy"
     },
     {
       "name": "PRIME: MOVIESPHERE BY LIONSGATE RAW",
