@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12053,
-  "provisional_matches": 509,
-  "new_matches_with_programmes": 497,
-  "remaining_unmatched": 301,
+  "candidate_names_loaded": 12051,
+  "provisional_matches": 510,
+  "new_matches_with_programmes": 496,
+  "remaining_unmatched": 302,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 32411,
+  "programmes_added": 31347,
   "source_programmes": {
-    "pluto": 2059,
-    "samsung": 1092,
-    "roku": 10349,
-    "plex_mjh": 4646,
+    "pluto": 1180,
+    "samsung": 1072,
+    "roku": 10370,
+    "plex_mjh": 4460,
     "canada": 4499,
     "uk": 1826,
     "whaletv": 536,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 840,
-      "bytes": 920894
+      "bytes": 584885
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1154,
-      "bytes": 506517
+      "bytes": 506738
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1408,
-      "bytes": 3236929
+      "candidate_names": 1406,
+      "bytes": 3236117
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1376,
-      "bytes": 2098901
+      "bytes": 1883588
     }
   ],
   "matches": [
@@ -3233,6 +3233,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -3553,16 +3563,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: XITE CELEBRATES RAW",
-      "base_name": "XITE CELEBRATES",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503",
-      "source_display": "XITE Celebrates",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: XITE CHRISTIAN HITS RAW",
       "base_name": "XITE CHRISTIAN HITS",
       "stream_id": "",
@@ -3639,16 +3639,6 @@
       "source": "plex_mjh",
       "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
       "source_display": "XITE R&B Feels",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: XITE RAP GAME RAW",
-      "base_name": "XITE RAP GAME",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68800b694033a6a442ad9239",
-      "source_display": "XITE Rap Game",
       "score": 100.0,
       "method": "pass3-exact"
     },
