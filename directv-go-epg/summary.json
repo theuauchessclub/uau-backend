@@ -1,19 +1,21 @@
 {
   "catalog_channels": 312,
-  "matched_channels": 157,
-  "unmatched_channels": 155,
-  "match_rate_percent": 50.3,
-  "programmes_written": 12453,
+  "matched_channels": 274,
+  "unmatched_channels": 38,
+  "match_rate_percent": 87.8,
+  "programmes_written": 26497,
   "source_status": [
     {
       "source": "us2",
-      "ok": false,
-      "error": "<HTTPError 404: 'Not Found'>"
+      "ok": true,
+      "channels": 766,
+      "programmes": 79420
     },
     {
       "source": "locals",
-      "ok": false,
-      "error": "<HTTPError 404: 'Not Found'>"
+      "ok": true,
+      "channels": 4455,
+      "programmes": 578055
     },
     {
       "source": "usent",
@@ -37,25 +39,25 @@
       "source": "pluto",
       "ok": true,
       "channels": 424,
-      "programmes": 8662
+      "programmes": 8690
     },
     {
       "source": "samsung",
       "ok": true,
       "channels": 579,
-      "programmes": 4974
+      "programmes": 4955
     },
     {
       "source": "plex",
       "ok": true,
       "channels": 688,
-      "programmes": 38531
+      "programmes": 57800
     },
     {
       "source": "roku",
       "ok": true,
       "channels": 704,
-      "programmes": 64915
+      "programmes": 65045
     }
   ]
 }
