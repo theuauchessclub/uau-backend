@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12063,
-  "provisional_matches": 509,
+  "candidate_names_loaded": 12055,
+  "provisional_matches": 510,
   "new_matches_with_programmes": 497,
   "remaining_unmatched": 301,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 33654,
+  "programmes_added": 33110,
   "source_programmes": {
-    "pluto": 2172,
-    "samsung": 1080,
-    "roku": 10345,
-    "plex_mjh": 5752,
+    "pluto": 2136,
+    "samsung": 1094,
+    "roku": 10339,
+    "plex_mjh": 5393,
     "canada": 4478,
-    "uk": 1831,
-    "whaletv": 527,
+    "uk": 1824,
+    "whaletv": 361,
     "fanduel": 176,
     "rakuten": 3486,
     "australia": 3474,
     "distro": 0,
-    "mexico": 36,
+    "mexico": 52,
     "tbnplus": 297
   },
   "source_status": [
@@ -50,13 +50,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 205625
+      "bytes": 206541
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2723446
+      "bytes": 2765191
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 376047
+      "bytes": 413781
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 848,
-      "bytes": 937371
+      "bytes": 939839
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 507001
+      "bytes": 509710
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1406,
-      "bytes": 3283368
+      "candidate_names": 1400,
+      "bytes": 3289028
     },
     {
       "source": "plex_mjh",
       "ok": true,
-      "candidate_names": 1376,
-      "bytes": 2758284
+      "candidate_names": 1374,
+      "bytes": 2387223
     }
   ],
   "matches": [
@@ -1723,16 +1723,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: IN TOUCH + RAW",
-      "base_name": "IN TOUCH +",
-      "stream_id": "",
-      "source": "whaletv",
-      "epg_id": "In.Touch.+.us",
-      "source_display": "In Touch +",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: INSIDE EDITION RAW",
       "base_name": "INSIDE EDITION",
       "stream_id": "",
@@ -3229,6 +3219,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
