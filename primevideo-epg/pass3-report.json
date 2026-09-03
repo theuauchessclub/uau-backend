@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12067,
+  "candidate_names_loaded": 12065,
   "provisional_matches": 509,
-  "new_matches_with_programmes": 493,
-  "remaining_unmatched": 305,
-  "combined_match_rate_percent": 63.8,
-  "programmes_added": 30894,
+  "new_matches_with_programmes": 492,
+  "remaining_unmatched": 306,
+  "combined_match_rate_percent": 63.7,
+  "programmes_added": 31608,
   "source_programmes": {
-    "pluto": 2079,
-    "samsung": 1094,
-    "roku": 10181,
-    "plex_mjh": 3931,
+    "pluto": 2095,
+    "samsung": 1083,
+    "roku": 10258,
+    "plex_mjh": 4563,
     "canada": 4350,
     "uk": 1824,
     "whaletv": 361,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 848,
-      "bytes": 928367
+      "bytes": 929356
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 510740
+      "bytes": 511622
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1408,
-      "bytes": 3305493
+      "candidate_names": 1406,
+      "bytes": 3327935
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1378,
-      "bytes": 1868412
+      "bytes": 2109364
     }
   ],
   "matches": [
@@ -3513,6 +3513,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: XITE 60S & 70S GROOVE RAW",
+      "base_name": "XITE 60S & 70S GROOVE",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-688005bc015fe7e375a1a0aa",
+      "source_display": "XITE 60s & 70s Groove",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: XITE 80S FLASHBACK RAW",
       "base_name": "XITE 80S FLASHBACK",
       "stream_id": "",
@@ -3529,16 +3539,6 @@
       "source": "samsung",
       "epg_id": "USBB3200007AK",
       "source_display": "XITE 90s Throwback",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: XITE CELEBRATES RAW",
-      "base_name": "XITE CELEBRATES",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503",
-      "source_display": "XITE Celebrates",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3609,16 +3609,6 @@
       "source": "samsung",
       "epg_id": "USBD330000948",
       "source_display": "XITE R&B Classic Jams",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: XITE RAP GAME RAW",
-      "base_name": "XITE RAP GAME",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68800b694033a6a442ad9239",
-      "source_display": "XITE Rap Game",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4266,8 +4256,8 @@
       "name": "PRIME: GRAHAM NORTON SHOW RAW",
       "base_name": "GRAHAM NORTON SHOW",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68dcbb869beaa3a402966dba",
+      "source": "roku",
+      "epg_id": "5934441271a0583124d84d704f600bcc",
       "source_display": "The Graham Norton Show",
       "score": 95.0,
       "method": "pass3-fuzzy"
