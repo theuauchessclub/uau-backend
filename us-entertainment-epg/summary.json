@@ -1,31 +1,33 @@
 {
   "catalog_channels": 213,
-  "matched_channels": 42,
-  "unmatched_channels": 171,
-  "match_rate_percent": 19.7,
-  "programmes_written": 4404,
+  "matched_channels": 130,
+  "unmatched_channels": 83,
+  "match_rate_percent": 61.0,
+  "programmes_written": 14827,
   "source_status": [
     {
       "source": "us2",
-      "ok": false,
-      "error": "<HTTPError 404: 'Not Found'>"
+      "ok": true,
+      "channels": 765,
+      "programmes": 79039
     },
     {
       "source": "locals",
-      "ok": false,
-      "error": "<HTTPError 404: 'Not Found'>"
+      "ok": true,
+      "channels": 4455,
+      "programmes": 564523
     },
     {
       "source": "tubi",
       "ok": true,
-      "channels": 182,
-      "programmes": 11661
+      "channels": 183,
+      "programmes": 11602
     },
     {
       "source": "prime",
       "ok": true,
-      "channels": 700,
-      "programmes": 66068
+      "channels": 662,
+      "programmes": 53946
     }
   ]
 }
