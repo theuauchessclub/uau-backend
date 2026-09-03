@@ -1,72 +1,72 @@
 name,source_epg_id,status,programmes
 US: HBO HD,HBO.East.us2,real-schedule,81
-US: HBO 2 HD,HBO2.HD.us2,real-schedule,61
+US: HBO 2 HD,HBO2.HD.us2,real-schedule,64
 US: HBO FAMILY HD,,placeholder,32
-US: HBO SIGNATURE HD,HBO.Signature.HD.us2,real-schedule,85
+US: HBO SIGNATURE HD,HBO.Signature.HD.us2,real-schedule,89
 US: HBO WEST HD,HBO.West.us2,real-schedule,81
-US: HBO LATINO HD,HBO.Latino.HD.us2,real-schedule,84
+US: HBO LATINO HD,HBO.Latino.HD.us2,real-schedule,83
 US: AMC THRILLERS 4K,,placeholder,32
 US: HBO ZONE HD,HBO.Zone.HD.us2,real-schedule,53
-US: EPIX HD,MGM+.HD.us2,real-schedule,52
+US: EPIX HD,MGM+.HD.us2,real-schedule,51
 US: EPIX 2,MGM+.Marquee.HD.us2,real-schedule,51
-US: EPIX DRIVE IN,MGM+.Drive-In.us2,real-schedule,51
+US: EPIX DRIVE IN,MGM+.Drive-In.us2,real-schedule,50
 US: EPIX HITS,MGM+.Hits.HD.us2,real-schedule,50
-US: SCREENPIX HD,ScreenPix.us2,real-schedule,60
-US: FETV HD,Family.Entertainment.Television.us2,real-schedule,141
-US: ACTION MAX HD,ActionMAX.HD.us2,real-schedule,54
+US: SCREENPIX HD,ScreenPix.us2,real-schedule,58
+US: FETV HD,Family.Entertainment.Television.us2,real-schedule,131
+US: ACTION MAX HD,ActionMAX.HD.us2,real-schedule,56
 US: SCREENPIX ACTION HD,ScreenPix.Action.us2,real-schedule,63
-US: SHOWTIME HD,Paramount+.with.Showtime.HD.us2,real-schedule,52
-US: SCREENPIX VOICES HD,ScreenPix.Voices.us2,real-schedule,58
+US: SHOWTIME HD,Paramount+.with.Showtime.HD.us2,real-schedule,51
+US: SCREENPIX VOICES HD,ScreenPix.Voices.us2,real-schedule,59
 US: SHOWTIME 2 HD,Showtime.2.HD.us2,real-schedule,51
-US: SHOWTIME EAST HD,Paramount+.with.Showtime.HD.us2,real-schedule,52
-US: SHOWTIME WEST HD,Paramount+.with.Showtime.HD.(Pacific).us2,real-schedule,52
+US: SHOWTIME EAST HD,Paramount+.with.Showtime.HD.us2,real-schedule,51
+US: SHOWTIME WEST HD,Paramount+.with.Showtime.HD.(Pacific).us2,real-schedule,51
 US: SHOWTIME NEXT HD,Showtime.Next.HD.us2,real-schedule,56
 US: SHOWTIME WOMEN HD,Showtime.Women.HD.us2,real-schedule,53
-US: SHOWTIME EXTREME HD,Showtime.Extreme.HD.us2,real-schedule,53
-US: SHOWTIME SHOWCASE HD,Showtime.Showcase.HD.us2,real-schedule,50
-US: SHOWTIME FAMILY ZONE HD,Showtime.Familyzone.HD.us2,real-schedule,54
+US: SHOWTIME EXTREME HD,Showtime.Extreme.HD.us2,real-schedule,54
+US: SHOWTIME SHOWCASE HD,Showtime.Showcase.HD.us2,real-schedule,51
+US: SHOWTIME FAMILY ZONE HD,Showtime.Familyzone.HD.us2,real-schedule,53
 US: PETER GRIFFIN 24H,,placeholder,32
 US: PBS ARIZONA PHOENIX HD,,placeholder,32
 US: THE MOVIE CHANNEL HD,The.Movie.Channel.HD.us2,real-schedule,55
 US: START TV,Start.TV.Network.us2,real-schedule,104
-US: CINEMAX HD,Cinemax.HD.us2,real-schedule,54
-US: CINEMAX EAST HD,Cinemax.HD.us2,real-schedule,54
-US: CINEMAX ACTION EAST HD,Cinemax.Action.us2,real-schedule,54
-US: CINEMAX MOREMAX HDAR,MoreMax.HD.us2,real-schedule,52
+US: CINEMAX HD,Cinemax.HD.us2,real-schedule,55
+US: CINEMAX EAST HD,Cinemax.HD.us2,real-schedule,55
+US: CINEMAX ACTION EAST HD,Cinemax.Action.us2,real-schedule,56
+US: CINEMAX MOREMAX HDAR,MoreMax.HD.us2,placeholder,32
 US: CINEMAX THRILLERMAX HD,,placeholder,32
-US: CINEMAX WEST HD,Cinemax.HD.(Pacific).us2,real-schedule,54
+US: CINEMAX WEST HD,Cinemax.HD.(Pacific).us2,real-schedule,55
 US: CINEMAX 5 STAR MAX,5.StarMAX.HD.East.us2,real-schedule,60
 US: CINEMA DINAMITA 4K,Cinema.Dinamita.(HD.Feed).us2,real-schedule,45
 US: CINEMAX 5 STARMAX 4K,5.StarMAX.HD.East.us2,real-schedule,60
 US: CINE CLUB,,placeholder,32
 US: CINE PRO BET+,,placeholder,32
-US: ANTENA 3 INTERNACIONAL,Antena.3.Internacional.us2,real-schedule,72
-US: CINE SONY,Sony.Cine.us2,real-schedule,58
-US: MOREMAX HD,MoreMax.HD.us2,real-schedule,52
+US: ANTENA 3 INTERNACIONAL,Antena.3.Internacional.us2,real-schedule,71
+US: CINE SONY,Sony.Cine.us2,real-schedule,57
+US: MOREMAX HD,MoreMax.HD.us2,placeholder,32
 US: MOVIEMAX HD,,placeholder,32
 US: OUTERMAX HD,,placeholder,32
-US: FX MOVIES,FX.Movie.Channel.HD.us2,real-schedule,46
+US: FX MOVIES,FX.Movie.Channel.HD.us2,real-schedule,44
 US: MOVIEPLEX HD,MoviePlex.HD.us2,real-schedule,61
-US: STARZ HD,Starz.HD.us2,real-schedule,55
-US: STARZ BLACK HD,Starz.in.Black.HD.us2,real-schedule,60
+US: STARZ HD,Starz.HD.us2,real-schedule,58
+US: STARZ BLACK HD,Starz.in.Black.HD.us2,real-schedule,59
 US: STARZ CINEMA HD,Starz.Cinema.HD.us2,real-schedule,56
 US: STARZ CINEMA EAST HD,Starz.Cinema.HD.us2,real-schedule,56
 US: STARZ COMEDY HD,Starz.Comedy.HD.us2,real-schedule,60
-US: STARZ EAST HD,Starz.HD.us2,real-schedule,55
-US: STARZ WEST HD,Starz.HD.(Pacific).us2,real-schedule,53
-US: STARZ EDGE HD,Starz.Edge.HD.us2,real-schedule,60
-US: STARZ FAMILY HD,Starz.Encore.Family.SD.us2,real-schedule,65
-US: STARZ ENCORE HD,Starz.Encore.HD.us2,real-schedule,53
-US: STARZ ENCORE EAST HD,Starz.Encore.HD.us2,real-schedule,53
-US: STARZ ENCORE ACTION HD,Starz.Encore.Action.HD.us2,real-schedule,54
-US: STARZ ENCORE BLACK HD,Starz.Encore.Black.us2,real-schedule,57
-US: STARZ ENCORE CLASSIC HD,Starz.Encore.Classic.us2,real-schedule,54
-US: STARZ ENCORE FAMILY HD,Starz.Encore.Family.SD.us2,real-schedule,65
-US: STARZ KIDS & FAMILY HD,Starz.Kids.HD.us2,real-schedule,63
-US: SONY MOVIE CHANNEL HD,Sony.Movie.Channel.HD.us2,real-schedule,61
-US: STARZ ENCORE WESTERNS HD,Starz.Encore.Westerns.SD.us2,real-schedule,93
-US: STARZ ENCORE WEST HD,Starz.Encore.(Pacific).us2,real-schedule,53
-US: ZEE TV,Zee.TV.us2,real-schedule,151
+US: STARZ EAST HD,Starz.HD.us2,real-schedule,58
+US: STARZ WEST HD,Starz.HD.(Pacific).us2,real-schedule,57
+US: STARZ EDGE HD,Starz.Edge.HD.us2,real-schedule,61
+US: STARZ FAMILY HD,Starz.Encore.Family.SD.us2,real-schedule,64
+US: STARZ ENCORE HD,Starz.Encore.HD.us2,real-schedule,49
+US: STARZ ENCORE EAST HD,Starz.Encore.HD.us2,real-schedule,49
+US: STARZ ENCORE ACTION HD,Starz.Encore.Action.HD.us2,real-schedule,53
+US: STARZ ENCORE BLACK HD,Starz.Encore.Black.us2,real-schedule,56
+US: STARZ ENCORE CLASSIC HD,Starz.Encore.Classic.us2,real-schedule,55
+US: STARZ ENCORE FAMILY HD,Starz.Encore.Family.SD.us2,real-schedule,64
+US: STARZ KIDS & FAMILY HD,Starz.Kids.HD.us2,real-schedule,62
+US: SONY MOVIE CHANNEL HD,Sony.Movie.Channel.HD.us2,real-schedule,59
+US: STARZ ENCORE WESTERNS HD,Starz.Encore.Westerns.SD.us2,real-schedule,87
+US: STARZ ENCORE WEST HD,Starz.Encore.(Pacific).us2,real-schedule,50
+US: ZEE TV,Zee.TV.us2,real-schedule,153
 US: 24/7 UGLY BETTY HD,,placeholder,32
 US: 24/7 THE O.C. 4K,,placeholder,32
 US: 24/7 SCRUBS HD,,placeholder,32
