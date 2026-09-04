@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 605,
-  "candidate_names_loaded": 12073,
+  "starting_unmatched": 606,
+  "candidate_names_loaded": 12069,
   "provisional_matches": 349,
   "new_matches_with_programmes": 340,
-  "remaining_unmatched": 262,
-  "combined_match_rate_percent": 67.9,
-  "programmes_added": 22449,
+  "remaining_unmatched": 263,
+  "combined_match_rate_percent": 67.8,
+  "programmes_added": 23745,
   "source_programmes": {
-    "pluto": 972,
-    "roku": 6803,
-    "plex_mjh": 2559,
-    "samsung": 674,
+    "pluto": 985,
+    "roku": 6723,
+    "plex_mjh": 3929,
+    "samsung": 667,
     "canada": 4202,
     "whaletv": 164,
     "fanduel": 210,
@@ -78,25 +78,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 852,
-      "bytes": 933200
+      "bytes": 940290
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 507389
+      "bytes": 508817
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1408,
-      "bytes": 3321622
+      "candidate_names": 1404,
+      "bytes": 3348108
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1380,
-      "bytes": 1598179
+      "bytes": 2154482
     }
   ],
   "matches": [
@@ -1764,8 +1764,8 @@
       "name": "PRIME: PRIMETIME SOAPS RAW",
       "base_name": "PRIMETIME SOAPS",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "cfd904d2f64e108809ada1e095a044dc",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66b13a1f4893b3d48c72db19",
       "source_display": "Primetime Soaps",
       "score": 100.0,
       "method": "pass3-exact"
