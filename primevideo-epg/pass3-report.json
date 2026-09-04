@@ -1,23 +1,23 @@
 {
-  "starting_unmatched": 606,
-  "candidate_names_loaded": 12071,
-  "provisional_matches": 350,
-  "new_matches_with_programmes": 340,
+  "starting_unmatched": 605,
+  "candidate_names_loaded": 12067,
+  "provisional_matches": 349,
+  "new_matches_with_programmes": 339,
   "remaining_unmatched": 263,
   "combined_match_rate_percent": 67.8,
-  "programmes_added": 24326,
+  "programmes_added": 22435,
   "source_programmes": {
-    "pluto": 1012,
-    "roku": 6704,
-    "plex_mjh": 4658,
-    "samsung": 671,
+    "pluto": 998,
+    "roku": 6852,
+    "plex_mjh": 2698,
+    "samsung": 712,
     "canada": 4234,
-    "whaletv": 292,
+    "whaletv": 164,
     "fanduel": 190,
     "rakuten": 2889,
     "australia": 2206,
     "distro": 0,
-    "uk": 1470
+    "uk": 1492
   },
   "source_status": [
     {
@@ -48,13 +48,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 206541
+      "bytes": 195662
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2765191
+      "bytes": 2839549
     },
     {
       "source": "canada",
@@ -72,31 +72,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 413781
+      "bytes": 424983
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 852,
-      "bytes": 942185
+      "bytes": 945684
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 510471
+      "bytes": 511921
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1406,
-      "bytes": 3324658
+      "candidate_names": 1402,
+      "bytes": 3320342
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1380,
-      "bytes": 2586483
+      "bytes": 1729126
     }
   ],
   "matches": [
@@ -389,16 +389,6 @@
       "source_display": "Boston 25 News",
       "score": 95.0,
       "method": "pass3-fuzzy"
-    },
-    {
-      "name": "PRIME: BOUNCEXL RAW",
-      "base_name": "BOUNCEXL",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "6176fd25e83a5f0007a464c9",
-      "source_display": "Bounce XL",
-      "score": 99.0,
-      "method": "pass3-compact"
     },
     {
       "name": "PRIME: BRAVO VAULT RAW",
@@ -1894,8 +1884,8 @@
       "name": "PRIME: SLIGHTLY OFF IFC RAW",
       "base_name": "SLIGHTLY OFF IFC",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-5fc705eea2236e002d69f5ae",
+      "source": "roku",
+      "epg_id": "aea5e7ccd9a35a4abd9193147fb4d593",
       "source_display": "Slightly Off IFC",
       "score": 100.0,
       "method": "pass3-exact"

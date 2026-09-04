@@ -105,7 +105,7 @@ PRIME: BLOOMBERG TV+ RAW,BLOOMBERG TV+,,amazon_direct,amazon::Bloomberg TV+,100.
 PRIME: BONDI RESCUE RAW,BONDI RESCUE,,pass3_plex_mjh,6a1610bebdf296985fd95603-69ae4f38e657bab5f7a9b7ec,100.0,pass3-exact
 PRIME: BOOMERANG RAW,BOOMERANG,,us2,Boomerang.us2,98.0,exact
 PRIME: BOSTON 25 NEWS (FOX) RAW,BOSTON 25 NEWS (FOX),,pass3_roku,bf6c0073422758408e9336eaefbf77db,95.0,pass3-fuzzy
-PRIME: BOUNCEXL RAW,BOUNCEXL,,pass3_pluto,6176fd25e83a5f0007a464c9,99.0,pass3-compact
+PRIME: BOUNCEXL RAW,BOUNCEXL,,amazon_direct,amazon::BounceXL,100.0,amazon-exact
 PRIME: BRAVO RAW,BRAVO,,us2,Bravo.HD.us2,98.0,exact
 PRIME: BRAVO VAULT RAW,BRAVO VAULT,,pass3_pluto,6549310a53fc97000838fcc9,100.0,pass3-exact
 PRIME: BRITBOX MYSTERIES RAW,BRITBOX MYSTERIES,,pass3_pluto,60f5d389985a0c0007357304,100.0,pass3-exact
@@ -245,7 +245,7 @@ PRIME: FILMRISE WESTERNS RAW,FILMRISE WESTERNS,,amazon_direct,amazon::FilmRise W
 PRIME: FLAVOUR NETWORK RAW,FLAVOUR NETWORK,,pass3_canada,Flavour.Network.HD.ca2,100.0,pass3-exact
 PRIME: FOOD NETWORK RAW,FOOD NETWORK,,us2,Food.Network.HD.us2,98.0,exact
 PRIME: FORENSIC FILES RAW,FORENSIC FILES,,amazon_direct,amazon::Forensic Files,100.0,amazon-exact
-PRIME: FOX 5 WASHINGTON DC RAW,FOX 5 WASHINGTON DC,,amazon_direct,"amazon::FOX 5 Washington, DC",100.0,amazon-exact
+PRIME: FOX 32 CHICAGO RAW,FOX 32 CHICAGO,,amazon_direct,amazon::FOX 32 Chicago,100.0,amazon-exact
 PRIME: FOX BALTIMORE NEWS (WBFF) RAW,FOX BALTIMORE NEWS (WBFF),,locals,WBFF-DT.us_locals1,99.0,callsign
 PRIME: FOX FORT MYERS NEWS (WFTX) RAW,FOX FORT MYERS NEWS (WFTX),,locals,WFTX-DT.us_locals1,99.0,callsign
 PRIME: FOX FRESNO NEWS (KMPH) RAW,FOX FRESNO NEWS (KMPH),,locals,KMPH-DT.us_locals1,99.0,callsign
@@ -538,7 +538,7 @@ PRIME: SHOWTIME RAW,SHOWTIME,,us2,Showtime.2.HD.us2,95.0,fuzzy
 PRIME: SILENT WITNESS & NEW TRICKS RAW,SILENT WITNESS & NEW TRICKS,,pass3_roku,e07a11be574e544a801fac1fc3e716f1,100.0,pass3-exact
 PRIME: SKY NEWS RAW,SKY NEWS,,amazon_direct,amazon::Sky News,100.0,amazon-exact
 PRIME: SLICE RAW,SLICE,,pass3_canada,SLICE.ca2,100.0,pass3-exact
-PRIME: SLIGHTLY OFF IFC RAW,SLIGHTLY OFF IFC,,pass3_plex_mjh,6a1610bebdf296985fd95603-5fc705eea2236e002d69f5ae,100.0,pass3-exact
+PRIME: SLIGHTLY OFF IFC RAW,SLIGHTLY OFF IFC,,pass3_roku,aea5e7ccd9a35a4abd9193147fb4d593,100.0,pass3-exact
 PRIME: SNL VAULT RAW,SNL VAULT,,amazon_direct,amazon::SNL Vault,100.0,amazon-exact
 PRIME: SO...REAL RAW,SO...REAL,,pass3_roku,b41118f76d1a5abcb701b9cc0a035c5b,100.0,pass3-exact
 PRIME: SPACE & BEYOND RAW,SPACE & BEYOND,,amazon_direct,amazon::Space & Beyond,100.0,amazon-exact
