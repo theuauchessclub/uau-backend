@@ -1,14 +1,15 @@
 {
   "catalog_channels": 213,
-  "matched_channels": 43,
-  "unmatched_channels": 170,
-  "match_rate_percent": 20.2,
-  "programmes_written": 4607,
+  "matched_channels": 130,
+  "unmatched_channels": 83,
+  "match_rate_percent": 61.0,
+  "programmes_written": 14552,
   "source_status": [
     {
       "source": "us2",
-      "ok": false,
-      "error": "<HTTPError 404: 'Not Found'>"
+      "ok": true,
+      "channels": 765,
+      "programmes": 78596
     },
     {
       "source": "locals",
@@ -25,8 +26,8 @@
     {
       "source": "prime",
       "ok": true,
-      "channels": 700,
-      "programmes": 65425
+      "channels": 701,
+      "programmes": 63174
     }
   ]
 }
