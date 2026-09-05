@@ -97,7 +97,7 @@ PRIME: BET X TYLER PERRY DRAMA RAW,BET X TYLER PERRY DRAMA,,amazon_direct,amazon
 PRIME: BEYOND BELIEF RAW,BEYOND BELIEF,,pass3_plex_mjh,6a1610bebdf296985fd95603-64f101b1c4b308f2fe3e7c0c,100.0,pass3-exact
 PRIME: BIG 12 STUDIOS RAW,BIG 12 STUDIOS,,pass3_samsung,US37000017A,100.0,pass3-exact
 PRIME: BILLIARD TV RAW,BILLIARD TV,,us2,Billiard.TV.us2,98.0,exact
-PRIME: BIONIC WOMAN RAW,BIONIC WOMAN,,pass3_rakuten,FI:.Bionic.Woman.be,95.0,pass3-fuzzy
+PRIME: BIONIC WOMAN RAW,BIONIC WOMAN,,pass3_rakuten,SE:.Bionic.Woman.be,95.0,pass3-fuzzy
 PRIME: BIZARRE FOODS WITH ANDREW ZIMMERN RAW,BIZARRE FOODS WITH ANDREW ZIMMERN,,amazon_direct,amazon::Bizarre Foods with Andrew Zimmern,100.0,amazon-exact
 PRIME: BLACK VOICES RAW,BLACK VOICES,,amazon_direct,amazon::Black Voices,100.0,amazon-exact
 PRIME: BLOOMBERG ORIGINALS RAW,BLOOMBERG ORIGINALS,,amazon_direct,amazon::Bloomberg Originals,100.0,amazon-fuzzy
@@ -155,8 +155,8 @@ PRIME: CINEVAULT WESTERNS RAW,CINEVAULT WESTERNS,,us2,CINEVAULT.Westerns.us2,98.
 PRIME: CIRCLE COUNTRY RAW,CIRCLE COUNTRY,,us2,Circle.Country.us2,98.0,exact
 PRIME: CITYTV CALGARY RAW,CITYTV CALGARY,,pass3_canada,Citytv.Calgary.HD.ca2,100.0,pass3-exact
 PRIME: CITYTV EDMONTON RAW,CITYTV EDMONTON,,pass3_canada,Citytv.Edmonton.ca2,100.0,pass3-exact
-PRIME: CITYTV MONTREAL RAW,CITYTV MONTREAL,,pass3_canada,Citytv.Montreal.HD.ca2,100.0,pass3-exact
-PRIME: CITYTV VANCOUVER RAW,CITYTV VANCOUVER,,pass3_canada,Citytv.Vancouver.HD.ca2,100.0,pass3-exact
+PRIME: CITYTV MONTREAL RAW,CITYTV MONTREAL,,pass3_canada,Citytv.Montreal.ca2,100.0,pass3-exact
+PRIME: CITYTV VANCOUVER RAW,CITYTV VANCOUVER,,pass3_canada,Citytv.Vancouver.ca2,100.0,pass3-exact
 PRIME: CLASSIC CAR AUCTIONS RAW,CLASSIC CAR AUCTIONS,,pass3_plex_mjh,6a1610bebdf296985fd95603-67c614985908ba2cc8775bf5,100.0,pass3-exact
 PRIME: CLASSIC CINEMA RAW,CLASSIC CINEMA,,pass3_plex_mjh,6a1610bebdf296985fd95603-69d93cda8061ebfbca58c326,100.0,pass3-exact
 PRIME: CLASSIC DOCTOR WHO RAW,CLASSIC DOCTOR WHO,,pass3_roku,d5381e91f6f651d0a933e7e51fdadc7c,100.0,pass3-exact
@@ -218,7 +218,7 @@ PRIME: ESPN OCHO RAW,ESPN OCHO,,us2,ESPN8.The.Ocho.us2,94.7,fuzzy
 PRIME: ESTRELLA NEWS RAW,ESTRELLA NEWS,,amazon_direct,amazon::Estrella News,100.0,amazon-exact
 PRIME: ESTRELLA TV RAW,ESTRELLA TV,,us2,Estrella.TV.us2,98.0,exact
 PRIME: ET RAW,ET,,amazon_direct,amazon::ET,100.0,amazon-exact
-PRIME: EURO CRIME RAW,EURO CRIME,,pass3_rakuten,SE:.Euro.Crime.Channel.be,95.0,pass3-fuzzy
+PRIME: EURO CRIME RAW,EURO CRIME,,pass3_rakuten,DK:.Euro.Crime.Channel.be,95.0,pass3-fuzzy
 PRIME: EURONEWS RAW,EURONEWS,,pass3_uk,Euronews.uk,100.0,pass3-exact
 PRIME: EXTREME LIVING RAW,EXTREME LIVING,,amazon_direct,amazon::Extreme Living,100.0,amazon-exact
 PRIME: EXTREME MAKEOVER: HOME EDITION RAW,EXTREME MAKEOVER: HOME EDITION,,pass3_roku,66e4580584a7e0cdc04e8e451f637999,100.0,pass3-exact
@@ -230,9 +230,9 @@ PRIME: FANDUEL SPORTS NETWORK DETROIT RAW,FANDUEL SPORTS NETWORK DETROIT,,pass3_
 PRIME: FANDUEL SPORTS NETWORK EXTRA RAW,FANDUEL SPORTS NETWORK EXTRA,,pass3_fanduel,FanDuel.Sports.Network.Detroit.Extra.us,95.0,pass3-fuzzy
 PRIME: FARSCAPE RAW,FARSCAPE,,pass3_plex_mjh,6a1610bebdf296985fd95603-635195e9ccee3e1547a8831a,100.0,pass3-exact
 PRIME: FEAR FACTOR USA RAW,FEAR FACTOR USA,,pass3_samsung,USBB2300002Q6,95.0,pass3-fuzzy
-PRIME: FGTEEV RAW,FGTEEV,,pass3_roku,e63d49e8acd7557596d091b3fa262999,100.0,pass3-exact
+PRIME: FGTEEV RAW,FGTEEV,,amazon_direct,amazon::FGTeeV,100.0,amazon-exact
 PRIME: FIFA+ RAW,FIFA+,,pass3_samsung,USBD12000255B,100.0,pass3-exact
-PRIME: FIFTH GEAR RAW,FIFTH GEAR,,pass3_rakuten,NL:.Fifth.Gear.be,95.0,pass3-fuzzy
+PRIME: FIFTH GEAR RAW,FIFTH GEAR,,pass3_rakuten,NO:.Fifth.Gear.be,95.0,pass3-fuzzy
 PRIME: FILMGOLD RAW,FILMGOLD,,pass3_rakuten,DE:.FilmGold.be,95.0,pass3-fuzzy
 PRIME: FILMRISE ACTION RAW,FILMRISE ACTION,,pass3_plex_mjh,6a1610bebdf296985fd95603-66ea0504c24d95b51b7cd189,100.0,pass3-exact
 PRIME: FILMRISE BINGE WATCH RAW,FILMRISE BINGE WATCH,,pass3_rakuten,FR:.FilmRise.Binge.Watch.be,95.0,pass3-fuzzy
@@ -261,15 +261,17 @@ PRIME: FX RAW,FX,,us2,FX.HD.us2,98.0,exact
 PRIME: FXX CANADA RAW,FXX CANADA,,pass3_canada,FXX.Canada.ca2,100.0,pass3-exact
 PRIME: GALANES RAW,GALANES,,pass3_samsung,USBD2700002DU,100.0,pass3-exact
 PRIME: GAME SHOW CENTRAL RAW,GAME SHOW CENTRAL,,amazon_direct,amazon::Game Show Central,100.0,amazon-exact
+PRIME: GAMEPLAY MINECRAFT RAW,GAMEPLAY MINECRAFT,,amazon_direct,amazon::Gameplay Minecraft,100.0,amazon-exact
+PRIME: GAMEPLAY ROBLOX RAW,GAMEPLAY ROBLOX,,amazon_direct,amazon::Gameplay Roblox,100.0,amazon-exact
 PRIME: GENERAL HOSPITAL RAW,GENERAL HOSPITAL,,pass3_roku,4b60ec5efcacd29014e53227575a3bdc,100.0,pass3-exact
 PRIME: GET COMEDY RAW,GET COMEDY,,pass3_samsung,US350000563,100.0,pass3-exact
 PRIME: GHOST HUNTERS RAW,GHOST HUNTERS,,amazon_direct,amazon::Ghost Hunters,100.0,amazon-fuzzy
 PRIME: GHOSTS ARE REAL RAW,GHOSTS ARE REAL,,amazon_direct,amazon::Ghosts are Real,100.0,amazon-exact
 PRIME: GLOBAL BC RAW,GLOBAL BC,,pass3_canada,Global.BC.ca2,100.0,pass3-exact
-PRIME: GLOBAL CALGARY RAW,GLOBAL CALGARY,,pass3_canada,Global.Calgary.ca2,100.0,pass3-exact
+PRIME: GLOBAL CALGARY RAW,GLOBAL CALGARY,,pass3_canada,Global.Calgary.HD.ca2,100.0,pass3-exact
 PRIME: GLOBAL EDMONTON RAW,GLOBAL EDMONTON,,pass3_canada,Global.Edmonton.ca2,100.0,pass3-exact
 PRIME: GLOBAL MARITIMES RAW,GLOBAL MARITIMES,,pass3_canada,Global.Maritimes.ca2,100.0,pass3-exact
-PRIME: GLOBAL NEWS CALGARY RAW,GLOBAL NEWS CALGARY,,pass3_canada,Global.Calgary.HD.ca2,95.0,pass3-fuzzy
+PRIME: GLOBAL NEWS CALGARY RAW,GLOBAL NEWS CALGARY,,pass3_canada,Global.Calgary.ca2,95.0,pass3-fuzzy
 PRIME: GLOBAL NEWS TORONTO RAW,GLOBAL NEWS TORONTO,,pass3_canada,Global.Toronto.ca2,95.0,pass3-fuzzy
 PRIME: GLORY KICKBOXING RAW,GLORY KICKBOXING,,pass3_plex_mjh,6a1610bebdf296985fd95603-63f914bffe2c3d32e1a7929f,100.0,pass3-exact
 PRIME: GOLFPASS RAW,GOLFPASS,,pass3_pluto,65493029ab052400089e9d2f,100.0,pass3-exact
@@ -314,7 +316,7 @@ PRIME: HOME CRASHERS RAW,HOME CRASHERS,,amazon_direct,amazon::Home Crashers,100.
 PRIME: HOME NETWORK RAW,HOME NETWORK,,pass3_canada,Home.Network.HD.ca2,100.0,pass3-exact
 PRIME: HOME.MADE.NATION RAW,HOME.MADE.NATION,,pass3_pluto,5dc1cb279c91420009db261d,100.0,pass3-exact
 PRIME: HOMEFUL RAW,HOMEFUL,,pass3_australia,Homeful.au,100.0,pass3-exact
-PRIME: HOMES UNDER THE HAMMER RAW,HOMES UNDER THE HAMMER,,pass3_rakuten,NL:.Homes.Under.the.Hammer.be,95.0,pass3-fuzzy
+PRIME: HOMES UNDER THE HAMMER RAW,HOMES UNDER THE HAMMER,,pass3_rakuten,DK:.Homes.Under.the.Hammer.be,95.0,pass3-fuzzy
 PRIME: HORROR STORIES RAW,HORROR STORIES,,pass3_plex_mjh,6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae,100.0,pass3-exact
 PRIME: HOT ONES RAW,HOT ONES,,amazon_direct,amazon::Hot Ones,100.0,amazon-fuzzy
 PRIME: HOW TO RAW,HOW TO,,amazon_direct,amazon::How To,100.0,amazon-exact
@@ -362,7 +364,7 @@ PRIME: LET'S MAKE A DEAL RAW,LET'S MAKE A DEAL,,amazon_direct,amazon::Let's Make
 PRIME: LEVERAGE RAW,LEVERAGE,,amazon_direct,amazon::Leverage,100.0,amazon-exact
 PRIME: LIFE AND LEGEND OF WYATT EARP RAW,LIFE AND LEGEND OF WYATT EARP,,amazon_direct,amazon::Life and Legend of Wyatt Earp,100.0,amazon-exact
 PRIME: LIFE BELOW ZERO RAW,LIFE BELOW ZERO,,amazon_direct,amazon::Life Below Zero,100.0,amazon-exact
-PRIME: LIFETIME (CANADA) RAW,LIFETIME (CANADA),,pass3_canada,Lifetime.(Canada).ca2,100.0,pass3-exact
+PRIME: LIFETIME (CANADA) RAW,LIFETIME (CANADA),,pass3_canada,Lifetime.HD.(Canada).ca2,100.0,pass3-exact
 PRIME: LIFETIME MOVIES LOVE & DRAMA RAW,LIFETIME MOVIES LOVE & DRAMA,,plex,plex.tv.Lifetime.Movies.Love.&amp;.Drama.plex,95.0,fuzzy
 PRIME: LITTLE HOUSE ON THE PRAIRIE RAW,LITTLE HOUSE ON THE PRAIRIE,,amazon_direct,amazon::Little House on the Prairie,100.0,amazon-exact
 PRIME: LIVE NOW BY FOX RAW,LIVE NOW BY FOX,,amazon_direct,amazon::LiveNOW by FOX,99.0,amazon-compact
@@ -508,12 +510,12 @@ PRIME: REALITY TV: COMPETITION RAW,REALITY TV: COMPETITION,,amazon_direct,amazon
 PRIME: REALITY TV: SHORES RAW,REALITY TV: SHORES,,amazon_direct,amazon::Reality TV: Shores,100.0,amazon-exact
 PRIME: REBELDE RAW,REBELDE,,amazon_direct,amazon::Rebelde,100.0,amazon-exact
 PRIME: RED BULL RAW,RED BULL,,pass3_roku,c5e8a74546771de365652cd053f73351,95.0,pass3-fuzzy
-PRIME: RED BULL TV RAW,RED BULL TV,,pass3_rakuten,FR:.Red.Bull.TV.be,95.0,pass3-fuzzy
+PRIME: RED BULL TV RAW,RED BULL TV,,pass3_rakuten,SE:.Red.Bull.TV.be,95.0,pass3-fuzzy
 PRIME: REELZ FAMOUS AND INFAMOUS RAW,REELZ FAMOUS AND INFAMOUS,,amazon_direct,amazon::REELZ Famous and Infamous,100.0,amazon-exact
 PRIME: REUTERS 60 RAW,REUTERS 60,,pass3_roku,a4ed8522d196587cbc82a399f95db51c,100.0,pass3-exact
 PRIME: RIFFTRAX RAW,RIFFTRAX,,pass3_pluto,58d947b9e420d8656ee101ab,100.0,pass3-exact
 PRIME: RIVER MONSTERS RAW,RIVER MONSTERS,,pass3_rakuten,UK:.River.Monsters.be,95.0,pass3-fuzzy
-PRIME: ROOKIE BLUE RAW,ROOKIE BLUE,,pass3_rakuten,NO:.Rookie.Blue.be,95.0,pass3-fuzzy
+PRIME: ROOKIE BLUE RAW,ROOKIE BLUE,,pass3_rakuten,FR:.Rookie.Blue.be,95.0,pass3-fuzzy
 PRIME: ROVR PETS RAW,ROVR PETS,,pass3_samsung,USBC2400024FN,100.0,pass3-exact
 PRIME: RUGBYPASS TV RAW,RUGBYPASS TV,,amazon_direct,amazon::RugbyPass TV,100.0,amazon-exact
 PRIME: RUPAUL'S DRAG RACE RAW,RUPAUL'S DRAG RACE,,amazon_direct,amazon::RuPaul's Drag Race,100.0,amazon-exact
@@ -529,7 +531,7 @@ PRIME: SCREENPIX RAW,SCREENPIX,,us2,ScreenPix.us2,98.0,exact
 PRIME: SCREENPIX VOICES RAW,SCREENPIX VOICES,,amazon_direct,amazon::ScreenPix Voices,100.0,amazon-exact
 PRIME: SCREENPIX WESTERNS RAW,SCREENPIX WESTERNS,,amazon_direct,amazon::ScreenPix Westerns HD,100.0,amazon-exact
 PRIME: SCRIPPS NEWS RAW,SCRIPPS NEWS,,amazon_direct,amazon::Scripps News,100.0,amazon-exact
-PRIME: SHADES OF BLACK RAW,SHADES OF BLACK,,us2,Shades.of.Black.us2,98.0,exact
+PRIME: SHADES OF BLACK RAW,SHADES OF BLACK,,amazon_direct,amazon::Shades of Black,100.0,amazon-exact
 PRIME: SHERIFFS: EL DORADO COUNTY RAW,SHERIFFS: EL DORADO COUNTY,,plex,plex.tv.Sheriffs:.El.Dorado.County.plex,95.0,fuzzy
 PRIME: SHOUT! MOVIES RAW,SHOUT! MOVIES,,pass3_plex_mjh,6a1610bebdf296985fd95603-67ddc2c01d30518241f9249d,100.0,pass3-exact
 PRIME: SHOWCASE RAW,SHOWCASE,,pass3_australia,Showcase.au,100.0,pass3-exact
@@ -555,10 +557,10 @@ PRIME: STARZ2 RAW,STARZ2,,pass3_canada,STARZ.2.ca2,99.0,pass3-compact
 PRIME: STINGRAY CLASSICA RAW,STINGRAY CLASSICA,,pass3_samsung,USBD350002623,100.0,pass3-exact
 PRIME: STORAGE WARS RAW,STORAGE WARS,,pass3_samsung,USBD1700006T2,95.0,pass3-fuzzy
 PRIME: SUNDANCE TV RAW,SUNDANCE TV,,amazon_direct,amazon::Sundance TV,100.0,amazon-fuzzy
-PRIME: SUPER CHANNEL FUSE RAW,SUPER CHANNEL FUSE,,pass3_canada,Super.Channel.Fuse.ca2,100.0,pass3-exact
+PRIME: SUPER CHANNEL FUSE RAW,SUPER CHANNEL FUSE,,pass3_canada,Super.Channel.Fuse.HD.ca2,100.0,pass3-exact
 PRIME: SUPER CHANNEL HEART & HOME RAW,SUPER CHANNEL HEART & HOME,,pass3_canada,Super.Channel.Heart.and.Home.HD.ca2,100.0,pass3-exact
 PRIME: SUPER CHANNEL QUEST RAW,SUPER CHANNEL QUEST,,pass3_canada,Super.Channel.Quest.HD.ca2,100.0,pass3-exact
-PRIME: SUPER CHANNEL VAULT RAW,SUPER CHANNEL VAULT,,pass3_canada,Super.Channel.Vault.HD.ca2,100.0,pass3-exact
+PRIME: SUPER CHANNEL VAULT RAW,SUPER CHANNEL VAULT,,pass3_canada,Super.Channel.Vault.ca2,100.0,pass3-exact
 PRIME: SUPERMARKET SWEEP RAW,SUPERMARKET SWEEP,,amazon_direct,amazon::Supermarket Sweep,100.0,amazon-exact
 PRIME: SUPERNANNY RAW,SUPERNANNY,,pass3_roku,f7ce2bfb2d0c8a552861920b69df6c22,100.0,pass3-exact
 PRIME: SURVIVE OR DIE RAW,SURVIVE OR DIE,,amazon_direct,amazon::Survive or Die,100.0,amazon-exact
@@ -579,7 +581,7 @@ PRIME: TELEMUNDO NOTICIAS FLORIDA RAW,TELEMUNDO NOTICIAS FLORIDA,,amazon_direct,
 PRIME: TELEMUNDO NOTICIAS NORESTE RAW,TELEMUNDO NOTICIAS NORESTE,,amazon_direct,amazon::Telemundo Noticias Noreste,100.0,amazon-exact
 PRIME: TELEMUNDO NOTICIAS TEXAS RAW,TELEMUNDO NOTICIAS TEXAS,,amazon_direct,amazon::Telemundo Noticias Texas,100.0,amazon-exact
 PRIME: TENNIS CHANNEL 2 RAW,TENNIS CHANNEL 2,,amazon_direct,amazon::Tennis Channel 2,100.0,amazon-exact
-PRIME: TERRA MATER WILD RAW,TERRA MATER WILD,,pass3_rakuten,UK:.Terra.Mater.WILD.be,95.0,pass3-fuzzy
+PRIME: TERRA MATER WILD RAW,TERRA MATER WILD,,pass3_rakuten,DE:.Terra.Mater.WILD.be,95.0,pass3-fuzzy
 PRIME: THE ADDAMS FAMILY RAW,THE ADDAMS FAMILY,,amazon_direct,amazon::The Addams Family,100.0,amazon-fuzzy
 PRIME: THE BIGGEST LOSER RAW,THE BIGGEST LOSER,,pass3_plex_mjh,6a1610bebdf296985fd95603-6515ff231fc969615e69d170,100.0,pass3-exact
 PRIME: THE BOB ROSS CHANNEL RAW,THE BOB ROSS CHANNEL,,amazon_direct,amazon::The Bob Ross Channel,100.0,amazon-exact
@@ -610,7 +612,7 @@ PRIME: THE PET COLLECTIVE RAW,THE PET COLLECTIVE,,amazon_direct,amazon::The Pet 
 PRIME: THE PRACTICE RAW,THE PRACTICE,,pass3_roku,6f3c26dab03826c9fdb44e0e61932e68,100.0,pass3-exact
 PRIME: THE PRICE IS RIGHT: DREW CAREY RAW,THE PRICE IS RIGHT: DREW CAREY,,amazon_direct,amazon::The Price is Right: Drew Carey,100.0,amazon-exact
 PRIME: THE PRICE IS RIGHT: THE BARKER ERA RAW,THE PRICE IS RIGHT: THE BARKER ERA,,amazon_direct,amazon::The Price Is Right: The Barker Era,100.0,amazon-exact
-PRIME: THE REAL HOUSEWIVES RAW,THE REAL HOUSEWIVES,,pass3_rakuten,DE:.The.Real.Housewives.be,95.0,pass3-fuzzy
+PRIME: THE REAL HOUSEWIVES RAW,THE REAL HOUSEWIVES,,pass3_rakuten,UK:.The.Real.Housewives.be,95.0,pass3-fuzzy
 PRIME: THE REAL MCCOYS RAW,THE REAL MCCOYS,,amazon_direct,amazon::The Real McCoys,100.0,amazon-exact
 PRIME: THE REPAIR SHOP RAW,THE REPAIR SHOP,,amazon_direct,amazon::The Repair Shop,100.0,amazon-exact
 PRIME: THE RIFLEMAN RAW,THE RIFLEMAN,,amazon_direct,amazon::The Rifleman,100.0,amazon-exact
@@ -630,7 +632,6 @@ PRIME: TNT SPORTS 4 RAW,TNT SPORTS 4,,pass3_uk,TNT.Sports.4.HD.uk,100.0,pass3-ex
 PRIME: TO CATCH A SMUGGLER RAW,TO CATCH A SMUGGLER,,amazon_direct,amazon::To Catch A Smuggler,100.0,amazon-exact
 PRIME: TODAY ALL DAY RAW,TODAY ALL DAY,,amazon_direct,amazon::Today All Day,100.0,amazon-exact
 PRIME: TOP GEAR RAW,TOP GEAR,,amazon_direct,amazon::Top Gear,100.0,amazon-fuzzy
-PRIME: TOP SCI-FI RAW,TOP SCI-FI,,pass3_rakuten,DE:.TOP.SCI-FI.be,95.0,pass3-fuzzy
 PRIME: TORQUE RAW,TORQUE,,pass3_samsung,USBB5200027Z5,100.0,pass3-exact
 PRIME: TRANSFORMERS RAW,TRANSFORMERS,,amazon_direct,amazon::Transformers,100.0,amazon-exact
 PRIME: TRAVEL AND ADVENTURE RAW,TRAVEL AND ADVENTURE,,amazon_direct,amazon::Travel and Adventure,100.0,amazon-exact
@@ -666,7 +667,7 @@ PRIME: VEVO COUNTRY RAW,VEVO COUNTRY,,us2,Vevo.Country.us2,98.0,exact
 PRIME: VEVO HIP-HOP RAW,VEVO HIP-HOP,,us2,Vevo.Hip-Hop.us2,98.0,exact
 PRIME: VEVO R&B RAW,VEVO R&B,,us2,Vevo.R.andB.us2,97.0,compact
 PRIME: VICE RAW,VICE,,us2,Vice.us2,98.0,exact
-PRIME: W NETWORK RAW,W NETWORK,,pass3_canada,W.Network.ca2,100.0,pass3-exact
+PRIME: W NETWORK RAW,W NETWORK,,pass3_canada,W.Network.HD.ca2,100.0,pass3-exact
 PRIME: WANTED: DEAD OR ALIVE RAW,WANTED: DEAD OR ALIVE,,amazon_direct,amazon::Wanted: Dead or Alive,100.0,amazon-exact
 PRIME: WAYPOINT TV RAW,WAYPOINT TV,,pass3_samsung,USBB440002055,100.0,pass3-exact
 PRIME: WEEDS AND NURSE JACKIE RAW,WEEDS AND NURSE JACKIE,,pass3_plex_mjh,6a1610bebdf296985fd95603-66915d35086cb6d46eae12c8,100.0,pass3-exact
@@ -678,7 +679,7 @@ PRIME: WORLD'S MOST EVIL KILLERS RAW,WORLD'S MOST EVIL KILLERS,,plex,plex.tv.Wor
 PRIME: WPXI PITTSBURGH (NBC) RAW,WPXI PITTSBURGH (NBC),,pass3_roku,e38d66dbb4e05f9690f6c573417fc231,95.0,pass3-fuzzy
 PRIME: WSB ATLANTA (ABC) RAW,WSB ATLANTA (ABC),,pass3_roku,69f8d2659a475342b88db93b63f755d0,95.0,pass3-fuzzy
 PRIME: WSOC CHARLOTTE (ABC) RAW,WSOC CHARLOTTE (ABC),,pass3_roku,2b91bedf0bf25b7e83c05291634da59a,95.0,pass3-fuzzy
-PRIME: XENA WARRIOR PRINCESS RAW,XENA WARRIOR PRINCESS,,pass3_rakuten,NO:.Xena:.Warrior.Princess.be,95.0,pass3-fuzzy
+PRIME: XENA WARRIOR PRINCESS RAW,XENA WARRIOR PRINCESS,,pass3_rakuten,FI:.Xena:.Warrior.Princess.be,95.0,pass3-fuzzy
 PRIME: XITE 60S & 70S GROOVE RAW,XITE 60S & 70S GROOVE,,pass3_plex_mjh,6a1610bebdf296985fd95603-688005bc015fe7e375a1a0aa,100.0,pass3-exact
 PRIME: XITE 80S FLASHBACK RAW,XITE 80S FLASHBACK,,amazon_direct,amazon::XITE 80s Flashback,100.0,amazon-exact
 PRIME: XITE 90S THROWBACK RAW,XITE 90S THROWBACK,,amazon_direct,amazon::XITE 90s Throwback,100.0,amazon-exact
