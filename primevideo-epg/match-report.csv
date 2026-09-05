@@ -494,7 +494,7 @@ PRIME: POWERNATION RAW,POWERNATION,,pass3_pluto,63b48016d9dd51000828fa37,100.0,p
 PRIME: PREMIER SPORTS 1 RAW,PREMIER SPORTS 1,,pass3_uk,Premier.Sports.1.HD.uk,100.0,pass3-exact
 PRIME: PREMIER SPORTS 2 RAW,PREMIER SPORTS 2,,pass3_uk,Premier.Sports.2.HD.uk,100.0,pass3-exact
 PRIME: PRESCHOOL CORNER RAW,PRESCHOOL CORNER,,amazon_direct,amazon::Preschool Corner,100.0,amazon-exact
-PRIME: PRIMETIME SOAPS RAW,PRIMETIME SOAPS,,pass3_plex_mjh,6a1610bebdf296985fd95603-66b13a1f4893b3d48c72db19,100.0,pass3-exact
+PRIME: PRIMETIME SOAPS RAW,PRIMETIME SOAPS,,pass3_roku,cfd904d2f64e108809ada1e095a044dc,100.0,pass3-exact
 PRIME: PROFILING PARIS RAW,PROFILING PARIS,,pass3_rakuten,DE:.Profiling.Paris.be,95.0,pass3-fuzzy
 PRIME: PUREFLIX TV RAW,PUREFLIX TV,,us2,Pure.Flix.TV.us2,97.0,compact
 PRIME: QELLO CONCERTS BY STINGRAY RAW,QELLO CONCERTS BY STINGRAY,,pass3_samsung,USBD3500024YB,100.0,pass3-exact
@@ -529,7 +529,7 @@ PRIME: SCREENPIX RAW,SCREENPIX,,us2,ScreenPix.us2,98.0,exact
 PRIME: SCREENPIX VOICES RAW,SCREENPIX VOICES,,amazon_direct,amazon::ScreenPix Voices,100.0,amazon-exact
 PRIME: SCREENPIX WESTERNS RAW,SCREENPIX WESTERNS,,amazon_direct,amazon::ScreenPix Westerns HD,100.0,amazon-exact
 PRIME: SCRIPPS NEWS RAW,SCRIPPS NEWS,,amazon_direct,amazon::Scripps News,100.0,amazon-exact
-PRIME: SHADES OF BLACK RAW,SHADES OF BLACK,,amazon_direct,amazon::Shades of Black,100.0,amazon-exact
+PRIME: SHADES OF BLACK RAW,SHADES OF BLACK,,us2,Shades.of.Black.us2,98.0,exact
 PRIME: SHERIFFS: EL DORADO COUNTY RAW,SHERIFFS: EL DORADO COUNTY,,plex,plex.tv.Sheriffs:.El.Dorado.County.plex,95.0,fuzzy
 PRIME: SHOUT! MOVIES RAW,SHOUT! MOVIES,,pass3_plex_mjh,6a1610bebdf296985fd95603-67ddc2c01d30518241f9249d,100.0,pass3-exact
 PRIME: SHOWCASE RAW,SHOWCASE,,pass3_australia,Showcase.au,100.0,pass3-exact

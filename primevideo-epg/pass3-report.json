@@ -1,23 +1,23 @@
 {
   "starting_unmatched": 606,
-  "candidate_names_loaded": 12069,
+  "candidate_names_loaded": 12065,
   "provisional_matches": 349,
   "new_matches_with_programmes": 340,
   "remaining_unmatched": 263,
   "combined_match_rate_percent": 67.8,
-  "programmes_added": 23745,
+  "programmes_added": 23402,
   "source_programmes": {
-    "pluto": 985,
-    "roku": 6723,
-    "plex_mjh": 3929,
-    "samsung": 667,
+    "pluto": 936,
+    "roku": 6807,
+    "plex_mjh": 3519,
+    "samsung": 669,
     "canada": 4202,
-    "whaletv": 164,
+    "whaletv": 184,
     "fanduel": 210,
     "rakuten": 3096,
     "australia": 2277,
     "distro": 0,
-    "uk": 1492
+    "uk": 1502
   },
   "source_status": [
     {
@@ -48,13 +48,13 @@
       "source": "whaletv",
       "ok": true,
       "candidate_names": 274,
-      "bytes": 195662
+      "bytes": 237508
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2839549
+      "bytes": 2886185
     },
     {
       "source": "canada",
@@ -72,31 +72,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 424983
+      "bytes": 426338
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 852,
-      "bytes": 940290
+      "bytes": 941538
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 508817
+      "bytes": 500127
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1404,
-      "bytes": 3348108
+      "candidate_names": 1400,
+      "bytes": 3335292
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1380,
-      "bytes": 2154482
+      "bytes": 2077777
     }
   ],
   "matches": [
@@ -1764,8 +1764,8 @@
       "name": "PRIME: PRIMETIME SOAPS RAW",
       "base_name": "PRIMETIME SOAPS",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66b13a1f4893b3d48c72db19",
+      "source": "roku",
+      "epg_id": "cfd904d2f64e108809ada1e095a044dc",
       "source_display": "Primetime Soaps",
       "score": 100.0,
       "method": "pass3-exact"
