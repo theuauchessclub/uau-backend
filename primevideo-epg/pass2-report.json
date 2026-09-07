@@ -1,14 +1,14 @@
 {
   "collector": {
     "source": "Prime Video public Live TV pages (Pass 2B pagination crawl)",
-    "collected_at": "2026-09-07T08:38:37.037033-04:00",
+    "collected_at": "2026-09-07T17:33:14.989251-04:00",
     "seed_url": "https://www.primevideo.com/livetv?tr=us&language=en_US",
     "http_ok": true,
     "pages_fetched": 4,
     "pagination_links_discovered": 3,
     "channel_images_found": 119,
     "channels_with_schedule": 117,
-    "programmes": 7295,
+    "programmes": 7515,
     "channels": [
       "40 y 20",
       "AMC",
@@ -130,14 +130,14 @@
     ],
     "page_urls": [
       "https://www.primevideo.com/livetv?tr=us&language=en_US",
-      "https://www.primevideo.com/livetv?ref_=atv_hm_nxt_2&startIndex=13&tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&serviceToken=v0_Cl0KJDhiZmRjNzU5LWVmNmUtNDk5OC04YjEwLWZjMTMwM2FkN2U2MRDI2YLfhzQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiRkMWNkNWNkNi03MDU3LTQ0NzAtYmY1Ny0wNGEyMzFiNDU3NjZSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA3Yzc3ZDNhYWQzNGZhMTRkOTdmOTIwNzc4YzVlYThhYzJhYzZhMGE0ZTc0MjVmY2FlOGEwZGI5ZWNlNzI1MTM0In16tgIqKjI6TFIxRTg1MTY5MzREMTgjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjg3RTQ4RkFFODBDOCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSOUY1MzcyMERDNTlCIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIyMjYyRjE3QkE0RDgjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjJCNDQ2QkVGMTNENiMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSQzZEQ0YzMzNERTZGIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI0MUMzMzMyMTYzNUIjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTTAHggEGMABQAHAA&page=2",
-      "https://www.primevideo.com/livetv?tr=us&serviceToken=v0_Cl0KJDBlMDIzZmNhLTk2MjktNDMzMi05M2E2LTY3MTFjOGE5MGE5ZBCw4YLfhzQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiRkMWNkNWNkNi03MDU3LTQ0NzAtYmY1Ny0wNGEyMzFiNDU3NjZSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA3Yzc3ZDNhYWQzNGZhMTRkOTdmOTIwNzc4YzVlYThhYzJhYzZhMGE0ZTc0MjVmY2FlOGEwZGI5ZWNlNzI1MTM0In16jgMqKjI6TFIzREY1MjBBN0Q2OTkjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjVEQkNCMEI4NUNERSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNjdCMzQzOEUzMjQ1IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIwMTI1MTA3OUIwMjkjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjYxNTUyNzc2MjJEMyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSQzQ0Q0E4NzFEQzM5IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFJENkY2MjgzNzFERjEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjA3RjRFRjVBNTgwRSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSMUI5ODgwOTQ4QTVDIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0wEIIBBjAAUABwAA%3D%3D&page=3&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&ref_=atv_hm_nxt_3&startIndex=27",
-      "https://www.primevideo.com/livetv?tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&ref_=atv_hm_nxt_4&page=4&startIndex=41&serviceToken=v0_Cl0KJGFmMTEwY2VjLTg2ODMtNDZkYi1hYjM3LTYzNWY2MjAyOTQ3ZBCw4YLfhzQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiRkMWNkNWNkNi03MDU3LTQ0NzAtYmY1Ny0wNGEyMzFiNDU3NjZSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA3Yzc3ZDNhYWQzNGZhMTRkOTdmOTIwNzc4YzVlYThhYzJhYzZhMGE0ZTc0MjVmY2FlOGEwZGI5ZWNlNzI1MTM0In16jgMqKjI6TFJBNDVDMzU2RDZDQUUjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjRERkQzMERCODQxQyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNzU5QUIxMzczNDY0IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIwNUQ2M0RGMzlGMTgjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjA0NzU5NEUzM0YzOCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSOUIzOTIyNzIxNjEyIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIzMUVGNTJEOTZERDMjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjUwNDlGMkZEMDUwNSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSMkQyN0Y0NEJBNTdDIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0wGYIBBjAAUABwAA%3D%3D"
+      "https://www.primevideo.com/livetv?ref_=atv_hm_nxt_2&startIndex=13&tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&serviceToken=v0_Cl0KJGM2MTgzYWIzLTczZGQtNDZkMC04ZGVmLTBmYjFmZmQ1MmNkNBD4yqjuhzQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiQzNjkzMTM3Zi1kOGM2LTQ0NDYtOGYzYS04MDZlZGMyMzA3MmJSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA4NmVmMjE1MDIyMjhkN2MyZGUxY2RkZjUxNGM3NTUzNTJhYzZhMGE0ZTc0MjVmY2FlOGEwZGI5ZWNlNzI1MTM0In16tgIqKjI6TFIxRTg1MTY5MzREMTgjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjg3RTQ4RkFFODBDOCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSOUY1MzcyMERDNTlCIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIyMjYyRjE3QkE0RDgjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjJCNDQ2QkVGMTNENiMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSQzZEQ0YzMzNERTZGIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI0MUMzMzMyMTYzNUIjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTTAHggEGMABQAHAA&pageSize=14&page=2",
+      "https://www.primevideo.com/livetv?tr=us&page=3&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&serviceToken=v0_Cl0KJDIzMTdlZmZjLWE4MGUtNGZiOC05YzUzLTVmYzMzYjExNmQ1YxDg0qjuhzQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiQzNjkzMTM3Zi1kOGM2LTQ0NDYtOGYzYS04MDZlZGMyMzA3MmJSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA4NmVmMjE1MDIyMjhkN2MyZGUxY2RkZjUxNGM3NTUzNTJhYzZhMGE0ZTc0MjVmY2FlOGEwZGI5ZWNlNzI1MTM0In16jgMqKjI6TFIzREY1MjBBN0Q2OTkjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjVEQkNCMEI4NUNERSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNjdCMzQzOEUzMjQ1IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIwMTI1MTA3OUIwMjkjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjYxNTUyNzc2MjJEMyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSQzQ0Q0E4NzFEQzM5IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFJENkY2MjgzNzFERjEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjA3RjRFRjVBNTgwRSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSMUI5ODgwOTQ4QTVDIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0wEIIBBjAAUABwAA%3D%3D&ref_=atv_hm_nxt_3&startIndex=27",
+      "https://www.primevideo.com/livetv?tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&ref_=atv_hm_nxt_4&page=4&serviceToken=v0_Cl0KJGI2ZGMxY2QwLTE4NmEtNGQyNi1hMjRmLWI5MTk0YmQ4NzAxYxDg0qjuhzQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiQzNjkzMTM3Zi1kOGM2LTQ0NDYtOGYzYS04MDZlZGMyMzA3MmJSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVA4NmVmMjE1MDIyMjhkN2MyZGUxY2RkZjUxNGM3NTUzNTJhYzZhMGE0ZTc0MjVmY2FlOGEwZGI5ZWNlNzI1MTM0In16jgMqKjI6TFJBNDVDMzU2RDZDQUUjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjRERkQzMERCODQxQyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSNzU5QUIxMzczNDY0IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIwNUQ2M0RGMzlGMTgjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjA0NzU5NEUzM0YzOCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSOUIzOTIyNzIxNjEyIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIzMUVGNTJEOTZERDMjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjUwNDlGMkZEMDUwNSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSMkQyN0Y0NEJBNTdDIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0wGYIBBjAAUABwAA%3D%3D&startIndex=41"
     ],
     "errors": []
   },
   "direct_matches": 54,
-  "direct_programmes": 3426,
+  "direct_programmes": 3423,
   "new_channel_declarations": 31,
   "rejected_amazon_channels": [
     {
@@ -153,7 +153,7 @@
       "target": "PRIME: AMC RAW",
       "score": 100.0,
       "method": "amazon-fuzzy",
-      "programmes": 43
+      "programmes": 40
     },
     {
       "amazon_id": "amazon::AMC +",
@@ -161,7 +161,7 @@
       "target": "PRIME: AMC + RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 43
+      "programmes": 40
     },
     {
       "amazon_id": "amazon::Animation Favorites",
@@ -169,7 +169,7 @@
       "target": "PRIME: ANIMATION FAVORITES RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::BBC America",
@@ -177,7 +177,7 @@
       "target": "PRIME: BBC AMERICA RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 43
+      "programmes": 40
     },
     {
       "amazon_id": "amazon::BET x Tyler Perry Comedy",
@@ -185,7 +185,7 @@
       "target": "PRIME: BET X TYLER PERRY COMEDY RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 104
+      "programmes": 101
     },
     {
       "amazon_id": "amazon::Black Voices",
@@ -193,7 +193,7 @@
       "target": "PRIME: BLACK VOICES RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::CNN International",
@@ -201,7 +201,7 @@
       "target": "PRIME: CNN INTERNATIONAL RAW",
       "score": 100.0,
       "method": "amazon-fuzzy",
-      "programmes": 21
+      "programmes": 18
     },
     {
       "amazon_id": "amazon::CNN Originals",
@@ -209,7 +209,7 @@
       "target": "PRIME: CNN ORIGINALS RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 21
+      "programmes": 18
     },
     {
       "amazon_id": "amazon::CSI",
@@ -217,7 +217,7 @@
       "target": "PRIME: CSI RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::Cinemax HD East",
@@ -225,7 +225,7 @@
       "target": "PRIME: CINEMAX EAST RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 15
+      "programmes": 13
     },
     {
       "amazon_id": "amazon::Cinemax West",
@@ -233,7 +233,7 @@
       "target": "PRIME: CINEMAX WEST RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 15
+      "programmes": 13
     },
     {
       "amazon_id": "amazon::Como Dice el Dicho",
@@ -249,7 +249,7 @@
       "target": "PRIME: DATELINE 24/7 RAW",
       "score": 100.0,
       "method": "amazon-fuzzy",
-      "programmes": 104
+      "programmes": 101
     },
     {
       "amazon_id": "amazon::FOX 5 Washington, DC",
@@ -257,7 +257,7 @@
       "target": "PRIME: FOX 5 WASHINGTON DC RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 50
+      "programmes": 48
     },
     {
       "amazon_id": "amazon::FOX Soul",
@@ -265,7 +265,7 @@
       "target": "PRIME: FOX SOUL RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 50
+      "programmes": 48
     },
     {
       "amazon_id": "amazon::FOX Weather",
@@ -273,7 +273,7 @@
       "target": "PRIME: FOX WEATHER RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 50
+      "programmes": 48
     },
     {
       "amazon_id": "amazon::HBO",
@@ -281,7 +281,7 @@
       "target": "PRIME: HBO RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 21
+      "programmes": 23
     },
     {
       "amazon_id": "amazon::HBO Comedy",
@@ -289,7 +289,7 @@
       "target": "PRIME: HBO COMEDY RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 21
+      "programmes": 23
     },
     {
       "amazon_id": "amazon::HBO Latino",
@@ -297,7 +297,7 @@
       "target": "PRIME: HBO LATINO RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 21
+      "programmes": 23
     },
     {
       "amazon_id": "amazon::HBO West",
@@ -305,7 +305,7 @@
       "target": "PRIME: HBO WEST RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 21
+      "programmes": 23
     },
     {
       "amazon_id": "amazon::IFC",
@@ -313,7 +313,7 @@
       "target": "PRIME: IFC RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 43
+      "programmes": 40
     },
     {
       "amazon_id": "amazon::ION",
@@ -321,7 +321,7 @@
       "target": "PRIME: ION RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 104
+      "programmes": 101
     },
     {
       "amazon_id": "amazon::Judy Justice",
@@ -329,7 +329,7 @@
       "target": "PRIME: JUDY JUSTICE RAW",
       "score": 100.0,
       "method": "amazon-fuzzy",
-      "programmes": 104
+      "programmes": 101
     },
     {
       "amazon_id": "amazon::Kids & Family Fun",
@@ -337,7 +337,7 @@
       "target": "PRIME: KIDS & FAMILY FUN RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::LiveNOW by FOX",
@@ -345,7 +345,7 @@
       "target": "PRIME: LIVE NOW BY FOX RAW",
       "score": 99.0,
       "method": "amazon-compact",
-      "programmes": 62
+      "programmes": 60
     },
     {
       "amazon_id": "amazon::MAX Latino East",
@@ -353,7 +353,7 @@
       "target": "PRIME: MAX LATINO EAST RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 15
+      "programmes": 13
     },
     {
       "amazon_id": "amazon::MGM+",
@@ -401,7 +401,7 @@
       "target": "PRIME: MURDER, SHE WROTE RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 104
+      "programmes": 101
     },
     {
       "amazon_id": "amazon::NBA TV HDTV",
@@ -417,7 +417,7 @@
       "target": "PRIME: NBC NEWS NOW RAW",
       "score": 100.0,
       "method": "amazon-fuzzy",
-      "programmes": 105
+      "programmes": 131
     },
     {
       "amazon_id": "amazon::PAW Patrol",
@@ -425,7 +425,7 @@
       "target": "PRIME: PAW PATROL RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::Reality TV: Shores",
@@ -433,7 +433,7 @@
       "target": "PRIME: REALITY TV: SHORES RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::RuPaul's Drag Race",
@@ -441,7 +441,7 @@
       "target": "PRIME: RUPAUL'S DRAG RACE RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::SNL Vault",
@@ -449,7 +449,7 @@
       "target": "PRIME: SNL VAULT RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 105
+      "programmes": 131
     },
     {
       "amazon_id": "amazon::ScreenPix",
@@ -457,7 +457,7 @@
       "target": "PRIME: SCREENPIX RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 12
+      "programmes": 15
     },
     {
       "amazon_id": "amazon::ScreenPix Action",
@@ -465,7 +465,7 @@
       "target": "PRIME: SCREENPIX ACTION RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 12
+      "programmes": 15
     },
     {
       "amazon_id": "amazon::ScreenPix Voices",
@@ -473,7 +473,7 @@
       "target": "PRIME: SCREENPIX VOICES RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 12
+      "programmes": 15
     },
     {
       "amazon_id": "amazon::ScreenPix Westerns HD",
@@ -481,7 +481,7 @@
       "target": "PRIME: SCREENPIX WESTERNS RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 12
+      "programmes": 15
     },
     {
       "amazon_id": "amazon::Scripps News",
@@ -489,7 +489,7 @@
       "target": "PRIME: SCRIPPS NEWS RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 105
+      "programmes": 131
     },
     {
       "amazon_id": "amazon::Showtime",
@@ -497,7 +497,7 @@
       "target": "PRIME: SHOWTIME RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 4
+      "programmes": 5
     },
     {
       "amazon_id": "amazon::Showtime West",
@@ -505,7 +505,7 @@
       "target": "PRIME: SHOWTIME WEST RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 4
+      "programmes": 5
     },
     {
       "amazon_id": "amazon::SpongeBob SquarePants Universe",
@@ -513,7 +513,7 @@
       "target": "PRIME: SPONGEBOB SQUAREPANTS UNIVERSE RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::Star Trek",
@@ -521,7 +521,7 @@
       "target": "PRIME: STAR TREK RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::Sundance TV",
@@ -529,7 +529,7 @@
       "target": "PRIME: SUNDANCE TV RAW",
       "score": 100.0,
       "method": "amazon-fuzzy",
-      "programmes": 43
+      "programmes": 40
     },
     {
       "amazon_id": "amazon::Survivor",
@@ -537,7 +537,7 @@
       "target": "PRIME: SURVIVOR RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::The Challenge",
@@ -545,7 +545,7 @@
       "target": "PRIME: THE CHALLENGE RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 140
+      "programmes": 136
     },
     {
       "amazon_id": "amazon::The First 48 by A&E",
@@ -553,7 +553,7 @@
       "target": "PRIME: THE FIRST 48 BY A&E RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 104
+      "programmes": 101
     },
     {
       "amazon_id": "amazon::The Incredible Dr. Pol",
@@ -561,7 +561,7 @@
       "target": "PRIME: THE INCREDIBLE DR. POL RAW",
       "score": 100.0,
       "method": "amazon-exact",
-      "programmes": 104
+      "programmes": 101
     },
     {
       "amazon_id": "amazon::The Walking Dead Channel",
@@ -569,7 +569,7 @@
       "target": "PRIME: THE WALKING DEAD CHANNEL RAW",
       "score": 100.0,
       "method": "amazon-fuzzy",
-      "programmes": 43
+      "programmes": 40
     },
     {
       "amazon_id": "amazon::pixl",
