@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12073,
+  "candidate_names_loaded": 12067,
   "provisional_matches": 509,
   "new_matches_with_programmes": 491,
   "remaining_unmatched": 307,
   "combined_match_rate_percent": 63.7,
-  "programmes_added": 31442,
+  "programmes_added": 31653,
   "source_programmes": {
-    "pluto": 2119,
-    "samsung": 1102,
-    "roku": 10298,
-    "plex_mjh": 4306,
+    "pluto": 2145,
+    "samsung": 1087,
+    "roku": 10182,
+    "plex_mjh": 4622,
     "canada": 4462,
     "uk": 1852,
     "whaletv": 220,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 852,
-      "bytes": 944282
+      "bytes": 942002
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 511030
+      "bytes": 512257
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1408,
-      "bytes": 3255061
+      "candidate_names": 1402,
+      "bytes": 3259555
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1380,
-      "bytes": 1902372
+      "bytes": 2140909
     }
   ],
   "matches": [
@@ -2273,16 +2273,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC BAY AREA NEWS RAW",
-      "base_name": "NBC BAY AREA NEWS",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "047f1ce93f9451a8884d57a2ef4884b7",
-      "source_display": "NBC Bay Area News",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: NBC CONNECTICUT NEWS RAW",
       "base_name": "NBC CONNECTICUT NEWS",
       "stream_id": "",
@@ -3199,6 +3189,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
