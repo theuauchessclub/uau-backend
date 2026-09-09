@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12069,
+  "candidate_names_loaded": 12081,
   "provisional_matches": 510,
-  "new_matches_with_programmes": 494,
-  "remaining_unmatched": 304,
-  "combined_match_rate_percent": 64.0,
-  "programmes_added": 31727,
+  "new_matches_with_programmes": 495,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.1,
+  "programmes_added": 32522,
   "source_programmes": {
-    "pluto": 2157,
-    "samsung": 1080,
-    "roku": 10280,
-    "plex_mjh": 4221,
+    "pluto": 2130,
+    "samsung": 1097,
+    "roku": 10235,
+    "plex_mjh": 5043,
     "canada": 4522,
     "uk": 1857,
     "whaletv": 615,
@@ -19,7 +19,7 @@
     "australia": 3344,
     "distro": 0,
     "mexico": 37,
-    "tbnplus": 169
+    "tbnplus": 197
   },
   "source_status": [
     {
@@ -43,8 +43,8 @@
     {
       "source": "tbnplus",
       "ok": true,
-      "candidate_names": 24,
-      "bytes": 19315
+      "candidate_names": 34,
+      "bytes": 30533
     },
     {
       "source": "whaletv",
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 852,
-      "bytes": 943546
+      "bytes": 940460
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1158,
-      "bytes": 500701
+      "bytes": 510703
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1406,
-      "bytes": 3281884
+      "candidate_names": 1408,
+      "bytes": 3270338
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1378,
-      "bytes": 1972784
+      "bytes": 2234264
     }
   ],
   "matches": [
@@ -2911,6 +2911,16 @@
       "source_display": "TBN",
       "score": 100.0,
       "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TBN'S WOMEN OF FAITH RAW",
+      "base_name": "TBN'S WOMEN OF FAITH",
+      "stream_id": "",
+      "source": "tbnplus",
+      "epg_id": "Women.of.Faith.us",
+      "source_display": "Women of Faith",
+      "score": 95.0,
+      "method": "pass3-fuzzy"
     },
     {
       "name": "PRIME: TEAM USA RAW",
