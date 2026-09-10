@@ -1,19 +1,19 @@
 {
   "starting_unmatched": 802,
-  "candidate_names_loaded": 12097,
-  "provisional_matches": 508,
-  "new_matches_with_programmes": 493,
-  "remaining_unmatched": 304,
-  "combined_match_rate_percent": 64.0,
-  "programmes_added": 30450,
+  "candidate_names_loaded": 12099,
+  "provisional_matches": 507,
+  "new_matches_with_programmes": 495,
+  "remaining_unmatched": 302,
+  "combined_match_rate_percent": 64.1,
+  "programmes_added": 30495,
   "source_programmes": {
-    "pluto": 2139,
-    "samsung": 1081,
-    "roku": 10027,
-    "plex_mjh": 3528,
+    "pluto": 2061,
+    "samsung": 1099,
+    "roku": 9996,
+    "plex_mjh": 3617,
     "canada": 4480,
     "uk": 1849,
-    "whaletv": 556,
+    "whaletv": 603,
     "fanduel": 208,
     "rakuten": 3093,
     "australia": 3270,
@@ -38,7 +38,7 @@
       "source": "rakuten",
       "ok": true,
       "candidate_names": 3280,
-      "bytes": 9662523
+      "bytes": 9662720
     },
     {
       "source": "tbnplus",
@@ -49,8 +49,8 @@
     {
       "source": "whaletv",
       "ok": true,
-      "candidate_names": 274,
-      "bytes": 263358
+      "candidate_names": 278,
+      "bytes": 618293
     },
     {
       "source": "uk",
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 852,
-      "bytes": 941027
+      "bytes": 932103
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1164,
-      "bytes": 504066
+      "bytes": 501309
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1410,
-      "bytes": 3326194
+      "candidate_names": 1408,
+      "bytes": 3305650
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 1749047
+      "bytes": 1882986
     }
   ],
   "matches": [
@@ -3223,6 +3223,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -4543,6 +4553,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TERRA MATER WILD RAW",
+      "base_name": "TERRA MATER WILD",
+      "stream_id": "",
+      "source": "whaletv",
+      "epg_id": "Terra.Mater.Wild.us",
+      "source_display": "Terra Mater Wild",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: THE ADDAMS FAMILY RAW",
       "base_name": "THE ADDAMS FAMILY",
       "stream_id": "",
@@ -4873,16 +4893,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: MOTORVISION DE RAW",
-      "base_name": "MOTORVISION DE",
-      "stream_id": "",
-      "source": "whaletv",
-      "epg_id": "Motorvision.us",
-      "source_display": "Motorvision",
-      "score": 95.0,
-      "method": "pass3-fuzzy"
-    },
-    {
       "name": "PRIME: MOVIESPHERE BY LIONSGATE RAW",
       "base_name": "MOVIESPHERE BY LIONSGATE",
       "stream_id": "",
@@ -4961,6 +4971,16 @@
       "source_display": "Stingray Classica",
       "score": 100.0,
       "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TERRA MATER WILD RAW",
+      "base_name": "TERRA MATER WILD",
+      "stream_id": "",
+      "source": "rakuten",
+      "epg_id": "UK:.Terra.Mater.WILD.be",
+      "source_display": "UK: Terra Mater WILD",
+      "score": 95.0,
+      "method": "pass3-fuzzy"
     },
     {
       "name": "PRIME: THE REAL HOUSEWIVES RAW",
