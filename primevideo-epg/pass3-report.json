@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 802,
-  "candidate_names_loaded": 12095,
+  "candidate_names_loaded": 12101,
   "provisional_matches": 506,
   "new_matches_with_programmes": 495,
   "remaining_unmatched": 302,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 30410,
+  "programmes_added": 31342,
   "source_programmes": {
-    "pluto": 2139,
-    "samsung": 1107,
-    "roku": 9874,
-    "plex_mjh": 3314,
+    "pluto": 2089,
+    "samsung": 1082,
+    "roku": 9910,
+    "plex_mjh": 4285,
     "canada": 4381,
     "uk": 1837,
     "whaletv": 603,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 941997
+      "bytes": 936780
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1164,
-      "bytes": 509000
+      "bytes": 507521
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1402,
-      "bytes": 3324857
+      "candidate_names": 1408,
+      "bytes": 3326152
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 1731858
+      "bytes": 2091085
     }
   ],
   "matches": [
@@ -2853,6 +2853,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: SUPERNANNY RAW",
+      "base_name": "SUPERNANNY",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "f7ce2bfb2d0c8a552861920b69df6c22",
+      "source_display": "Supernanny",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: SURVIVE OR DIE RAW",
       "base_name": "SURVIVE OR DIE",
       "stream_id": "",
@@ -3209,16 +3219,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
