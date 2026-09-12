@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 606,
-  "candidate_names_loaded": 12095,
-  "provisional_matches": 347,
-  "new_matches_with_programmes": 339,
-  "remaining_unmatched": 264,
-  "combined_match_rate_percent": 67.7,
-  "programmes_added": 23302,
+  "candidate_names_loaded": 12093,
+  "provisional_matches": 348,
+  "new_matches_with_programmes": 340,
+  "remaining_unmatched": 263,
+  "combined_match_rate_percent": 67.8,
+  "programmes_added": 24146,
   "source_programmes": {
-    "pluto": 950,
-    "roku": 6607,
-    "plex_mjh": 3594,
-    "samsung": 681,
+    "pluto": 961,
+    "roku": 6643,
+    "plex_mjh": 4388,
+    "samsung": 684,
     "canada": 4225,
     "fanduel": 222,
     "rakuten": 2994,
@@ -79,25 +79,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 948486
+      "bytes": 942793
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1162,
-      "bytes": 508378
+      "bytes": 511954
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1404,
-      "bytes": 3333211
+      "candidate_names": 1402,
+      "bytes": 3324409
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 2004026
+      "bytes": 2380647
     }
   ],
   "matches": [
@@ -390,6 +390,16 @@
       "source_display": "Boston 25 News",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: BOUNCEXL RAW",
+      "base_name": "BOUNCEXL",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "6176fd25e83a5f0007a464c9",
+      "source_display": "Bounce XL",
+      "score": 99.0,
+      "method": "pass3-compact"
     },
     {
       "name": "PRIME: BRAVO VAULT RAW",
