@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 606,
-  "candidate_names_loaded": 12093,
-  "provisional_matches": 347,
-  "new_matches_with_programmes": 339,
-  "remaining_unmatched": 264,
-  "combined_match_rate_percent": 67.7,
-  "programmes_added": 23882,
+  "candidate_names_loaded": 12095,
+  "provisional_matches": 348,
+  "new_matches_with_programmes": 340,
+  "remaining_unmatched": 263,
+  "combined_match_rate_percent": 67.8,
+  "programmes_added": 24073,
   "source_programmes": {
-    "pluto": 956,
-    "roku": 6636,
-    "plex_mjh": 4142,
-    "samsung": 678,
-    "canada": 4225,
-    "fanduel": 222,
+    "pluto": 980,
+    "roku": 6617,
+    "plex_mjh": 4160,
+    "samsung": 685,
+    "canada": 4362,
+    "fanduel": 214,
     "rakuten": 2994,
-    "australia": 2214,
+    "australia": 2213,
     "whaletv": 290,
     "distro": 0,
-    "tbnplus": 30,
-    "uk": 1495
+    "tbnplus": 24,
+    "uk": 1534
   },
   "source_status": [
     {
@@ -31,7 +31,7 @@
       "source": "fanduel",
       "ok": true,
       "candidate_names": 90,
-      "bytes": 147113
+      "bytes": 143642
     },
     {
       "source": "rakuten",
@@ -43,7 +43,7 @@
       "source": "tbnplus",
       "ok": true,
       "candidate_names": 34,
-      "bytes": 30512
+      "bytes": 30425
     },
     {
       "source": "whaletv",
@@ -55,49 +55,49 @@
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2874305
+      "bytes": 2856502
     },
     {
       "source": "canada",
       "ok": true,
       "candidate_names": 1392,
-      "bytes": 6598112
+      "bytes": 6499694
     },
     {
       "source": "australia",
       "ok": true,
       "candidate_names": 707,
-      "bytes": 4247995
+      "bytes": 4171759
     },
     {
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 446624
+      "bytes": 441341
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 946390
+      "bytes": 955717
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1162,
-      "bytes": 509572
+      "bytes": 500149
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1402,
-      "bytes": 3320181
+      "candidate_names": 1404,
+      "bytes": 3315089
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 2463927
+      "bytes": 2289285
     }
   ],
   "matches": [
@@ -390,6 +390,16 @@
       "source_display": "Boston 25 News",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: BOUNCEXL RAW",
+      "base_name": "BOUNCEXL",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "6176fd25e83a5f0007a464c9",
+      "source_display": "Bounce XL",
+      "score": 99.0,
+      "method": "pass3-compact"
     },
     {
       "name": "PRIME: BRAVO VAULT RAW",
@@ -2386,8 +2396,8 @@
       "base_name": "CITYTV CALGARY",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Citytv.Calgary.ca2",
-      "source_display": "Citytv Calgary",
+      "epg_id": "Citytv.Calgary.HD.ca2",
+      "source_display": "Citytv Calgary HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2406,8 +2416,8 @@
       "base_name": "CITYTV MONTREAL",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Citytv.Montreal.ca2",
-      "source_display": "Citytv Montreal",
+      "epg_id": "Citytv.Montreal.HD.ca2",
+      "source_display": "Citytv Montreal HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2506,8 +2516,8 @@
       "base_name": "GLOBAL NEWS TORONTO",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Global.Toronto.ca2",
-      "source_display": "Global Toronto",
+      "epg_id": "Global.Toronto.HD.ca2",
+      "source_display": "Global Toronto HD",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -2576,8 +2586,8 @@
       "base_name": "LIFETIME (CANADA)",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Lifetime.(Canada).ca2",
-      "source_display": "Lifetime (Canada)",
+      "epg_id": "Lifetime.HD.(Canada).ca2",
+      "source_display": "Lifetime HD (Canada)",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2596,8 +2606,8 @@
       "base_name": "SLICE",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "SLICE.ca2",
-      "source_display": "SLICE",
+      "epg_id": "SLICE.HD.ca2",
+      "source_display": "SLICE HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2626,8 +2636,8 @@
       "base_name": "SUPER CHANNEL FUSE",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Super.Channel.Fuse.HD.ca2",
-      "source_display": "Super Channel Fuse HD",
+      "epg_id": "Super.Channel.Fuse.ca2",
+      "source_display": "Super Channel Fuse",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2666,8 +2676,8 @@
       "base_name": "TREEHOUSE",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Treehouse.HD.ca2",
-      "source_display": "Treehouse HD",
+      "epg_id": "Treehouse.ca2",
+      "source_display": "Treehouse",
       "score": 100.0,
       "method": "pass3-exact"
     },
