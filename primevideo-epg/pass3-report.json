@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 802,
-  "candidate_names_loaded": 12101,
-  "provisional_matches": 507,
-  "new_matches_with_programmes": 496,
-  "remaining_unmatched": 301,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 32126,
+  "candidate_names_loaded": 12085,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 493,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 32171,
   "source_programmes": {
-    "pluto": 2088,
-    "samsung": 1069,
-    "roku": 9932,
-    "plex_mjh": 5110,
+    "pluto": 2155,
+    "samsung": 1075,
+    "roku": 9821,
+    "plex_mjh": 5193,
     "canada": 4383,
     "uk": 1880,
     "whaletv": 609,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 941761
+      "bytes": 957662
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1162,
-      "bytes": 505251
+      "bytes": 506071
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1410,
-      "bytes": 3256497
+      "candidate_names": 1394,
+      "bytes": 3239600
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 2249329
+      "bytes": 2468132
     }
   ],
   "matches": [
@@ -677,7 +677,7 @@
       "base_name": "CBS NEWS BOSTON",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "5eb1af2ad345340008fccd1e",
+      "epg_id": "62cdc7c2a3e6270007f3f2f3",
       "source_display": "CBS News Boston",
       "score": 100.0,
       "method": "pass3-exact"
@@ -687,7 +687,7 @@
       "base_name": "CBS NEWS CHICAGO",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "62cdc75b1a1cbd0007ed45dc",
+      "epg_id": "5eb1aeb2fd4b8a00076c2047",
       "source_display": "CBS News Chicago",
       "score": 100.0,
       "method": "pass3-exact"
@@ -2643,16 +2643,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: REUTERS 60 RAW",
-      "base_name": "REUTERS 60",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "a4ed8522d196587cbc82a399f95db51c",
-      "source_display": "Reuters 60",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: RIFFTRAX RAW",
       "base_name": "RIFFTRAX",
       "stream_id": "",
@@ -3219,16 +3209,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4206,8 +4186,8 @@
       "name": "PRIME: CNN HEADLINES RAW",
       "base_name": "CNN HEADLINES",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "42523afdfa3a0230d7268a238df5ef65",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545",
       "source_display": "CNN Headlines",
       "score": 100.0,
       "method": "pass3-exact"
@@ -4761,16 +4741,6 @@
       "source_display": "UK: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
-    },
-    {
-      "name": "PRIME: CNN HEADLINES RAW",
-      "base_name": "CNN HEADLINES",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545",
-      "source_display": "CNN Headlines",
-      "score": 100.0,
-      "method": "pass3-exact"
     },
     {
       "name": "PRIME: CRIME + INVESTIGATION PLAY RAW",
