@@ -1,21 +1,21 @@
 {
   "starting_unmatched": 802,
-  "candidate_names_loaded": 11975,
-  "provisional_matches": 489,
-  "new_matches_with_programmes": 461,
-  "remaining_unmatched": 337,
-  "combined_match_rate_percent": 60.8,
-  "programmes_added": 27663,
+  "candidate_names_loaded": 11973,
+  "provisional_matches": 490,
+  "new_matches_with_programmes": 479,
+  "remaining_unmatched": 318,
+  "combined_match_rate_percent": 62.5,
+  "programmes_added": 29556,
   "source_programmes": {
-    "pluto": 2182,
-    "samsung": 1091,
-    "plex_mjh": 2512,
-    "roku": 7887,
+    "pluto": 2159,
+    "samsung": 1097,
+    "plex_mjh": 4381,
+    "roku": 7833,
     "canada": 4376,
     "uk": 1861,
     "whaletv": 622,
     "fanduel": 204,
-    "rakuten": 3368,
+    "rakuten": 3463,
     "australia": 3349,
     "distro": 0,
     "mexico": 40,
@@ -38,7 +38,7 @@
       "source": "rakuten",
       "ok": true,
       "candidate_names": 3280,
-      "bytes": 10049451
+      "bytes": 10050488
     },
     {
       "source": "tbnplus",
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 858,
-      "bytes": 966098
+      "bytes": 964658
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1164,
-      "bytes": 512108
+      "bytes": 512594
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1278,
-      "bytes": 3085796
+      "candidate_names": 1276,
+      "bytes": 3077177
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 1012337
+      "bytes": 1999556
     }
   ],
   "matches": [
@@ -169,6 +169,16 @@
       "source": "samsung",
       "epg_id": "US35000201T",
       "source_display": "Acorn TV Mysteries",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: ALF RAW",
+      "base_name": "ALF",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-62d1ecc8e44d39da220722aa",
+      "source_display": "ALF",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1003,6 +1013,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: DON'T TELL THE BRIDE RAW",
+      "base_name": "DON'T TELL THE BRIDE",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-635847d0d3a668f1cafc1f9d",
+      "source_display": "Don't Tell The Bride",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: DP WORLD TOUR RAW",
       "base_name": "DP WORLD TOUR",
       "stream_id": "",
@@ -1191,6 +1211,16 @@
       "source_display": "SE: Fifth Gear",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: FILMRISE ACTION RAW",
+      "base_name": "FILMRISE ACTION",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66ea0504c24d95b51b7cd189",
+      "source_display": "FilmRise Action",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: FILMRISE BLACK TV RAW",
@@ -1513,6 +1543,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: HORROR STORIES RAW",
+      "base_name": "HORROR STORIES",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae",
+      "source_display": "Horror Stories",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: HOT ONES RAW",
       "base_name": "HOT ONES",
       "stream_id": "",
@@ -1589,6 +1629,16 @@
       "source": "roku",
       "epg_id": "f8e30bbf7d345413bff10b8c6ff499c8",
       "source_display": "IFC Films Picks",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: IMPOSSIBLE - QUIZ SHOW RAW",
+      "base_name": "IMPOSSIBLE - QUIZ SHOW",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6308fa9c0417b7074a4ad959",
+      "source_display": "Impossible - Quiz Show",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2183,6 +2233,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: OUTLAW RAW",
+      "base_name": "OUTLAW",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4",
+      "source_display": "Outlaw",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: OVERTIME RAW",
       "base_name": "OVERTIME",
       "stream_id": "",
@@ -2413,6 +2473,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: RED BULL RAW",
+      "base_name": "RED BULL",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "c5e8a74546771de365652cd053f73351",
+      "source_display": "Red Bull TV",
+      "score": 95.0,
+      "method": "pass3-fuzzy"
+    },
+    {
       "name": "PRIME: REELZ FAMOUS AND INFAMOUS RAW",
       "base_name": "REELZ FAMOUS AND INFAMOUS",
       "stream_id": "",
@@ -2486,8 +2556,8 @@
       "name": "PRIME: SAY YES TO THE DRESS RAW",
       "base_name": "SAY YES TO THE DRESS",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "a5de566e8ec2f3736be8a9db178f2689",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66a1ae9e77649467da169f0e",
       "source_display": "Say Yes to the Dress",
       "score": 100.0,
       "method": "pass3-exact"
@@ -2501,6 +2571,16 @@
       "source_display": "Science is Amazing",
       "score": 100.0,
       "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: SCREAMBOXTV RAW",
+      "base_name": "SCREAMBOXTV",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99",
+      "source_display": "Screambox TV",
+      "score": 99.0,
+      "method": "pass3-compact"
     },
     {
       "name": "PRIME: SHOUT! MOVIES RAW",
@@ -2693,6 +2773,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: TELEMUNDO AL DIA RAW",
+      "base_name": "TELEMUNDO AL DIA",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6478acb5c83f56da796f166f",
+      "source_display": "Telemundo al Dia",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TELEMUNDO NOTICIAS CALIFORNIA RAW",
       "base_name": "TELEMUNDO NOTICIAS CALIFORNIA",
       "stream_id": "",
@@ -2713,12 +2803,32 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: THE BIGGEST LOSER RAW",
+      "base_name": "THE BIGGEST LOSER",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6515ff231fc969615e69d170",
+      "source_display": "The Biggest Loser",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: THE BOB ROSS CHANNEL RAW",
       "base_name": "THE BOB ROSS CHANNEL",
       "stream_id": "",
       "source": "pluto",
       "epg_id": "5f36d726234ce10007784f2a",
       "source_display": "The Bob Ross Channel",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: THE BOLD AND THE BEAUTIFUL RAW",
+      "base_name": "THE BOLD AND THE BEAUTIFUL",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-67d9a3d663c5439aeaf61305",
+      "source_display": "The Bold and the Beautiful",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2789,6 +2899,16 @@
       "source": "roku",
       "epg_id": "03eb704203f05a6fa06d9dce0d0ffccc",
       "source_display": "The Emeril Lagasse Channel",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: THE FBI RAW",
+      "base_name": "THE FBI",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-69d94123a5c870fb1e88f879",
+      "source_display": "The FBI",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2869,6 +2989,16 @@
       "source": "plex_mjh",
       "epg_id": "6a1610bebdf296985fd95603-689fb59eba3be0bafe349d35",
       "source_display": "The Outer Limits",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: THE OUTPOST RAW",
+      "base_name": "THE OUTPOST",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6762ec6a4a292357428c1b59",
+      "source_display": "The Outpost",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3193,6 +3323,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: WENDY WILLIAMS RAW",
+      "base_name": "WENDY WILLIAMS",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-685f0f5c593aba51f211823b",
+      "source_display": "Wendy Williams",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: WSOC CHARLOTTE (ABC) RAW",
       "base_name": "WSOC CHARLOTTE (ABC)",
       "stream_id": "",
@@ -3207,10 +3347,20 @@
       "base_name": "XENA WARRIOR PRINCESS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FI:.Xena:.Warrior.Princess.be",
-      "source_display": "FI: Xena: Warrior Princess",
+      "epg_id": "SE:.Xena:.Warrior.Princess.be",
+      "source_display": "SE: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: XITE 60S & 70S GROOVE RAW",
+      "base_name": "XITE 60S & 70S GROOVE",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-688005bc015fe7e375a1a0aa",
+      "source_display": "XITE 60s & 70s Groove",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: XITE 80S FLASHBACK RAW",
@@ -3229,6 +3379,16 @@
       "source": "samsung",
       "epg_id": "USBB3200007AK",
       "source_display": "XITE 90s Throwback",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE CELEBRATES RAW",
+      "base_name": "XITE CELEBRATES",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503",
+      "source_display": "XITE Celebrates",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3299,6 +3459,26 @@
       "source": "samsung",
       "epg_id": "USBD330000948",
       "source_display": "XITE R&B Classic Jams",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE R&B FEELS RAW",
+      "base_name": "XITE R&B FEELS",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
+      "source_display": "XITE R&B Feels",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE RAP GAME RAW",
+      "base_name": "XITE RAP GAME",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800b694033a6a442ad9239",
+      "source_display": "XITE Rap Game",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3757,8 +3937,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NL:.Bloomberg.TV+.be",
-      "source_display": "NL: Bloomberg TV+",
+      "epg_id": "DK:.Bloomberg.TV+.be",
+      "source_display": "DK: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3807,8 +3987,8 @@
       "base_name": "BIONIC WOMAN",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NL:.Bionic.Woman.be",
-      "source_display": "NL: Bionic Woman",
+      "epg_id": "NO:.Bionic.Woman.be",
+      "source_display": "NO: Bionic Woman",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3827,8 +4007,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NO:.Bloomberg.TV+.be",
-      "source_display": "NO: Bloomberg TV+",
+      "epg_id": "SE:.Bloomberg.TV+.be",
+      "source_display": "SE: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3897,8 +4077,8 @@
       "base_name": "EURO CRIME",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "SE:.Euro.Crime.Channel.be",
-      "source_display": "SE: Euro Crime Channel",
+      "epg_id": "NO:.Euro.Crime.Channel.be",
+      "source_display": "NO: Euro Crime Channel",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3997,8 +4177,8 @@
       "base_name": "HOMES UNDER THE HAMMER",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NO:.Homes.Under.the.Hammer.be",
-      "source_display": "NO: Homes Under the Hammer",
+      "epg_id": "FI:.Homes.Under.the.Hammer.be",
+      "source_display": "FI: Homes Under the Hammer",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4167,8 +4347,8 @@
       "base_name": "RED BULL TV",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "ES:.Red.Bull.TV.be",
-      "source_display": "ES: Red Bull TV",
+      "epg_id": "NO:.Red.Bull.TV.be",
+      "source_display": "NO: Red Bull TV",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4187,8 +4367,8 @@
       "base_name": "ROOKIE BLUE",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "SE:.Rookie.Blue.be",
-      "source_display": "SE: Rookie Blue",
+      "epg_id": "NO:.Rookie.Blue.be",
+      "source_display": "NO: Rookie Blue",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4347,8 +4527,8 @@
       "base_name": "XENA WARRIOR PRINCESS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Xena:.Warrior.Princess.be",
-      "source_display": "UK: Xena: Warrior Princess",
+      "epg_id": "FI:.Xena:.Warrior.Princess.be",
+      "source_display": "FI: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4387,8 +4567,8 @@
       "base_name": "BIONIC WOMAN",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NO:.Bionic.Woman.be",
-      "source_display": "NO: Bionic Woman",
+      "epg_id": "SE:.Bionic.Woman.be",
+      "source_display": "SE: Bionic Woman",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4397,8 +4577,8 @@
       "base_name": "BLOOMBERG ORIGINALS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FR:.Bloomberg.Originals.be",
-      "source_display": "FR: Bloomberg Originals",
+      "epg_id": "PL:.Bloomberg.Originals.be",
+      "source_display": "PL: Bloomberg Originals",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4407,8 +4587,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FI:.Bloomberg.TV+.be",
-      "source_display": "FI: Bloomberg TV+",
+      "epg_id": "IT:.Bloomberg.TV+.be",
+      "source_display": "IT: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4597,8 +4777,8 @@
       "base_name": "RED BULL TV",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Red.Bull.TV.be",
-      "source_display": "UK: Red Bull TV",
+      "epg_id": "PL:.Red.Bull.TV.be",
+      "source_display": "PL: Red Bull TV",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4627,8 +4807,8 @@
       "base_name": "TERRA MATER WILD",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Terra.Mater.WILD.be",
-      "source_display": "UK: Terra Mater WILD",
+      "epg_id": "DE:.Terra.Mater.WILD.be",
+      "source_display": "DE: Terra Mater WILD",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4697,8 +4877,8 @@
       "base_name": "XENA WARRIOR PRINCESS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NO:.Xena:.Warrior.Princess.be",
-      "source_display": "NO: Xena: Warrior Princess",
+      "epg_id": "UK:.Xena:.Warrior.Princess.be",
+      "source_display": "UK: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
