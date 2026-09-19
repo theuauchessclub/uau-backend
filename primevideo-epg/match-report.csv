@@ -508,6 +508,7 @@ PRIME: SPEEDVISION RAW,SPEEDVISION,,pass3_plex_mjh,6a1610bebdf296985fd95603-6349
 PRIME: SPONGEBOB SQUAREPANTS UNIVERSE RAW,SPONGEBOB SQUAREPANTS UNIVERSE,,amazon_direct,amazon::SpongeBob SquarePants Universe,100.0,amazon-exact
 PRIME: SPORTDIGITAL DE RAW,SPORTDIGITAL DE,,pass3_rakuten,DE:.Sportdigital.Free.be,95.0,pass3-fuzzy
 PRIME: SPORTSGRID RAW,SPORTSGRID,,us2,SportsGrid.us2,98.0,exact
+PRIME: STADIUM RAW,STADIUM,,pass3_samsung,USAJ3504705A,100.0,pass3-exact
 PRIME: STAR TREK RAW,STAR TREK,,amazon_direct,amazon::Star Trek,100.0,amazon-exact
 PRIME: STARGATE RAW,STARGATE,,pass3_australia,Stargate.au,100.0,pass3-exact
 PRIME: STARTALK RAW,STARTALK,,pass3_samsung,US52000010Y,100.0,pass3-exact
