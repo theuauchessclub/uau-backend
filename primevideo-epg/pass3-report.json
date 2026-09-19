@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 801,
-  "candidate_names_loaded": 11971,
-  "provisional_matches": 488,
-  "new_matches_with_programmes": 475,
-  "remaining_unmatched": 321,
-  "combined_match_rate_percent": 62.2,
-  "programmes_added": 28497,
+  "candidate_names_loaded": 11977,
+  "provisional_matches": 489,
+  "new_matches_with_programmes": 476,
+  "remaining_unmatched": 320,
+  "combined_match_rate_percent": 62.3,
+  "programmes_added": 28365,
   "source_programmes": {
-    "pluto": 2154,
-    "samsung": 1090,
-    "plex_mjh": 3497,
-    "roku": 7947,
+    "pluto": 2146,
+    "samsung": 1091,
+    "plex_mjh": 3266,
+    "roku": 8053,
     "canada": 4348,
     "uk": 1841,
     "whaletv": 617,
@@ -38,7 +38,7 @@
       "source": "rakuten",
       "ok": true,
       "candidate_names": 3280,
-      "bytes": 10210391
+      "bytes": 10210249
     },
     {
       "source": "tbnplus",
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 958666
+      "bytes": 953725
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1164,
-      "bytes": 511938
+      "bytes": 505226
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1272,
-      "bytes": 3126038
+      "candidate_names": 1278,
+      "bytes": 3127916
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 1748971
+      "bytes": 1778623
     }
   ],
   "matches": [
@@ -1059,6 +1059,16 @@
       "source": "samsung",
       "epg_id": "US18000133I",
       "source_display": "E! Keeping Up",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: EARTHDAY 365 RAW",
+      "base_name": "EARTHDAY 365",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "0a4f2ecbb9d3f127aa5fc5f31be22842",
+      "source_display": "EarthDay 365",
       "score": 100.0,
       "method": "pass3-exact"
     },
