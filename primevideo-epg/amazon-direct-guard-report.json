@@ -1,7 +1,7 @@
 {
-  "amazon_channels_before": 115,
+  "amazon_channels_before": 117,
   "amazon_channels_kept_for_safe_merge": 56,
-  "amazon_channels_removed_from_fuzzy_merge": 59,
+  "amazon_channels_removed_from_fuzzy_merge": 61,
   "removed": [
     "40 y 20",
     "Amor Real",
@@ -19,7 +19,6 @@
     "FOX News Talk",
     "FS1",
     "FS2",
-    "Fox 27",
     "Fox Justice",
     "France24 EN",
     "France24 ES",
@@ -28,6 +27,9 @@
     "HBO Hits",
     "HBO Movies",
     "HuntStream",
+    "KNTV by Peacock",
+    "KQED (PBS KQED)",
+    "KTVU Plus",
     "La Rosa de Guadalupe",
     "La fea más bella",
     "Law & Order",
@@ -41,8 +43,9 @@
     "NBC New York News",
     "NBC Philadelphia News",
     "NBC South Florida News",
+    "NBC Sports Bay Area RSN",
+    "NBC Sports California RSN",
     "NBC Sports on Peacock",
-    "NGWN | KGWN-DT2 by Peacock",
     "Nosotros los Guapos",
     "Premier League TV",
     "REELZ by Reelz+",
@@ -59,7 +62,6 @@
     "Teresa",
     "Vecinos",
     "ViX Música",
-    "Wyoming PBS (PBS KCWC)",
     "beIN SPORTS",
     "beIN SPORTS en Español"
   ]
