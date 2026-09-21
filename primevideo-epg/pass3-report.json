@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 801,
+  "starting_unmatched": 802,
   "candidate_names_loaded": 11973,
-  "provisional_matches": 489,
-  "new_matches_with_programmes": 476,
+  "provisional_matches": 490,
+  "new_matches_with_programmes": 477,
   "remaining_unmatched": 320,
   "combined_match_rate_percent": 62.3,
-  "programmes_added": 29572,
+  "programmes_added": 30867,
   "source_programmes": {
-    "pluto": 2118,
-    "samsung": 1063,
-    "plex_mjh": 4465,
-    "roku": 7984,
+    "pluto": 2145,
+    "samsung": 1092,
+    "plex_mjh": 5717,
+    "roku": 7971,
     "canada": 4506,
     "uk": 1859,
     "whaletv": 615,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 952938
+      "bytes": 959750
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1164,
-      "bytes": 512407
+      "bytes": 506659
     },
     {
       "source": "roku",
       "ok": true,
       "candidate_names": 1274,
-      "bytes": 3046038
+      "bytes": 3061365
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 1956733
+      "bytes": 2765507
     }
   ],
   "matches": [
@@ -617,7 +617,7 @@
       "base_name": "CBS NEWS BOSTON",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "62cdc7c2a3e6270007f3f2f3",
+      "epg_id": "5eb1af2ad345340008fccd1e",
       "source_display": "CBS News Boston",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3059,6 +3059,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
