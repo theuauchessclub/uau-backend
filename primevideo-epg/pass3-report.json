@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 801,
-  "candidate_names_loaded": 11985,
-  "provisional_matches": 489,
-  "new_matches_with_programmes": 477,
+  "starting_unmatched": 802,
+  "candidate_names_loaded": 11993,
+  "provisional_matches": 490,
+  "new_matches_with_programmes": 478,
   "remaining_unmatched": 319,
   "combined_match_rate_percent": 62.4,
-  "programmes_added": 29129,
+  "programmes_added": 29868,
   "source_programmes": {
-    "pluto": 2124,
-    "samsung": 1063,
-    "roku": 8232,
-    "plex_mjh": 3832,
+    "pluto": 2168,
+    "samsung": 1087,
+    "roku": 8165,
+    "plex_mjh": 4570,
     "canada": 4387,
     "uk": 1861,
     "whaletv": 617,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 952041
+      "bytes": 952404
     },
     {
       "source": "samsung",
       "ok": true,
-      "candidate_names": 1158,
-      "bytes": 510597
+      "candidate_names": 1164,
+      "bytes": 517012
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1292,
-      "bytes": 3086075
+      "candidate_names": 1294,
+      "bytes": 3113419
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 1840664
+      "bytes": 2295962
     }
   ],
   "matches": [
@@ -3073,6 +3073,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -3326,8 +3336,8 @@
       "name": "PRIME: WSOC CHARLOTTE (ABC) RAW",
       "base_name": "WSOC CHARLOTTE (ABC)",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "2b91bedf0bf25b7e83c05291634da59a",
+      "source": "samsung",
+      "epg_id": "USBC1000017D8",
       "source_display": "WSOC Charlotte",
       "score": 95.0,
       "method": "pass3-fuzzy"
