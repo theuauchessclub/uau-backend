@@ -1,21 +1,21 @@
 {
   "starting_unmatched": 801,
-  "candidate_names_loaded": 11989,
+  "candidate_names_loaded": 12005,
   "provisional_matches": 489,
   "new_matches_with_programmes": 478,
   "remaining_unmatched": 318,
   "combined_match_rate_percent": 62.5,
-  "programmes_added": 28819,
+  "programmes_added": 29524,
   "source_programmes": {
-    "pluto": 2155,
-    "samsung": 1098,
-    "roku": 7959,
-    "plex_mjh": 3664,
+    "pluto": 2130,
+    "samsung": 1105,
+    "roku": 8151,
+    "plex_mjh": 4314,
     "canada": 4381,
     "uk": 1861,
     "whaletv": 617,
     "fanduel": 200,
-    "rakuten": 3366,
+    "rakuten": 3247,
     "australia": 3286,
     "distro": 0,
     "mexico": 39,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 970151
+      "bytes": 960568
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1162,
-      "bytes": 513037
+      "bytes": 509424
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1294,
-      "bytes": 3127356
+      "candidate_names": 1296,
+      "bytes": 3117824
     },
     {
       "source": "plex_mjh",
       "ok": true,
-      "candidate_names": 1384,
-      "bytes": 1872381
+      "candidate_names": 1398,
+      "bytes": 2126740
     }
   ],
   "matches": [
@@ -3073,16 +3073,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -4366,11 +4356,11 @@
       "name": "PRIME: ROOKIE BLUE RAW",
       "base_name": "ROOKIE BLUE",
       "stream_id": "",
-      "source": "rakuten",
-      "epg_id": "NO:.Rookie.Blue.be",
-      "source_display": "NO: Rookie Blue",
-      "score": 95.0,
-      "method": "pass3-fuzzy"
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6aa73204fc710687a8b4db3f",
+      "source_display": "Rookie Blue",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: SO...REAL RAW",
@@ -4709,6 +4699,16 @@
       "source": "roku",
       "epg_id": "fb29ccf15bc8583ca1db8c42902eeae8",
       "source_display": "Hot Ones",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: INSPECTOR GADGET RAW",
+      "base_name": "INSPECTOR GADGET",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "5c39abf0f5066308b08d741a5e98671b",
+      "source_display": "Inspector Gadget",
       "score": 100.0,
       "method": "pass3-exact"
     },
