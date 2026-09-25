@@ -1,5 +1,4 @@
 name,base_name,stream_id,source,epg_id,score,method
-PRIME: 20/20 RAW,20/20,,amazon_direct,amazon::20/20,100.0,amazon-exact
 PRIME: 365BLK RAW,365BLK,,us2,365BLK.us2,100.0,alias
 PRIME: 48 HOURS RAW,48 HOURS,,pass3_pluto,6176f39e709f160007ec61c3,100.0,pass3-exact
 PRIME: 4UV RAW,4UV,,pass3_samsung,USBD70000412,100.0,pass3-exact
@@ -232,7 +231,7 @@ PRIME: FILMRISE TRUE CRIME RAW,FILMRISE TRUE CRIME,,pass3_plex_mjh,6a1610bebdf29
 PRIME: FLAVOUR NETWORK RAW,FLAVOUR NETWORK,,pass3_canada,Flavour.Network.HD.ca2,100.0,pass3-exact
 PRIME: FOOD NETWORK RAW,FOOD NETWORK,,us2,Food.Network.HD.us2,98.0,exact
 PRIME: FORENSIC FILES RAW,FORENSIC FILES,,pass3_pluto,5bb1af6a268cae539bcedb0a,100.0,pass3-exact
-PRIME: FOX 2 SAN FRANCISCO RAW,FOX 2 SAN FRANCISCO,,amazon_direct,amazon::FOX 2 San Francisco,100.0,amazon-exact
+PRIME: FOX 5 WASHINGTON DC RAW,FOX 5 WASHINGTON DC,,amazon_direct,"amazon::FOX 5 Washington, DC",100.0,amazon-exact
 PRIME: FOX BALTIMORE NEWS (WBFF) RAW,FOX BALTIMORE NEWS (WBFF),,locals,WBFF-DT.us_locals1,99.0,callsign
 PRIME: FOX FORT MYERS NEWS (WFTX) RAW,FOX FORT MYERS NEWS (WFTX),,locals,WFTX-DT.us_locals1,99.0,callsign
 PRIME: FOX FRESNO NEWS (KMPH) RAW,FOX FRESNO NEWS (KMPH),,locals,KMPH-DT.us_locals1,99.0,callsign
@@ -472,7 +471,6 @@ PRIME: REBELDE RAW,REBELDE,,pass3_samsung,USBD1700018II,100.0,pass3-exact
 PRIME: RED BULL RAW,RED BULL,,pass3_roku,c5e8a74546771de365652cd053f73351,95.0,pass3-fuzzy
 PRIME: RED BULL TV RAW,RED BULL TV,,pass3_rakuten,IT:.Red.Bull.TV.be,95.0,pass3-fuzzy
 PRIME: REELZ FAMOUS AND INFAMOUS RAW,REELZ FAMOUS AND INFAMOUS,,pass3_samsung,USBB3200001MG,100.0,pass3-exact
-PRIME: REUTERS 60 RAW,REUTERS 60,,pass3_roku,a4ed8522d196587cbc82a399f95db51c,100.0,pass3-exact
 PRIME: RIFFTRAX RAW,RIFFTRAX,,pass3_pluto,58d947b9e420d8656ee101ab,100.0,pass3-exact
 PRIME: RIVER MONSTERS RAW,RIVER MONSTERS,,pass3_rakuten,UK:.River.Monsters.be,95.0,pass3-fuzzy
 PRIME: ROOKIE BLUE RAW,ROOKIE BLUE,,pass3_plex_mjh,6a1610bebdf296985fd95603-6aa73204fc710687a8b4db3f,100.0,pass3-exact
