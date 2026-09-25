@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 802,
-  "candidate_names_loaded": 11977,
+  "starting_unmatched": 801,
+  "candidate_names_loaded": 11997,
   "provisional_matches": 489,
-  "new_matches_with_programmes": 477,
-  "remaining_unmatched": 319,
-  "combined_match_rate_percent": 62.4,
-  "programmes_added": 28390,
+  "new_matches_with_programmes": 478,
+  "remaining_unmatched": 318,
+  "combined_match_rate_percent": 62.5,
+  "programmes_added": 30403,
   "source_programmes": {
-    "pluto": 2132,
-    "samsung": 1081,
-    "roku": 8013,
-    "plex_mjh": 3416,
+    "pluto": 2156,
+    "samsung": 1101,
+    "roku": 8130,
+    "plex_mjh": 5268,
     "canada": 4363,
     "uk": 1858,
     "whaletv": 610,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 952784
+      "bytes": 946028
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1162,
-      "bytes": 505661
+      "bytes": 513830
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1276,
-      "bytes": 3085441
+      "candidate_names": 1296,
+      "bytes": 3133259
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 1776232
+      "bytes": 2466012
     }
   ],
   "matches": [
@@ -2493,6 +2493,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: REUTERS 60 RAW",
+      "base_name": "REUTERS 60",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "a4ed8522d196587cbc82a399f95db51c",
+      "source_display": "Reuters 60",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: RIFFTRAX RAW",
       "base_name": "RIFFTRAX",
       "stream_id": "",
@@ -3059,16 +3069,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4026,8 +4026,8 @@
       "name": "PRIME: CNN HEADLINES RAW",
       "base_name": "CNN HEADLINES",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545",
+      "source": "roku",
+      "epg_id": "42523afdfa3a0230d7268a238df5ef65",
       "source_display": "CNN Headlines",
       "score": 100.0,
       "method": "pass3-exact"
@@ -4581,6 +4581,16 @@
       "source_display": "UK: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: CNN HEADLINES RAW",
+      "base_name": "CNN HEADLINES",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545",
+      "source_display": "CNN Headlines",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: CRIME + INVESTIGATION PLAY RAW",
