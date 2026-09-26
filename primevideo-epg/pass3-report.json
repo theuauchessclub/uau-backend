@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 801,
-  "candidate_names_loaded": 11995,
-  "provisional_matches": 488,
-  "new_matches_with_programmes": 477,
-  "remaining_unmatched": 319,
-  "combined_match_rate_percent": 62.4,
-  "programmes_added": 30336,
+  "candidate_names_loaded": 11999,
+  "provisional_matches": 490,
+  "new_matches_with_programmes": 479,
+  "remaining_unmatched": 317,
+  "combined_match_rate_percent": 62.6,
+  "programmes_added": 28412,
   "source_programmes": {
-    "pluto": 2189,
-    "samsung": 1085,
-    "roku": 8037,
-    "plex_mjh": 5169,
+    "pluto": 2183,
+    "samsung": 1096,
+    "roku": 8108,
+    "plex_mjh": 3169,
     "canada": 4470,
     "uk": 1855,
     "whaletv": 624,
@@ -38,7 +38,7 @@
       "source": "rakuten",
       "ok": true,
       "candidate_names": 3280,
-      "bytes": 10241905
+      "bytes": 10241968
     },
     {
       "source": "tbnplus",
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 862,
-      "bytes": 965414
+      "bytes": 953842
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1162,
-      "bytes": 503624
+      "bytes": 505169
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1292,
-      "bytes": 3141370
+      "candidate_names": 1296,
+      "bytes": 3137246
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 2384127
+      "bytes": 1583450
     }
   ],
   "matches": [
@@ -1119,6 +1119,16 @@
       "source": "roku",
       "epg_id": "687995812bc843a56232473877273766",
       "source_display": "Extreme Living",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: EXTREME MAKEOVER: HOME EDITION RAW",
+      "base_name": "EXTREME MAKEOVER: HOME EDITION",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "66e4580584a7e0cdc04e8e451f637999",
+      "source_display": "Extreme Makeover: Home Edition",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3059,6 +3069,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
