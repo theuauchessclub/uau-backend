@@ -1,21 +1,21 @@
 {
   "starting_unmatched": 802,
-  "candidate_names_loaded": 11989,
-  "provisional_matches": 489,
-  "new_matches_with_programmes": 478,
-  "remaining_unmatched": 319,
-  "combined_match_rate_percent": 62.4,
-  "programmes_added": 29481,
+  "candidate_names_loaded": 11997,
+  "provisional_matches": 490,
+  "new_matches_with_programmes": 479,
+  "remaining_unmatched": 318,
+  "combined_match_rate_percent": 62.5,
+  "programmes_added": 29954,
   "source_programmes": {
-    "pluto": 2115,
-    "samsung": 1070,
-    "roku": 7951,
-    "plex_mjh": 4358,
+    "pluto": 2085,
+    "samsung": 1100,
+    "roku": 8070,
+    "plex_mjh": 4815,
     "canada": 4371,
     "uk": 1855,
     "whaletv": 608,
     "fanduel": 176,
-    "rakuten": 3498,
+    "rakuten": 3395,
     "australia": 3240,
     "distro": 0,
     "mexico": 42,
@@ -38,7 +38,7 @@
       "source": "rakuten",
       "ok": true,
       "candidate_names": 3280,
-      "bytes": 10269320
+      "bytes": 10269114
     },
     {
       "source": "tbnplus",
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 947840
+      "bytes": 937262
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1162,
-      "bytes": 507901
+      "bytes": 509470
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1288,
-      "bytes": 3106171
+      "candidate_names": 1296,
+      "bytes": 3097446
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 2120639
+      "bytes": 2285779
     }
   ],
   "matches": [
@@ -276,8 +276,8 @@
       "name": "PRIME: AMC THRILLERS RAW",
       "base_name": "AMC THRILLERS",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d",
+      "source": "roku",
+      "epg_id": "ee3feca0341056b7ac74c27e37ef085f",
       "source_display": "AMC Thrillers",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1266,8 +1266,8 @@
       "name": "PRIME: FILMRISE TRUE CRIME RAW",
       "base_name": "FILMRISE TRUE CRIME",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-646e489b58898bf3be94b325",
+      "source": "roku",
+      "epg_id": "ebb810a8868251f18ac64056834c749a",
       "source_display": "FilmRise True Crime",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3073,6 +3073,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -4666,11 +4676,11 @@
       "name": "PRIME: FILMRISE TRUE CRIME RAW",
       "base_name": "FILMRISE TRUE CRIME",
       "stream_id": "",
-      "source": "rakuten",
-      "epg_id": "DE:.FilmRise.True.Crime.be",
-      "source_display": "DE: FilmRise True Crime",
-      "score": 95.0,
-      "method": "pass3-fuzzy"
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-646e489b58898bf3be94b325",
+      "source_display": "FilmRise True Crime",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: HELL'S KITCHEN RAW",
