@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 801,
-  "candidate_names_loaded": 12023,
-  "provisional_matches": 489,
-  "new_matches_with_programmes": 477,
-  "remaining_unmatched": 319,
-  "combined_match_rate_percent": 62.4,
-  "programmes_added": 29544,
+  "candidate_names_loaded": 12015,
+  "provisional_matches": 488,
+  "new_matches_with_programmes": 476,
+  "remaining_unmatched": 320,
+  "combined_match_rate_percent": 62.3,
+  "programmes_added": 29390,
   "source_programmes": {
-    "pluto": 2147,
-    "samsung": 1094,
-    "roku": 8094,
-    "plex_mjh": 4984,
+    "pluto": 2184,
+    "samsung": 1075,
+    "roku": 7970,
+    "plex_mjh": 4940,
     "canada": 4368,
-    "uk": 1806,
+    "uk": 1795,
     "whaletv": 609,
     "fanduel": 174,
     "rakuten": 3209,
     "australia": 2858,
     "distro": 0,
-    "mexico": 30,
+    "mexico": 37,
     "tbnplus": 171
   },
   "source_status": [
@@ -56,7 +56,7 @@
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2894086
+      "bytes": 2899128
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 407173
+      "bytes": 435517
     },
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 858,
-      "bytes": 954419
+      "candidate_names": 856,
+      "bytes": 970096
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1170,
-      "bytes": 513893
+      "bytes": 505213
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1318,
-      "bytes": 3216158
+      "candidate_names": 1312,
+      "bytes": 3211414
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1388,
-      "bytes": 2173809
+      "bytes": 2424173
     }
   ],
   "matches": [
@@ -4699,16 +4699,6 @@
       "source": "roku",
       "epg_id": "fb29ccf15bc8583ca1db8c42902eeae8",
       "source_display": "Hot Ones",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: INSPECTOR GADGET RAW",
-      "base_name": "INSPECTOR GADGET",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "5c39abf0f5066308b08d741a5e98671b",
-      "source_display": "Inspector Gadget",
       "score": 100.0,
       "method": "pass3-exact"
     },
