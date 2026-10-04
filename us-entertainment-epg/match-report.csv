@@ -15,14 +15,14 @@ US: BET JAMS HD,BETjams.us,us2,BET.Jams.us2,98.0,name-exact,96
 US: BET SOUL,BETSoul.us,us2,BET.Soul.us2,98.0,name-exact,66
 US: BLAZE TV,BlazeTV.us,us2,Blaze.TV.us2,98.0,name-exact,70
 US: AXS TV HD,AXSTV.us,us2,AXS.TV.us2,98.0,name-exact,131
-US: BOUNCE XL,PlutoBounceXL.us,tubi,TUBI:BOUNCE XL,98.0,name-exact,60
+US: BOUNCE XL,PlutoBounceXL.us,tubi,TUBI:BOUNCE XL,98.0,name-exact,31
 US: BOUNCE TV HD,BounceTV.us,us2,Bounce.TV.us2,98.0,name-exact,98
 US: BRAVO HD,Bravo.us,us2,Bravo.(Pacific).us2,98.0,name-exact,96
 US: BRAVO WEST HD,Bravo.us,us2,Bravo.(Pacific).us2,96.0,name-relaxed,96
 US: BRAVO EAST HD,,us2,Bravo.(Pacific).us2,96.0,name-relaxed,96
 US: CATCHY COMEDY HD,,us2,Catchy.Comedy.us2,99.0,alias-name,182
 US: BYU TV,BrighamYoungUniversity.us,us2,BYU-TV.us2,98.0,name-exact,106
-US: BUZZR,BuzzrTV.us,tubi,TUBI:BUZZR,98.0,name-exact,73
+US: BUZZR,BuzzrTV.us,tubi,TUBI:BUZZR,98.0,name-exact,48
 US: CHARGE!,ChargeTV.us,us2,CHARGE!.us2,98.0,name-exact,117
 US: CMT HD,CMT.us,us2,CMT.HD.us2,98.0,name-exact,126
 US: COMEDY CENTRAL HD,ComedyCentral.us,us2,Comedy.Central.HD.(Pacific).us2,98.0,name-exact,164
@@ -53,7 +53,7 @@ US: FXX HD,FXX.us,us2,FXX.HD.us2,98.0,name-exact,180
 US: FXX WEST HD,FXX.us,us2,FXX.HD.us2,96.0,name-relaxed,180
 US: FYI HD,fyi.us,us2,FYI.Channel.HD.us2,96.0,name-relaxed,164
 US: GRIT,Grit.us,us2,Grit.us2,98.0,name-exact,102
-US: Game Show Central,,tubi,TUBI:GAME SHOW CENTRAL,99.0,alias-name,94
+US: Game Show Central,,tubi,TUBI:GAME SHOW CENTRAL,99.0,alias-name,62
 US: HALLMARK HD,Hallmark.us,us2,Hallmark.Channel.HD.us2,96.0,name-relaxed,110
 US: HBO COMEDY HD,HBOComedy.us,us2,HBO.Comedy.HD.us2,98.0,name-exact,80
 US: HGTV HD,hgtv.us,prime,PRIME: HGTV RAW,98.0,name-exact,264
@@ -61,9 +61,9 @@ US: HGTV WEST HD,hgtv.us,prime,PRIME: HGTV RAW,96.0,name-relaxed,264
 US: HISTORY HD,HistoryChannel.us,us2,History.HD.us2,98.0,name-exact,100
 US: HLN HD,HLN.us,us2,HLN.HD.us2,98.0,name-exact,181
 US: ID INVESTIGATION DISCOVERY HD,investigationdiscovery.us,us2,Investigation.Discovery.HD.us2,93.9,fuzzy,106
-US: ION,,tubi,TUBI:ION,99.0,alias-name,48
+US: ION,,tubi,TUBI:ION,99.0,alias-name,29
 US: ION MYSTERY,,us2,ION.Mystery.us2,99.0,alias-name,72
-US: ION PLUS,,tubi,TUBI:ION PLUS,99.0,alias-name,43
+US: ION PLUS,,tubi,TUBI:ION PLUS,99.0,alias-name,24
 US: IFC HD,IndependentFilmChannel.us,us2,IFC.HD.us2,98.0,name-exact,114
 US: INDIEPLEX HD,IndiePlex.us,us2,IndiePlex.HD.us2,98.0,name-exact,62
 US: INSP HD,INSP.us,us2,INSP.HD.us2,98.0,name-exact,101
