@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 802,
-  "candidate_names_loaded": 12157,
-  "provisional_matches": 503,
-  "new_matches_with_programmes": 492,
-  "remaining_unmatched": 303,
-  "combined_match_rate_percent": 64.0,
-  "programmes_added": 30277,
+  "starting_unmatched": 801,
+  "candidate_names_loaded": 12149,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 494,
+  "remaining_unmatched": 301,
+  "combined_match_rate_percent": 64.1,
+  "programmes_added": 30035,
   "source_programmes": {
-    "pluto": 2097,
-    "samsung": 1099,
-    "roku": 10271,
-    "plex_mjh": 3404,
+    "pluto": 2080,
+    "samsung": 1124,
+    "roku": 10268,
+    "plex_mjh": 3157,
     "canada": 4427,
     "uk": 1779,
     "whaletv": 629,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 968533
+      "bytes": 956911
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 523369
+      "bytes": 514277
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1454,
-      "bytes": 3398146
+      "candidate_names": 1446,
+      "bytes": 3365923
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1386,
-      "bytes": 1868900
+      "bytes": 1717515
     }
   ],
   "matches": [
@@ -3223,6 +3223,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -4869,6 +4879,16 @@
       "source": "roku",
       "epg_id": "5c39abf0f5066308b08d741a5e98671b",
       "source_display": "Inspector Gadget",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: MOVIESPHERE BY LIONSGATE RAW",
+      "base_name": "MOVIESPHERE BY LIONSGATE",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "e1192d17771c5a059930192d439957ee",
+      "source_display": "MOVIESPHERE by Lionsgate",
       "score": 100.0,
       "method": "pass3-exact"
     },
