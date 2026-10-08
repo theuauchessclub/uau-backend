@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 801,
-  "candidate_names_loaded": 12137,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 493,
-  "remaining_unmatched": 302,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 29744,
+  "candidate_names_loaded": 12151,
+  "provisional_matches": 503,
+  "new_matches_with_programmes": 492,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 28906,
   "source_programmes": {
-    "pluto": 2112,
-    "samsung": 1100,
-    "roku": 10274,
-    "plex_mjh": 2611,
+    "pluto": 2159,
+    "samsung": 1105,
+    "roku": 10222,
+    "plex_mjh": 1753,
     "canada": 4398,
-    "uk": 1779,
+    "uk": 1796,
     "whaletv": 629,
     "fanduel": 198,
     "rakuten": 3172,
     "australia": 3243,
     "distro": 0,
-    "mexico": 38,
+    "mexico": 41,
     "tbnplus": 190
   },
   "source_status": [
@@ -56,7 +56,7 @@
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2924156
+      "bytes": 2959598
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 421370
+      "bytes": 437514
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 955950
+      "bytes": 976615
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 512369
+      "bytes": 513895
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1436,
-      "bytes": 3375164
+      "candidate_names": 1450,
+      "bytes": 3435406
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1384,
-      "bytes": 1451634
+      "bytes": 1194693
     }
   ],
   "matches": [
@@ -3369,16 +3369,6 @@
       "source": "australia",
       "epg_id": "Unbeaten.au",
       "source_display": "Unbeaten",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: UNIQUE LIVES RAW",
-      "base_name": "UNIQUE LIVES",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66a1ac4877649467da169f0a",
-      "source_display": "Unique Lives",
       "score": 100.0,
       "method": "pass3-exact"
     },
