@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 802,
-  "candidate_names_loaded": 12151,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 494,
+  "starting_unmatched": 801,
+  "candidate_names_loaded": 12137,
+  "provisional_matches": 504,
+  "new_matches_with_programmes": 493,
   "remaining_unmatched": 302,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 29458,
+  "programmes_added": 29744,
   "source_programmes": {
-    "pluto": 2116,
-    "samsung": 1129,
-    "roku": 10140,
-    "plex_mjh": 2426,
+    "pluto": 2112,
+    "samsung": 1100,
+    "roku": 10274,
+    "plex_mjh": 2611,
     "canada": 4398,
     "uk": 1779,
     "whaletv": 629,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 960520
+      "bytes": 955950
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 517094
+      "bytes": 512369
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1450,
-      "bytes": 3416578
+      "candidate_names": 1436,
+      "bytes": 3375164
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1384,
-      "bytes": 1393188
+      "bytes": 1451634
     }
   ],
   "matches": [
@@ -2876,8 +2876,8 @@
       "name": "PRIME: SWEET ESCAPES RAW",
       "base_name": "SWEET ESCAPES",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66a1acc577649467da169f0c",
+      "source": "roku",
+      "epg_id": "81b07f43412b52548adb8643496a9a1d",
       "source_display": "Sweet Escapes",
       "score": 100.0,
       "method": "pass3-exact"
@@ -2986,8 +2986,8 @@
       "name": "PRIME: THE CAROL BURNETT SHOW RAW",
       "base_name": "THE CAROL BURNETT SHOW",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-60d4edd6b2fdec002c141125",
+      "source": "roku",
+      "epg_id": "e3cd976116d5578ab9be32baa738ade2",
       "source_display": "The Carol Burnett Show",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3219,16 +3219,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
