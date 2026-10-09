@@ -1,24 +1,24 @@
 {
-  "starting_unmatched": 801,
+  "starting_unmatched": 804,
   "candidate_names_loaded": 12151,
-  "provisional_matches": 503,
-  "new_matches_with_programmes": 491,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 494,
   "remaining_unmatched": 304,
   "combined_match_rate_percent": 63.9,
-  "programmes_added": 29023,
+  "programmes_added": 31814,
   "source_programmes": {
-    "pluto": 2114,
-    "samsung": 1088,
-    "roku": 10061,
-    "plex_mjh": 2377,
+    "pluto": 2175,
+    "samsung": 1079,
+    "roku": 10244,
+    "plex_mjh": 4952,
     "canada": 4358,
-    "uk": 1796,
+    "uk": 1785,
     "whaletv": 613,
     "fanduel": 206,
     "rakuten": 3061,
     "australia": 3116,
     "distro": 0,
-    "mexico": 41,
+    "mexico": 33,
     "tbnplus": 192
   },
   "source_status": [
@@ -56,7 +56,7 @@
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2959598
+      "bytes": 2971023
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 437514
+      "bytes": 445165
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 967499
+      "bytes": 972382
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 512208
+      "bytes": 505297
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1450,
-      "bytes": 3394438
+      "candidate_names": 1446,
+      "bytes": 3419759
     },
     {
       "source": "plex_mjh",
       "ok": true,
-      "candidate_names": 1384,
-      "bytes": 1019725
+      "candidate_names": 1388,
+      "bytes": 2500174
     }
   ],
   "matches": [
@@ -1733,6 +1733,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: ION RAW",
+      "base_name": "ION",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "65453f30085df200085883d8",
+      "source_display": "ION",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: ION PLUS RAW",
       "base_name": "ION PLUS",
       "stream_id": "",
@@ -2706,8 +2716,8 @@
       "name": "PRIME: SAY YES TO THE DRESS RAW",
       "base_name": "SAY YES TO THE DRESS",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66a1ae9e77649467da169f0e",
+      "source": "roku",
+      "epg_id": "a5de566e8ec2f3736be8a9db178f2689",
       "source_display": "Say Yes to the Dress",
       "score": 100.0,
       "method": "pass3-exact"
@@ -2923,6 +2933,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: TELEMUNDO AL DIA RAW",
+      "base_name": "TELEMUNDO AL DIA",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6478acb5c83f56da796f166f",
+      "source_display": "Telemundo al Dia",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TELEMUNDO NOTICIAS CALIFORNIA RAW",
       "base_name": "TELEMUNDO NOTICIAS CALIFORNIA",
       "stream_id": "",
@@ -3059,6 +3079,16 @@
       "source": "plex_mjh",
       "epg_id": "6a1610bebdf296985fd95603-6582a024a90606db3c841b1b",
       "source_display": "The FBI Files",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: THE INCREDIBLE DR. POL RAW",
+      "base_name": "THE INCREDIBLE DR. POL",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "US4100031FK",
+      "source_display": "The Incredible Dr. Pol",
       "score": 100.0,
       "method": "pass3-exact"
     },
