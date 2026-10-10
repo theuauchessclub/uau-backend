@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 803,
-  "candidate_names_loaded": 12145,
+  "starting_unmatched": 804,
+  "candidate_names_loaded": 12139,
   "provisional_matches": 505,
   "new_matches_with_programmes": 495,
-  "remaining_unmatched": 302,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 29960,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 31338,
   "source_programmes": {
-    "pluto": 2126,
-    "samsung": 1145,
-    "roku": 10238,
-    "plex_mjh": 2865,
+    "pluto": 2153,
+    "samsung": 1123,
+    "roku": 10182,
+    "plex_mjh": 4294,
     "canada": 4323,
     "uk": 1785,
     "whaletv": 620,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 951547
+      "bytes": 949776
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 515376
+      "bytes": 512256
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1458,
-      "bytes": 3446823
+      "candidate_names": 1452,
+      "bytes": 3441873
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1388,
-      "bytes": 1576493
+      "bytes": 2323357
     }
   ],
   "matches": [
@@ -1729,6 +1729,16 @@
       "source": "roku",
       "epg_id": "d4a795f8590d54218069b495d273ac5a",
       "source_display": "Inside Edition",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: ION RAW",
+      "base_name": "ION",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "65453f30085df200085883d8",
+      "source_display": "ION",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3489,16 +3499,6 @@
       "source": "roku",
       "epg_id": "e38d66dbb4e05f9690f6c573417fc231",
       "source_display": "WPXI Pittsburgh",
-      "score": 95.0,
-      "method": "pass3-fuzzy"
-    },
-    {
-      "name": "PRIME: WSB ATLANTA (ABC) RAW",
-      "base_name": "WSB ATLANTA (ABC)",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "69f8d2659a475342b88db93b63f755d0",
-      "source_display": "WSB Atlanta",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
