@@ -3,31 +3,31 @@
   "matched_channels": 130,
   "unmatched_channels": 83,
   "match_rate_percent": 61.0,
-  "programmes_written": 14639,
+  "programmes_written": 14762,
   "source_status": [
     {
       "source": "us2",
       "ok": true,
       "channels": 769,
-      "programmes": 79569
+      "programmes": 79464
     },
     {
       "source": "locals",
       "ok": true,
-      "channels": 4463,
-      "programmes": 557887
+      "channels": 4471,
+      "programmes": 549102
     },
     {
       "source": "tubi",
       "ok": true,
-      "channels": 181,
-      "programmes": 9627
+      "channels": 182,
+      "programmes": 9613
     },
     {
       "source": "prime",
       "ok": true,
-      "channels": 659,
-      "programmes": 50026
+      "channels": 660,
+      "programmes": 51429
     }
   ]
 }
