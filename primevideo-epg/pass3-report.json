@@ -1,24 +1,24 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12145,
+  "candidate_names_loaded": 12141,
   "provisional_matches": 504,
   "new_matches_with_programmes": 493,
   "remaining_unmatched": 304,
   "combined_match_rate_percent": 63.9,
-  "programmes_added": 31250,
+  "programmes_added": 31194,
   "source_programmes": {
-    "pluto": 2088,
-    "samsung": 1106,
-    "roku": 10261,
-    "plex_mjh": 4228,
+    "pluto": 2124,
+    "samsung": 1118,
+    "roku": 10152,
+    "plex_mjh": 4237,
     "canada": 4346,
-    "uk": 1801,
+    "uk": 1793,
     "whaletv": 617,
     "fanduel": 252,
     "rakuten": 3136,
     "australia": 3196,
     "distro": 0,
-    "mexico": 22,
+    "mexico": 26,
     "tbnplus": 197
   },
   "source_status": [
@@ -56,7 +56,7 @@
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2872238
+      "bytes": 2824475
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 426578
+      "bytes": 411197
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 854,
-      "bytes": 954272
+      "bytes": 967739
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 513954
+      "bytes": 507640
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1458,
-      "bytes": 3357041
+      "candidate_names": 1454,
+      "bytes": 3380428
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1388,
-      "bytes": 2208545
+      "bytes": 2025634
     }
   ],
   "matches": [
@@ -757,7 +757,7 @@
       "base_name": "CBS NEWS PITTSBURGH",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "62cdcac1be7a970008781a64",
+      "epg_id": "5eb1b17aa5277e00083f6521",
       "source_display": "CBS News Pittsburgh",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1786,8 +1786,8 @@
       "name": "PRIME: JOHNNY CARSON TV RAW",
       "base_name": "JOHNNY CARSON TV",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "92b50144a69f5862a6d398c478fa6aa0",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123",
       "source_display": "Johnny Carson TV",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3233,6 +3233,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -3539,16 +3549,6 @@
       "source": "samsung",
       "epg_id": "USBB3200007AK",
       "source_display": "XITE 90s Throwback",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: XITE CELEBRATES RAW",
-      "base_name": "XITE CELEBRATES",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503",
-      "source_display": "XITE Celebrates",
       "score": 100.0,
       "method": "pass3-exact"
     },
