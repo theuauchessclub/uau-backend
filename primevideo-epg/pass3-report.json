@@ -1,24 +1,24 @@
 {
-  "starting_unmatched": 803,
-  "candidate_names_loaded": 12145,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 493,
+  "starting_unmatched": 804,
+  "candidate_names_loaded": 12137,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 494,
   "remaining_unmatched": 304,
   "combined_match_rate_percent": 63.9,
-  "programmes_added": 31207,
+  "programmes_added": 31286,
   "source_programmes": {
-    "pluto": 2216,
-    "samsung": 1110,
-    "roku": 10007,
-    "plex_mjh": 4148,
+    "pluto": 2218,
+    "samsung": 1127,
+    "roku": 10038,
+    "plex_mjh": 4208,
     "canada": 4383,
-    "uk": 1808,
+    "uk": 1794,
     "whaletv": 620,
     "fanduel": 117,
     "rakuten": 3225,
     "australia": 3330,
     "distro": 0,
-    "mexico": 51,
+    "mexico": 34,
     "tbnplus": 192
   },
   "source_status": [
@@ -56,7 +56,7 @@
       "source": "uk",
       "ok": true,
       "candidate_names": 972,
-      "bytes": 2915096
+      "bytes": 2959092
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 442256
+      "bytes": 453011
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 850,
-      "bytes": 956481
+      "bytes": 962451
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 514832
+      "bytes": 507182
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1460,
-      "bytes": 3483400
+      "candidate_names": 1452,
+      "bytes": 3469056
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 2054498
+      "bytes": 2096646
     }
   ],
   "matches": [
@@ -1729,6 +1729,16 @@
       "source": "roku",
       "epg_id": "d4a795f8590d54218069b495d273ac5a",
       "source_display": "Inside Edition",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: ION RAW",
+      "base_name": "ION",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "65453f30085df200085883d8",
+      "source_display": "ION",
       "score": 100.0,
       "method": "pass3-exact"
     },
