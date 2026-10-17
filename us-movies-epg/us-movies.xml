@@ -7099,11 +7099,6 @@
   <channel id="US: HBO FAMILY HD">
     <display-name>US: HBO FAMILY HD</display-name>
   </channel>
-  <programme channel="US: HBO FAMILY HD" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>HBO FAMILY</title>
-    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
-    <category>Movies</category>
-  </programme>
   <programme channel="US: HBO FAMILY HD" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>HBO FAMILY</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -7255,6 +7250,11 @@
     <category>Movies</category>
   </programme>
   <programme channel="US: HBO FAMILY HD" start="20261024220000 +0000" stop="20261025040000 +0000">
+    <title>HBO FAMILY</title>
+    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme channel="US: HBO FAMILY HD" start="20261025040000 +0000" stop="20261025100000 +0000">
     <title>HBO FAMILY</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
@@ -17394,11 +17394,6 @@
   <channel id="US: AMC THRILLERS 4K">
     <display-name>US: AMC THRILLERS 4K</display-name>
   </channel>
-  <programme channel="US: AMC THRILLERS 4K" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>AMC THRILLERS</title>
-    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
-    <category>Movies</category>
-  </programme>
   <programme channel="US: AMC THRILLERS 4K" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>AMC THRILLERS</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -17550,6 +17545,11 @@
     <category>Movies</category>
   </programme>
   <programme channel="US: AMC THRILLERS 4K" start="20261024220000 +0000" stop="20261025040000 +0000">
+    <title>AMC THRILLERS</title>
+    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme channel="US: AMC THRILLERS 4K" start="20261025040000 +0000" stop="20261025100000 +0000">
     <title>AMC THRILLERS</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
@@ -80748,11 +80748,6 @@
   <channel id="US: PETER GRIFFIN 24H">
     <display-name>US: PETER GRIFFIN 24H</display-name>
   </channel>
-  <programme channel="US: PETER GRIFFIN 24H" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>PETER GRIFFIN 24H</title>
-    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
-    <category>Movies</category>
-  </programme>
   <programme channel="US: PETER GRIFFIN 24H" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>PETER GRIFFIN 24H</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -80908,14 +80903,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: PBS ARIZONA PHOENIX HD">
-    <display-name>US: PBS ARIZONA PHOENIX HD</display-name>
-  </channel>
-  <programme channel="US: PBS ARIZONA PHOENIX HD" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>PBS ARIZONA PHOENIX</title>
+  <programme channel="US: PETER GRIFFIN 24H" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>PETER GRIFFIN 24H</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: PBS ARIZONA PHOENIX HD">
+    <display-name>US: PBS ARIZONA PHOENIX HD</display-name>
+  </channel>
   <programme channel="US: PBS ARIZONA PHOENIX HD" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>PBS ARIZONA PHOENIX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -81067,6 +81062,11 @@
     <category>Movies</category>
   </programme>
   <programme channel="US: PBS ARIZONA PHOENIX HD" start="20261024220000 +0000" stop="20261025040000 +0000">
+    <title>PBS ARIZONA PHOENIX</title>
+    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme channel="US: PBS ARIZONA PHOENIX HD" start="20261025040000 +0000" stop="20261025100000 +0000">
     <title>PBS ARIZONA PHOENIX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
@@ -100473,11 +100473,6 @@
   <channel id="US: CINEMAX MOREMAX HDAR">
     <display-name>US: CINEMAX MOREMAX HDAR</display-name>
   </channel>
-  <programme channel="US: CINEMAX MOREMAX HDAR" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>CINEMAX MOREMAX</title>
-    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
-    <category>Movies</category>
-  </programme>
   <programme channel="US: CINEMAX MOREMAX HDAR" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>CINEMAX MOREMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -100633,14 +100628,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: CINEMAX THRILLERMAX HD">
-    <display-name>US: CINEMAX THRILLERMAX HD</display-name>
-  </channel>
-  <programme channel="US: CINEMAX THRILLERMAX HD" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>CINEMAX THRILLERMAX</title>
+  <programme channel="US: CINEMAX MOREMAX HDAR" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>CINEMAX MOREMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: CINEMAX THRILLERMAX HD">
+    <display-name>US: CINEMAX THRILLERMAX HD</display-name>
+  </channel>
   <programme channel="US: CINEMAX THRILLERMAX HD" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>CINEMAX THRILLERMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -100792,6 +100787,11 @@
     <category>Movies</category>
   </programme>
   <programme channel="US: CINEMAX THRILLERMAX HD" start="20261024220000 +0000" stop="20261025040000 +0000">
+    <title>CINEMAX THRILLERMAX</title>
+    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme channel="US: CINEMAX THRILLERMAX HD" start="20261025040000 +0000" stop="20261025100000 +0000">
     <title>CINEMAX THRILLERMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
@@ -113123,11 +113123,6 @@
   <channel id="US: CINE CLUB">
     <display-name>US: CINE CLUB</display-name>
   </channel>
-  <programme channel="US: CINE CLUB" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>CINE CLUB</title>
-    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
-    <category>Movies</category>
-  </programme>
   <programme channel="US: CINE CLUB" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>CINE CLUB</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -113283,14 +113278,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: CINE PRO BET+">
-    <display-name>US: CINE PRO BET+</display-name>
-  </channel>
-  <programme channel="US: CINE PRO BET+" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>CINE PRO BET+</title>
+  <programme channel="US: CINE CLUB" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>CINE CLUB</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: CINE PRO BET+">
+    <display-name>US: CINE PRO BET+</display-name>
+  </channel>
   <programme channel="US: CINE PRO BET+" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>CINE PRO BET+</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -113442,6 +113437,11 @@
     <category>Movies</category>
   </programme>
   <programme channel="US: CINE PRO BET+" start="20261024220000 +0000" stop="20261025040000 +0000">
+    <title>CINE PRO BET+</title>
+    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme channel="US: CINE PRO BET+" start="20261025040000 +0000" stop="20261025100000 +0000">
     <title>CINE PRO BET+</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
@@ -118225,11 +118225,6 @@
   <channel id="US: MOREMAX HD">
     <display-name>US: MOREMAX HD</display-name>
   </channel>
-  <programme channel="US: MOREMAX HD" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>MOREMAX</title>
-    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
-    <category>Movies</category>
-  </programme>
   <programme channel="US: MOREMAX HD" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>MOREMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -118385,14 +118380,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: MOVIEMAX HD">
-    <display-name>US: MOVIEMAX HD</display-name>
-  </channel>
-  <programme channel="US: MOVIEMAX HD" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>MOVIEMAX</title>
+  <programme channel="US: MOREMAX HD" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>MOREMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: MOVIEMAX HD">
+    <display-name>US: MOVIEMAX HD</display-name>
+  </channel>
   <programme channel="US: MOVIEMAX HD" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>MOVIEMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -118548,14 +118543,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: OUTERMAX HD">
-    <display-name>US: OUTERMAX HD</display-name>
-  </channel>
-  <programme channel="US: OUTERMAX HD" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>OUTERMAX</title>
+  <programme channel="US: MOVIEMAX HD" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>MOVIEMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: OUTERMAX HD">
+    <display-name>US: OUTERMAX HD</display-name>
+  </channel>
   <programme channel="US: OUTERMAX HD" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>OUTERMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -118707,6 +118702,11 @@
     <category>Movies</category>
   </programme>
   <programme channel="US: OUTERMAX HD" start="20261024220000 +0000" stop="20261025040000 +0000">
+    <title>OUTERMAX</title>
+    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme channel="US: OUTERMAX HD" start="20261025040000 +0000" stop="20261025100000 +0000">
     <title>OUTERMAX</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
@@ -190276,11 +190276,6 @@
   <channel id="US: 24/7 UGLY BETTY HD">
     <display-name>US: 24/7 UGLY BETTY HD</display-name>
   </channel>
-  <programme channel="US: 24/7 UGLY BETTY HD" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>24/7 UGLY BETTY</title>
-    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
-    <category>Movies</category>
-  </programme>
   <programme channel="US: 24/7 UGLY BETTY HD" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>24/7 UGLY BETTY</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -190436,14 +190431,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: 24/7 THE O.C. 4K">
-    <display-name>US: 24/7 THE O.C. 4K</display-name>
-  </channel>
-  <programme channel="US: 24/7 THE O.C. 4K" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>24/7 THE O.C.</title>
+  <programme channel="US: 24/7 UGLY BETTY HD" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>24/7 UGLY BETTY</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: 24/7 THE O.C. 4K">
+    <display-name>US: 24/7 THE O.C. 4K</display-name>
+  </channel>
   <programme channel="US: 24/7 THE O.C. 4K" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>24/7 THE O.C.</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -190599,14 +190594,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: 24/7 SCRUBS HD">
-    <display-name>US: 24/7 SCRUBS HD</display-name>
-  </channel>
-  <programme channel="US: 24/7 SCRUBS HD" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>24/7 SCRUBS</title>
+  <programme channel="US: 24/7 THE O.C. 4K" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>24/7 THE O.C.</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: 24/7 SCRUBS HD">
+    <display-name>US: 24/7 SCRUBS HD</display-name>
+  </channel>
   <programme channel="US: 24/7 SCRUBS HD" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>24/7 SCRUBS</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -190762,14 +190757,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: 24/7 ONE TREE HILL 4K">
-    <display-name>US: 24/7 ONE TREE HILL 4K</display-name>
-  </channel>
-  <programme channel="US: 24/7 ONE TREE HILL 4K" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>24/7 ONE TREE HILL</title>
+  <programme channel="US: 24/7 SCRUBS HD" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>24/7 SCRUBS</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: 24/7 ONE TREE HILL 4K">
+    <display-name>US: 24/7 ONE TREE HILL 4K</display-name>
+  </channel>
   <programme channel="US: 24/7 ONE TREE HILL 4K" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>24/7 ONE TREE HILL</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -190925,14 +190920,14 @@
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
-  <channel id="US: 24/7 MIDSOMER MURDERS 4K">
-    <display-name>US: 24/7 MIDSOMER MURDERS 4K</display-name>
-  </channel>
-  <programme channel="US: 24/7 MIDSOMER MURDERS 4K" start="20261017040000 +0000" stop="20261017100000 +0000">
-    <title>24/7 MIDSOMER MURDERS</title>
+  <programme channel="US: 24/7 ONE TREE HILL 4K" start="20261025040000 +0000" stop="20261025100000 +0000">
+    <title>24/7 ONE TREE HILL</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
   </programme>
+  <channel id="US: 24/7 MIDSOMER MURDERS 4K">
+    <display-name>US: 24/7 MIDSOMER MURDERS 4K</display-name>
+  </channel>
   <programme channel="US: 24/7 MIDSOMER MURDERS 4K" start="20261017100000 +0000" stop="20261017160000 +0000">
     <title>24/7 MIDSOMER MURDERS</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
@@ -191084,6 +191079,11 @@
     <category>Movies</category>
   </programme>
   <programme channel="US: 24/7 MIDSOMER MURDERS 4K" start="20261024220000 +0000" stop="20261025040000 +0000">
+    <title>24/7 MIDSOMER MURDERS</title>
+    <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme channel="US: 24/7 MIDSOMER MURDERS 4K" start="20261025040000 +0000" stop="20261025100000 +0000">
     <title>24/7 MIDSOMER MURDERS</title>
     <desc>Channel placeholder: no reliable public programme-level schedule was found for this provider stream.</desc>
     <category>Movies</category>
