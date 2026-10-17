@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12145,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 493,
-  "remaining_unmatched": 304,
-  "combined_match_rate_percent": 63.9,
-  "programmes_added": 30890,
+  "candidate_names_loaded": 12139,
+  "provisional_matches": 503,
+  "new_matches_with_programmes": 492,
+  "remaining_unmatched": 305,
+  "combined_match_rate_percent": 63.8,
+  "programmes_added": 30992,
   "source_programmes": {
-    "pluto": 2135,
-    "samsung": 1121,
-    "roku": 10073,
-    "plex_mjh": 4164,
+    "pluto": 2142,
+    "samsung": 1109,
+    "roku": 10018,
+    "plex_mjh": 4326,
     "canada": 4341,
     "uk": 1794,
     "whaletv": 625,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 850,
-      "bytes": 938212
+      "bytes": 937126
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 508260
+      "bytes": 510908
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1460,
-      "bytes": 3471397
+      "candidate_names": 1454,
+      "bytes": 3457407
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 2202651
+      "bytes": 2215443
     }
   ],
   "matches": [
@@ -1476,11 +1476,11 @@
       "name": "PRIME: GROWING UP HIP HOP WE TV RAW",
       "base_name": "GROWING UP HIP HOP WE TV",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "a4d5fe37a0f5592dee5dbbb242d73fac",
-      "source_display": "Growing Up Hip Hop WeTV",
-      "score": 99.0,
-      "method": "pass3-compact"
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6a8cb463fc51826f5301a156",
+      "source_display": "Growing Up Hip Hop",
+      "score": 95.0,
+      "method": "pass3-fuzzy"
     },
     {
       "name": "PRIME: HALLMARK MOVIES & MORE RAW",
@@ -3229,16 +3229,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
