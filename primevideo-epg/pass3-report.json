@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 804,
-  "candidate_names_loaded": 12143,
+  "starting_unmatched": 803,
+  "candidate_names_loaded": 12141,
   "provisional_matches": 504,
   "new_matches_with_programmes": 494,
-  "remaining_unmatched": 304,
-  "combined_match_rate_percent": 63.9,
-  "programmes_added": 31549,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 30370,
   "source_programmes": {
-    "pluto": 2129,
-    "samsung": 1079,
-    "roku": 10133,
-    "plex_mjh": 4414,
+    "pluto": 2105,
+    "samsung": 1095,
+    "roku": 10190,
+    "plex_mjh": 3186,
     "canada": 4317,
     "uk": 1796,
     "whaletv": 625,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 850,
-      "bytes": 944797
+      "bytes": 944416
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 498309
+      "bytes": 510399
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1458,
-      "bytes": 3472673
+      "candidate_names": 1456,
+      "bytes": 3448026
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 2282161
+      "bytes": 1664264
     }
   ],
   "matches": [
@@ -1733,16 +1733,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: ION RAW",
-      "base_name": "ION",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "65453f30085df200085883d8",
-      "source_display": "ION",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: ION PLUS RAW",
       "base_name": "ION PLUS",
       "stream_id": "",
@@ -3239,6 +3229,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
