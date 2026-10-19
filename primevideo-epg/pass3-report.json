@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 804,
-  "candidate_names_loaded": 12141,
+  "candidate_names_loaded": 12145,
   "provisional_matches": 505,
   "new_matches_with_programmes": 495,
   "remaining_unmatched": 303,
   "combined_match_rate_percent": 64.0,
-  "programmes_added": 29870,
+  "programmes_added": 32139,
   "source_programmes": {
-    "pluto": 2106,
-    "samsung": 1128,
-    "roku": 10259,
-    "plex_mjh": 2725,
+    "pluto": 2151,
+    "samsung": 1109,
+    "roku": 10316,
+    "plex_mjh": 4911,
     "canada": 4339,
     "uk": 1788,
     "whaletv": 621,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 850,
-      "bytes": 960007
+      "bytes": 954979
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 514660
+      "bytes": 517840
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1456,
-      "bytes": 3381431
+      "candidate_names": 1460,
+      "bytes": 3391349
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 1501586
+      "bytes": 2397652
     }
   ],
   "matches": [
@@ -747,7 +747,7 @@
       "base_name": "CBS NEWS PHILADELPHIA",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "5eb1b05ea168cc000767ba67",
+      "epg_id": "62cdca1cda044a00077b903d",
       "source_display": "CBS News Philadelphia",
       "score": 100.0,
       "method": "pass3-exact"

@@ -1,7 +1,7 @@
 {
-  "amazon_channels_before": 116,
+  "amazon_channels_before": 117,
   "amazon_channels_kept_for_safe_merge": 53,
-  "amazon_channels_removed_from_fuzzy_merge": 63,
+  "amazon_channels_removed_from_fuzzy_merge": 64,
   "removed": [
     "40 y 20",
     "Amor Real",
@@ -58,6 +58,7 @@
     "Starz Kids & Family",
     "Starz West",
     "Starz in Black",
+    "Tennis Channel",
     "Teresa",
     "Vecinos",
     "ViX Música",
