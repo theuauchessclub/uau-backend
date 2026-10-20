@@ -5,12 +5,12 @@
   "new_matches_with_programmes": 494,
   "remaining_unmatched": 304,
   "combined_match_rate_percent": 63.9,
-  "programmes_added": 31850,
+  "programmes_added": 31947,
   "source_programmes": {
-    "pluto": 2120,
-    "samsung": 1121,
-    "roku": 10291,
-    "plex_mjh": 4933,
+    "pluto": 2098,
+    "samsung": 1103,
+    "roku": 10293,
+    "plex_mjh": 5068,
     "canada": 4474,
     "uk": 1766,
     "whaletv": 616,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 850,
-      "bytes": 952403
+      "bytes": 947175
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 517913
+      "bytes": 515803
     },
     {
       "source": "roku",
       "ok": true,
       "candidate_names": 1460,
-      "bytes": 3377590
+      "bytes": 3371353
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 2271377
+      "bytes": 2493840
     }
   ],
   "matches": [

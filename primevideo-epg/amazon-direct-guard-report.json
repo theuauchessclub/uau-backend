@@ -1,7 +1,7 @@
 {
-  "amazon_channels_before": 116,
+  "amazon_channels_before": 115,
   "amazon_channels_kept_for_safe_merge": 53,
-  "amazon_channels_removed_from_fuzzy_merge": 63,
+  "amazon_channels_removed_from_fuzzy_merge": 62,
   "removed": [
     "40 y 20",
     "Amor Real",
@@ -37,7 +37,6 @@
     "Lo que la vida me robó",
     "MLF and Bass Channel",
     "MPT/Maryland Public Television (PBS WMPB)",
-    "Monumental Sports Network",
     "N+ Univision 24/7",
     "NBC Boston News",
     "NBC Chicago News",
