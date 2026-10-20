@@ -2,15 +2,15 @@
   "starting_unmatched": 804,
   "candidate_names_loaded": 12153,
   "provisional_matches": 505,
-  "new_matches_with_programmes": 492,
-  "remaining_unmatched": 306,
-  "combined_match_rate_percent": 63.7,
-  "programmes_added": 31529,
+  "new_matches_with_programmes": 494,
+  "remaining_unmatched": 304,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 31776,
   "source_programmes": {
-    "pluto": 2134,
-    "samsung": 1116,
-    "roku": 10271,
-    "plex_mjh": 4623,
+    "pluto": 2151,
+    "samsung": 1109,
+    "roku": 10256,
+    "plex_mjh": 4875,
     "canada": 4474,
     "uk": 1766,
     "whaletv": 616,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 858,
-      "bytes": 953329
+      "bytes": 961730
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 516778
+      "bytes": 517015
     },
     {
       "source": "roku",
       "ok": true,
       "candidate_names": 1460,
-      "bytes": 3372302
+      "bytes": 3369194
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1390,
-      "bytes": 2065116
+      "bytes": 2441307
     }
   ],
   "matches": [
@@ -3629,6 +3629,26 @@
       "source": "samsung",
       "epg_id": "USBD330000948",
       "source_display": "XITE R&B Classic Jams",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE R&B FEELS RAW",
+      "base_name": "XITE R&B FEELS",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
+      "source_display": "XITE R&B Feels",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE RAP GAME RAW",
+      "base_name": "XITE RAP GAME",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800b694033a6a442ad9239",
+      "source_display": "XITE Rap Game",
       "score": 100.0,
       "method": "pass3-exact"
     },
