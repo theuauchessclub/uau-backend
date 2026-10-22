@@ -15,14 +15,14 @@ US: BET JAMS HD,BETjams.us,us2,BET.Jams.us2,98.0,name-exact,96
 US: BET SOUL,BETSoul.us,us2,BET.Soul.us2,98.0,name-exact,69
 US: BLAZE TV,BlazeTV.us,us2,Blaze.TV.us2,98.0,name-exact,59
 US: AXS TV HD,AXSTV.us,us2,AXS.TV.us2,98.0,name-exact,139
-US: BOUNCE XL,PlutoBounceXL.us,tubi,TUBI:BOUNCE XL,98.0,name-exact,68
+US: BOUNCE XL,PlutoBounceXL.us,tubi,TUBI:BOUNCE XL,98.0,name-exact,58
 US: BOUNCE TV HD,BounceTV.us,us2,Bounce.TV.us2,98.0,name-exact,108
 US: BRAVO HD,Bravo.us,us2,Bravo.HD.us2,98.0,name-exact,96
 US: BRAVO WEST HD,Bravo.us,us2,Bravo.HD.us2,96.0,name-relaxed,96
 US: BRAVO EAST HD,,us2,Bravo.HD.us2,96.0,name-relaxed,96
 US: CATCHY COMEDY HD,,us2,Catchy.Comedy.us2,99.0,alias-name,145
 US: BYU TV,BrighamYoungUniversity.us,us2,BYU-TV.us2,98.0,name-exact,124
-US: BUZZR,BuzzrTV.us,tubi,TUBI:BUZZR,98.0,name-exact,73
+US: BUZZR,BuzzrTV.us,tubi,TUBI:BUZZR,98.0,name-exact,74
 US: CHARGE!,ChargeTV.us,us2,CHARGE!.us2,98.0,name-exact,117
 US: CMT HD,CMT.us,us2,CMT.HD.us2,98.0,name-exact,155
 US: COMEDY CENTRAL HD,ComedyCentral.us,us2,Comedy.Central.HD.(Pacific).us2,98.0,name-exact,186
@@ -61,7 +61,7 @@ US: HGTV WEST HD,hgtv.us,prime,PRIME: HGTV RAW,96.0,name-relaxed,285
 US: HISTORY HD,HistoryChannel.us,us2,History.HD.us2,98.0,name-exact,109
 US: HLN HD,HLN.us,us2,HLN.HD.us2,98.0,name-exact,180
 US: ID INVESTIGATION DISCOVERY HD,investigationdiscovery.us,us2,Investigation.Discovery.HD.(Pacific).us2,93.9,fuzzy,100
-US: ION,,tubi,TUBI:ION,99.0,alias-name,44
+US: ION,,tubi,TUBI:ION,99.0,alias-name,47
 US: ION MYSTERY,,us2,ION.Mystery.us2,99.0,alias-name,72
 US: ION PLUS,,tubi,TUBI:ION PLUS,99.0,alias-name,42
 US: IFC HD,IndependentFilmChannel.us,us2,IFC.HD.us2,98.0,name-exact,106
