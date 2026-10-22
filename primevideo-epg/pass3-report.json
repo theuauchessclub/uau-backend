@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 803,
+  "starting_unmatched": 804,
   "candidate_names_loaded": 12151,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 495,
-  "remaining_unmatched": 302,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 31855,
+  "provisional_matches": 506,
+  "new_matches_with_programmes": 485,
+  "remaining_unmatched": 314,
+  "combined_match_rate_percent": 62.9,
+  "programmes_added": 29152,
   "source_programmes": {
-    "pluto": 2158,
-    "samsung": 1126,
-    "roku": 10399,
-    "plex_mjh": 4666,
+    "pluto": 2129,
+    "samsung": 1122,
+    "roku": 10207,
+    "plex_mjh": 2188,
     "canada": 4367,
     "uk": 1753,
     "whaletv": 616,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 975595
+      "bytes": 965665
     },
     {
       "source": "samsung",
       "ok": true,
-      "candidate_names": 1170,
-      "bytes": 512912
+      "candidate_names": 1176,
+      "bytes": 516426
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1460,
-      "bytes": 3392745
+      "candidate_names": 1452,
+      "bytes": 3404466
     },
     {
       "source": "plex_mjh",
       "ok": true,
-      "candidate_names": 1390,
-      "bytes": 2396448
+      "candidate_names": 1392,
+      "bytes": 876290
     }
   ],
   "matches": [
@@ -1413,16 +1413,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: GLORY KICKBOXING RAW",
-      "base_name": "GLORY KICKBOXING",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-63f914bffe2c3d32e1a7929f",
-      "source_display": "GLORY Kickboxing",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: GOLFPASS RAW",
       "base_name": "GOLFPASS",
       "stream_id": "",
@@ -1441,16 +1431,6 @@
       "source_display": "ViX Grandes Parejas",
       "score": 95.0,
       "method": "pass3-fuzzy"
-    },
-    {
-      "name": "PRIME: GREAT BRITISH MENU RAW",
-      "base_name": "GREAT BRITISH MENU",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-64704596e536e0faaf10be9b",
-      "source_display": "Great British Menu",
-      "score": 100.0,
-      "method": "pass3-exact"
     },
     {
       "name": "PRIME: GREEN ACRES RAW",
@@ -1729,6 +1709,16 @@
       "source": "roku",
       "epg_id": "d4a795f8590d54218069b495d273ac5a",
       "source_display": "Inside Edition",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: ION RAW",
+      "base_name": "ION",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "65453f30085df200085883d8",
+      "source_display": "ION",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2383,16 +2373,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: OUTLAW RAW",
-      "base_name": "OUTLAW",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4",
-      "source_display": "Outlaw",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: OVERTIME RAW",
       "base_name": "OVERTIME",
       "stream_id": "",
@@ -2499,16 +2479,6 @@
       "source": "samsung",
       "epg_id": "USBD4200016QR",
       "source_display": "PickleballTV",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: PICKLETV RAW",
-      "base_name": "PICKLETV",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-63ec0b739866d8d2120ac759",
-      "source_display": "PickleTV",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2723,16 +2693,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: SCREAMBOXTV RAW",
-      "base_name": "SCREAMBOXTV",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99",
-      "source_display": "Screambox TV",
-      "score": 99.0,
-      "method": "pass3-compact"
-    },
-    {
       "name": "PRIME: SHOUT! MOVIES RAW",
       "base_name": "SHOUT! MOVIES",
       "stream_id": "",
@@ -2923,16 +2883,6 @@
       "method": "pass3-fuzzy"
     },
     {
-      "name": "PRIME: TELEMUNDO AL DIA RAW",
-      "base_name": "TELEMUNDO AL DIA",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-6478acb5c83f56da796f166f",
-      "source_display": "Telemundo al Dia",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: TELEMUNDO NOTICIAS CALIFORNIA RAW",
       "base_name": "TELEMUNDO NOTICIAS CALIFORNIA",
       "stream_id": "",
@@ -3049,16 +2999,6 @@
       "source": "roku",
       "epg_id": "03eb704203f05a6fa06d9dce0d0ffccc",
       "source_display": "The Emeril Lagasse Channel",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: THE FBI RAW",
-      "base_name": "THE FBI",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-69d94123a5c870fb1e88f879",
-      "source_display": "The FBI",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3229,16 +3169,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3506,8 +3436,8 @@
       "name": "PRIME: WSOC CHARLOTTE (ABC) RAW",
       "base_name": "WSOC CHARLOTTE (ABC)",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "2b91bedf0bf25b7e83c05291634da59a",
+      "source": "samsung",
+      "epg_id": "USBC1000017D8",
       "source_display": "WSOC Charlotte",
       "score": 95.0,
       "method": "pass3-fuzzy"
@@ -3521,16 +3451,6 @@
       "source_display": "FI: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
-    },
-    {
-      "name": "PRIME: XITE 60S & 70S GROOVE RAW",
-      "base_name": "XITE 60S & 70S GROOVE",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-688005bc015fe7e375a1a0aa",
-      "source_display": "XITE 60s & 70s Groove",
-      "score": 100.0,
-      "method": "pass3-exact"
     },
     {
       "name": "PRIME: XITE 80S FLASHBACK RAW",
@@ -3629,26 +3549,6 @@
       "source": "samsung",
       "epg_id": "USBD330000948",
       "source_display": "XITE R&B Classic Jams",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: XITE R&B FEELS RAW",
-      "base_name": "XITE R&B FEELS",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
-      "source_display": "XITE R&B Feels",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: XITE RAP GAME RAW",
-      "base_name": "XITE RAP GAME",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68800b694033a6a442ad9239",
-      "source_display": "XITE Rap Game",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4383,6 +4283,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: JAIL RAW",
+      "base_name": "JAIL",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27",
+      "source_display": "JAIL",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: MOVIESPHERE BY LIONSGATE RAW",
       "base_name": "MOVIESPHERE BY LIONSGATE",
       "stream_id": "",
@@ -4399,16 +4309,6 @@
       "source": "samsung",
       "epg_id": "US170002608",
       "source_display": "Mr. Bean Animated",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: MR BEAN LIVE ACTION RAW",
-      "base_name": "MR BEAN LIVE ACTION",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-671a924b79fce6628115432c",
-      "source_display": "Mr. Bean Live Action",
       "score": 100.0,
       "method": "pass3-exact"
     },
