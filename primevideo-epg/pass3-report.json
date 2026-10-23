@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12157,
+  "candidate_names_loaded": 12153,
   "provisional_matches": 506,
-  "new_matches_with_programmes": 496,
-  "remaining_unmatched": 302,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 30882,
+  "new_matches_with_programmes": 495,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 30901,
   "source_programmes": {
-    "pluto": 2053,
-    "samsung": 1118,
-    "roku": 10055,
-    "plex_mjh": 4150,
+    "pluto": 2086,
+    "samsung": 1128,
+    "roku": 10038,
+    "plex_mjh": 4143,
     "canada": 4367,
     "uk": 1753,
     "whaletv": 616,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 951813
+      "bytes": 958531
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1174,
-      "bytes": 514159
+      "bytes": 513607
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1460,
-      "bytes": 3431944
+      "candidate_names": 1456,
+      "bytes": 3440545
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1392,
-      "bytes": 2093511
+      "bytes": 2080150
     }
   ],
   "matches": [
@@ -271,16 +271,6 @@
       "source_display": "All Weddings We TV",
       "score": 100.0,
       "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: ALL WOMEN'S SPORTS NETWORK RAW",
-      "base_name": "ALL WOMEN'S SPORTS NETWORK",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "686d8dd294a028da3ac59566",
-      "source_display": "Women's Sports Network",
-      "score": 95.0,
-      "method": "pass3-fuzzy"
     },
     {
       "name": "PRIME: ALL-OUT ALASKA RAW",
