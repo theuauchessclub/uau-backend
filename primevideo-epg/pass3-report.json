@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 804,
-  "candidate_names_loaded": 12153,
-  "provisional_matches": 507,
-  "new_matches_with_programmes": 494,
-  "remaining_unmatched": 305,
-  "combined_match_rate_percent": 63.8,
-  "programmes_added": 31725,
+  "starting_unmatched": 803,
+  "candidate_names_loaded": 12155,
+  "provisional_matches": 506,
+  "new_matches_with_programmes": 495,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 31426,
   "source_programmes": {
-    "pluto": 2096,
-    "samsung": 1087,
-    "roku": 10105,
-    "plex_mjh": 4763,
+    "pluto": 2123,
+    "samsung": 1079,
+    "roku": 10153,
+    "plex_mjh": 4397,
     "canada": 4333,
     "uk": 1770,
     "whaletv": 619,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 860,
-      "bytes": 947217
+      "bytes": 960558
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1176,
-      "bytes": 510764
+      "bytes": 511793
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1454,
-      "bytes": 3431040
+      "candidate_names": 1456,
+      "bytes": 3429143
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1392,
-      "bytes": 2345535
+      "bytes": 2120806
     }
   ],
   "matches": [
@@ -1729,16 +1729,6 @@
       "source": "roku",
       "epg_id": "d4a795f8590d54218069b495d273ac5a",
       "source_display": "Inside Edition",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: ION RAW",
-      "base_name": "ION",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "65453f30085df200085883d8",
-      "source_display": "ION",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3533,6 +3523,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: XITE 60S & 70S GROOVE RAW",
+      "base_name": "XITE 60S & 70S GROOVE",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-688005bc015fe7e375a1a0aa",
+      "source_display": "XITE 60s & 70s Groove",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: XITE 80S FLASHBACK RAW",
       "base_name": "XITE 80S FLASHBACK",
       "stream_id": "",
@@ -3629,6 +3629,16 @@
       "source": "samsung",
       "epg_id": "USBD330000948",
       "source_display": "XITE R&B Classic Jams",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: XITE R&B FEELS RAW",
+      "base_name": "XITE R&B FEELS",
+      "stream_id": "",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
+      "source_display": "XITE R&B Feels",
       "score": 100.0,
       "method": "pass3-exact"
     },
