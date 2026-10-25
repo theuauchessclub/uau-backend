@@ -1,9 +1,9 @@
 {
   "channels_total": 955,
-  "channels_matched": 659,
-  "channels_unmatched": 296,
-  "match_rate_percent": 69.0,
-  "programmes_written": 51505,
+  "channels_matched": 660,
+  "channels_unmatched": 295,
+  "match_rate_percent": 69.1,
+  "programmes_written": 51361,
   "source_status": [
     {
       "source": "us2",
@@ -17,7 +17,7 @@
     },
     {
       "source": "sports",
-      "ids": 267,
+      "ids": 298,
       "ok": true
     },
     {
@@ -35,11 +35,11 @@
     "us2": 10957,
     "locals": 6428,
     "plex": 2402,
-    "amazon_direct": 3595,
-    "pass3_pluto": 2124,
-    "pass3_samsung": 1090,
-    "pass3_roku": 10098,
-    "pass3_plex_mjh": 3641,
+    "amazon_direct": 3655,
+    "pass3_pluto": 2071,
+    "pass3_samsung": 1097,
+    "pass3_roku": 10080,
+    "pass3_plex_mjh": 3501,
     "pass3_canada": 4333,
     "pass3_uk": 1770,
     "pass3_whaletv": 619,
@@ -50,18 +50,18 @@
     "pass3_mexico": 45,
     "pass3_tbnplus": 201
   },
-  "amazon_direct_channels": 52,
-  "amazon_direct_programmes": 3595,
+  "amazon_direct_channels": 53,
+  "amazon_direct_programmes": 3655,
   "pass3_new_channels": 495,
-  "pass3_programmes": 30627,
+  "pass3_programmes": 30423,
   "catalog_entries_total": 1032,
   "catalog_unique_channels": 955,
   "duplicate_catalog_entries": 77,
-  "matched_unique_channels": 659,
-  "unmatched_unique_channels": 296,
-  "unique_match_rate_percent": 69.0,
-  "covered_catalog_entries": 728,
-  "entry_coverage_percent": 70.5,
-  "unmatched_report_rows": 304,
-  "unmatched_report_unique_names": 296
+  "matched_unique_channels": 660,
+  "unmatched_unique_channels": 295,
+  "unique_match_rate_percent": 69.1,
+  "covered_catalog_entries": 729,
+  "entry_coverage_percent": 70.6,
+  "unmatched_report_rows": 303,
+  "unmatched_report_unique_names": 295
 }
