@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 803,
-  "candidate_names_loaded": 12135,
-  "provisional_matches": 506,
+  "candidate_names_loaded": 12137,
+  "provisional_matches": 505,
   "new_matches_with_programmes": 494,
   "remaining_unmatched": 304,
   "combined_match_rate_percent": 63.9,
-  "programmes_added": 32169,
+  "programmes_added": 31677,
   "source_programmes": {
-    "pluto": 2139,
-    "samsung": 1115,
-    "roku": 10207,
-    "plex_mjh": 5057,
+    "pluto": 2144,
+    "samsung": 1097,
+    "roku": 10226,
+    "plex_mjh": 4559,
     "canada": 4342,
     "uk": 1770,
     "whaletv": 609,
@@ -79,26 +79,26 @@
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 860,
-      "bytes": 956042
+      "candidate_names": 864,
+      "bytes": 968799
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1176,
-      "bytes": 518176
+      "bytes": 514711
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1436,
-      "bytes": 3331491
+      "candidate_names": 1434,
+      "bytes": 3328633
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1392,
-      "bytes": 2335785
+      "bytes": 2145326
     }
   ],
   "matches": [
@@ -2903,6 +2903,16 @@
       "method": "pass3-fuzzy"
     },
     {
+      "name": "PRIME: TEAM USA RAW",
+      "base_name": "TEAM USA",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "US3900007ZW",
+      "source_display": "Team USA TV",
+      "score": 95.0,
+      "method": "pass3-fuzzy"
+    },
+    {
       "name": "PRIME: TELEMUNDO AL DIA RAW",
       "base_name": "TELEMUNDO AL DIA",
       "stream_id": "",
@@ -3209,16 +3219,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
