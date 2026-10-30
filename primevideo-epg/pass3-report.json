@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 800,
+  "starting_unmatched": 799,
   "candidate_names_loaded": 12131,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 493,
-  "remaining_unmatched": 302,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 30943,
+  "provisional_matches": 503,
+  "new_matches_with_programmes": 491,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 31967,
   "source_programmes": {
-    "pluto": 2111,
-    "samsung": 1130,
-    "roku": 10008,
-    "plex_mjh": 4347,
+    "pluto": 2155,
+    "samsung": 1091,
+    "roku": 9844,
+    "plex_mjh": 5530,
     "canada": 4316,
     "uk": 1798,
     "whaletv": 627,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 866,
-      "bytes": 957163
+      "bytes": 967167
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1176,
-      "bytes": 519770
+      "bytes": 515464
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1432,
-      "bytes": 3359581
+      "candidate_names": 1434,
+      "bytes": 3389844
     },
     {
       "source": "plex_mjh",
       "ok": true,
-      "candidate_names": 1386,
-      "bytes": 2068718
+      "candidate_names": 1384,
+      "bytes": 2566647
     }
   ],
   "matches": [
@@ -1723,16 +1723,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: ION RAW",
-      "base_name": "ION",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "65453f30085df200085883d8",
-      "source_display": "ION",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: ION PLUS RAW",
       "base_name": "ION PLUS",
       "stream_id": "",
@@ -3213,16 +3203,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -4106,8 +4086,8 @@
       "name": "PRIME: ARE WE THERE YET? RAW",
       "base_name": "ARE WE THERE YET?",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "1c235612cec3540f85bb5e2bf7982047",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-612919784f53e1002c9aa219",
       "source_display": "Are We There Yet?",
       "score": 100.0,
       "method": "pass3-exact"
