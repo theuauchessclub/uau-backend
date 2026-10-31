@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 800,
-  "candidate_names_loaded": 12135,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 494,
+  "starting_unmatched": 799,
+  "candidate_names_loaded": 12137,
+  "provisional_matches": 504,
+  "new_matches_with_programmes": 493,
   "remaining_unmatched": 301,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 31655,
+  "programmes_added": 31707,
   "source_programmes": {
-    "pluto": 2147,
-    "samsung": 1091,
-    "roku": 10002,
-    "plex_mjh": 4801,
+    "pluto": 2130,
+    "samsung": 1089,
+    "roku": 10027,
+    "plex_mjh": 4847,
     "canada": 4435,
     "uk": 1819,
     "whaletv": 627,
@@ -80,25 +80,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 866,
-      "bytes": 945555
+      "bytes": 926778
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1176,
-      "bytes": 512797
+      "bytes": 508573
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1438,
-      "bytes": 3406559
+      "candidate_names": 1440,
+      "bytes": 3394475
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1384,
-      "bytes": 2357749
+      "bytes": 2438261
     }
   ],
   "matches": [
@@ -1719,16 +1719,6 @@
       "source": "roku",
       "epg_id": "d4a795f8590d54218069b495d273ac5a",
       "source_display": "Inside Edition",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: ION RAW",
-      "base_name": "ION",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "65453f30085df200085883d8",
-      "source_display": "ION",
       "score": 100.0,
       "method": "pass3-exact"
     },
