@@ -246,7 +246,6 @@ PRIME: FILMRISE WESTERNS RAW,FILMRISE WESTERNS,,amazon_direct,amazon::FilmRise W
 PRIME: FLAVOUR NETWORK RAW,FLAVOUR NETWORK,,pass3_canada,Flavour.Network.HD.ca2,100.0,pass3-exact
 PRIME: FOOD NETWORK RAW,FOOD NETWORK,,us2,Food.Network.HD.us2,98.0,exact
 PRIME: FORENSIC FILES RAW,FORENSIC FILES,,amazon_direct,amazon::Forensic Files,100.0,amazon-exact
-PRIME: FOX 2 SAN FRANCISCO RAW,FOX 2 SAN FRANCISCO,,amazon_direct,amazon::FOX 2 San Francisco,100.0,amazon-exact
 PRIME: FOX BALTIMORE NEWS (WBFF) RAW,FOX BALTIMORE NEWS (WBFF),,locals,WBFF-DT.us_locals1,99.0,callsign
 PRIME: FOX FORT MYERS NEWS (WFTX) RAW,FOX FORT MYERS NEWS (WFTX),,locals,WFTX-DT.us_locals1,99.0,callsign
 PRIME: FOX FRESNO NEWS (KMPH) RAW,FOX FRESNO NEWS (KMPH),,locals,KMPH-DT.us_locals1,99.0,callsign
@@ -531,13 +530,13 @@ PRIME: SHADES OF BLACK RAW,SHADES OF BLACK,,amazon_direct,amazon::Shades of Blac
 PRIME: SHERIFFS: EL DORADO COUNTY RAW,SHERIFFS: EL DORADO COUNTY,,plex,plex.tv.Sheriffs:.El.Dorado.County.plex,95.0,fuzzy
 PRIME: SHOUT! MOVIES RAW,SHOUT! MOVIES,,pass3_plex_mjh,6a1610bebdf296985fd95603-67ddc2c01d30518241f9249d,100.0,pass3-exact
 PRIME: SHOWCASE RAW,SHOWCASE,,pass3_australia,Showcase.au,100.0,pass3-exact
-PRIME: SHOWTIME RAW,SHOWTIME,,us2,Showtime.2.HD.us2,95.0,fuzzy
+PRIME: SHOWTIME RAW,SHOWTIME,,amazon_direct,amazon::Showtime,100.0,amazon-exact
 PRIME: SILENT WITNESS & NEW TRICKS RAW,SILENT WITNESS & NEW TRICKS,,pass3_samsung,US2600027AI,100.0,pass3-exact
 PRIME: SKY NEWS RAW,SKY NEWS,,amazon_direct,amazon::Sky News,100.0,amazon-exact
 PRIME: SLICE RAW,SLICE,,pass3_canada,SLICE.ca2,100.0,pass3-exact
 PRIME: SLIGHTLY OFF IFC RAW,SLIGHTLY OFF IFC,,pass3_roku,aea5e7ccd9a35a4abd9193147fb4d593,100.0,pass3-exact
 PRIME: SNL VAULT RAW,SNL VAULT,,amazon_direct,amazon::SNL Vault,100.0,amazon-exact
-PRIME: SO...REAL RAW,SO...REAL,,pass3_plex_mjh,6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec012,100.0,pass3-exact
+PRIME: SO...REAL RAW,SO...REAL,,pass3_roku,b41118f76d1a5abcb701b9cc0a035c5b,100.0,pass3-exact
 PRIME: SPACE & BEYOND RAW,SPACE & BEYOND,,amazon_direct,amazon::Space & Beyond,100.0,amazon-exact
 PRIME: SPEED SPORT 1 RAW,SPEED SPORT 1,,amazon_direct,amazon::SPEED SPORT 1,100.0,amazon-exact
 PRIME: SPEEDVISION RAW,SPEEDVISION,,pass3_plex_mjh,6a1610bebdf296985fd95603-6349ed0eb1adc4cfa571fd37,100.0,pass3-exact

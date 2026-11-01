@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 594,
-  "candidate_names_loaded": 12135,
+  "starting_unmatched": 595,
+  "candidate_names_loaded": 12137,
   "provisional_matches": 334,
   "new_matches_with_programmes": 325,
-  "remaining_unmatched": 266,
-  "combined_match_rate_percent": 67.5,
-  "programmes_added": 21976,
+  "remaining_unmatched": 267,
+  "combined_match_rate_percent": 67.4,
+  "programmes_added": 22431,
   "source_programmes": {
-    "samsung": 595,
-    "pluto": 977,
-    "roku": 5903,
-    "plex_mjh": 3053,
+    "samsung": 623,
+    "pluto": 1003,
+    "roku": 5983,
+    "plex_mjh": 3374,
     "canada": 4286,
     "fanduel": 208,
     "rakuten": 2854,
@@ -78,25 +78,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 866,
-      "bytes": 954230
+      "bytes": 943942
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1176,
-      "bytes": 493077
+      "bytes": 506978
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1438,
-      "bytes": 3372322
+      "candidate_names": 1440,
+      "bytes": 3370686
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1384,
-      "bytes": 1774347
+      "bytes": 2114112
     }
   ],
   "matches": [
@@ -2934,8 +2934,8 @@
       "name": "PRIME: SO...REAL RAW",
       "base_name": "SO...REAL",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec012",
+      "source": "roku",
+      "epg_id": "b41118f76d1a5abcb701b9cc0a035c5b",
       "source_display": "So... Real",
       "score": 100.0,
       "method": "pass3-exact"
