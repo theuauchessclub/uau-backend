@@ -4,31 +4,6 @@
     <display-name>US: BOUNCE TV RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7543244870417913117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: BOUNCE TV RAW" start="20261101160000 +0000" stop="20261101170000 +0000">
-    <title>In the Heat of the Night</title>
-    <desc>A father's apathy toward the murder of his hooker daughter shocks Gillespie.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: BOUNCE TV RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>In the Heat of the Night</title>
-    <desc>Gillespie must discreetly investigate a child-molestation claim against a fifth-grade teacher.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: BOUNCE TV RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>S.W.A.T.</title>
-    <desc>Following a string of home robberies, the team rushes to stop a crew targeting elderly victims.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: BOUNCE TV RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>S.W.A.T.</title>
-    <desc>SWAT teams up with the DEA to conduct a massive gang sweep; Hicks marks an important anniversary.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: BOUNCE TV RAW" start="20261101200000 +0000" stop="20261101210000 +0000">
-    <title>S.W.A.T.</title>
-    <desc>The team works with the DEA to stop a ruthless cartel boss waging war on the streets of Los Angeles.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: BOUNCE TV RAW" start="20261101210000 +0000" stop="20261101220000 +0000">
     <title>S.W.A.T.</title>
     <desc>The team heads to Mexico to escort a fugitive back to the U.S., but things go awry.</desc>
@@ -119,35 +94,40 @@
     <desc>Men join forces and bring a woman to court to see if either of them is the father of her baby girl.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: BOUNCE TV RAW" start="20261102170000 +0000" stop="20261102173000 +0000">
+    <title>Lauren Lake's Paternity Court</title>
+    <desc>An Ohio man is desperate to prove that he fathered his lover's daughter.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: BOUNCE TV RAW" start="20261102173000 +0000" stop="20261102180000 +0000">
+    <title>Lauren Lake's Paternity Court</title>
+    <desc>A young Michigan woman is upset that her boyfriend denies he's the father.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: BOUNCE TV RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>In the Heat of the Night</title>
+    <desc>Gillespie tries to prevent a man who shot his wife and her lover from harming anyone else.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: BOUNCE TV RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>In the Heat of the Night</title>
+    <desc>A councilwoman tries art therapy on a mute boy who may have witnessed his father's murder.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: BOUNCE TV RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>In the Heat of the Night</title>
+    <desc>A retired detective assists Gillespie's probe of a murder at a rest home; guest Louise Fletcher.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: BOUNCE TV RAW" start="20261102210000 +0000" stop="20261102233000 +0000">
+    <title>Life</title>
+    <desc>Two wrongly jailed men (Eddie Murphy, Martin Lawrence) become close friends.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: CONFESS BY NOSEY RAW">
     <display-name>US: CONFESS BY NOSEY RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8539676099292333117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: CONFESS BY NOSEY RAW" start="20261101162600 +0000" stop="20261101171200 +0000">
-    <title>The People's Court</title>
-    <desc>"Abandoned by Her Father."</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: CONFESS BY NOSEY RAW" start="20261101171200 +0000" stop="20261101175800 +0000">
-    <title>The People's Court</title>
-    <desc>"You Are 58 Trying to Date a 22-Year-Old!"</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: CONFESS BY NOSEY RAW" start="20261101175800 +0000" stop="20261101184900 +0000">
-    <title>The People's Court</title>
-    <desc>A sick puppy, a wheel alignment and missing silver coins spark three cases.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: CONFESS BY NOSEY RAW" start="20261101184900 +0000" stop="20261101193900 +0000">
-    <title>The People's Court</title>
-    <desc>"Tantrum Over Tutoring."</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: CONFESS BY NOSEY RAW" start="20261101193900 +0000" stop="20261101202800 +0000">
-    <title>The People's Court</title>
-    <desc>"Car Catastrophe."</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: CONFESS BY NOSEY RAW" start="20261101202800 +0000" stop="20261101211400 +0000">
     <title>The People's Court</title>
     <desc>"Rental Ruckus."</desc>
@@ -283,35 +263,35 @@
     <desc>Some of the wildest guests of the year return with updates on their situations.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: CONFESS BY NOSEY RAW" start="20261102172000 +0000" stop="20261102180700 +0000">
+    <title>The People's Court</title>
+    <desc>"Ripped Off by a Clothing Designer."</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: CONFESS BY NOSEY RAW" start="20261102180700 +0000" stop="20261102185500 +0000">
+    <title>The People's Court</title>
+    <desc>"Friends Feud Over Money."</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: CONFESS BY NOSEY RAW" start="20261102185500 +0000" stop="20261102194500 +0000">
+    <title>The People's Court</title>
+    <desc>"You Towed My Car and Held It for Ransom!"</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: CONFESS BY NOSEY RAW" start="20261102194500 +0000" stop="20261102203300 +0000">
+    <title>The People's Court</title>
+    <desc>"Friend Loan Fireworks."</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: CONFESS BY NOSEY RAW" start="20261102203300 +0000" stop="20261102212100 +0000">
+    <title>The People's Court</title>
+    <desc>"Vacation Ruins a Friendship."</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: COURT TV RAW">
     <display-name>US: COURT TV RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8856079200163117117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: COURT TV RAW" start="20261101160000 +0000" stop="20261101170000 +0000">
-    <title>Accomplice to Murder, With Vinnie Politan</title>
-    <desc>Alex and Derek King's murder confession is questioned after Ricky is revealed to be a pedophile.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: COURT TV RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>Someone They Knew With Tamron Hall</title>
-    <desc>David Coffin's house burned down, but the fire didn't kill him, it was the bullet in his head.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: COURT TV RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>Someone They Knew With Tamron Hall</title>
-    <desc>When two women were discovered beaten and shot, police turned to someone they both knew.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: COURT TV RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>Someone They Knew With Tamron Hall</title>
-    <desc>When Sara Tokars is kidnapped, shot and killed in front of her children, police are baffled.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: COURT TV RAW" start="20261101200000 +0000" stop="20261101210000 +0000">
-    <title>Interview With a Killer</title>
-    <desc>A Neo-Nazi turned Islamic jihadist shoots two of his roommates after an argument.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: COURT TV RAW" start="20261101210000 +0000" stop="20261101220000 +0000">
     <title>Interview With a Killer</title>
     <desc>Rebecca Keller and Keri Murphy murdered Murphy's mother after she did not approve of them.</desc>
@@ -427,35 +407,35 @@
     <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: COURT TV RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Court TV Live</title>
+    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: COURT TV RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>Court TV Live</title>
+    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: COURT TV RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>Court TV Live</title>
+    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: COURT TV RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>Court TV Live</title>
+    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: COURT TV RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>Court TV Live</title>
+    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: COURT TV: LEGENDARY TRIALS RAW">
     <display-name>US: COURT TV: LEGENDARY TRIALS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_5711683224903471117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261101160000 +0000" stop="20261101170000 +0000">
-    <title>Court TV Live</title>
-    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>Court TV Live</title>
-    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>Court TV Live</title>
-    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>Court TV Live</title>
-    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261101200000 +0000" stop="20261101210000 +0000">
-    <title>Court TV Live</title>
-    <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261101210000 +0000" stop="20261101220000 +0000">
     <title>Court TV Live</title>
     <desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
@@ -552,25 +532,35 @@
     <title>Deadly Parade Crash Trial</title>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Wrong Apartment Murder Trial</title>
+    <desc>One of the first officers to respond to Botham Jean's shooting tried to save his life.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>Wrong Apartment Murder Trial</title>
+    <desc>Both sides argued about a reconstruction model of the shooting scene where Amber killed Botham Jean.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>Wrong Apartment Murder Trial</title>
+    <desc>A Texas Ranger's testimony favors the defense's argument that it was a mistaken identity situation.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>Wrong Apartment Murder Trial</title>
+    <desc>Jurors heard more from a Texas Ranger who gave his professional and personal opinion.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: COURT TV: LEGENDARY TRIALS RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>Sex, Cyanide and a Doctor on the Run Case</title>
+    <desc>Things got heated in the courtroom between the defense and Yazeed Essa's alleged fixer.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: DATELINE 24/7 RAW">
     <display-name>US: DATELINE 24/7 RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7509458937090982117_lightnow/LOGO_NON_PADDED/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: DATELINE 24/7 RAW" start="20261101164300 +0000" stop="20261101173000 +0000">
-    <title>Dateline NBC</title>
-    <desc>Two young girls in Washington are snatched in broad daylight while riding their bikes.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: DATELINE 24/7 RAW" start="20261101173000 +0000" stop="20261101190800 +0000">
-    <title>Dateline NBC</title>
-    <desc>The murder of a beloved California mother reopens a mystery surrounding another woman's death.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: DATELINE 24/7 RAW" start="20261101190800 +0000" stop="20261101204500 +0000">
-    <title>Dateline NBC</title>
-    <desc>Mysterious deaths occur inside a traveling commune, starting a decade-long investigation.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: DATELINE 24/7 RAW" start="20261101204500 +0000" stop="20261101222000 +0000">
     <title>Dateline NBC</title>
     <desc>Two double homicides committed five years apart lead police to suspect a serial killer is to blame.</desc>
@@ -666,40 +656,25 @@
     <desc>When a soldier vanishes from Fort Hood, her family works to bring attention to her disappearance.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: DATELINE 24/7 RAW" start="20261102173200 +0000" stop="20261102191000 +0000">
+    <title>Dateline NBC</title>
+    <desc>A young father in California calls 911 after being in a shootout in a car full of strangers.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: DATELINE 24/7 RAW" start="20261102191000 +0000" stop="20261102204700 +0000">
+    <title>Dateline NBC</title>
+    <desc>The seemingly storybook romance between a football player and the homecoming queen ends in a death.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: DATELINE 24/7 RAW" start="20261102204700 +0000" stop="20261102221800 +0000">
+    <title>Dateline NBC</title>
+    <desc>The investigation into the death of a woman whose remains were found in her Frisco, Texas, garage.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: FAMILY FEUD STEVE HARVEY RAW">
     <display-name>US: FAMILY FEUD STEVE HARVEY RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7229052664943138117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261101145300 +0000" stop="20261101183700 +0000">
-    <title>Best of Family Feud</title>
-    <desc>Some of the best clips from "Family Feud."</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261101183700 +0000" stop="20261101191300 +0000">
-    <title>Compilations</title>
-    <desc>Steve Harvey watches the classic family competition.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261101191300 +0000" stop="20261101193900 +0000">
-    <title>Family Feud</title>
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261101193900 +0000" stop="20261101200600 +0000">
-    <title>Family Feud</title>
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261101200600 +0000" stop="20261101202800 +0000">
-    <title>Family Feud</title>
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261101202800 +0000" stop="20261101205400 +0000">
-    <title>Family Feud</title>
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261101205400 +0000" stop="20261101211900 +0000">
     <title>Family Feud</title>
     <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
@@ -785,60 +760,30 @@
     <desc>Some of the best clips from "Family Feud."</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261102180800 +0000" stop="20261102200200 +0000">
+    <title>Best of Family Feud</title>
+    <desc>Some of the best clips from "Family Feud."</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261102200200 +0000" stop="20261102202800 +0000">
+    <title>Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261102202800 +0000" stop="20261102205200 +0000">
+    <title>Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: FAMILY FEUD STEVE HARVEY RAW" start="20261102205200 +0000" stop="20261102211700 +0000">
+    <title>Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: GAME SHOW CENTRAL RAW">
     <display-name>US: GAME SHOW CENTRAL RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8650576850986767117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101160800 +0000" stop="20261101170000 +0000">
-    <title>Minute to Win It</title>
-    <desc>Taylor, a cancer survivor and champion horse rider, and her mom Debbie are competitors from Idaho.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101170000 +0000" stop="20261101172500 +0000">
-    <title>Common Knowledge</title>
-    <desc>Two teams of three compete to answer practical, everyday questions that everyone should know; Joey Fatone hosts.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101172500 +0000" stop="20261101175000 +0000">
-    <title>Common Knowledge</title>
-    <desc>Joey Fatone hosts as teams compete to answer practical, everyday questions.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101175000 +0000" stop="20261101181500 +0000">
-    <title>Common Knowledge</title>
-    <desc>Joey Fatone hosts as teams compete to answer practical, everyday questions.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101181500 +0000" stop="20261101184200 +0000">
-    <title>Catch 21</title>
-    <desc>Aces For Everyone; players add cards by answering pop trivia questions and try to build the closest hand to 21 without busting in this fast-action game of knowledge and strategy.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101184200 +0000" stop="20261101190900 +0000">
-    <title>Catch 21</title>
-    <desc>Aces For Everyone; players add cards by answering pop trivia questions and try to build the closest hand to 21 without busting in this fast-action game of knowledge and strategy.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101190900 +0000" stop="20261101193400 +0000">
-    <title>People Puzzler</title>
-    <desc>Three contestants put their pop culture knowledge to the test to complete crosswords based on the puzzles in People Magazine.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101193400 +0000" stop="20261101200000 +0000">
-    <title>People Puzzler</title>
-    <desc>Three contestants put their pop culture knowledge to the test to complete crosswords based on the puzzles in People Magazine.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101200000 +0000" stop="20261101202500 +0000">
-    <title>America Says</title>
-    <desc>John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101202500 +0000" stop="20261101205000 +0000">
-    <title>America Says</title>
-    <desc>John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: GAME SHOW CENTRAL RAW" start="20261101205000 +0000" stop="20261101211600 +0000">
     <title>America Says</title>
     <desc>John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
@@ -1063,35 +1008,54 @@
     <desc>The TV version of the classic game featuring celebrity captains Kel Mitchell and Loni Love.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102170000 +0000" stop="20261102175100 +0000">
+    <title>Deal or No Deal</title>
+    <desc>Stephen Mulhern hosts the iconic game show as one of the brave contestants takes on the infamous Banker while opening the iconic 22 red boxes in the right order.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102175100 +0000" stop="20261102181600 +0000">
+    <title>Flip Side</title>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102181600 +0000" stop="20261102184200 +0000">
+    <title>People Puzzler</title>
+    <desc>Three contestants put their pop culture knowledge to the test to complete crosswords based on the puzzles in People Magazine.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102184200 +0000" stop="20261102190800 +0000">
+    <title>America Says</title>
+    <desc>John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102190800 +0000" stop="20261102193400 +0000">
+    <title>America Says</title>
+    <desc>John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102193400 +0000" stop="20261102195900 +0000">
+    <title>America Says</title>
+    <desc>John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102195900 +0000" stop="20261102202600 +0000">
+    <title>Common Knowledge</title>
+    <desc>Teams answer a question about an American artist and his Campbell soup can paintings.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102202600 +0000" stop="20261102205100 +0000">
+    <title>Common Knowledge</title>
+    <desc>Teams of three compete to answer practical, everyday questions that everyone should know.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: GAME SHOW CENTRAL RAW" start="20261102205100 +0000" stop="20261102211700 +0000">
+    <title>Idiotest</title>
+    <desc>A pair of teachers compete against two sisters.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: ION RAW">
     <display-name>US: ION RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_5007927101325486117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: ION RAW" start="20261101160000 +0000" stop="20261101170000 +0000">
-    <title>NCIS</title>
-    <desc>The team tries to verify the identity of Joe Smith, who claims he served on the U.S.S. Arizona.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: ION RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>NCIS</title>
-    <desc>The team deals with the case of a missing cadaver from the NCIS autopsy room.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: ION RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>NCIS</title>
-    <desc>Flashbacks reveal the murder case that first introduced young Gibbs to NCIS and to Ducky.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: ION RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>NCIS</title>
-    <desc>The discovery of dead bodies in a forest leads the team to the world of modern-day treasure hunting.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: ION RAW" start="20261101200000 +0000" stop="20261101210000 +0000">
-    <title>NCIS</title>
-    <desc>McGee and his wife Delilah's Bahamian vacation turns into a high-stakes mission.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: ION RAW" start="20261101210000 +0000" stop="20261101220000 +0000">
     <title>NCIS</title>
     <desc>Bishop and Torres engage in a shootout at a historical site and get locked in abandoned jail cells.</desc>
@@ -1207,35 +1171,35 @@
     <desc>The crew struggles to come to terms with an injury to one of their own; Boden ponders some news.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: ION RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Chicago Fire</title>
+    <desc>Boden has a lapse in judgment after rescuing a young boy; Kidd tries to win over Severide's mom.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: ION RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>Chicago Fire</title>
+    <desc>Casey and Severide volunteer to assist with an FBI undercover mission.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: ION RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>Chicago Fire</title>
+    <desc>The team responds to a residential fire at a property belonging to a drug cartel; money is missing.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: ION RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>Chicago Fire</title>
+    <desc>After saving a girl from a car accident, Boden and Severide receive a surprise package.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: ION RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>Chicago Fire</title>
+    <desc>Lt. Severide is shocked when Rene Royce resurfaces; Casey comes up with a plan to help Chief Boden.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: ION MYSTERY RAW">
     <display-name>US: ION MYSTERY RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7803029382987033117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: ION MYSTERY RAW" start="20261101160000 +0000" stop="20261101170000 +0000">
-    <title>Hawaii Five-0</title>
-    <desc>The team learns that one of its own has a connection to a woman who was murdered in her home.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: ION MYSTERY RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>Hawaii Five-0</title>
-    <desc>Five-0 must plan an escape when gunmen storm a building in which Gabriel is trapped.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: ION MYSTERY RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>Hawaii Five-0</title>
-    <desc>McGarrett and Danny pose as drug pilots in a plan to stop a meth epidemic on the island.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: ION MYSTERY RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>Hawaii Five-0</title>
-    <desc>The team hunts for a murderer who has been targeting serial killers.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: ION MYSTERY RAW" start="20261101200000 +0000" stop="20261101210000 +0000">
-    <title>Hawaii Five-0</title>
-    <desc>A rogue MI-6 agent is forced to help find a terrorist planning to cause nuclear disasters.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: ION MYSTERY RAW" start="20261101210000 +0000" stop="20261101220000 +0000">
     <title>Hawaii Five-0</title>
     <desc>After finding a corpse in her bed, FBI profiler Alicia Brown joins McGarrett in a hunt for a killer.</desc>
@@ -1336,55 +1300,35 @@
     <desc>The investigation into a chief warrant officer's death reveals that his wife has been abducted.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: ION MYSTERY RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>NCIS: New Orleans</title>
+    <desc>A Naval Staff Judge Advocate dressed in a costume is found dead in a cemetery.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: ION MYSTERY RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>NCIS: New Orleans</title>
+    <desc>The team investigate the murder of a Navy Officer assigned to work with a private developer.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: ION MYSTERY RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>NCIS: New Orleans</title>
+    <desc>A murdered petty officer is found in a Mardi Gras float storage facility.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: ION MYSTERY RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>NCIS: New Orleans</title>
+    <desc>A stolen Navy-issue gun turns out to belong to a chief petty officer who died 40 years ago.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: ION MYSTERY RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>NCIS: New Orleans</title>
+    <desc>A retired SEAL -- who tracked people impersonating military personnel -- is murdered.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: LAW &amp; CRIME NETWORK RAW">
     <display-name>US: LAW &amp; CRIME NETWORK RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_6409173011308280117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>Police discover a badly injured suspect; a suspect is arrested for using knives against his wife.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>A suspect claims that his mug shot photo is of his twin brother; officers lasso an escaped zebra.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>An unruly motel guest's feet trip him up during a chase with police; police are applauded.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101180000 +0000" stop="20261101183000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>Three juveniles are arrested for holding up a local eatery; a couple assaults their roommate.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>A robbery suspect hides out in a dumpster; a man's blue shirt gets him stopped by police.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101190000 +0000" stop="20261101193000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>A car passenger runs from police while the driver pulls a disappearing act; a flashy driver.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>A robber, still located on the premises, can't hide from the K-9 unit; a deviant is on the run.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>A man is caught urinating in public; a car thief claims a crack addict let him borrow his car.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>Cops Reloaded</title>
-    <desc>A criminal lectures officers on how the law works; a mother chastises her daughter; a son's drugs.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>Cops Reloaded</title>
     <desc>Police intervene on a chase between a car thief and the owner of the stolen vehicle.</desc>
@@ -1570,40 +1514,40 @@
     <desc>A drug suspect has part of his ear torn off by a K-9; police break up a meth production.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261102170000 +0000" stop="20261102173000 +0000">
+    <title>Cops Reloaded</title>
+    <desc>A hit-and-run suspect complains to officers; a woman accuses her boyfriend.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261102173000 +0000" stop="20261102180000 +0000">
+    <title>Cops Reloaded</title>
+    <desc>Police question two men idling in their cars; a car thief is arrested for an elaborate ploy.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>BodyCam by Law&amp;Crime</title>
+    <desc>Man offers to go toe-to-toe with five officers who confront him.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>BodyCam by Law&amp;Crime</title>
+    <desc>A woman kills two people and laughs about it.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>BodyCam by Law&amp;Crime</title>
+    <desc>A local teacher calls 911 about an alleged accident her husband had.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: LAW &amp; CRIME NETWORK RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>BodyCam by Law&amp;Crime</title>
+    <desc>Police confront three men accused of joyriding on a city-owned UTV.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: LOVE NATURE RAW">
     <display-name>US: LOVE NATURE RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8203332438695981117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: LOVE NATURE RAW" start="20261101162700 +0000" stop="20261101165700 +0000">
-    <title>Battle of the Alphas</title>
-    <desc>The latitudes south of the Sahara offer vastly different battlegrounds for a wide range of warriors.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LOVE NATURE RAW" start="20261101165700 +0000" stop="20261101175500 +0000">
-    <title>Ocean Parks</title>
-    <desc>Marine protected areas in Florida.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LOVE NATURE RAW" start="20261101175500 +0000" stop="20261101185200 +0000">
-    <title>Secret Life of the Wombat</title>
-    <desc>Near the Snowy Mountains of southeast Australia is Wombat Wood.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LOVE NATURE RAW" start="20261101185200 +0000" stop="20261101195000 +0000">
-    <title>Secret Life of the Wombat</title>
-    <desc>The breeding season brings out wombats' energy, aggression and playfulness.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LOVE NATURE RAW" start="20261101195000 +0000" stop="20261101201900 +0000">
-    <title>Strange Creatures</title>
-    <desc>Animals have evolved different chemical weapons, from paralyzing venoms to necrotic toxins.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: LOVE NATURE RAW" start="20261101201900 +0000" stop="20261101204800 +0000">
-    <title>Strange Creatures</title>
-    <desc>Animals that have evolved unusual abilities.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: LOVE NATURE RAW" start="20261101204800 +0000" stop="20261101211700 +0000">
     <title>Strange Creatures</title>
     <desc>Bizarre creatures of the sea.</desc>
@@ -1764,20 +1708,30 @@
     <desc>Einstein's defiance catches up with him when rivals make a play that seals his fate.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: LOVE NATURE RAW" start="20261102174900 +0000" stop="20261102184900 +0000">
+    <title>Pride Rules</title>
+    <desc>The pride tries to hunt down adequate food as drought conditions worsen.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: LOVE NATURE RAW" start="20261102184900 +0000" stop="20261102195000 +0000">
+    <title>Pride Rules</title>
+    <desc>Einstein fails to make new connections; Keeza and her cub are kidnapped by rival male Mad-Eye Moody.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: LOVE NATURE RAW" start="20261102195000 +0000" stop="20261102204800 +0000">
+    <title>The Living Beach</title>
+    <desc>Hawaiian beaches are created and altered by active volcanoes.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: LOVE NATURE RAW" start="20261102204800 +0000" stop="20261102214700 +0000">
+    <title>The Living Beach</title>
+    <desc>The mythology of Ixchel, a protective mother figure.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: MOVIESPHERE BY LIONSGATE RAW">
     <display-name>US: MOVIESPHERE BY LIONSGATE RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: MOVIESPHERE BY LIONSGATE RAW" start="20261101164000 +0000" stop="20261101184900 +0000">
-    <title>The Spy Who Dumped Me</title>
-    <desc>Best friends hatch a plan to save the world while on the run from deadly assassins in Europe.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: MOVIESPHERE BY LIONSGATE RAW" start="20261101184900 +0000" stop="20261101203400 +0000">
-    <title>Miller's Girl</title>
-    <desc>A creative writing assignment yields complex results between a teacher and his talented student.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: MOVIESPHERE BY LIONSGATE RAW" start="20261101203400 +0000" stop="20261101221200 +0000">
     <title>Alice, Darling</title>
     <desc>Pushed to the breaking point, a woman faces the wrath of her psychologically abusive boyfriend.</desc>
@@ -1833,55 +1787,20 @@
     <desc>Sparks fly between a presidential candidate and the speechwriter she used to baby-sit as a child.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: MOVIESPHERE BY LIONSGATE RAW" start="20261102173900 +0000" stop="20261102195000 +0000">
+    <title>A Simple Favor</title>
+    <desc>When her best friend mysteriously disappears, Stephanie, a vlogger, launches her own investigation.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: MOVIESPHERE BY LIONSGATE RAW" start="20261102195000 +0000" stop="20261102213900 +0000">
+    <title>American Ultra</title>
+    <desc>A small-town stoner, who's in fact a government agent, must use his latent, deadly skills to prevent the CIA from taking him out.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC BOSTON NEWS RAW">
     <display-name>US: NBC BOSTON NEWS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8179193201514862117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>The HUB Today</title>
-    <desc>Everything happening in Boston and around New England.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>The HUB Today</title>
-    <desc>Everything happening in Boston and around New England.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>The HUB Today</title>
-    <desc>Everything happening in Boston and around New England.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101180000 +0000" stop="20261101183000 +0000">
-    <title>Hollywood Reeltime</title>
-    <desc>The ultimate destination for celebrity news, pop culture and Hollywood buzz as it happens.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>The HUB Today</title>
-    <desc>Everything happening in Boston and around New England.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101190000 +0000" stop="20261101193000 +0000">
-    <title>The HUB Today</title>
-    <desc>Everything happening in Boston and around New England.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>Hollywood Reeltime</title>
-    <desc>The ultimate destination for celebrity news, pop culture and Hollywood buzz as it happens.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>The HUB Today</title>
-    <desc>Everything happening in Boston and around New England.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC BOSTON NEWS RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>The HUB Today</title>
-    <desc>Everything happening in Boston and around New England.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC BOSTON NEWS RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>The HUB Today</title>
     <desc>Everything happening in Boston and around New England.</desc>
@@ -2062,48 +1981,35 @@
     <desc>The latest local news, weather and investigative stories impacting New England.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC BOSTON NEWS RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>LIVE: Boston News Now at 12pm</title>
+    <desc>The latest local news, weather &amp; investigative stories impacting New England.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC BOSTON NEWS RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>LIVE: Boston News Now at 1pm</title>
+    <desc>The latest local news, weather &amp; investigative stories impacting New England.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC BOSTON NEWS RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>LIVE: Boston News Now at 2pm</title>
+    <desc>The latest local news, weather &amp; investigative stories impacting New England.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC BOSTON NEWS RAW" start="20261102200000 +0000" stop="20261102205800 +0000">
+    <title>LIVE: Boston News Now at 3pm</title>
+    <desc>The latest local news, weather &amp; investigative stories impacting New England.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC BOSTON NEWS RAW" start="20261102205800 +0000" stop="20261102215800 +0000">
+    <title>Live: NBC 10 Boston News @ 4PM</title>
+    <desc>The latest local news, weather and investigative stories impacting New England.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC CHICAGO NEWS RAW">
     <display-name>US: NBC CHICAGO NEWS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_5822253818521550117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101163000 +0000" stop="20261101173000 +0000">
-    <title>10:30am: NBC 5 News Today</title>
-    <desc>Local news, weather and investigative stories impacting the Chicago area.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101173000 +0000" stop="20261101183000 +0000">
-    <title>11:30AM: NBC 5 News Today</title>
-    <desc>The latest local news, weather &amp; investigative stories impacting the Chicago area.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>The Takeaway With Alex</title>
-    <desc>The latest local news, breaking updates, live events &amp; weather in the Dallas-Fort Worth area</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101190000 +0000" stop="20261101191500 +0000">
-    <title>Happy to Report</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101191500 +0000" stop="20261101193000 +0000">
-    <title>Flying a DIY Plane</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>Open House Chicago</title>
-    <desc>Exploring Chicago's architectural heritage, modern design and notable interiors.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>Meet the Millers: Chicago's First Family of Weather</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>Open House Chicago</title>
-    <desc>Exploring Chicago's architectural heritage, modern design and notable interiors.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC CHICAGO NEWS RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>The Takeaway With Alex</title>
     <desc>The latest local news, breaking updates, live events &amp; weather in the Dallas-Fort Worth area</desc>
@@ -2285,40 +2191,40 @@
     <desc>The latest local news, weather AND investigative stories impacting the Chicago area.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Live: NBC 5 News @ 11AM</title>
+    <desc>Local news, weather and investigative stories impacting the Chicago area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title>Live: Chicago Today</title>
+    <desc>Explore the hottest things to do around Chicago and its suburbs.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title>Hollywood Reeltime</title>
+    <desc>The ultimate destination for celebrity news, pop culture and Hollywood buzz as it happens.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>1PM: NBC 5 News Midday</title>
+    <desc>Today's top local stories, interviews and Chicago's most accurate forecast.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>2PM: NBC 5 News Midday</title>
+    <desc>Today's top local stories, interviews and Chicago's most accurate forecast.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC CHICAGO NEWS RAW" start="20261102210000 +0000" stop="20261102215900 +0000">
+    <title>3PM: NBC 5 News Midday</title>
+    <desc>Today's top local stories, interviews and Chicago's most accurate forecast.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC LOS ANGELES NEWS RAW">
     <display-name>US: NBC LOS ANGELES NEWS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_5161969744448100117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261101155800 +0000" stop="20261101170000 +0000">
-    <title>8AM: Today in LA</title>
-    <desc>The latest local news, weather and investigative stories impacting Southern California.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>9AM: Today in LA</title>
-    <desc>The latest local news, weather &amp; investigative stories impacting Southern California.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>10AM: Today in LA</title>
-    <desc>The latest local news, weather &amp; investigative stories impacting Southern California.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>11AM: Today in LA</title>
-    <desc>The latest local news, weather &amp; investigative stories impacting Southern California.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>Hollywood Reeltime</title>
-    <desc>The ultimate destination for celebrity news, pop culture and Hollywood buzz as it happens.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>Hollywood Reeltime</title>
-    <desc>The ultimate destination for celebrity news, pop culture and Hollywood buzz as it happens.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>Hollywood Reeltime</title>
     <desc>The ultimate destination for celebrity news, pop culture and Hollywood buzz as it happens.</desc>
@@ -2504,60 +2410,65 @@
     <desc>The latest local news, breaking updates, live events &amp; weather in the LA area</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102170000 +0000" stop="20261102172200 +0000">
+    <title>Today in L.A.</title>
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102172200 +0000" stop="20261102173000 +0000">
+    <title>First Alert Forecast</title>
+    <desc>The latest local news, breaking updates, live events &amp; weather in the LA area</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102173000 +0000" stop="20261102175200 +0000">
+    <title>Today in L.A.</title>
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102175200 +0000" stop="20261102180000 +0000">
+    <title>First Alert Forecast</title>
+    <desc>The latest local news, breaking updates, live events &amp; weather in the LA area</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102180000 +0000" stop="20261102182200 +0000">
+    <title>Today in L.A.</title>
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102182200 +0000" stop="20261102183000 +0000">
+    <title>First Alert Forecast</title>
+    <desc>The latest local news, breaking updates, live events &amp; weather in the LA area</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102183000 +0000" stop="20261102185200 +0000">
+    <title>Today in L.A.</title>
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102185200 +0000" stop="20261102190000 +0000">
+    <title>First Alert Forecast</title>
+    <desc>The latest local news, breaking updates, live events &amp; weather in the LA area</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>Live: NBC4 News @ 11AM</title>
+    <desc>The latest local news, weather and investigative stories impacting Southern California.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>12PM: NBC4 News Midday</title>
+    <desc>Breaking news, local stories, weather reports and events taking place in Southern California.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LOS ANGELES NEWS RAW" start="20261102210000 +0000" stop="20261102213000 +0000">
+    <title>Hollywood Reeltime</title>
+    <desc>The ultimate destination for celebrity news, pop culture and Hollywood buzz as it happens.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC LX HOME RAW">
     <display-name>US: NBC LX HOME RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_6486289038186294117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC LX HOME RAW" start="20261101163900 +0000" stop="20261101170500 +0000">
-    <title>Open House NYC</title>
-    <desc>A charming condo in the heart of Tribeca; a Connecticut home with an ice rink.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101170500 +0000" stop="20261101173000 +0000">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101173000 +0000" stop="20261101175600 +0000">
-    <title>Open House NYC</title>
-    <desc>Family-friendly living; Noa Santos revamps a live-work loft in SoHo.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101175600 +0000" stop="20261101182100 +0000">
-    <title>Open House NYC</title>
-    <desc>A glass penthouse in Tribeca; paradise in Westchester; European style manor.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101182100 +0000" stop="20261101184700 +0000">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101184700 +0000" stop="20261101191200 +0000">
-    <title>Open House NYC</title>
-    <desc>Living large with a view; luxury penthouses across the city.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101191200 +0000" stop="20261101193800 +0000">
-    <title>Open House NYC</title>
-    <desc>Emma Jane Pilkington designs; a 19th-century barn in New Jersey.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101193800 +0000" stop="20261101200300 +0000">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101200300 +0000" stop="20261101202900 +0000">
-    <title>Open House NYC</title>
-    <desc>Upstate glamour versus city chic; sprawling farm estate.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC LX HOME RAW" start="20261101202900 +0000" stop="20261101205400 +0000">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC LX HOME RAW" start="20261101205400 +0000" stop="20261101212000 +0000">
     <title>Open House NYC</title>
     <desc>A unique home featuring two waterfalls and a fireman's pole.</desc>
@@ -2798,56 +2709,55 @@
     <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102171800 +0000" stop="20261102174400 +0000">
+    <title>Open House NYC</title>
+    <desc>A $250 million lavish home; Lucy Harris' colorful downtown pad.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102174400 +0000" stop="20261102180900 +0000">
+    <title>Open House NYC</title>
+    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102180900 +0000" stop="20261102183500 +0000">
+    <title>Open House NYC</title>
+    <desc>An elegant 18th-century Georgian mansion; the presidential retreat of an American icon.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102183500 +0000" stop="20261102190000 +0000">
+    <title>Open House NYC</title>
+    <desc>From Park Slope and Brooklyn Heights to showcase homes in Brooklyn.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102190000 +0000" stop="20261102192600 +0000">
+    <title>Open House NYC</title>
+    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102192600 +0000" stop="20261102195100 +0000">
+    <title>Open House NYC</title>
+    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102195100 +0000" stop="20261102201700 +0000">
+    <title>Open House NYC</title>
+    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102201700 +0000" stop="20261102204200 +0000">
+    <title>Open House NYC</title>
+    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC LX HOME RAW" start="20261102204200 +0000" stop="20261102210800 +0000">
+    <title>Open House NYC</title>
+    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple; in addition to a look at the homes on the market, provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC NEW YORK NEWS RAW">
     <display-name>US: NBC NEW YORK NEWS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8813069481487154117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101162800 +0000" stop="20261101172800 +0000">
-    <title>11:30AM: Today in New York</title>
-    <desc>The latest local news, weather &amp; investigative stories impacting the Tri-state area.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101172800 +0000" stop="20261101180000 +0000">
-    <title>Performance Review</title>
-    <desc>A weekly conversation about show business and finding success in the arts in New York City.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101180000 +0000" stop="20261101181500 +0000">
-    <title>Good Seats</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101181500 +0000" stop="20261101183000 +0000">
-    <title>Good Seats</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>New York Live</title>
-    <desc>Celebrity interviews and recipes, beauty and fashion and current events.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101190000 +0000" stop="20261101193000 +0000">
-    <title>New York Live</title>
-    <desc>Celebrity interviews and recipes, beauty and fashion and current events.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>New York Live</title>
-    <desc>Celebrity interviews and recipes, beauty and fashion and current events.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101200000 +0000" stop="20261101201500 +0000">
-    <title>Good Seats</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101201500 +0000" stop="20261101203000 +0000">
-    <title>Good Seats</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>New York Live Tonight</title>
-    <desc>New York Live is the guide to the Tristate area: from hot spots to viral desserts.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC NEW YORK NEWS RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>New York Live Tonight</title>
     <desc>New York Live is the guide to the Tristate area: from hot spots to viral desserts.</desc>
@@ -3048,30 +2958,50 @@
     <desc>The latest local news, breaking updates, live events &amp; weather in the D.C. area</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261102170000 +0000" stop="20261102173000 +0000">
+    <title>12PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261102173000 +0000" stop="20261102180000 +0000">
+    <title>12:30PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title>1PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title>New York Live</title>
+    <desc>Celebrity interviews and recipes, beauty and fashion and current events.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261102190000 +0000" stop="20261102193000 +0000">
+    <title>2PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261102193000 +0000" stop="20261102200000 +0000">
+    <title>2:30PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261102200000 +0000" stop="20261102205800 +0000">
+    <title>Live: News Zone</title>
+    <desc>News, as it happens; raw coverage and inside access from the tri-state and beyond.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEW YORK NEWS RAW" start="20261102205800 +0000" stop="20261102215800 +0000">
+    <title>Live: News 4 New York @ 4pm</title>
+    <desc>The latest local news, weather &amp; investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC NEWS NOW RAW">
     <display-name>US: NBC NEWS NOW RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_5676009166762707117_lightnow/LOGO_NON_PADDED/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC NEWS NOW RAW" start="20261101160000 +0000" stop="20261101170000 +0000">
-    <title>Sunday Today With Willie Geist</title>
-    <desc>Sharp conversational coverage of the week's news, along with in-depth profiles of the people and personalities shaping American culture, assessing the highs and lows of the week and looking ahead to the next one.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEWS NOW RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>Meet the Press</title>
-    <desc>Steve Kornacki; JB Pritzker; Tim Scott; Jamie Raskin; Val Demings; Nikki Haley; Ryan Nobles.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEWS NOW RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>Meet the Press</title>
-    <desc>Steve Kornacki; JB Pritzker; Tim Scott; Jamie Raskin; Val Demings; Nikki Haley; Ryan Nobles.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC NEWS NOW RAW" start="20261101190000 +0000" stop="20261101210000 +0000">
-    <title>Dateline NBC</title>
-    <desc>When a complicated Texas love triangle ends in murder, a pink gun leads to an arrest.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC NEWS NOW RAW" start="20261101210000 +0000" stop="20261101230000 +0000">
     <title>Dateline NBC</title>
     <desc>Surprising details from Amber Frey, the other woman in Scott's life, and rare police video of Scott.</desc>
@@ -3157,35 +3087,35 @@
     <desc>Christine gets you current - from breaking news, to the economy, to politics, to global events; real news, real context, right now.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC NEWS NOW RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>NBC News Daily With Morgan Radford and Vicky Nguyen</title>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEWS NOW RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>NBC News Daily With Morgan Radford and Vicky Nguyen</title>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEWS NOW RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEWS NOW RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC NEWS NOW RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>Meet the Press NOW</title>
+    <desc>Looking at the key stories of the day with political newsmakers.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC PHILADELPHIA NEWS RAW">
     <display-name>US: NBC PHILADELPHIA NEWS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8192407122289210117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>NBC10 AT ISSUE</title>
-    <desc>Discussions of local &amp; national politics and community affairs.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>Live: NBC10 News @ 12PM</title>
-    <desc>The latest local news, weather &amp; investigative stories impacting the Philadelphia area.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>Live: NBC10 News @ 1PM</title>
-    <desc>The latest local news, weather &amp; investigative stories impacting the Philadelphia area.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>2PM: NBC10 News Midday</title>
-    <desc>Local news, weather and sports.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261101200000 +0000" stop="20261101210000 +0000">
-    <title>Live: NBC10 News @ 3pm</title>
-    <desc>The local news, weather and investigative stories impacting the Philadelphia area.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261101210000 +0000" stop="20261101220000 +0000">
     <title>Live: NBC10 News @ 4PM</title>
     <desc>The latest local news, weather and investigative stories impacting the Philadelphia area.</desc>
@@ -3286,55 +3216,35 @@
     <desc>The latest local news, weather and investigative stories impacting the Philadelphia area.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>12PM: NBC10 News Midday</title>
+    <desc>Local news, weather and sports.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>Live: NBC10 News @ 1PM</title>
+    <desc>The latest local news, weather &amp; investigative stories impacting the Philadelphia area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>Live: NBC10 News @ 2PM</title>
+    <desc>The latest local news, weather &amp; investigative stories impacting the Philadelphia area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261102200000 +0000" stop="20261102205900 +0000">
+    <title>Live: NBC10 News @ 3pm</title>
+    <desc>The local news, weather and investigative stories impacting the Philadelphia area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC PHILADELPHIA NEWS RAW" start="20261102205900 +0000" stop="20261102215800 +0000">
+    <title>Live: NBC10 News @ 4PM</title>
+    <desc>The latest local news, weather and investigative stories impacting the Philadelphia area.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC SOUTH FLORIDA NEWS RAW">
     <display-name>US: NBC SOUTH FLORIDA NEWS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_6979268080554005117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>11:30AM: NBC6 South Florida Today</title>
-    <desc>The latest news, weather and traffic from the NBC6 News team.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>NBC6 Impact With Jackie Nespral</title>
-    <desc>News anchor Jackie Nespral delves into political and community issues that impact South Florida.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>Voices With Jawan Strader</title>
-    <desc>News anchor Jawan Strader highlights people and groups in South Florida's multicultural communities.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101180000 +0000" stop="20261101183000 +0000">
-    <title>Decision 2026: On the Ballot</title>
-    <desc>Examining the major races and amendments on your ballot that will shape the future of Florida.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101183000 +0000" stop="20261101193000 +0000">
-    <title>Decision 2026: Property Tax Amendment 3</title>
-    <desc>NBC6 hosts a panel discussion over the property tax amendment that's on the November ballot.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101193000 +0000" stop="20261101194500 +0000">
-    <title>Decision 2026: Florida Poll</title>
-    <desc>Analysis of the NBC6/Telemundo 51 poll of Florida voters ahead of the November mid-term elections.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101194500 +0000" stop="20261101200000 +0000">
-    <title>Beyond the Forecast</title>
-    <desc>Meteorologists analyze the latest news on weather and climate change in South Florida.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>NBC6 Impact With Jackie Nespral</title>
-    <desc>News anchor Jackie Nespral delves into political and community issues that impact South Florida.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>Voices With Jawan Strader</title>
-    <desc>News anchor Jawan Strader highlights people and groups in South Florida's multicultural communities.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>Decision 2026: On the Ballot</title>
     <desc>Examining the major races and amendments on your ballot that will shape the future of Florida.</desc>
@@ -3560,35 +3470,35 @@
     <desc>News, weather and traffic.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Live: NBC6 South Florida Midday</title>
+    <desc>The latest news and weather from the South Florida area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>1PM: NBC6 South Florida Midday</title>
+    <desc>The latest news and weather from the South Florida area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>2PM: NBC6 South Florida Midday</title>
+    <desc>The latest news and weather from the South Florida area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>Live: South Florida Live</title>
+    <desc>Celebrating South Florida lifestyle and culture with Kristin Sanchez.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC SOUTH FLORIDA NEWS RAW" start="20261102210000 +0000" stop="20261102215900 +0000">
+    <title>Live: NBC6 South Florida News @ 4PM</title>
+    <desc>The latest news and weather from the South Florida area.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NBC SPORTS NOW RAW">
     <display-name>US: NBC SPORTS NOW RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_lightnow/LOGO_NON_PADDED/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NBC SPORTS NOW RAW" start="20261101150000 +0000" stop="20261101170000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SPORTS NOW RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>Chris Simms Unbuttoned</title>
-    <desc>Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SPORTS NOW RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>Premier League Highlights Factory</title>
-    <desc>Watch soccer's stars, clubs and goals come to life in "Premier League Highlights Factory."</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SPORTS NOW RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>Premier League Highlights Factory</title>
-    <desc>Watch soccer's stars, clubs and goals come to life in "Premier League Highlights Factory."</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NBC SPORTS NOW RAW" start="20261101200000 +0000" stop="20261101210000 +0000">
-    <title>Premier League Highlights Factory</title>
-    <desc>NBC Sports NOW offers free daily sports talk, live events and highlights. Watch Dan Patrick, Mike Florio, Dan Le Batard, Matthew Berry and Chris Simms cover the biggest stories on and off the field.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NBC SPORTS NOW RAW" start="20261101210000 +0000" stop="20261101220000 +0000">
     <title>Premier League Highlights Factory</title>
     <desc>Watch soccer's stars, clubs and goals come to life in "Premier League Highlights Factory."</desc>
@@ -3714,54 +3624,25 @@
     <desc>Dan Patrick's daily national sports talk program, with interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NBC SPORTS NOW RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Not So Fast With Pabst &amp; Perloff</title>
+    <desc>Paul Pabst and Andrew Perloff challenge each other on the sports topics of the day; expect analysis, warm takes, special guests and appearances by Dan Patrick.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC SPORTS NOW RAW" start="20261102180000 +0000" stop="20261102210000 +0000">
+    <title>The Dan Le Batard Show</title>
+    <desc>From the Elser Hotel in Downtown Miami, Dan Le Batard and the gang from the Shipping Container share their unique perspectives on all things sports, pop culture and more.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NBC SPORTS NOW RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>Chris Simms Unbuttoned</title>
+    <desc>Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NEWS 12 NEW YORK RAW">
     <display-name>US: NEWS 12 NEW YORK RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_6295836058783513117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>11:30AM Morning Headlines</title>
-    <desc>Breaking news, headlines, and local stories from New York, New Jersey, and Connecticut.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>Daytime Headlines</title>
-    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>Inside the Nets</title>
-    <desc>Player interviews as the Nets complete Week 1 of the NBA season.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101180000 +0000" stop="20261101183000 +0000">
-    <title>Revealed</title>
-    <desc>An exclusive, all-access look at the YES network that redefined regional sports broadcasting.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>Revealed</title>
-    <desc>Step inside Yankee Stadium and uncover the legends, lore and legacy behind the pinstripes.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101190000 +0000" stop="20261101193000 +0000">
-    <title>Revealed</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>Revealed</title>
-    <desc>From royalty to rock stars, go inside the legend of the Waldorf Astoria hotel.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>Revealed</title>
-    <desc>Step inside Grand Central Terminal to uncover the stories and secrets hidden in plain sight.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>Revealed</title>
-    <desc>Taking viewers on an immersive journey through icons of the New York tri-state area: follow as we uncover the fascinating history behind the places and things that make New York, New Jersey and Connecticut what they're known for.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NEWS 12 NEW YORK RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>Crime Files</title>
     <desc>Robert Durst's death leaves a haunting legacy of unsolved questions.</desc>
@@ -3955,14 +3836,55 @@
     <desc>Full House star Jodie Sweetin shares her favorite holiday memories plus preventing eye mites.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102170000 +0000" stop="20261102173000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102173000 +0000" stop="20261102180000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102190000 +0000" stop="20261102193000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102193000 +0000" stop="20261102200000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102200000 +0000" stop="20261102203000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102203000 +0000" stop="20261102210000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NEWS 12 NEW YORK RAW" start="20261102210000 +0000" stop="20261102213000 +0000">
+    <title>Daytime Headlines</title>
+    <desc>Breaking news, headlines and local stories from New York, New Jersey and Connecticut.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NFL CHANNEL RAW">
     <display-name>US: NFL CHANNEL RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_6342896835112781117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NFL CHANNEL RAW" start="20261101162900 +0000" stop="20261101180000 +0000">
-    <title>NFL GameDay Preview</title>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NFL CHANNEL RAW" start="20261101180000 +0000" stop="20261102020000 +0000">
     <title>NFL GameCenter Live</title>
     <desc>Get NFL score updates, highlights, news and more from Week 8 of the 2026 NFL season.</desc>
@@ -3988,35 +3910,30 @@
     <desc>Weekly highlight series featuring big moments and plays from every NFL game from week seven of the 2026 NFL season.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NFL CHANNEL RAW" start="20261102170600 +0000" stop="20261102180000 +0000">
+    <title>Weekly Game Recaps</title>
+    <desc>Weekly highlight series featuring big moments and plays from every NFL game from week seven of the 2026 NFL season.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NFL CHANNEL RAW" start="20261102180000 +0000" stop="20261102202900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <desc>Jets lose Aaron Rodgers to an Achilles tendon injury, then rally to stun Bills 22-16 in overtime.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NFL CHANNEL RAW" start="20261102202900 +0000" stop="20261102204700 +0000">
+    <title>NFL Throwback</title>
+    <desc>See which Madden teams were the biggest cheat codes.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NFL CHANNEL RAW" start="20261102204700 +0000" stop="20261102215900 +0000">
+    <title>Weekly Game Recaps</title>
+    <desc>Weekly highlight series featuring big moments and plays from every NFL game from week seven of the 2026 NFL season.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NOSEY RAW">
     <display-name>US: NOSEY RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_5341575141173480117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NOSEY RAW" start="20261101164500 +0000" stop="20261101172800 +0000">
-    <title>Jerry Springer</title>
-    <desc>A woman wants revenge on sisters who had a threesome with her man.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOSEY RAW" start="20261101172800 +0000" stop="20261101181400 +0000">
-    <title>Jerry Springer</title>
-    <desc>A woman must tell her husband about her new job; a couple met in jail.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOSEY RAW" start="20261101181400 +0000" stop="20261101190000 +0000">
-    <title>Jerry Springer</title>
-    <desc>Woman chooses between lovers; woman sleeps with nephew; male prostitute; woman's new lover.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOSEY RAW" start="20261101190000 +0000" stop="20261101194800 +0000">
-    <title>Jerry Springer</title>
-    <desc>Guests want to live out their unforgettable first-time fantasies.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOSEY RAW" start="20261101194800 +0000" stop="20261101203300 +0000">
-    <title>Jerry Springer</title>
-    <desc>Kierra and Darrius; Brittany wants a monogamous relationship; Samantha hopes Drew agrees to move in.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NOSEY RAW" start="20261101203300 +0000" stop="20261101211900 +0000">
     <title>Jerry Springer</title>
     <desc>A love poem for a security guard; a woman discovers her man is cheating.</desc>
@@ -4150,50 +4067,40 @@
     <desc>Viewers meet past guests, including a woman who fell in love with an unusual guest.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NOSEY RAW" start="20261102171200 +0000" stop="20261102175600 +0000">
+    <title>Jerry Springer</title>
+    <desc>A woman wants revenge on sisters who had a threesome with her man.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOSEY RAW" start="20261102175600 +0000" stop="20261102184400 +0000">
+    <title>Jerry Springer</title>
+    <desc>Frank has a revelation that will turn his girlfriend's world upside down.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOSEY RAW" start="20261102184400 +0000" stop="20261102192500 +0000">
+    <title>Jerry Springer</title>
+    <desc>Anthony wants to be a father to his child, but he wants nothing to do with the mother.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOSEY RAW" start="20261102192500 +0000" stop="20261102201000 +0000">
+    <title>Jerry Springer</title>
+    <desc>Competitive twins fight over prom date; man admits to cheating and wants to make things right.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOSEY RAW" start="20261102201000 +0000" stop="20261102205500 +0000">
+    <title>Jerry Springer</title>
+    <desc>A woman tries to win her boyfriend back from their roommate; sisters go head-to-head.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOSEY RAW" start="20261102205500 +0000" stop="20261102214300 +0000">
+    <title>Jerry Springer</title>
+    <desc>Cheaters' clash.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: NOTICIAS TELEMUNDO AHORA RAW">
     <display-name>US: NOTICIAS TELEMUNDO AHORA RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7536064712744877117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>AHORA Planeta Tierra</title>
-    <desc>Se abordan la emergencia climática, los problemas que afectan al planeta y cómo solucionarlos.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>AHORA Planeta Tierra</title>
-    <desc>Se abordan la emergencia climática, los problemas que afectan al planeta y cómo solucionarlos.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>AHORA Planeta Tierra</title>
-    <desc>Se abordan la emergencia climática, los problemas que afectan al planeta y cómo solucionarlos.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101180000 +0000" stop="20261101183000 +0000">
-    <title>AHORA Planeta Tierra</title>
-    <desc>Se abordan la emergencia climática, los problemas que afectan al planeta y cómo solucionarlos.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>AHORA Planeta Tierra</title>
-    <desc>Se abordan la emergencia climática, los problemas que afectan al planeta y cómo solucionarlos.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>Decisión 2026: Foro comunitario</title>
-    <desc>Espacio de diálogo que reúne a líderes de organizaciones cívicas y comunitarias hispanas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>AHORA: Últimas noticias</title>
-    <desc>Una actualización de las noticias más importantes del día.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>AHORA: Últimas noticias</title>
-    <desc>Una actualización de las noticias más importantes del día.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>AHORA: Últimas noticias</title>
     <desc>Una actualización de las noticias más importantes del día.</desc>
@@ -4367,30 +4274,50 @@
     <desc>Un resumen de noticias para comenzar el día sobre los temas que afectan a los latinos en EE. UU.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Las noticias de la mañana AHORA</title>
+    <desc>Un resumen de noticias para comenzar el día sobre los temas que afectan a los latinos en EE. UU.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title>Mediodía AHORA</title>
+    <desc>Una extensión del noticiero de Mediodía con las últimas noticias.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title>Mediodía AHORA</title>
+    <desc>Una extensión del noticiero de Mediodía con las últimas noticias.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261102190000 +0000" stop="20261102193000 +0000">
+    <title>Mediodía AHORA</title>
+    <desc>Una extensión del noticiero de Mediodía con las últimas noticias.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261102193000 +0000" stop="20261102200000 +0000">
+    <title>Mediodía AHORA</title>
+    <desc>Una extensión del noticiero de Mediodía con las últimas noticias.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261102200000 +0000" stop="20261102203000 +0000">
+    <title>Noticias en positivo AHORA</title>
+    <desc>Un resumen de las buenas noticias del día.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261102203000 +0000" stop="20261102210000 +0000">
+    <title>Noticias en positivo AHORA</title>
+    <desc>Un resumen de las buenas noticias del día.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: NOTICIAS TELEMUNDO AHORA RAW" start="20261102210000 +0000" stop="20261102213000 +0000">
+    <title>Noticias en positivo AHORA</title>
+    <desc>Un resumen de las buenas noticias del día.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: PREMIER LEAGUE TV RAW">
     <display-name>US: PREMIER LEAGUE TV RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8917905534294797117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261101153000 +0000" stop="20261101190000 +0000">
-    <title>Liverpool v Arsenal</title>
-    <desc>From Anfield in Liverpool, Merseyside, England.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>Premier League: The Weekend Wrap</title>
-    <desc>A comprehensive roundup of the PL weekend with highlights of every game plus analysis and reaction.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>The Big Interview</title>
-    <desc>The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>Premier League Stories</title>
-    <desc>We head to Chile to catch up with former Newcastle United captain Fabricio Coloccini.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: PREMIER LEAGUE TV RAW" start="20261101210000 +0000" stop="20261101220000 +0000">
     <title>Premier League Moments</title>
     <desc>A chance to look back over the years in the Premier League with a collection of some of the most memorable moments from the top flight.</desc>
@@ -4556,25 +4483,35 @@
     <desc>A comprehensive roundup of the PL weekend with highlights of every game plus analysis and reaction.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Premier League: Generation xG</title>
+    <desc>A deep dive into the tactical trends and statistical insights of modern football.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title>Premier League: Match Highlights</title>
+    <desc>Catch all the action through highlights of each Premier League fixture, condensed into individual 26-minute segments.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title>Premier League: Match Highlights</title>
+    <desc>Catch all the action through highlights of each Premier League fixture, condensed into individual 26-minute segments.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261102190000 +0000" stop="20261102193000 +0000">
+    <title>Premier League Stories</title>
+    <desc>We head to Chile to catch up with former Newcastle United captain Fabricio Coloccini.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: PREMIER LEAGUE TV RAW" start="20261102193000 +0000" stop="20261102223000 +0000">
+    <title>Newcastle United v Everton</title>
+    <desc>From St. James' Park in Newcastle upon Tyne, Tyne and Wear, England.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: REELZ RAW">
     <display-name>US: REELZ RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8782376954583476117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: REELZ RAW" start="20261101150000 +0000" stop="20261101170000 +0000">
-    <title>Bigfoot: I Saw It!</title>
-    <desc>Hunters Roger Patterson and Bob Gimlin set out to search for the fabled beast.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: REELZ RAW" start="20261101170000 +0000" stop="20261101190000 +0000">
-    <title>Croc Terror: Man-Eating Monster</title>
-    <desc>A prehistoric, monster crocodile is on the loose and anyone could be its next victim.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: REELZ RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>On Patrol: First Shift</title>
-    <desc>A discussion of what's in store for the upcoming episode of "On Patrol: Live" and a sneak peek of the departments and officers that the cameras will be following that night; the hosts also look back at the most memorable moments from past episodes.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: REELZ RAW" start="20261101200000 +0000" stop="20261101230000 +0000">
     <title>On Patrol: Live</title>
     <desc>Hosts Dan Abrams, Deputy Sheriff Curtis Wilson, and Captain Tom Rizzo along with a rotating panel of experts provide analysis as law enforcement officers on patrol across the country are followed in real time.</desc>
@@ -4690,51 +4627,45 @@
     <desc>A circus sword-swallower suffers from a persistent case of hiccups; a mother and daughter collapse.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: REELZ RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Notorious</title>
+    <desc>Griselda Blanco, known as the godmother of cocaine, builds a narcotics empire in the city of Miami.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: REELZ RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>Geraldo Rivera's Murder in the Family</title>
+    <desc>Designer Donatella Versace's world in 1997 spins out of control when her brother Gianni is murdered.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: REELZ RAW" start="20261102190000 +0000" stop="20261102193000 +0000">
+    <title>Cops Reloaded</title>
+    <desc>Deputies confront a man suspected of shooting a gun; an officer follows a stolen vehicle.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: REELZ RAW" start="20261102193000 +0000" stop="20261102200000 +0000">
+    <title>Cops Reloaded</title>
+    <desc>A suspect tries to evade police; an officer questions a man suspected of burglarizing vehicles.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: REELZ RAW" start="20261102200000 +0000" stop="20261102203000 +0000">
+    <title>Cops Reloaded</title>
+    <desc>A suspect runs into a tree while being questioned; undercover officers bust up a drug transaction.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: REELZ RAW" start="20261102203000 +0000" stop="20261102210000 +0000">
+    <title>Cops Reloaded</title>
+    <desc>A high speed chase ends with a suspect in custody; police arrest a man for drug possession.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: REELZ RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>Most Shocking</title>
+    <desc>A gunman raids a gold shop in broad daylight.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: SCRIPPS NEWS RAW">
     <display-name>US: SCRIPPS NEWS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8103413594256582117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>World's Funniest Videos: Top 10 Countdown</title>
-    <desc>The family that always gets stuck in the mud; a family can't stop screaming.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>Top 10 Countdown</title>
-    <desc>Clips from daddy daughter day, epic sibling rivalries and big brother follies with baby brother.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>Top 10 Countdown</title>
-    <desc>Behind the wheel hijinks; the world's funniest drivers take us on a harrowing ride.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101180000 +0000" stop="20261101183000 +0000">
-    <title>Caught On... Clips</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>Caught On... Clips</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101190000 +0000" stop="20261101193000 +0000">
-    <title>Caught On... Clips</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>Caught On... Clips</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>Top 10 Countdown</title>
-    <desc>There's no place like home, that is until unwanted house guests arrive.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SCRIPPS NEWS RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>World's Funniest Videos: Top 10 Countdown</title>
-    <desc>Food versus fatigue, sounds that indicate trouble and the dangers of caffeine.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: SCRIPPS NEWS RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>World's Funniest Videos: Top 10 Countdown</title>
     <desc>Canine crime files, getting back in the saddle and puppy humiliation in cone of shame.</desc>
@@ -4877,55 +4808,35 @@
     <desc>Live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: SCRIPPS NEWS RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SCRIPPS NEWS RAW" start="20261102180000 +0000" stop="20261102190000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SCRIPPS NEWS RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SCRIPPS NEWS RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SCRIPPS NEWS RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: SKY NEWS RAW">
     <display-name>US: SKY NEWS RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_4718718353051323117_lightnow/LOGO_NON_PADDED/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: SKY NEWS RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>Sunday Morning Highlights</title>
-    <desc>Another chance to see key interviews with high-profile guests from 'Sunday Morning'.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SKY NEWS RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>The News Hour with Jonathan Samuels</title>
-    <desc>A comprehensive round-up of the biggest news stories of the day, including analysis and insight.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SKY NEWS RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>The News Hour with Jonathan Samuels</title>
-    <desc>A comprehensive round-up of the biggest news stories of the day, including analysis and insight.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SKY NEWS RAW" start="20261101180000 +0000" stop="20261101183000 +0000">
-    <title>The News Hour with Jonathan Samuels</title>
-    <desc>A comprehensive round-up of the biggest news stories of the day, including analysis and insight.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SKY NEWS RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>The News Hour with Jonathan Samuels</title>
-    <desc>A comprehensive round-up of the biggest news stories of the day, including analysis and insight.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SKY NEWS RAW" start="20261101190000 +0000" stop="20261101193000 +0000">
-    <title>Sky News</title>
-    <desc>A look at the latest local and international news, financial updates, and top sporting headlines.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SKY NEWS RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>Sunday Morning Highlights</title>
-    <desc>Another chance to see key interviews with high-profile guests from 'Sunday Morning'.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SKY NEWS RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>Sky News</title>
-    <desc>A look at the latest local and international news, financial updates, and top sporting headlines.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SKY NEWS RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>UK Tonight Highlights</title>
-    <desc>A compilation of interviews from 'UK Tonight' that highlight various social issues.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: SKY NEWS RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>Sky News</title>
     <desc>A look at the latest local and international news, financial updates, and top sporting headlines.</desc>
@@ -5096,30 +5007,45 @@
     <desc>Jayne Secker with a round-up of all the main lunchtime news stories, with insight and analysis.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: SKY NEWS RAW" start="20261102170000 +0000" stop="20261102173000 +0000">
+    <title>The News Hour with Mark Austin</title>
+    <desc>Mark Austin takes a comprehensive look at the big stories of the day with reports and analysis.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SKY NEWS RAW" start="20261102173000 +0000" stop="20261102180000 +0000">
+    <title>The News Hour with Mark Austin</title>
+    <desc>Mark Austin takes a comprehensive look at the big stories of the day with reports and analysis.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SKY NEWS RAW" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title>The News Hour with Mark Austin</title>
+    <desc>Mark Austin takes a comprehensive look at the big stories of the day with reports and analysis.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SKY NEWS RAW" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title>The News Hour with Mark Austin</title>
+    <desc>Mark Austin takes a comprehensive look at the big stories of the day with reports and analysis.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SKY NEWS RAW" start="20261102190000 +0000" stop="20261102200000 +0000">
+    <title>The Cathy Newman Show</title>
+    <desc>Weds 14/05: Cathy Newman discusses the leadership crisis in the government as Andy Burnham announces he is seeking re-election to parliament.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SKY NEWS RAW" start="20261102200000 +0000" stop="20261102210000 +0000">
+    <title>The UK Tonight with Sarah-Jane Mee</title>
+    <desc>Sarah-Jane Mee digs deep into the stories the UK is talking about, plus interviews and debates.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SKY NEWS RAW" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title>The World with Yalda Hakim</title>
+    <desc>Eyewitness reports, interviews, and analysis on the big stories around the world with Yalda Hakim.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: SNL VAULT RAW">
     <display-name>US: SNL VAULT RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_4675071094681910117_lightnow/LOGO_NON_PADDED/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: SNL VAULT RAW" start="20261101165000 +0000" stop="20261101174600 +0000">
-    <title>Saturday Night Live</title>
-    <desc>Sketches include "Mr. Robinson's Neighborhood," "Hobbit Office," "Lincoln Ad" and more.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SNL VAULT RAW" start="20261101174600 +0000" stop="20261101184600 +0000">
-    <title>Saturday Night Live</title>
-    <desc>Sketches include "Black Jeopardy with Drake," "Spartan Cheerleaders" and more.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SNL VAULT RAW" start="20261101184600 +0000" stop="20261101194900 +0000">
-    <title>Saturday Night Live</title>
-    <desc>Sketches include "Coneheads Family Feud," "Vincent Price," "Garth and Kat" and more.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: SNL VAULT RAW" start="20261101194900 +0000" stop="20261101204700 +0000">
-    <title>Saturday Night Live</title>
-    <desc>Featuring sketches, like Chad, Chantix, Swiffer Sleepers and more.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: SNL VAULT RAW" start="20261101204700 +0000" stop="20261101213800 +0000">
     <title>Saturday Night Live</title>
     <desc>Watch SNL's funniest sketches, like The Chris Farley Show, Dissing Your Dog and more.</desc>
@@ -5235,24 +5161,30 @@
     <desc>Sketches include "The Jay Pharoah Show," "Kimye Talk Show," "Zoom Church" and more.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: SNL VAULT RAW" start="20261102172100 +0000" stop="20261102182300 +0000">
+    <title>Saturday Night Live</title>
+    <desc>Sketches include "Vlog With Taraji P. Henson," "Weekend Update: Tyler Perry" and more.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SNL VAULT RAW" start="20261102182300 +0000" stop="20261102192300 +0000">
+    <title>Saturday Night Live</title>
+    <desc>SNL's funniest sketches, including "Principal Frey: Holiday Jam," "Fresh Prince," "Mr. H" and more.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SNL VAULT RAW" start="20261102192300 +0000" stop="20261102202400 +0000">
+    <title>Saturday Night Live</title>
+    <desc>SNL's funniest sketches, including "How's He Doing With Chris Rock," "Russell &amp; Tate" and more.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: SNL VAULT RAW" start="20261102202400 +0000" stop="20261102212300 +0000">
+    <title>Saturday Night Live</title>
+    <desc>Sketches include "Come Back, Barack," "The Katt Williams Show," "Dance Vlog" and more.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: TEAM USA TV RAW">
     <display-name>US: TEAM USA TV RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7787958841156836117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: TEAM USA TV RAW" start="20261101164200 +0000" stop="20261101184000 +0000">
-    <title>Return to Rio</title>
-    <desc>Rio 2016. Women's Swimming.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TEAM USA TV RAW" start="20261101184000 +0000" stop="20261101194300 +0000">
-    <title>Team USA Mental Health Conversation with Hoda Kotb</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TEAM USA TV RAW" start="20261101194300 +0000" stop="20261101202600 +0000">
-    <title>Hearts of Champions: Team USA Memorable Moments</title>
-    <desc>Counting down some of the most memorable performances in Team USA history.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: TEAM USA TV RAW" start="20261101202600 +0000" stop="20261101210600 +0000">
     <title>Hearts of Champions: Team USA Memorable Moments</title>
     <desc>Counting down some of the most memorable performances in Team USA history.</desc>
@@ -5346,35 +5278,20 @@
     <desc>A look back at the signature moments of the 24th Olympic Winter Games in Beijing, including moments of close competition and captivating storytelling; relive the best of the Beijing Games.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: TEAM USA TV RAW" start="20261102180200 +0000" stop="20261102195600 +0000">
+    <title>Return to Beijing</title>
+    <desc>Over the last decade, Team USA has emerged as a stronger force in Nordic sports.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TEAM USA TV RAW" start="20261102195600 +0000" stop="20261102211200 +0000">
+    <title>Return to Vancouver</title>
+    <desc>Highlights of the snowboarding and freestyle skiing competitions. From Vancouver.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: TELEMUNDO AL DIA RAW">
     <display-name>US: TELEMUNDO AL DIA RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7602858192025253117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261101160000 +0000" stop="20261101170000 +0000">
-    <title>Juego de villanos</title>
-    <desc>Dieciocho villanos compiten por el título de "Emperador de los Villanos" y 200 mil dólares.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261101170000 +0000" stop="20261101180000 +0000">
-    <title>Juego de villanos</title>
-    <desc>Dieciocho villanos compiten por el título de "Emperador de los Villanos" y 200 mil dólares.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261101180000 +0000" stop="20261101190000 +0000">
-    <title>Juego de villanos</title>
-    <desc>Dieciocho villanos compiten por el título de "Emperador de los Villanos" y 200 mil dólares.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261101190000 +0000" stop="20261101200000 +0000">
-    <title>Juego de villanos</title>
-    <desc>Dieciocho villanos compiten por el título de "Emperador de los Villanos" y 200 mil dólares.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261101200000 +0000" stop="20261101210000 +0000">
-    <title>Juego de villanos</title>
-    <desc>Dieciocho villanos compiten por el título de "Emperador de los Villanos" y 200 mil dólares.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: TELEMUNDO AL DIA RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>Al rojo vivo</title>
     <desc>La revista noticiosa que define la agenda de la televisión en español.</desc>
@@ -5520,30 +5437,50 @@
     <desc>Dieciocho villanos compiten por el título de "Emperador de los Villanos" y 200 mil dólares.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title>Premios Billboard de la Música Latina</title>
+    <desc>Los Premios Billboard de la Música Latina otorgan reconocimientos a Rosalía y Rubén Blades.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title>Pica y se extiende</title>
+    <desc>Lo picante y controversial del entretenimiento y todos los realities de Telemundo.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title>En casa con Telemundo</title>
+    <desc>Una mezcla de noticias del entretenimiento, exclusivas, presentaciones en vivo y más.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261102190000 +0000" stop="20261102193000 +0000">
+    <title>Pica y se extiende</title>
+    <desc>Lo picante y controversial del entretenimiento y todos los realities de Telemundo.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261102193000 +0000" stop="20261102200000 +0000">
+    <title>En casa con Telemundo</title>
+    <desc>Una mezcla de noticias del entretenimiento, exclusivas, presentaciones en vivo y más.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261102200000 +0000" stop="20261102203000 +0000">
+    <title>La mesa caliente</title>
+    <desc>Un equipo de mujeres audaces y empoderadas debate sobre los temas más controversiales.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261102203000 +0000" stop="20261102210000 +0000">
+    <title>La mesa caliente</title>
+    <desc>Un equipo de mujeres audaces y empoderadas debate sobre los temas más controversiales.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO AL DIA RAW" start="20261102210000 +0000" stop="20261102213000 +0000">
+    <title>Al rojo vivo</title>
+    <desc>La revista noticiosa que define la agenda de la televisión en español.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: TELEMUNDO DEPORTES AHORA RAW">
     <display-name>US: TELEMUNDO DEPORTES AHORA RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_5923023667697108117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: TELEMUNDO DEPORTES AHORA RAW" start="20261101150000 +0000" stop="20261101170000 +0000">
-    <title>Cuartos de final: Corea del Norte Sub-17 vs. Estados Unidos Sub-17</title>
-    <desc>Cuartos de final del Mundial Femenino Sub-17. Corea del Norte se enfrenta a Estados Unidos.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TELEMUNDO DEPORTES AHORA RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>Bundesliga retro</title>
-    <desc>Revive partidos inolvidables del fútbol alemán, con grandes goles, figuras, rivalidades y momentos que quedaron para siempre en la historia.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TELEMUNDO DEPORTES AHORA RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>Bundesliga retro</title>
-    <desc>Revive el duelo de la temporada 2015-16 entre Borussia Mönchengladbach y Bayern Munich.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TELEMUNDO DEPORTES AHORA RAW" start="20261101180000 +0000" stop="20261101200000 +0000">
-    <title>Cuartos de final: China Sub-17 vs. Brasil Sub-17</title>
-    <desc>China y Brasil se enfrentan en los cuartos de final de la Copa Mundial Femenina Sub-17 en Marruecos.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: TELEMUNDO DEPORTES AHORA RAW" start="20261101200000 +0000" stop="20261101220000 +0000">
     <title>Cuartos de final: Ghana Sub-17 vs. Japón Sub-17</title>
     <desc>Cuartos de final del Mundial Femenino Sub-17. Las japonesas llegan con marcha impecable.</desc>
@@ -5599,55 +5536,25 @@
     <desc>Acción de la fecha 10. AC Milan enfrenta a Inter de Milán. Desde San Siro.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: TELEMUNDO DEPORTES AHORA RAW" start="20261102170000 +0000" stop="20261102190000 +0000">
+    <title>Como vs. Venezia</title>
+    <desc>Serie A de Italia temporada 2026-27, fecha 10. Desde el estadio Giuseppe Sinigaglia, en Como.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO DEPORTES AHORA RAW" start="20261102190000 +0000" stop="20261102210000 +0000">
+    <title>Eintracht Frankfurt vs. Hamburgo SV</title>
+    <desc>Acción de la jornada 8 de la Bundesliga 2026-27. Frankfurt busca ganar tras perder.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TELEMUNDO DEPORTES AHORA RAW" start="20261102210000 +0000" stop="20261102230000 +0000">
+    <title>Juventus vs. Napoli</title>
+    <desc>Acción de la fecha 10. Juventus enfrenta a Napoli. Desde el Allianz Stadium.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: THAT 70S SHOW RAW">
     <display-name>US: THAT 70S SHOW RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7060063940475196117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101164900 +0000" stop="20261101171500 +0000">
-    <title>That '70s Show</title>
-    <desc>Eric turns into a turkey when his math teacher dines with the Formans on Thanksgiving Day.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101171500 +0000" stop="20261101174100 +0000">
-    <title>That '70s Show</title>
-    <desc>While fighting over Jackie, Kelso accidentally shoots Hyde with an air gun.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101174100 +0000" stop="20261101180700 +0000">
-    <title>That '70s Show</title>
-    <desc>Donna scores higher on the Scholastic Aptitude Test than Eric.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101180700 +0000" stop="20261101183400 +0000">
-    <title>That '70s Show</title>
-    <desc>Fez decides to introduce his new girlfriend to the gang; Kitty throws a dinner party.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101183400 +0000" stop="20261101190000 +0000">
-    <title>That '70s Show</title>
-    <desc>Red, Kitty, Eric and Donna help Jackie clean out her parents' mountain cabin.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101190000 +0000" stop="20261101192600 +0000">
-    <title>That '70s Show</title>
-    <desc>Annette (Jessica Simpson) visits Kelso, and Jackie must conceal her jealousy from Hyde.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101192600 +0000" stop="20261101195300 +0000">
-    <title>That '70s Show</title>
-    <desc>Hyde breaks up with Jackie when he realizes she still has feelings for Kelso.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101195300 +0000" stop="20261101201900 +0000">
-    <title>That '70s Show</title>
-    <desc>Eric and Donna practice being married when her father leaves town for a weekend.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: THAT 70S SHOW RAW" start="20261101201900 +0000" stop="20261101204500 +0000">
-    <title>That '70s Show</title>
-    <desc>Red gives Eric the silent treatment and then fires him from his job at Pricemart.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: THAT 70S SHOW RAW" start="20261101204500 +0000" stop="20261101211100 +0000">
     <title>That '70s Show</title>
     <desc>Father-and-son team (Seth Green, Fred Willard) tries to best Red and Eric in a competition.</desc>
@@ -5883,55 +5790,55 @@
     <desc>Kelso calls the White House to warn them about a Russian death ray.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102171900 +0000" stop="20261102174600 +0000">
+    <title>That '70s Show</title>
+    <desc>Donna gets tickets to the Packers game, and Eric convinces her to give one to Red.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102174600 +0000" stop="20261102181200 +0000">
+    <title>That '70s Show</title>
+    <desc>Donna is fired from the radio station for refusing to wear a bikini.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102181200 +0000" stop="20261102183800 +0000">
+    <title>That '70s Show</title>
+    <desc>Eric inspires Jackie after she freezes on camera during her own public access show.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102183800 +0000" stop="20261102190400 +0000">
+    <title>That '70s Show</title>
+    <desc>Eric decides to go on the road to discover life outside Point Place.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102190400 +0000" stop="20261102193100 +0000">
+    <title>That '70s Show</title>
+    <desc>Kelso fears he is an unfit father when the baby won't stop crying.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102193100 +0000" stop="20261102195700 +0000">
+    <title>That '70s Show</title>
+    <desc>Kelso's choice for his daughter's godparents causes tension in the group.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102195700 +0000" stop="20261102202300 +0000">
+    <title>That '70s Show</title>
+    <desc>Eric decides to try being a chiropractor but comes to his senses when he nearly cripples Donna.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102202300 +0000" stop="20261102205000 +0000">
+    <title>That '70s Show</title>
+    <desc>In order to graduate Eric has to take a P.E. class from Casey Kelso.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: THAT 70S SHOW RAW" start="20261102205000 +0000" stop="20261102211600 +0000">
+    <title>That '70s Show</title>
+    <desc>Eric learns that his parents have spent all of his college savings.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: TODAY ALL DAY RAW">
     <display-name>US: TODAY ALL DAY RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_7989219137174638117_lightnow/LOGO_NON_PADDED/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101163000 +0000" stop="20261101170000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101170000 +0000" stop="20261101173000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101173000 +0000" stop="20261101180000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101180000 +0000" stop="20261101183000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101190000 +0000" stop="20261101193000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101200000 +0000" stop="20261101203000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TODAY ALL DAY RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>Today Table</title>
-    <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: TODAY ALL DAY RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>Today Table</title>
     <desc>Friends of "Today" cook up fans' most requested, most asked about and most loved recipe ideas.</desc>
@@ -6132,30 +6039,35 @@
     <desc>Early detection for Alzheimer's; actor Tracy Morgan; holiday hosting with Chassie Post.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: TODAY ALL DAY RAW" start="20261102173000 +0000" stop="20261102181500 +0000">
+    <title>Today 3rd Hour</title>
+    <desc>Dr. Akshay Syal; Tituss Burgess; Mark Ellwood; Courtney Cason; Stephanie Mansour; Joy Bauer.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TODAY ALL DAY RAW" start="20261102181500 +0000" stop="20261102190000 +0000">
+    <title>Today With Jenna &amp; Sheinelle</title>
+    <desc>The Scoop with Nessa Diab; actress Paula Pell; HBCU fashion designer Tahir Murray; Bobbie's Bests.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TODAY ALL DAY RAW" start="20261102190000 +0000" stop="20261102194500 +0000">
+    <title>Today</title>
+    <desc>Early detection for Alzheimer's; actor Tracy Morgan; holiday hosting with Chassie Post.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TODAY ALL DAY RAW" start="20261102194500 +0000" stop="20261102203000 +0000">
+    <title>Today</title>
+    <desc>Early detection for Alzheimer's; actor Tracy Morgan; holiday hosting with Chassie Post.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TODAY ALL DAY RAW" start="20261102203000 +0000" stop="20261102211500 +0000">
+    <title>Today 3rd Hour</title>
+    <desc>Dr. Akshay Syal; Tituss Burgess; Mark Ellwood; Courtney Cason; Stephanie Mansour; Joy Bauer.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: TOP GEAR RAW">
     <display-name>US: TOP GEAR RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_6902256466153034117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: TOP GEAR RAW" start="20261101160400 +0000" stop="20261101170400 +0000">
-    <title>Top Gear UK</title>
-    <desc>The changing face of Bentley; new Subaru Legacy.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TOP GEAR RAW" start="20261101170400 +0000" stop="20261101180200 +0000">
-    <title>Top Gear</title>
-    <desc>Celebrating the heritage and power of the Italian sports carmaker Lamborghini.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TOP GEAR RAW" start="20261101180200 +0000" stop="20261101190900 +0000">
-    <title>Top Gear</title>
-    <desc>Citroën's C2; Renault's Mégane and Peugeot's 307, two new French coupe convertibles.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: TOP GEAR RAW" start="20261101190900 +0000" stop="20261101200900 +0000">
-    <title>Top Gear UK</title>
-    <desc>Porsche Cayenne; Mercedes SLR; Rory Bremner is the Star in a Reasonably Priced Car.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: TOP GEAR RAW" start="20261101200900 +0000" stop="20261101210700 +0000">
     <title>Top Gear UK</title>
     <desc>Mercedes SL; modern-day Audi TT V6 with Ford's classic Capri V6; Nissan Micra; Johnny Vegas.</desc>
@@ -6266,56 +6178,30 @@
     <desc>Maserati MC12; Richard, Jeremy and James each test a two-door coupe that is not a Porsche.</desc>
     <category>Peacock</category>
   </programme>
+  <programme channel="US: TOP GEAR RAW" start="20261102171500 +0000" stop="20261102182100 +0000">
+    <title>Top Gear UK</title>
+    <desc>Aston Martin DB9 Volante; Maserati Bora; Christopher Eccleston.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TOP GEAR RAW" start="20261102182100 +0000" stop="20261102192700 +0000">
+    <title>Top Gear</title>
+    <desc>The guys' moms help review small cars; Richard drives a BMW 3 Series; Jeremy tries a Cadillac CTS-V.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TOP GEAR RAW" start="20261102192700 +0000" stop="20261102203300 +0000">
+    <title>Top Gear UK</title>
+    <desc>Jeremy drives a Porsche around a village while avoiding shots from snipers.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: TOP GEAR RAW" start="20261102203300 +0000" stop="20261102213900 +0000">
+    <title>Top Gear</title>
+    <desc>Jeremy drives from London to Oslo in a Mercedes McLaren SLR.</desc>
+    <category>Peacock</category>
+  </programme>
   <channel id="US: WNBC RAW">
     <display-name>US: WNBC RAW</display-name>
     <icon src="https://imageservice.disco.peacocktv.com/logo/skychb_8813069481487154117_lightnow/AGG_SOURCE/360/270?proposition=NBCUOTT&amp;territory=US" />
   </channel>
-  <programme channel="US: WNBC RAW" start="20261101162800 +0000" stop="20261101172800 +0000">
-    <title>11:30AM: Today in New York</title>
-    <desc>The latest local news, weather &amp; investigative stories impacting the Tri-state area.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101172800 +0000" stop="20261101180000 +0000">
-    <title>Performance Review</title>
-    <desc>A weekly conversation about show business and finding success in the arts in New York City.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101180000 +0000" stop="20261101181500 +0000">
-    <title>Good Seats</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101181500 +0000" stop="20261101183000 +0000">
-    <title>Good Seats</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101183000 +0000" stop="20261101190000 +0000">
-    <title>New York Live</title>
-    <desc>Celebrity interviews and recipes, beauty and fashion and current events.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101190000 +0000" stop="20261101193000 +0000">
-    <title>New York Live</title>
-    <desc>Celebrity interviews and recipes, beauty and fashion and current events.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101193000 +0000" stop="20261101200000 +0000">
-    <title>New York Live</title>
-    <desc>Celebrity interviews and recipes, beauty and fashion and current events.</desc>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101200000 +0000" stop="20261101201500 +0000">
-    <title>Good Seats</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101201500 +0000" stop="20261101203000 +0000">
-    <title>Good Seats</title>
-    <category>Peacock</category>
-  </programme>
-  <programme channel="US: WNBC RAW" start="20261101203000 +0000" stop="20261101210000 +0000">
-    <title>New York Live Tonight</title>
-    <desc>New York Live is the guide to the Tristate area: from hot spots to viral desserts.</desc>
-    <category>Peacock</category>
-  </programme>
   <programme channel="US: WNBC RAW" start="20261101210000 +0000" stop="20261101213000 +0000">
     <title>New York Live Tonight</title>
     <desc>New York Live is the guide to the Tristate area: from hot spots to viral desserts.</desc>
@@ -6514,6 +6400,46 @@
   <programme channel="US: WNBC RAW" start="20261102163000 +0000" stop="20261102170000 +0000">
     <title>Live: NYL</title>
     <desc>The latest local news, breaking updates, live events &amp; weather in the D.C. area</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: WNBC RAW" start="20261102170000 +0000" stop="20261102173000 +0000">
+    <title>12PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: WNBC RAW" start="20261102173000 +0000" stop="20261102180000 +0000">
+    <title>12:30PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: WNBC RAW" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title>1PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: WNBC RAW" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title>New York Live</title>
+    <desc>Celebrity interviews and recipes, beauty and fashion and current events.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: WNBC RAW" start="20261102190000 +0000" stop="20261102193000 +0000">
+    <title>2PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: WNBC RAW" start="20261102193000 +0000" stop="20261102200000 +0000">
+    <title>2:30PM: News 4 NY Midday</title>
+    <desc>The latest local news, weather and investigative stories impacting the Tri-state area.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: WNBC RAW" start="20261102200000 +0000" stop="20261102205800 +0000">
+    <title>Live: News Zone</title>
+    <desc>News, as it happens; raw coverage and inside access from the tri-state and beyond.</desc>
+    <category>Peacock</category>
+  </programme>
+  <programme channel="US: WNBC RAW" start="20261102205800 +0000" stop="20261102215800 +0000">
+    <title>Live: News 4 New York @ 4pm</title>
+    <desc>The latest local news, weather &amp; investigative stories impacting the Tri-state area.</desc>
     <category>Peacock</category>
   </programme>
 </tv>
