@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 595,
-  "candidate_names_loaded": 12137,
-  "provisional_matches": 334,
-  "new_matches_with_programmes": 325,
-  "remaining_unmatched": 267,
-  "combined_match_rate_percent": 67.4,
-  "programmes_added": 22431,
+  "starting_unmatched": 596,
+  "candidate_names_loaded": 12179,
+  "provisional_matches": 336,
+  "new_matches_with_programmes": 327,
+  "remaining_unmatched": 266,
+  "combined_match_rate_percent": 67.5,
+  "programmes_added": 22952,
   "source_programmes": {
-    "samsung": 623,
-    "pluto": 1003,
-    "roku": 5983,
-    "plex_mjh": 3374,
+    "samsung": 654,
+    "pluto": 1134,
+    "roku": 5725,
+    "plex_mjh": 3991,
     "canada": 4286,
     "fanduel": 208,
     "rakuten": 2854,
@@ -77,26 +77,26 @@
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 866,
-      "bytes": 943942
+      "candidate_names": 912,
+      "bytes": 988995
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1176,
-      "bytes": 506978
+      "bytes": 507539
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1440,
-      "bytes": 3370686
+      "candidate_names": 1436,
+      "bytes": 3359234
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1384,
-      "bytes": 2114112
+      "bytes": 2683766
     }
   ],
   "matches": [
@@ -604,8 +604,8 @@
       "name": "PRIME: CRIME SCENES RAW",
       "base_name": "CRIME SCENES",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "e9b7110443305dea8b639880920644f9",
+      "source": "pluto",
+      "epg_id": "6ad79f775db95e3dac2ae44c",
       "source_display": "Crime Scenes",
       "score": 100.0,
       "method": "pass3-exact"
@@ -771,6 +771,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: EXTREME EXPEDITIONS RAW",
+      "base_name": "EXTREME EXPEDITIONS",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "6ad7a07e13fe741bc260bfe0",
+      "source_display": "Extreme Expeditions",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: EXTREME MAKEOVER: HOME EDITION RAW",
       "base_name": "EXTREME MAKEOVER: HOME EDITION",
       "stream_id": "",
@@ -884,8 +894,8 @@
       "name": "PRIME: FILMRISE FREE MOVIES RAW",
       "base_name": "FILMRISE FREE MOVIES",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "d6f71998860459eca1bed73db5988330",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-66ea085d9502c5778b828d41",
       "source_display": "FilmRise Free Movies",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1001,6 +1011,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: HALLMARK MOVIES & MORE RAW",
+      "base_name": "HALLMARK MOVIES & MORE",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD270001633",
+      "source_display": "Hallmark Movies & More",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: HBO BOXING RAW",
       "base_name": "HBO BOXING",
       "stream_id": "",
@@ -1024,8 +1044,8 @@
       "name": "PRIME: HI-YAH! RAW",
       "base_name": "HI-YAH!",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "2deae9b4e83550f88f6776c45df08315",
+      "source": "plex_mjh",
+      "epg_id": "6a1610bebdf296985fd95603-5f64c4ef35f612003f6ffe30",
       "source_display": "Hi-YAH!",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1344,8 +1364,8 @@
       "name": "PRIME: MOVIE FAVORITES BY LIFETIME RAW",
       "base_name": "MOVIE FAVORITES BY LIFETIME",
       "stream_id": "",
-      "source": "pluto",
-      "epg_id": "63335b193583440007c859fb",
+      "source": "samsung",
+      "epg_id": "USBB5200019FO",
       "source_display": "Lifetime Movie Favorites",
       "score": 95.0,
       "method": "pass3-fuzzy"
@@ -1494,8 +1514,8 @@
       "name": "PRIME: NIKITA RAW",
       "base_name": "NIKITA",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-69d93b7e8061ebfbca58c324",
+      "source": "pluto",
+      "epg_id": "6ad7a4b9e341f17f18906572",
       "source_display": "Nikita",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1504,8 +1524,8 @@
       "name": "PRIME: NIP / TUCK RAW",
       "base_name": "NIP / TUCK",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66b13485a9ef8c41ec0841ac",
+      "source": "pluto",
+      "epg_id": "6ad7a57b1190f084ae117fe7",
       "source_display": "Nip/Tuck",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1644,8 +1664,8 @@
       "name": "PRIME: PLACES & SPACES RAW",
       "base_name": "PLACES & SPACES",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "65506c44c9535b3787d255f333e7b1f7",
+      "source": "pluto",
+      "epg_id": "66e0b265dd2d690008c5496b",
       "source_display": "Places & Spaces",
       "score": 100.0,
       "method": "pass3-exact"
@@ -1904,8 +1924,8 @@
       "name": "PRIME: THE FBI RAW",
       "base_name": "THE FBI",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-69d94123a5c870fb1e88f879",
+      "source": "pluto",
+      "epg_id": "6ad7a739256eee83f133749e",
       "source_display": "The FBI",
       "score": 100.0,
       "method": "pass3-exact"
