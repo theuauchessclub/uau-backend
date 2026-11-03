@@ -5,14 +5,14 @@
   "new_matches_with_programmes": 495,
   "remaining_unmatched": 300,
   "combined_match_rate_percent": 64.2,
-  "programmes_added": 30849,
+  "programmes_added": 31429,
   "source_programmes": {
-    "pluto": 2308,
-    "samsung": 1108,
-    "roku": 9386,
-    "plex_mjh": 4327,
+    "pluto": 2327,
+    "samsung": 1078,
+    "roku": 9397,
+    "plex_mjh": 4933,
     "canada": 4312,
-    "uk": 1807,
+    "uk": 1781,
     "whaletv": 620,
     "fanduel": 184,
     "rakuten": 3298,
@@ -55,8 +55,8 @@
     {
       "source": "uk",
       "ok": true,
-      "candidate_names": 972,
-      "bytes": 2876788
+      "candidate_names": 974,
+      "bytes": 2789634
     },
     {
       "source": "canada",
@@ -74,31 +74,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 356,
-      "bytes": 434517
+      "bytes": 406355
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 912,
-      "bytes": 992151
+      "bytes": 1006085
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1176,
-      "bytes": 519067
+      "bytes": 503554
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1438,
-      "bytes": 3303177
+      "candidate_names": 1436,
+      "bytes": 3298543
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1384,
-      "bytes": 2205792
+      "bytes": 2468531
     }
   ],
   "matches": [
@@ -677,7 +677,7 @@
       "base_name": "CBS NEWS CHICAGO",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "62cdc75b1a1cbd0007ed45dc",
+      "epg_id": "5eb1aeb2fd4b8a00076c2047",
       "source_display": "CBS News Chicago",
       "score": 100.0,
       "method": "pass3-exact"
@@ -697,7 +697,7 @@
       "base_name": "CBS NEWS DETROIT",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "634f2610d5023700078f7dee",
+      "epg_id": "634f24cf3ce5fa0007c68f39",
       "source_display": "CBS News Detroit",
       "score": 100.0,
       "method": "pass3-exact"
