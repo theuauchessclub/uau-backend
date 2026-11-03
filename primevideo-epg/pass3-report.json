@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 799,
-  "candidate_names_loaded": 12195,
-  "provisional_matches": 505,
-  "new_matches_with_programmes": 493,
-  "remaining_unmatched": 301,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 30703,
+  "candidate_names_loaded": 12193,
+  "provisional_matches": 504,
+  "new_matches_with_programmes": 491,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.0,
+  "programmes_added": 30876,
   "source_programmes": {
-    "pluto": 2247,
-    "samsung": 1103,
-    "roku": 9438,
-    "plex_mjh": 4438,
+    "pluto": 2246,
+    "samsung": 1069,
+    "roku": 9398,
+    "plex_mjh": 4686,
     "canada": 4337,
     "uk": 1781,
     "whaletv": 620,
@@ -79,26 +79,26 @@
     {
       "source": "pluto",
       "ok": true,
-      "candidate_names": 912,
-      "bytes": 992066
+      "candidate_names": 914,
+      "bytes": 1000915
     },
     {
       "source": "samsung",
       "ok": true,
-      "candidate_names": 1176,
-      "bytes": 516835
+      "candidate_names": 1174,
+      "bytes": 505096
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1450,
-      "bytes": 3288706
+      "candidate_names": 1448,
+      "bytes": 3328025
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1384,
-      "bytes": 2332969
+      "bytes": 2242630
     }
   ],
   "matches": [
@@ -2623,16 +2623,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: RED BULL RAW",
-      "base_name": "RED BULL",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "c5e8a74546771de365652cd053f73351",
-      "source_display": "Red Bull TV",
-      "score": 95.0,
-      "method": "pass3-fuzzy"
-    },
-    {
       "name": "PRIME: REELZ FAMOUS AND INFAMOUS RAW",
       "base_name": "REELZ FAMOUS AND INFAMOUS",
       "stream_id": "",
@@ -3619,16 +3609,6 @@
       "source": "plex_mjh",
       "epg_id": "6a1610bebdf296985fd95603-68800c6c4033a6a442ad923b",
       "source_display": "XITE R&B Feels",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: XITE RAP GAME RAW",
-      "base_name": "XITE RAP GAME",
-      "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-68800b694033a6a442ad9239",
-      "source_display": "XITE Rap Game",
       "score": 100.0,
       "method": "pass3-exact"
     },
