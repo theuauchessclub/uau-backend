@@ -1,21 +1,21 @@
 {
   "catalog_channels": 312,
-  "matched_channels": 273,
-  "unmatched_channels": 39,
-  "match_rate_percent": 87.5,
-  "programmes_written": 26671,
+  "matched_channels": 272,
+  "unmatched_channels": 40,
+  "match_rate_percent": 87.2,
+  "programmes_written": 25414,
   "source_status": [
     {
       "source": "us2",
       "ok": true,
-      "channels": 786,
-      "programmes": 82378
+      "channels": 791,
+      "programmes": 82584
     },
     {
       "source": "locals",
       "ok": true,
       "channels": 4471,
-      "programmes": 575376
+      "programmes": 568468
     },
     {
       "source": "usent",
@@ -32,31 +32,32 @@
     {
       "source": "prime",
       "ok": true,
-      "channels": 696,
-      "programmes": 66178
+      "channels": 661,
+      "programmes": 52014
     },
     {
       "source": "pluto",
       "ok": true,
       "channels": 457,
-      "programmes": 9365
+      "programmes": 9375
     },
     {
       "source": "samsung",
-      "ok": false,
-      "error": "<HTTPError 503: 'between bytes timeout'>"
+      "ok": true,
+      "channels": 593,
+      "programmes": 5012
     },
     {
       "source": "plex",
       "ok": true,
       "channels": 692,
-      "programmes": 41771
+      "programmes": 42047
     },
     {
       "source": "roku",
       "ok": true,
-      "channels": 723,
-      "programmes": 66469
+      "channels": 724,
+      "programmes": 66587
     }
   ]
 }
