@@ -263,6 +263,8 @@ PRIME: FX RAW,FX,,us2,FX.HD.us2,98.0,exact
 PRIME: FXX CANADA RAW,FXX CANADA,,pass3_canada,FXX.Canada.ca2,100.0,pass3-exact
 PRIME: GALANES RAW,GALANES,,pass3_samsung,USBD2700002DU,100.0,pass3-exact
 PRIME: GAME SHOW CENTRAL RAW,GAME SHOW CENTRAL,,amazon_direct,amazon::Game Show Central,100.0,amazon-exact
+PRIME: GAMEPLAY MINECRAFT RAW,GAMEPLAY MINECRAFT,,amazon_direct,amazon::Gameplay Minecraft,100.0,amazon-exact
+PRIME: GAMEPLAY ROBLOX RAW,GAMEPLAY ROBLOX,,amazon_direct,amazon::Gameplay Roblox,100.0,amazon-exact
 PRIME: GENERAL HOSPITAL RAW,GENERAL HOSPITAL,,pass3_roku,4b60ec5efcacd29014e53227575a3bdc,100.0,pass3-exact
 PRIME: GET COMEDY RAW,GET COMEDY,,pass3_samsung,US350000563,100.0,pass3-exact
 PRIME: GHOST HUNTERS RAW,GHOST HUNTERS,,pass3_pluto,64e561a4354251000823a0e0,100.0,pass3-exact
