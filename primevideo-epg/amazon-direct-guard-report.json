@@ -1,7 +1,7 @@
 {
-  "amazon_channels_before": 406,
+  "amazon_channels_before": 405,
   "amazon_channels_kept_for_safe_merge": 266,
-  "amazon_channels_removed_from_fuzzy_merge": 140,
+  "amazon_channels_removed_from_fuzzy_merge": 139,
   "removed": [
     "$100,000 Pyramid",
     "40 y 20",
@@ -55,9 +55,9 @@
     "FV The Wicked Tuna Channel US",
     "FloRacing 24/7",
     "Fox 13",
+    "Fox 28",
     "Fox 4",
     "Fox 47",
-    "Fox 50",
     "Fox Justice",
     "Fox Providence",
     "Fox West Texas",
@@ -96,7 +96,6 @@
     "MeatEater Podcast Network",
     "Mecum TV",
     "Million Dollar Dream Home",
-    "Monumental Sports Network",
     "MotoGP",
     "Movie Hub",
     "Movie Hub: Action",
@@ -109,7 +108,6 @@
     "National Geographic Travel",
     "Nosey",
     "PBS KIDS",
-    "PBS North Carolina (PBS WUNC)",
     "Penn and Teller: Fool Us",
     "Premier League TV",
     "REELZ by Reelz+",
@@ -141,6 +139,7 @@
     "ViX Música",
     "Wheel of Fortune",
     "Willow Sports",
+    "Wyoming PBS (PBS KCWC)",
     "beIN SPORTS",
     "beIN SPORTS en Español"
   ]
