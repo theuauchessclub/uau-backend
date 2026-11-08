@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 599,
-  "candidate_names_loaded": 12221,
+  "starting_unmatched": 603,
+  "candidate_names_loaded": 12219,
   "provisional_matches": 340,
   "new_matches_with_programmes": 331,
-  "remaining_unmatched": 265,
-  "combined_match_rate_percent": 67.6,
-  "programmes_added": 22215,
+  "remaining_unmatched": 269,
+  "combined_match_rate_percent": 67.2,
+  "programmes_added": 23519,
   "source_programmes": {
-    "samsung": 633,
-    "pluto": 1140,
-    "roku": 6012,
-    "plex_mjh": 2978,
+    "samsung": 639,
+    "pluto": 1181,
+    "roku": 6047,
+    "plex_mjh": 4200,
     "canada": 4258,
     "fanduel": 206,
     "rakuten": 2688,
@@ -78,25 +78,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 914,
-      "bytes": 990346
+      "bytes": 1003251
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1186,
-      "bytes": 510239
+      "bytes": 505880
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1452,
-      "bytes": 3389503
+      "candidate_names": 1450,
+      "bytes": 3384323
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1396,
-      "bytes": 1826394
+      "bytes": 2638063
     }
   ],
   "matches": [
