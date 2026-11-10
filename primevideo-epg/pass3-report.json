@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 799,
-  "candidate_names_loaded": 12215,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 491,
-  "remaining_unmatched": 303,
-  "combined_match_rate_percent": 64.0,
-  "programmes_added": 30583,
+  "candidate_names_loaded": 12237,
+  "provisional_matches": 503,
+  "new_matches_with_programmes": 490,
+  "remaining_unmatched": 304,
+  "combined_match_rate_percent": 63.9,
+  "programmes_added": 31439,
   "source_programmes": {
-    "pluto": 2284,
-    "samsung": 1099,
-    "roku": 9631,
-    "plex_mjh": 4305,
+    "pluto": 2296,
+    "samsung": 1070,
+    "roku": 9746,
+    "plex_mjh": 5063,
     "canada": 4306,
     "uk": 1916,
     "whaletv": 612,
@@ -79,25 +79,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 914,
-      "bytes": 1012234
+      "bytes": 1010846
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1186,
-      "bytes": 524554
+      "bytes": 519472
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1446,
-      "bytes": 3313205
+      "candidate_names": 1468,
+      "bytes": 3361692
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1396,
-      "bytes": 2271961
+      "bytes": 2553323
     }
   ],
   "matches": [
@@ -2385,9 +2385,9 @@
       "name": "PRIME: OUTLAW RAW",
       "base_name": "OUTLAW",
       "stream_id": "",
-      "source": "plex_mjh",
-      "epg_id": "6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4",
-      "source_display": "Outlaw",
+      "source": "roku",
+      "epg_id": "560b0094d453cc82e2a38674aa56c072",
+      "source_display": "OUTLAW",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3188,16 +3188,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
