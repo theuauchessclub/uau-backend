@@ -1,23 +1,23 @@
 {
-  "starting_unmatched": 613,
-  "candidate_names_loaded": 12235,
-  "provisional_matches": 353,
-  "new_matches_with_programmes": 345,
-  "remaining_unmatched": 265,
-  "combined_match_rate_percent": 67.6,
-  "programmes_added": 24425,
+  "starting_unmatched": 611,
+  "candidate_names_loaded": 12237,
+  "provisional_matches": 350,
+  "new_matches_with_programmes": 342,
+  "remaining_unmatched": 266,
+  "combined_match_rate_percent": 67.5,
+  "programmes_added": 24167,
   "source_programmes": {
     "samsung": 680,
-    "pluto": 1210,
-    "roku": 6315,
-    "plex_mjh": 4268,
-    "canada": 4209,
+    "pluto": 1185,
+    "roku": 6122,
+    "plex_mjh": 4190,
+    "canada": 4223,
     "fanduel": 206,
-    "rakuten": 3198,
+    "rakuten": 3225,
     "australia": 2541,
-    "whaletv": 278,
+    "whaletv": 281,
     "distro": 0,
-    "uk": 1520
+    "uk": 1514
   },
   "source_status": [
     {
@@ -30,73 +30,73 @@
       "source": "fanduel",
       "ok": true,
       "candidate_names": 90,
-      "bytes": 115801
+      "bytes": 115289
     },
     {
       "source": "rakuten",
       "ok": true,
       "candidate_names": 3282,
-      "bytes": 10063235
+      "bytes": 10040173
     },
     {
       "source": "tbnplus",
       "ok": true,
       "candidate_names": 34,
-      "bytes": 13851
+      "bytes": 12255
     },
     {
       "source": "whaletv",
       "ok": true,
       "candidate_names": 278,
-      "bytes": 631867
+      "bytes": 632653
     },
     {
       "source": "uk",
       "ok": true,
       "candidate_names": 974,
-      "bytes": 2963822
+      "bytes": 2955531
     },
     {
       "source": "canada",
       "ok": true,
       "candidate_names": 1392,
-      "bytes": 6607597
+      "bytes": 6477103
     },
     {
       "source": "australia",
       "ok": true,
       "candidate_names": 689,
-      "bytes": 3644841
+      "bytes": 3643355
     },
     {
       "source": "mexico",
       "ok": true,
       "candidate_names": 350,
-      "bytes": 428775
+      "bytes": 412728
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 914,
-      "bytes": 1007576
+      "bytes": 1012453
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1184,
-      "bytes": 510455
+      "bytes": 507346
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1464,
-      "bytes": 3451701
+      "candidate_names": 1466,
+      "bytes": 3450020
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1404,
-      "bytes": 2658425
+      "bytes": 2571867
     }
   ],
   "matches": [
@@ -915,8 +915,8 @@
       "base_name": "FIFTH GEAR",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Fifth.Gear.be",
-      "source_display": "UK: Fifth Gear",
+      "epg_id": "NO:.Fifth.Gear.be",
+      "source_display": "NO: Fifth Gear",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -1451,32 +1451,12 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: MRBEAST RAW",
-      "base_name": "MRBEAST",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "US310000101",
-      "source_display": "MrBeast",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: MYSTERY SCIENCE THEATER 3000 RAW",
       "base_name": "MYSTERY SCIENCE THEATER 3000",
       "stream_id": "",
       "source": "samsung",
       "epg_id": "US4500004SQ",
       "source_display": "Mystery Science Theater 3000",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: MYTHICAL 24/7 RAW",
-      "base_name": "MYTHICAL 24/7",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "US2900008FP",
-      "source_display": "Mythical 24/7",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2201,16 +2181,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: UNSPEAKABLE RAW",
-      "base_name": "UNSPEAKABLE",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "11a0e337ea9b53d4b7a9517e219d7f5b",
-      "source_display": "Unspeakable",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: UNXPLAINED ZONE RAW",
       "base_name": "UNXPLAINED ZONE",
       "stream_id": "",
@@ -2285,8 +2255,8 @@
       "base_name": "XENA WARRIOR PRINCESS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NO:.Xena:.Warrior.Princess.be",
-      "source_display": "NO: Xena: Warrior Princess",
+      "epg_id": "FI:.Xena:.Warrior.Princess.be",
+      "source_display": "FI: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -2475,8 +2445,8 @@
       "base_name": "GLOBAL BC",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Global.BC.HD.ca2",
-      "source_display": "Global BC HD",
+      "epg_id": "Global.BC.ca2",
+      "source_display": "Global BC",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2615,8 +2585,8 @@
       "base_name": "SLICE",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "SLICE.ca2",
-      "source_display": "SLICE",
+      "epg_id": "SLICE.HD.ca2",
+      "source_display": "SLICE HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2675,8 +2645,8 @@
       "base_name": "SUPER CHANNEL VAULT",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Super.Channel.Vault.ca2",
-      "source_display": "Super Channel Vault",
+      "epg_id": "Super.Channel.Vault.HD.ca2",
+      "source_display": "Super Channel Vault HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2705,8 +2675,8 @@
       "base_name": "YTV",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "YTV.ca2",
-      "source_display": "YTV",
+      "epg_id": "YTV.HD.ca2",
+      "source_display": "YTV HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2805,8 +2775,8 @@
       "base_name": "BIONIC WOMAN",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DK:.Bionic.Woman.be",
-      "source_display": "DK: Bionic Woman",
+      "epg_id": "NO:.Bionic.Woman.be",
+      "source_display": "NO: Bionic Woman",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -2845,8 +2815,8 @@
       "base_name": "DEADLY WOMEN",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Deadly.Women.be",
-      "source_display": "UK: Deadly Women",
+      "epg_id": "NO:.Deadly.Women.be",
+      "source_display": "NO: Deadly Women",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -2865,8 +2835,8 @@
       "base_name": "EURO CRIME",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DK:.Euro.Crime.Channel.be",
-      "source_display": "DK: Euro Crime Channel",
+      "epg_id": "FI:.Euro.Crime.Channel.be",
+      "source_display": "FI: Euro Crime Channel",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -2895,8 +2865,8 @@
       "base_name": "FIFTH GEAR",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NL:.Fifth.Gear.be",
-      "source_display": "NL: Fifth Gear",
+      "epg_id": "UK:.Fifth.Gear.be",
+      "source_display": "UK: Fifth Gear",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -2955,8 +2925,8 @@
       "base_name": "HOMES UNDER THE HAMMER",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "SE:.Homes.Under.the.Hammer.be",
-      "source_display": "SE: Homes Under the Hammer",
+      "epg_id": "DK:.Homes.Under.the.Hammer.be",
+      "source_display": "DK: Homes Under the Hammer",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3085,8 +3055,8 @@
       "base_name": "RED BULL TV",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DK:.Red.Bull.TV.be",
-      "source_display": "DK: Red Bull TV",
+      "epg_id": "UK:.Red.Bull.TV.be",
+      "source_display": "UK: Red Bull TV",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3145,8 +3115,8 @@
       "base_name": "THE REAL HOUSEWIVES",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DE:.The.Real.Housewives.be",
-      "source_display": "DE: The Real Housewives",
+      "epg_id": "UK:.The.Real.Housewives.be",
+      "source_display": "UK: The Real Housewives",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3285,8 +3255,8 @@
       "base_name": "BIONIC WOMAN",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DE:.Bionic.Woman.be",
-      "source_display": "DE: Bionic Woman",
+      "epg_id": "UK:.Bionic.Woman.be",
+      "source_display": "UK: Bionic Woman",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3445,8 +3415,8 @@
       "base_name": "RED BULL TV",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DE:.Red.Bull.TV.be",
-      "source_display": "DE: Red Bull TV",
+      "epg_id": "NO:.Red.Bull.TV.be",
+      "source_display": "NO: Red Bull TV",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3485,8 +3455,8 @@
       "base_name": "THE REAL HOUSEWIVES",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.The.Real.Housewives.be",
-      "source_display": "UK: The Real Housewives",
+      "epg_id": "DE:.The.Real.Housewives.be",
+      "source_display": "DE: The Real Housewives",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3515,8 +3485,8 @@
       "base_name": "TOP SCI-FI",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FR:.Top.Sci-Fi.be",
-      "source_display": "FR: Top Sci-Fi",
+      "epg_id": "DE:.TOP.SCI-FI.be",
+      "source_display": "DE: TOP SCI-FI",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3535,8 +3505,8 @@
       "base_name": "XENA WARRIOR PRINCESS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DK:.Xena:.Warrior.Princess.be",
-      "source_display": "DK: Xena: Warrior Princess",
+      "epg_id": "NO:.Xena:.Warrior.Princess.be",
+      "source_display": "NO: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
