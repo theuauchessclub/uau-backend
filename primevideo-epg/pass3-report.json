@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 798,
-  "candidate_names_loaded": 12231,
-  "provisional_matches": 506,
-  "new_matches_with_programmes": 494,
-  "remaining_unmatched": 299,
-  "combined_match_rate_percent": 64.3,
-  "programmes_added": 31710,
+  "candidate_names_loaded": 12239,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 493,
+  "remaining_unmatched": 300,
+  "combined_match_rate_percent": 64.2,
+  "programmes_added": 31784,
   "source_programmes": {
-    "pluto": 2255,
-    "samsung": 1088,
-    "roku": 9517,
-    "plex_mjh": 5274,
+    "pluto": 2350,
+    "samsung": 1071,
+    "roku": 9494,
+    "plex_mjh": 5293,
     "canada": 4449,
     "uk": 1838,
     "whaletv": 616,
@@ -79,25 +79,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 916,
-      "bytes": 1025336
+      "bytes": 990898
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1184,
-      "bytes": 515463
+      "bytes": 519025
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1458,
-      "bytes": 3374237
+      "candidate_names": 1466,
+      "bytes": 3369675
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1404,
-      "bytes": 2902815
+      "bytes": 2910033
     }
   ],
   "matches": [
@@ -666,7 +666,7 @@
       "base_name": "CBS NEWS BOSTON",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "62cdc7c2a3e6270007f3f2f3",
+      "epg_id": "5eb1af2ad345340008fccd1e",
       "source_display": "CBS News Boston",
       "score": 100.0,
       "method": "pass3-exact"
@@ -2215,11 +2215,11 @@
       "name": "PRIME: NBC 4 LOS ANGELES NEWS RAW",
       "base_name": "NBC 4 LOS ANGELES NEWS",
       "stream_id": "",
-      "source": "roku",
-      "epg_id": "7a725b0bd4935ce7bbbd18bdd3e4b5d7",
-      "source_display": "NBC 4 Los Angeles News",
-      "score": 100.0,
-      "method": "pass3-exact"
+      "source": "pluto",
+      "epg_id": "65790cda6e4f6a0008768764",
+      "source_display": "NBC Los Angeles News",
+      "score": 95.2,
+      "method": "pass3-fuzzy"
     },
     {
       "name": "PRIME: NBC 4 NEW YORK NEWS RAW",
@@ -3178,16 +3178,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
