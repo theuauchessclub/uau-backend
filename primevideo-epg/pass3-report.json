@@ -1,16 +1,16 @@
 {
-  "starting_unmatched": 799,
-  "candidate_names_loaded": 12237,
-  "provisional_matches": 507,
-  "new_matches_with_programmes": 495,
-  "remaining_unmatched": 299,
-  "combined_match_rate_percent": 64.3,
-  "programmes_added": 31408,
+  "starting_unmatched": 798,
+  "candidate_names_loaded": 12253,
+  "provisional_matches": 505,
+  "new_matches_with_programmes": 493,
+  "remaining_unmatched": 300,
+  "combined_match_rate_percent": 64.2,
+  "programmes_added": 31392,
   "source_programmes": {
-    "pluto": 2292,
-    "samsung": 1095,
+    "pluto": 2302,
+    "samsung": 1062,
     "roku": 9648,
-    "plex_mjh": 5243,
+    "plex_mjh": 5250,
     "canada": 4360,
     "uk": 1824,
     "whaletv": 618,
@@ -79,25 +79,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 916,
-      "bytes": 986378
+      "bytes": 983977
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1184,
-      "bytes": 526835
+      "bytes": 516636
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1464,
-      "bytes": 3362933
+      "candidate_names": 1480,
+      "bytes": 3411278
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1404,
-      "bytes": 2913811
+      "bytes": 2922651
     }
   ],
   "matches": [
@@ -1732,16 +1732,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: ION RAW",
-      "base_name": "ION",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "65453f30085df200085883d8",
-      "source_display": "ION",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: ION PLUS RAW",
       "base_name": "ION PLUS",
       "stream_id": "",
@@ -3188,16 +3178,6 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
