@@ -1,21 +1,21 @@
 {
   "starting_unmatched": 798,
   "candidate_names_loaded": 12259,
-  "provisional_matches": 506,
-  "new_matches_with_programmes": 492,
-  "remaining_unmatched": 301,
-  "combined_match_rate_percent": 64.2,
-  "programmes_added": 31928,
+  "provisional_matches": 504,
+  "new_matches_with_programmes": 490,
+  "remaining_unmatched": 303,
+  "combined_match_rate_percent": 64.1,
+  "programmes_added": 32052,
   "source_programmes": {
-    "pluto": 2294,
-    "samsung": 1092,
-    "roku": 9661,
-    "plex_mjh": 5161,
-    "canada": 4445,
-    "uk": 1827,
+    "pluto": 2258,
+    "samsung": 1081,
+    "roku": 9627,
+    "plex_mjh": 5270,
+    "canada": 4439,
+    "uk": 1834,
     "whaletv": 626,
-    "fanduel": 192,
-    "rakuten": 3161,
+    "fanduel": 210,
+    "rakuten": 3238,
     "australia": 3302,
     "distro": 0,
     "tbnplus": 167
@@ -31,19 +31,19 @@
       "source": "fanduel",
       "ok": true,
       "candidate_names": 90,
-      "bytes": 101288
+      "bytes": 112126
     },
     {
       "source": "rakuten",
       "ok": true,
       "candidate_names": 3282,
-      "bytes": 9592684
+      "bytes": 9785756
     },
     {
       "source": "tbnplus",
       "ok": true,
       "candidate_names": 34,
-      "bytes": 13190
+      "bytes": 13948
     },
     {
       "source": "whaletv",
@@ -55,49 +55,49 @@
       "source": "uk",
       "ok": true,
       "candidate_names": 974,
-      "bytes": 2912227
+      "bytes": 2945540
     },
     {
       "source": "canada",
       "ok": true,
       "candidate_names": 1392,
-      "bytes": 6562575
+      "bytes": 6730915
     },
     {
       "source": "australia",
       "ok": true,
       "candidate_names": 689,
-      "bytes": 4081820
+      "bytes": 4080780
     },
     {
       "source": "mexico",
       "ok": true,
       "candidate_names": 350,
-      "bytes": 414870
+      "bytes": 421563
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 916,
-      "bytes": 988825
+      "bytes": 980411
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1188,
-      "bytes": 520166
+      "bytes": 515892
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1484,
-      "bytes": 3470349
+      "candidate_names": 1482,
+      "bytes": 3457546
     },
     {
       "source": "plex_mjh",
       "ok": true,
-      "candidate_names": 1402,
-      "bytes": 2688744
+      "candidate_names": 1404,
+      "bytes": 2885701
     }
   ],
   "matches": [
@@ -148,16 +148,6 @@
       "source": "pluto",
       "epg_id": "6000a5a9e767980007b497ca",
       "source_display": "A&E Crime 360",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: ABC11 NORTH CAROLINA RAW",
-      "base_name": "ABC11 NORTH CAROLINA",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "ce021f67f6595e8a8a8cca45a5561440",
-      "source_display": "ABC11 North Carolina",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -636,8 +626,8 @@
       "base_name": "CBC NEWS",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "CBC.News.Network.HD.ca2",
-      "source_display": "CBC News Network HD",
+      "epg_id": "CBC.News.Network.ca2",
+      "source_display": "CBC News Network",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1266,8 +1256,8 @@
       "base_name": "FIFTH GEAR",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Fifth.Gear.be",
-      "source_display": "UK: Fifth Gear",
+      "epg_id": "DK:.Fifth.Gear.be",
+      "source_display": "DK: Fifth Gear",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3182,16 +3172,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: TMZ RAW",
-      "base_name": "TMZ",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBD70000213",
-      "source_display": "TMZ",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -3476,8 +3456,8 @@
       "base_name": "XENA WARRIOR PRINCESS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DK:.Xena:.Warrior.Princess.be",
-      "source_display": "DK: Xena: Warrior Princess",
+      "epg_id": "UK:.Xena:.Warrior.Princess.be",
+      "source_display": "UK: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -3716,8 +3696,8 @@
       "base_name": "CITYTV VANCOUVER",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Citytv.Vancouver.ca2",
-      "source_display": "Citytv Vancouver",
+      "epg_id": "Citytv.Vancouver.HD.ca2",
+      "source_display": "Citytv Vancouver HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3726,8 +3706,8 @@
       "base_name": "DTOUR",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "DTour.HD.ca2",
-      "source_display": "DTour HD",
+      "epg_id": "DTOUR.ca2",
+      "source_display": "DTOUR",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3756,8 +3736,8 @@
       "base_name": "GLOBAL BC",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Global.BC.ca2",
-      "source_display": "Global BC",
+      "epg_id": "Global.BC.HD.ca2",
+      "source_display": "Global BC HD",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3876,8 +3856,8 @@
       "base_name": "LIFETIME (CANADA)",
       "stream_id": "",
       "source": "canada",
-      "epg_id": "Lifetime.(Canada).ca2",
-      "source_display": "Lifetime (Canada)",
+      "epg_id": "Lifetime.HD.(Canada).ca2",
+      "source_display": "Lifetime HD (Canada)",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4066,8 +4046,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "PL:.Bloomberg.TV+.be",
-      "source_display": "PL: Bloomberg TV+",
+      "epg_id": "IT:.Bloomberg.TV+.be",
+      "source_display": "IT: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4116,8 +4096,8 @@
       "base_name": "BIONIC WOMAN",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "SE:.Bionic.Woman.be",
-      "source_display": "SE: Bionic Woman",
+      "epg_id": "FI:.Bionic.Woman.be",
+      "source_display": "FI: Bionic Woman",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4146,8 +4126,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FI:.Bloomberg.TV+.be",
-      "source_display": "FI: Bloomberg TV+",
+      "epg_id": "DE:.Bloomberg.TV+.be",
+      "source_display": "DE: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4186,8 +4166,8 @@
       "base_name": "DEADLY WOMEN",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "FI:.Deadly.Women.be",
-      "source_display": "FI: Deadly Women",
+      "epg_id": "NL:.Deadly.Women.be",
+      "source_display": "NL: Deadly Women",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4326,8 +4306,8 @@
       "base_name": "HOMES UNDER THE HAMMER",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NO:.Homes.Under.the.Hammer.be",
-      "source_display": "NO: Homes Under the Hammer",
+      "epg_id": "FI:.Homes.Under.the.Hammer.be",
+      "source_display": "FI: Homes Under the Hammer",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4666,8 +4646,8 @@
       "base_name": "XENA WARRIOR PRINCESS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "UK:.Xena:.Warrior.Princess.be",
-      "source_display": "UK: Xena: Warrior Princess",
+      "epg_id": "DK:.Xena:.Warrior.Princess.be",
+      "source_display": "DK: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4706,8 +4686,8 @@
       "base_name": "BIONIC WOMAN",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NL:.Bionic.Woman.be",
-      "source_display": "NL: Bionic Woman",
+      "epg_id": "SE:.Bionic.Woman.be",
+      "source_display": "SE: Bionic Woman",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4716,8 +4696,8 @@
       "base_name": "BLOOMBERG ORIGINALS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "PL:.Bloomberg.Originals.be",
-      "source_display": "PL: Bloomberg Originals",
+      "epg_id": "ES:.Bloomberg.Originals.be",
+      "source_display": "ES: Bloomberg Originals",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -4726,8 +4706,8 @@
       "base_name": "BLOOMBERG TV+",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "DE:.Bloomberg.TV+.be",
-      "source_display": "DE: Bloomberg TV+",
+      "epg_id": "NO:.Bloomberg.TV+.be",
+      "source_display": "NO: Bloomberg TV+",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
@@ -5006,8 +4986,8 @@
       "base_name": "XENA WARRIOR PRINCESS",
       "stream_id": "",
       "source": "rakuten",
-      "epg_id": "NO:.Xena:.Warrior.Princess.be",
-      "source_display": "NO: Xena: Warrior Princess",
+      "epg_id": "FI:.Xena:.Warrior.Princess.be",
+      "source_display": "FI: Xena: Warrior Princess",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
