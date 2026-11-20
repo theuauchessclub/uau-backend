@@ -1,16 +1,16 @@
 {
   "starting_unmatched": 798,
-  "candidate_names_loaded": 12259,
-  "provisional_matches": 504,
-  "new_matches_with_programmes": 490,
-  "remaining_unmatched": 303,
-  "combined_match_rate_percent": 64.1,
-  "programmes_added": 32052,
+  "candidate_names_loaded": 12257,
+  "provisional_matches": 506,
+  "new_matches_with_programmes": 492,
+  "remaining_unmatched": 301,
+  "combined_match_rate_percent": 64.2,
+  "programmes_added": 32176,
   "source_programmes": {
-    "pluto": 2258,
-    "samsung": 1081,
-    "roku": 9627,
-    "plex_mjh": 5270,
+    "pluto": 2320,
+    "samsung": 1110,
+    "roku": 9667,
+    "plex_mjh": 5263,
     "canada": 4439,
     "uk": 1834,
     "whaletv": 626,
@@ -79,25 +79,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 916,
-      "bytes": 980411
+      "bytes": 989681
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1188,
-      "bytes": 515892
+      "bytes": 521048
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1482,
-      "bytes": 3457546
+      "candidate_names": 1480,
+      "bytes": 3471217
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1404,
-      "bytes": 2885701
+      "bytes": 2823832
     }
   ],
   "matches": [
@@ -148,6 +148,16 @@
       "source": "pluto",
       "epg_id": "6000a5a9e767980007b497ca",
       "source_display": "A&E Crime 360",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: ABC11 NORTH CAROLINA RAW",
+      "base_name": "ABC11 NORTH CAROLINA",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "ce021f67f6595e8a8a8cca45a5561440",
+      "source_display": "ABC11 North Carolina",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -3168,6 +3178,16 @@
       "source": "pluto",
       "epg_id": "601a0342dcf4370007566891",
       "source_display": "Tiny House Nation",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
       "score": 100.0,
       "method": "pass3-exact"
     },
