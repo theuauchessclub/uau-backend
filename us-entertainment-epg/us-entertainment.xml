@@ -306937,269 +306937,2168 @@
   <channel id="US: TBN">
     <display-name>US: TBN</display-name>
   </channel>
-  <programme channel="US: TBN" start="20261122080000 -0500" stop="20261122110000 -0500">
-    <title lang="en">Glorious Gospel Praise</title>
-    <sub-title lang="en">This content is rated 7+</sub-title>
+  <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson NOW</title>
+    <desc lang="en">Television is filled with dysfunction, and the world is drowning in it.  Negativity has saturated people of all ages, fed by competition to the bottom on social media. What if someone new came along with a fresh operating principle?  A person who has travelled the world, seen the worst of it but deals strictly with how to move forward.  An honest and inspiring leader who has lived the full Christian life as a pastor and uses his wisdom to inspire others.  Meet Allen Jackson.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20261127073300 -0500" stop="20261127080500 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">The Secret Place</sub-title>
+  <programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="US: TBN">
+    <title lang="en">Stakelbeck Tonight</title>
+    <sub-title lang="en">November 20, 2026</sub-title>
+    <desc lang="en">From wars and rumors of war abroad, to the rise of anti-Christian, "woke" ideology here at home, it's clear that Americans are living in perilous and unprecedented times. Some would even say that we're witnessing biblical prophecy unfold in real time. Stakelbeck Tonight will make sense of these stunning developments through a bold and biblical lens.</desc>
+    <credits>
+      <actor>Katheryn Winnick, Oleksandr Zinchenko</actor>
+      <presenter>Erick Stakelbeck</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20261128080500 -0500" stop="20261128083600 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">The Promise Is Coming</sub-title>
+  <programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="US: TBN">
+    <title lang="en">Vision Bible: The Making of Vision Bible</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20261129083600 -0500" stop="20261129090800 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">It's Just A Matter Of Time</sub-title>
+  <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="US: TBN">
+    <title lang="en">Vision Bible: Women Bringing the Bible to Life</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20261130090800 -0500" stop="20261130093900 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">The Chain Breaker</sub-title>
+  <programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="US: TBN">
+    <title lang="en">Vision Bible: Building a Minute of Vision Bible</title>
+    <desc lang="en">Follow the human-led process behind a finished minute of biblical storytelling. Volume-stage demonstrations make the work tangible and connect financial partnership to what it takes to create the content.</desc>
+    <credits>
+      <actor>Shane Sooter, Cody Crouch</actor>
+      <presenter>Matt Crouch, Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20261201093900 -0500" stop="20261201101000 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">Reframe It</sub-title>
+  <programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="US: TBN">
+    <title lang="en">Vision Bible:Vision Bible for the World</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20261202101000 -0500" stop="20261202104200 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">It's Under Your Feet</sub-title>
+  <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="US: TBN">
+    <title lang="en">Vision Bible: Women Bringing the Bible to Life</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20261203104200 -0500" stop="20261203111300 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">Faithful In The Routine</sub-title>
+  <programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="US: TBN">
+    <title lang="en">Vision Bible: Every Language, Every Life</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20261204111300 -0500" stop="20261204114400 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">Don't Rely On People</sub-title>
+  <programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="US: TBN">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">Dont Lose Heart In The Waiting</sub-title>
+    <desc lang="en">Pastor Joseph Prince is powerfully proclaiming the unadulterated gospel of grace through Jesus Christ to every corner of the earth.</desc>
+    <credits>
+      <presenter>Joseph Prince</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E172</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20261205114400 -0500" stop="20261205121600 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">Nothing Missing</sub-title>
+  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="US: TBN">
+    <title lang="en">Vision Bible: Biblical Storytelling Meets Cutting-Edge Technology</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20261206121600 -0500" stop="20261206124700 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">Reverse The Order</sub-title>
+  <programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="US: TBN">
+    <title lang="en">Gaither Gospel</title>
+    <credits>
+      <presenter>Bill Gaither</presenter>
+    </credits>
+    <category lang="en">Music</category>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
   </programme>
-  <programme channel="US: TBN" start="20261207124700 -0500" stop="20261207131900 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">Daily Renewal</sub-title>
+  <programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="US: TBN">
+    <title lang="en">Vinia: Kirk Cameron</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20261208131900 -0500" stop="20261208135000 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">Remember Who You Are</sub-title>
+  <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="US: TBN">
+    <title lang="en">Insights: Israel &amp; The Middle East</title>
+    <sub-title lang="en">The Deed</sub-title>
+    <desc lang="en">Insights is a documentary series that gives its viewers an inside look into modern Israel. It includes stories of what Israel has accomplished in regards to technology, innovation, faith, and more. Each episode focuses on a unique topic and features global leaders in their industries and disciplines.</desc>
+    <credits>
+      <presenter>Mati Shoshani</presenter>
+      <presenter>Samuel Smadja</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20261209135000 -0500" stop="20261209142100 -0500">
-    <title lang="en">Joel Osteen Weekly</title>
-    <sub-title lang="en">Deaf To The Negative</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261212073800 -0500" stop="20261212081100 -0500">
-    <title lang="en">Greater Emmanuel Institutional</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261213081100 -0500" stop="20261213084300 -0500">
-    <title lang="en">The Church 3:20 w/ Bishop Stanley Williams</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261214084300 -0500" stop="20261214101900 -0500">
-    <title lang="en">MOVIE-A Heart That Forgives 2- The Battle Within</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261215101900 -0500" stop="20261215105100 -0500">
-    <title lang="en">Soul Food</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261216105100 -0500" stop="20261216110000 -0500">
-    <title lang="en">Bobby Jones</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261217110000 -0500" stop="20261217120600 -0500">
-    <title lang="en">In Touch with Charles Stanley</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261218120600 -0500" stop="20261218123900 -0500">
-    <title lang="en">Joseph Prince Ministries</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261219123900 -0500" stop="20261219131100 -0500">
-    <title lang="en">Bishop Clarence McClendon</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261220131100 -0500" stop="20261220134300 -0500">
-    <title lang="en">Tomorrow's World</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261221134300 -0500" stop="20261221141600 -0500">
-    <title lang="en">The Church 3:20 w/ Bishop Stanley Williams</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261224075100 -0500" stop="20261224084300 -0500">
-    <title lang="en">From The Vault</title>
-    <sub-title lang="en">Making Moves</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261225084300 -0500" stop="20261225092700 -0500">
-    <title lang="en">From the Pulpit</title>
-    <sub-title lang="en">There Is A Throne</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261226092700 -0500" stop="20261226104600 -0500">
-    <title lang="en">Elevation With Steven Furtick</title>
-    <sub-title lang="en">Rags To Righteous</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261227104600 -0500" stop="20261227114100 -0500">
-    <title lang="en">From the Pulpit</title>
-    <sub-title lang="en">I'm Going Under</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261228114100 -0500" stop="20261228123500 -0500">
-    <title lang="en">Elevation With Steven Furtick</title>
-    <sub-title lang="en">Concealed But Not Canceled</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20261229123500 -0500" stop="20261229134100 -0500">
-    <title lang="en">Elevation With Steven Furtick</title>
-    <sub-title lang="en">When Jesus Is Your Jury</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270101073000 -0500" stop="20270101080000 -0500">
-    <title lang="en">In Touch with Dr. Charles Stanley</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270102080000 -0500" stop="20270102083000 -0500">
-    <title lang="en">Dr. Charles Stanley</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270103083000 -0500" stop="20270103090000 -0500">
-    <title lang="en">All In with Pastor Jordan</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270104090000 -0500" stop="20270104095400 -0500">
-    <title lang="en">Passion with Louie Giglio</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270105095400 -0500" stop="20270105100000 -0500">
-    <title lang="en">The Bible Project</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270106100000 -0500" stop="20270106110000 -0500">
-    <title lang="en">Dr. Charles Stanley</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270107110000 -0500" stop="20270107113000 -0500">
-    <title lang="en">Dr. Charles Stanley</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270108113000 -0500" stop="20270108120000 -0500">
-    <title lang="en">Joyce Meyer</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270109120000 -0500" stop="20270109122900 -0500">
-    <title lang="en">The Circle of Our Impact</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270110122900 -0500" stop="20270110130000 -0500">
-    <title lang="en">Studio 5</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270111130000 -0500" stop="20270111133000 -0500">
-    <title lang="en">Today with J. John</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270112133000 -0500" stop="20270112140000 -0500">
-    <title lang="en">Dr. Charles Stanley</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270115081300 -0500" stop="20270115101000 -0500">
-    <title lang="en">Women of Impact with Lisa Bilyeu</title>
-    <sub-title lang="en">Women of Impact with Lisa Bilyeu - Dr. Ramini on Recognizing Narcissistic Abuse</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270116101000 -0500" stop="20270116114000 -0500">
-    <title lang="en">Women of Impact with Lisa Bilyeu</title>
-    <sub-title lang="en">Women of Impact with Lisa Bilyeu - Julie Gottman on Building Relationship Resilience</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270117114000 -0500" stop="20270117140100 -0500">
-    <title lang="en">Dr. Wayne Dyer: Excuses Begone!</title>
-    <sub-title lang="en">This content is rated 7+</sub-title>
-  </programme>
-  <programme channel="US: TBN" start="20270120073000 -0500" stop="20270120080000 -0500">
+  <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="US: TBN">
     <title lang="en">Boots on the Ground</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
+    <desc lang="en">Boots on the Ground focuses on real-time updates from the frontlines of Israels military operations. It delivers factual, in-depth information about the ongoing war, providing viewers with clear insight into tactical maneuvers and key military events.</desc>
+    <credits>
+      <presenter>Yair Pinto</presenter>
+      <presenter>Mati Shoshani</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG13</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270121080000 -0500" stop="20270121090000 -0500">
-    <title lang="en">Jordan Rubin: Advanced Lean &amp; Muscle Capsules</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
+  <programme start="20261121080000 +0000" stop="20261121090000 +0000" channel="US: TBN">
+    <title lang="en">Ancient Nutrition: Key to Healthy Weight Loss &amp; Muscles</title>
+    <desc lang="en">Key to Healthy Weight Loss &amp; Muscles with Jordan Rubin.</desc>
+    <credits>
+      <actor>Jordan Rubin</actor>
+      <presenter>Sheila Walsh</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270122090000 -0500" stop="20270122100000 -0500">
+  <programme start="20261121090000 +0000" stop="20261121100000 +0000" channel="US: TBN">
     <title lang="en">Rick Warren: The Purpose of Christmas</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
+    <desc lang="en">Matt and Laurie sit down with Rick Warren inside Rick's private library to talk about his new book The Purpose of Christmas.</desc>
+    <credits>
+      <actor>Rick Warren</actor>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270123100000 -0500" stop="20270123103000 -0500">
+  <programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="US: TBN">
     <title lang="en">Allen Jackson Ministries</title>
-    <sub-title lang="en">An Exit Strategy</sub-title>
+    <sub-title lang="en">An Exit Strategy (Part 2)</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E324</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270124103000 -0500" stop="20270124110000 -0500">
+  <programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="US: TBN">
     <title lang="en">Taking Care of Business</title>
     <sub-title lang="en">Abortion</sub-title>
+    <desc lang="en">On this episode, Taking Care of Business looks into the topic of abortion. It's an issue that effects over 900,000 lives each year and often leads to life-long, traumatic consequences.</desc>
+    <credits>
+      <presenter>Kelly Wright</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270125110000 -0500" stop="20270125113000 -0500">
+  <programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="US: TBN">
     <title lang="en">Vinia: Sheila Walsh Hydration</title>
-    <sub-title lang="en">This content is rated 7+</sub-title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20270126113000 -0500" stop="20270126120000 -0500">
-    <title lang="en">Ancient Nutrition: Multi Collagen the Missing Piece</title>
-    <sub-title lang="en">This content is rated 7+</sub-title>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="US: TBN">
+    <title lang="en">Ancient Nutrition: Multi Collagen: The Missing Piece</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20270127120000 -0500" stop="20270127123000 -0500">
+  <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="US: TBN">
     <title lang="en">Joel Osteen</title>
     <sub-title lang="en">Something That You've Never Seen</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E324</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270130071600 -0500" stop="20270130082200 -0500">
-    <title lang="en">A Moment with T.D. Jakes</title>
-    <sub-title lang="en">Boldly To The Throne</sub-title>
+  <programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="US: TBN">
+    <title lang="en">Kingdom Connection with Jentezen Franklin</title>
+    <sub-title lang="en">Generational Garments</sub-title>
+    <desc lang="en">Pastor Jentezen Franklin brings practical meaning to spiritual truths found in Gods Word.</desc>
+    <credits>
+      <presenter>Jentezen Franklin</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E228</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270131082200 -0500" stop="20270131092100 -0500">
-    <title lang="en">A Moment with T.D. Jakes</title>
-    <sub-title lang="en">Count It All Up</sub-title>
+  <programme start="20261121130000 +0000" stop="20261121150000 +0000" channel="US: TBN">
+    <title lang="en">Veggie Tales</title>
+    <sub-title lang="en">LarryBoy and The Angry Eyebrows, LarryBoy and the Capre-Coat Caper, The One and Only You</sub-title>
+    <desc lang="en">Bob, Larry and their Veggie friends share hilarious stories that teach valuable lessons, like kindness, thankfulness and honesty.</desc>
+    <credits>
+      <presenter>Veggie Tales Cast</presenter>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E543</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-Y7</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270201092100 -0500" stop="20270201102900 -0500">
-    <title lang="en">A Moment with T.D. Jakes</title>
-    <sub-title lang="en">Accountability</sub-title>
+  <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="US: TBN">
+    <title lang="en">Joel Osteen: 15 Ways to Live Longer &amp; Healthier</title>
+    <sub-title lang="en">Don't Rely On People</sub-title>
+    <desc lang="en">In this 15-part series, Joel Osteen shares his best wisdom on the simple choices we can make each day to live longer, happier, and healthier lives.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270202102900 -0500" stop="20270202113500 -0500">
-    <title lang="en">A Moment with T.D. Jakes</title>
-    <sub-title lang="en">Leaning Into Uncertainty</sub-title>
+  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson Ministries</title>
+    <sub-title lang="en">An Exit Strategy (Part 2)</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E324</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270203113500 -0500" stop="20270203124000 -0500">
-    <title lang="en">A Moment with T.D. Jakes</title>
-    <sub-title lang="en">Girded</sub-title>
+  <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="US: TBN">
+    <title lang="en">Steven Furtick</title>
+    <sub-title lang="en">Filled By Faith (Part 2)</sub-title>
+    <desc lang="en">Elevation with Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <credits>
+      <presenter>Steven Furtick</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E325</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270206072400 -0500" stop="20270206073000 -0500">
-    <title lang="en">Channel No Longer Available</title>
-    <sub-title lang="en">This content is rated ALL</sub-title>
+  <programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="US: TBN">
+    <title lang="en">Kingdom Connection with Jentezen Franklin</title>
+    <sub-title lang="en">Generational Garments</sub-title>
+    <desc lang="en">Pastor Jentezen Franklin brings practical meaning to spiritual truths found in Gods Word.</desc>
+    <credits>
+      <presenter>Jentezen Franklin</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E228</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270207073000 -0500" stop="20270207090000 -0500">
-    <title lang="en">Prisoners of War</title>
-    <sub-title lang="en">The Tape</sub-title>
+  <programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Robert Jeffress</title>
+    <sub-title lang="en">When Your Miracle Doesn't Come</sub-title>
+    <desc lang="en">Pathway to Victory offers a practical application of Gods Word to everyday life through the clear, biblical teaching of Pastor Jeffress.</desc>
+    <credits>
+      <presenter>Robert Jeffress</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E601</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270208090000 -0500" stop="20270208093000 -0500">
-    <title lang="en">You Bet Your Life</title>
-    <sub-title lang="en">Sky</sub-title>
+  <programme start="20261121173000 +0000" stop="20261121183000 +0000" channel="US: TBN">
+    <title lang="en">Vinia: A Salute to American Heroes</title>
+    <desc lang="en">Governor Huckabee will interview courageous soldiers and veterans who rely on VINIA, the red grape circulation superfood for better blood flow, and viewers will hear how VINIA has helped boost their physical strength and improve their mental alertness.</desc>
+    <credits>
+      <presenter>Mike Huckabee</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270209093000 -0500" stop="20270209100000 -0500">
-    <title lang="en">You Bet Your Life</title>
-    <sub-title lang="en">Paper</sub-title>
+  <programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="US: TBN">
+    <title lang="en">Mr &amp; Mrs Elmer Heinrich: Immuno 150</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20270210100000 -0500" stop="20270210103000 -0500">
-    <title lang="en">You Bet Your Life</title>
-    <sub-title lang="en">Room</sub-title>
+  <programme start="20261121190000 +0000" stop="20261121193000 +0000" channel="US: TBN">
+    <title lang="en">Healing of the Nations: Restoring Your Digestive Health</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
   </programme>
-  <programme channel="US: TBN" start="20270211103000 -0500" stop="20270211110000 -0500">
-    <title lang="en">You Bet Your Life</title>
-    <sub-title lang="en">Shoe</sub-title>
+  <programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="US: TBN">
+    <title lang="en">God Came Near with Max Lucado</title>
+    <sub-title lang="en">Great Expectation</sub-title>
+    <desc lang="en">At Christmas we remember that God Came Near, and we rejoice that he still does today! Based on Max Lucado's beloved book, God Came Near invites audiences to the beautiful Blockley Chapel in England to celebrate the true meaning of Christmas -- the birth of Jesus.</desc>
+    <credits>
+      <presenter>Max Lucado</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270212110000 -0500" stop="20270212113000 -0500">
-    <title lang="en">Rhythm 'N Ruach</title>
-    <sub-title lang="en">Shabbat</sub-title>
+  <programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="US: TBN">
+    <title lang="en">Jim Scudder, Jr.: InGrace</title>
+    <sub-title lang="en">Discover Hidden Jordan (Part 2)</sub-title>
+    <desc lang="en">Don't miss the final episode of this exciting series as Jim Scudder, Jr. visits the beautiful country of Jordan.</desc>
+    <credits>
+      <presenter>Jim Scudder, Jr.</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S8 E408</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme channel="US: TBN" start="20270213113000 -0500" stop="20270213120000 -0500">
-    <title lang="en">Rhythm 'N Ruach</title>
-    <sub-title lang="en">Shabbat Shalom</sub-title>
+  <programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="US: TBN">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">The Power of Right Believing</sub-title>
+    <desc lang="en">Watch to find out how you can receive the Lord's freedom, favor, and victory through right believing.</desc>
+    <credits>
+      <presenter>Joseph Prince</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E6</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261121210000 +0000" stop="20261121220000 +0000" channel="US: TBN">
+    <title lang="en">Turning Point with Dr. David Jeremiah</title>
+    <sub-title lang="en">The Weapon of Worship - Unforgiveness</sub-title>
+    <desc lang="en">We see in the Old Testament how God responded in power when the Israelites worshiped Him as they faced an overwhelming enemy.</desc>
+    <credits>
+      <presenter>David Jeremiah</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="US: TBN">
+    <title lang="en">Billy Graham Crusade Classics</title>
+    <sub-title lang="en">Brevity of Time</sub-title>
+    <desc lang="en">These are the amazing Billy Graham Crusades from the past 25 years that bring the message of salvation through Jesus Christ to the world.</desc>
+    <credits>
+      <presenter>Billy Graham</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E130</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="US: TBN">
+    <title lang="en">BillyGraham.TV</title>
+    <sub-title lang="en">The Unfinished Mission</sub-title>
+    <desc lang="en">Watch the BGEA leadership team discuss creative plans for the future, and witness believers in action through BGEA ministries as they seek to obey Christs command to "go and make disciples of all nations.".</desc>
+    <credits>
+      <presenter>Franklin Graham</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121230000 +0000" stop="20261122003000 +0000" channel="US: TBN">
+    <title lang="en">The Making Of Thanksgiving</title>
+    <desc lang="en">Filmed in New England, the UK, and the Netherlands, this documentary traces the history of religious freedom from ancient Rome to the modern day, alongside the remarkable journey of the Mayflower Pilgrims and the formation of the Thanksgiving holiday.</desc>
+    <credits>
+      <actor>Jim Hanon</actor>
+      <presenter>Matt Crouch, Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122003000 +0000" stop="20261122010000 +0000" channel="US: TBN">
+    <title lang="en">Your Move with Andy Stanley</title>
+    <sub-title lang="en">Reactions Speak Louder Than Words (Part 2)</sub-title>
+    <desc lang="en">Your Move with Andy Stanley  to help people make better decisions and live with fewer regrets.</desc>
+    <credits>
+      <presenter>Andy Stanley</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="US: TBN">
+    <title lang="en">Gaither Gospel Hour</title>
+    <sub-title lang="en">Christmas By Candlelight</sub-title>
+    <desc lang="en">Gaither Gospel shares joy through heartfelt stories and inspiration through powerful music.</desc>
+    <credits>
+      <actor>The Collingsworth Family</actor>
+      <presenter>Bill Gaither</presenter>
+    </credits>
+    <category lang="en">Music</category>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="US: TBN">
+    <title lang="en">The Story Behind the Story with Mike Rowe</title>
+    <sub-title lang="en">Visiting Hours</sub-title>
+    <desc lang="en">Mike Rowe and Matt Crouch discuss a story about a soldier who fought in every major conflict in American history.</desc>
+    <credits>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Mike Rowe</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122023000 +0000" stop="20261122030000 +0000" channel="US: TBN">
+    <title lang="en">One For Israel</title>
+    <sub-title lang="en">Sacred Encounters: Widow At Nain</sub-title>
+    <desc lang="en">Join Dr. Erez Soref in One For Israel. Discover Gods covenant relationship with Israel and His invitation to the nations. This profound love still transforms lives today.</desc>
+    <credits>
+      <presenter>Erez Soref</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E1121</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122030000 +0000" stop="20261122033000 +0000" channel="US: TBN">
+    <title lang="en">The Rosenberg Report</title>
+    <sub-title lang="en">November 19, 2026</sub-title>
+    <desc lang="en">As editor in chief of the daily digital sites All Israel News and All Arab News, New York Times bestselling author Joel C. Rosenberg is a respected geo-political expert on the Middle East. Each week on The Rosenberg Report he offers a close-up view of current events and issues in this volatile region, bringing important insights and biblical perspective that viewers will find both informative and encouraging.</desc>
+    <credits>
+      <actor>Dr. Hormoz Shariat</actor>
+      <presenter>Joel Rosenberg</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E1119</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="US: TBN">
+    <title lang="en">Michael A. Youssef</title>
+    <sub-title lang="en">The Verdict (Part 1)</sub-title>
+    <desc lang="en">Dr. Michael A. Youssef passionately proclaims uncompromising truth from God's Word to people around the world through the ministries of Leading The Way. Join him for sound Biblical teaching each week.</desc>
+    <credits>
+      <presenter>Michael A. Youssef</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="US: TBN">
+    <title lang="en">Gaither Gospel Hour</title>
+    <sub-title lang="en">Christmas By Candlelight</sub-title>
+    <desc lang="en">Gaither Gospel shares joy through heartfelt stories and inspiration through powerful music.</desc>
+    <credits>
+      <actor>The Collingsworth Family</actor>
+      <presenter>Bill Gaither</presenter>
+    </credits>
+    <category lang="en">Music</category>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122053000 +0000" channel="US: TBN">
+    <title lang="en">The Story Behind the Story with Mike Rowe</title>
+    <sub-title lang="en">Potty Mouth With A Secret</sub-title>
+    <desc lang="en">Mike Rowe asks Matt if he knows one of the best kept secrets about an American icon. Its pretty bleepin funny.</desc>
+    <credits>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Mike Rowe</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122053000 +0000" stop="20261122060000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Robert Jeffress</title>
+    <sub-title lang="en">When Your Miracle Doesn't Come</sub-title>
+    <desc lang="en">Pathway to Victory offers a practical application of Gods Word to everyday life through the clear, biblical teaching of Pastor Jeffress.</desc>
+    <credits>
+      <presenter>Robert Jeffress</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E601</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="US: TBN">
+    <title lang="en">The Rosenberg Report</title>
+    <sub-title lang="en">November 19, 2026</sub-title>
+    <desc lang="en">As editor in chief of the daily digital sites All Israel News and All Arab News, New York Times bestselling author Joel C. Rosenberg is a respected geo-political expert on the Middle East. Each week on The Rosenberg Report he offers a close-up view of current events and issues in this volatile region, bringing important insights and biblical perspective that viewers will find both informative and encouraging.</desc>
+    <credits>
+      <actor>Dr. Hormoz Shariat</actor>
+      <presenter>Joel Rosenberg</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E1119</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122063000 +0000" stop="20261122073000 +0000" channel="US: TBN">
+    <title lang="en">Praise</title>
+    <sub-title lang="en">Stop the Pain</sub-title>
+    <desc lang="en">Matt and Laurie Crouch welcome Scott Hannen as he speaks on stopping joint pain and how God has designed your body to repair and heal naturally.</desc>
+    <credits>
+      <actor>Scott Hannen</actor>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S49 E48</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="US: TBN">
+    <title lang="en">Drive Thru History: The Gospels</title>
+    <sub-title lang="en">Jesus Teaches with Authority</sub-title>
+    <desc lang="en">We witness Jesus gaining legitimacy with the common people of Galilee and Judea while His followers are growing with His radically different teaching.</desc>
+    <credits>
+      <presenter>Dave Stotts</presenter>
+    </credits>
+    <category lang="en">History</category>
+    <category lang="en">Religion</category>
+    <category lang="en">Travel</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122080000 +0000" stop="20261122090000 +0000" channel="US: TBN">
+    <title lang="en">Wintley Phipps: A Symphonic Tribute</title>
+    <desc lang="en">Experience an uplifting night of music and ministry with Wintley Phipps as he joins Matt and Laurie to share timeless songs, powerful stories, and a heartfelt reminder to shine the gifts God has placed within us.</desc>
+    <credits>
+      <actor>Wintley Phipps</actor>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Music</category>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="US: TBN">
+    <title lang="en">Christ Meets Culture</title>
+    <sub-title lang="en">Hold Fast: God's Providence</sub-title>
+    <desc lang="en">Christ Meets Culture presented by Coral Ridge Ministries featuring Dr. Robert J. Pacienza, with sermon commentary from Dr. D. James Kennedy and Dr. Pacienza. Each program provides a compelling analysis of current moral and cultural controversies all from a biblical perspective.</desc>
+    <credits>
+      <presenter>Dr. Rob Pacienza</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122093000 +0000" stop="20261122100000 +0000" channel="US: TBN">
+    <title lang="en">Harvest with Pastor Greg Laurie</title>
+    <sub-title lang="en">Good News In A Bad World</sub-title>
+    <desc lang="en">Join Pastor Greg Laurie for a time of encouragement, worship, and Bible study.</desc>
+    <credits>
+      <presenter>Greg Laurie</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E279</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122100000 +0000" stop="20261122103000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson Ministries</title>
+    <sub-title lang="en">Live Generously</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E325</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122103000 +0000" stop="20261122110000 +0000" channel="US: TBN">
+    <title lang="en">The Grace Message with Dr. Andrew Farley</title>
+    <sub-title lang="en">The Impossible Teachings of Jesus (Part 2)</sub-title>
+    <desc lang="en">Pastor Andrew Farley brings Biblical clarity and illuminates Gods grace.</desc>
+    <credits>
+      <presenter>Andrew Farley</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E48</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="US: TBN">
+    <title lang="en">Kingdom Connection with Jentezen Franklin</title>
+    <sub-title lang="en">How To Get Hell Out Of Your House</sub-title>
+    <desc lang="en">Pastor Jentezen Franklin brings practical meaning to spiritual truths found in Gods Word.</desc>
+    <credits>
+      <presenter>Jentezen Franklin</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E233</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="US: TBN">
+    <title lang="en">From His Heart: Jeff Schreve</title>
+    <sub-title lang="en">Flipping Tables</sub-title>
+    <desc lang="en">From His Heart is the teaching ministry of Dr. Jeff Schreve. We exist to speak real truth, real love and real hope from the loving heart of God to a lost and hurting world.</desc>
+    <credits>
+      <presenter>Jeff Schreve</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="US: TBN">
+    <title lang="en">Live with Passion with Father Cedric</title>
+    <sub-title lang="en">Thanksgiving is Thanks-living</sub-title>
+    <desc lang="en">Father Cedric Pisegna is a Catholic priest. His program will inspire and encourage you to Live with Passion.</desc>
+    <credits>
+      <presenter>Cedric Pisegna</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Tony Evans</title>
+    <sub-title lang="en">Prayer</sub-title>
+    <desc lang="en">Dr. Tony Evans is known as a relevant expositor and is a pastor of pastors and a father in the faith.</desc>
+    <credits>
+      <presenter>Tony Evans</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="US: TBN">
+    <title lang="en">Steven Furtick</title>
+    <sub-title lang="en">Permission To Quit (Part 3)</sub-title>
+    <desc lang="en">Elevation with Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <credits>
+      <presenter>Steven Furtick</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E326</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="US: TBN">
+    <title lang="en">Touching Lives with Dr. James Merritt</title>
+    <sub-title lang="en">Am I Following Jesus?</sub-title>
+    <desc lang="en">Touching Lives is the international broadcast ministry of Dr. James Merritt.</desc>
+    <credits>
+      <presenter>James Merritt</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E70</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="US: TBN">
+    <title lang="en">Kingdom Connection with Jentezen Franklin</title>
+    <sub-title lang="en">How To Get Hell Out Of Your House</sub-title>
+    <desc lang="en">Pastor Jentezen Franklin brings practical meaning to spiritual truths found in Gods Word.</desc>
+    <credits>
+      <presenter>Jentezen Franklin</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E233</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="US: TBN">
+    <title lang="en">Turning Point with Dr. David Jeremiah</title>
+    <sub-title lang="en">Your Most Valuable Possession</sub-title>
+    <desc lang="en">The sound Bible-based teaching of Turning Point carries forward the goal of delivering the unchanging Word of God to an ever-changing world.</desc>
+    <credits>
+      <presenter>David Jeremiah</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122150000 +0000" stop="20261122153000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Robert Jeffress</title>
+    <sub-title lang="en">Have A Happy Holy Day</sub-title>
+    <desc lang="en">Pathway to Victory offers a practical application of Gods Word to everyday life through the clear, biblical teaching of Pastor Jeffress.</desc>
+    <credits>
+      <presenter>Robert Jeffress</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E602</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122153000 +0000" stop="20261122160000 +0000" channel="US: TBN">
+    <title lang="en">The Winning Walk with Dr. Ed Young</title>
+    <sub-title lang="en">Happy People Influence People</sub-title>
+    <desc lang="en">The Winning Walk with Dr. Ed Young is the international on-air and online teaching ministry of Dr. Ed Young. The Winning Walk proclaims the proven truth of Gods Word to give men and women the world over a winning way to live life.</desc>
+    <credits>
+      <presenter>Ed Young</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E233</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="US: TBN">
+    <title lang="en">Hagee Ministries</title>
+    <sub-title lang="en">Thanksgiving: The Key To Miracles</sub-title>
+    <desc lang="en">Hagee Ministries are committed to change America by taking all the Gospel to all the world and to all generations.</desc>
+    <credits>
+      <presenter>John Hagee</presenter>
+      <presenter>Matt Hagee</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E280</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122163000 +0000" stop="20261122170000 +0000" channel="US: TBN">
+    <title lang="en">Rick Warren</title>
+    <sub-title lang="en">How To Be Happy No Matter What Happens (Part 2)</sub-title>
+    <desc lang="en">Pastor Rick shares biblical truth and practical tools for living the full life God desires for everyone.</desc>
+    <credits>
+      <presenter>Rick Warren</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122170000 +0000" stop="20261122173000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson Ministries</title>
+    <sub-title lang="en">Live Generously</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E325</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122173000 +0000" stop="20261122180000 +0000" channel="US: TBN">
+    <title lang="en">Behind the Scenes</title>
+    <sub-title lang="en">Mike Huckabee for Living Legacy</sub-title>
+    <desc lang="en">Go Behind The Scenes with Host Name and Guests from Los Angeles, CA.</desc>
+    <credits>
+      <actor>Mike Huckabee</actor>
+      <actor>Karen Conrad</actor>
+      <presenter>M&amp;L</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S24 E1</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="US: TBN">
+    <title lang="en">Power Point with Jack Graham</title>
+    <sub-title lang="en">Success God's Way</sub-title>
+    <desc lang="en">Dr. Jack Graham's mission is to glorify God by introducing Jesus Christ as Lord to all people.</desc>
+    <credits>
+      <presenter>Jack Graham</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="US: TBN">
+    <title lang="en">It Is Written with John Bradshaw</title>
+    <sub-title lang="en">Grateful</sub-title>
+    <desc lang="en">It Is Written seeks to impact lives for Christ.</desc>
+    <credits>
+      <presenter>John Bradshaw</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E44</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122190000 +0000" stop="20261122193000 +0000" channel="US: TBN">
+    <title lang="en">Kingdom Connection with Jentezen Franklin</title>
+    <sub-title lang="en">How To Get Hell Out Of Your House</sub-title>
+    <desc lang="en">Pastor Jentezen Franklin brings practical meaning to spiritual truths found in Gods Word.</desc>
+    <credits>
+      <presenter>Jentezen Franklin</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E233</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122193000 +0000" stop="20261122200000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Robert Jeffress</title>
+    <sub-title lang="en">Back to Bethlehem</sub-title>
+    <desc lang="en">Pathway to Victory offers a practical application of Gods Word to everyday life through the clear, biblical teaching of Pastor Jeffress.</desc>
+    <credits>
+      <presenter>Robert Jeffress</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E603</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122200000 +0000" stop="20261122203000 +0000" channel="US: TBN">
+    <title lang="en">Amazing Facts</title>
+    <sub-title lang="en">Satan Bound and Burned (Part 2)</sub-title>
+    <desc lang="en">Pastor Doug Batchelor is an energetic speaker of vision and deep spirituality.</desc>
+    <credits>
+      <presenter>Doug Batchelor</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E139</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122203000 +0000" stop="20261122210000 +0000" channel="US: TBN">
+    <title lang="en">LIFE Today</title>
+    <sub-title lang="en">Going On With God</sub-title>
+    <desc lang="en">Randy and Blynda bring a portion of James classic sermon about truly following God.</desc>
+    <credits>
+      <actor>James Robison</actor>
+      <presenter>Randy Robison</presenter>
+      <presenter>Blynda Lane</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E237</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="US: TBN">
+    <title lang="en">Turning Point with Dr. David Jeremiah</title>
+    <sub-title lang="en">Your Most Valuable Possession</sub-title>
+    <desc lang="en">The sound Bible-based teaching of Turning Point carries forward the goal of delivering the unchanging Word of God to an ever-changing world.</desc>
+    <credits>
+      <presenter>David Jeremiah</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122213000 +0000" stop="20261122220000 +0000" channel="US: TBN">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">The Secret To Health and Healing</sub-title>
+    <desc lang="en">Trusting God for healing? Come and see from Scripture how God's heart is to restore and renew you.</desc>
+    <credits>
+      <presenter>Joseph Prince</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E2</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122220000 +0000" stop="20261122223000 +0000" channel="US: TBN">
+    <title lang="en">Michael A. Youssef</title>
+    <sub-title lang="en">The Verdict (Part 1)</sub-title>
+    <desc lang="en">Dr. Michael A. Youssef passionately proclaims uncompromising truth from God's Word to people around the world through the ministries of Leading The Way. Join him for sound Biblical teaching each week.</desc>
+    <credits>
+      <presenter>Michael A. Youssef</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="US: TBN">
+    <title lang="en">Tim Timberlake</title>
+    <sub-title lang="en">When The Religious Reject You</sub-title>
+    <desc lang="en">Tim Timberlake deep biblical wisdom empowers audiences to create transformative change in their lives.</desc>
+    <credits>
+      <presenter>Tim Timberlake</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson Ministries</title>
+    <sub-title lang="en">Live Generously</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E325</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="US: TBN">
+    <title lang="en">Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title lang="en">The Cross Before the Crown</sub-title>
+    <desc lang="en">Feeling stuck or overlooked? Today, Joyce shares how staying patient, faithful, and content can help you handle lifes challenges well.</desc>
+    <credits>
+      <presenter>Joyce Meyer</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E192</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123000000 +0000" stop="20261123003000 +0000" channel="US: TBN">
+    <title lang="en">2819 with Philip Anthony Mitchell</title>
+    <sub-title lang="en">Go Forth (Part 1)</sub-title>
+    <desc lang="en">Pastor Philip presents biblical teaching centered on Jesus and the gospel.</desc>
+    <credits>
+      <presenter>Philip Anthony Mitchell</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E48</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123003000 +0000" stop="20261123010000 +0000" channel="US: TBN">
+    <title lang="en">Power Point with Jack Graham</title>
+    <sub-title lang="en">Success God's Way</sub-title>
+    <desc lang="en">Dr. Jack Graham's mission is to glorify God by introducing Jesus Christ as Lord to all people.</desc>
+    <credits>
+      <presenter>Jack Graham</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123010000 +0000" stop="20261123013000 +0000" channel="US: TBN">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Trusting in Trouble</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E325</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123013000 +0000" stop="20261123020000 +0000" channel="US: TBN">
+    <title lang="en">Turning Point with Dr. David Jeremiah</title>
+    <sub-title lang="en">Your Most Valuable Possession</sub-title>
+    <desc lang="en">The sound Bible-based teaching of Turning Point carries forward the goal of delivering the unchanging Word of God to an ever-changing world.</desc>
+    <credits>
+      <presenter>David Jeremiah</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="US: TBN">
+    <title lang="en">Vinia: Huckabee's Health Secret</title>
+    <desc lang="en">Unlock the healing wisdom woven through scripture and science. Join Mike Huckabee on a transformative journey to God-inspired wellness.</desc>
+    <credits>
+      <actor>Ilan Sobel</actor>
+      <presenter>Mike Huckabee</presenter>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123023000 +0000" stop="20261123030000 +0000" channel="US: TBN">
+    <title lang="en">Ancient Nutrition: Multi Protein Animal</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+  </programme>
+  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="US: TBN">
+    <title lang="en">Real Life with Jack Hibbs</title>
+    <sub-title lang="en">In Everything Give Thanks</sub-title>
+    <desc lang="en">Pastor Jack is the founder and senior pastor of Calvary Chapel Chino Hills, one of Americas fastest growing churches. He is also the president and founder of Real Life ministries a nationally syndicated radio and tv show.</desc>
+    <credits>
+      <presenter>Jack Hibbs</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E48</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="US: TBN">
+    <title lang="en">Amazing Facts</title>
+    <sub-title lang="en">Satan Bound and Burned (Part 2)</sub-title>
+    <desc lang="en">Pastor Doug Batchelor is an energetic speaker of vision and deep spirituality.</desc>
+    <credits>
+      <presenter>Doug Batchelor</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E140</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="US: TBN">
+    <title lang="en">Stop the Pain: The Six To Fix Pain</title>
+    <sub-title lang="en">Part 3</sub-title>
+    <desc lang="en">Dr. Scott Hannen shares how to unlock the body's potential to heal itself.</desc>
+    <credits>
+      <presenter>Scott Hannen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="US: TBN">
+    <title lang="en">The Power of Healing Leaves with Sheila</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+  </programme>
+  <programme start="20261123050000 +0000" stop="20261123060000 +0000" channel="US: TBN">
+    <title lang="en">Praise</title>
+    <sub-title lang="en">Joseph Prince: Healing Scriptures</sub-title>
+    <desc lang="en">Matt and Laurie Crouch and Joseph Prince clears up some erroneous views on healing, letting you know that God wants you well and whole.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123060000 +0000" stop="20261123063000 +0000" channel="US: TBN">
+    <title lang="en">Christine Caine</title>
+    <sub-title lang="en">A Little Can Do A Lot (Part 2)</sub-title>
+    <desc lang="en">Christine Caine has a heart for teaching the Gospel and inspiring her audience to reach their God-given purpose. She is dedicated to reaching the lost, championing the cause of justice and building the local church globally.</desc>
+    <credits>
+      <presenter>Christine Caine</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S24 E1103</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123063000 +0000" stop="20261123070000 +0000" channel="US: TBN">
+    <title lang="en">Mr &amp; Mrs Elmer Heinrich: Immuno 150</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123073000 +0000" channel="US: TBN">
+    <title lang="en">Healing of the Nations with Jordan Rubin</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+  </programme>
+  <programme start="20261123073000 +0000" stop="20261123083000 +0000" channel="US: TBN">
+    <title lang="en">Vinia: A Salute to American Heroes</title>
+    <desc lang="en">Governor Huckabee will interview courageous soldiers and veterans who rely on VINIA, the red grape circulation superfood for better blood flow, and viewers will hear how VINIA has helped boost their physical strength and improve their mental alertness.</desc>
+    <credits>
+      <presenter>Mike Huckabee</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="US: TBN">
+    <title lang="en">LIFE Today</title>
+    <sub-title lang="en">The Killer Sermon</sub-title>
+    <desc lang="en">The host of The Grace Message explains why striving to be a better person will always fail, and the good news that Jesus offers instead.</desc>
+    <credits>
+      <actor>Andrew Farley</actor>
+      <presenter>Randy Robison</presenter>
+      <presenter>Blynda Lane</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E238</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123100000 +0000" channel="US: TBN">
+    <title lang="en">Ancient Nutrition: Key to Healthy Weight Loss &amp; Muscles</title>
+    <desc lang="en">Key to Healthy Weight Loss &amp; Muscles with Jordan Rubin.</desc>
+    <credits>
+      <actor>Jordan Rubin</actor>
+      <presenter>Sheila Walsh</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123103000 +0000" channel="US: TBN">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Deaf To The Negative</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E326</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123103000 +0000" stop="20261123110000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson Ministries</title>
+    <sub-title lang="en">The Power of Gratitude and Thanksgiving (Part 1)</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E326</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123110000 +0000" stop="20261123113000 +0000" channel="US: TBN">
+    <title lang="en">Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title lang="en">Unshakeable Trust (Part 2)</sub-title>
+    <desc lang="en">Trusting God gets easier when we get to know His character. Learn how to confidently lean on Him during every season of life.</desc>
+    <credits>
+      <presenter>Joyce Meyer</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E187</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123113000 +0000" stop="20261123120000 +0000" channel="US: TBN">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Discover The Keys To Staying Full of God</sub-title>
+    <desc lang="en">Andrew Wommack shares how the Word of God transformed his life. He believes the same power will work for you. His teaching is profound, clear, and simple enough for a child. Find great teachings and healing testimonies of changed lives at: awmi.net.</desc>
+    <credits>
+      <presenter>Andrew Wommack</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123123000 +0000" channel="US: TBN">
+    <title lang="en">Turning Point with Dr. David Jeremiah</title>
+    <sub-title lang="en">Moses: Overcoming Tremendous Obstacles</sub-title>
+    <desc lang="en">The sound Bible-based teaching of Turning Point carries forward the goal of delivering the unchanging Word of God to an ever-changing world.</desc>
+    <credits>
+      <presenter>David Jeremiah</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123123000 +0000" stop="20261123130000 +0000" channel="US: TBN">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">The Miracle You've Been Waiting For Starts Here</sub-title>
+    <desc lang="en">Pastor Joseph Prince is powerfully proclaiming the unadulterated gospel of grace through Jesus Christ to every corner of the earth.</desc>
+    <credits>
+      <presenter>Joseph Prince</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E173</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123130000 +0000" stop="20261123133000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Robert Jeffress</title>
+    <sub-title lang="en">Practicing Powerful Praying (Part 2)</sub-title>
+    <desc lang="en">Pathway to Victory offers a practical application of Gods Word to everyday life through the clear, biblical teaching of Pastor Jeffress.</desc>
+    <credits>
+      <presenter>Robert Jeffress</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E604</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="US: TBN">
+    <title lang="en">Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title lang="en">A Merciful and Forgiving Attitude (Part 1)</sub-title>
+    <desc lang="en">Mercy is meant to be received and shared, but how do you respond to difficult people? Today, Joyce explains why showing mercy to others begins with receiving Gods mercy yourself.</desc>
+    <credits>
+      <presenter>Joyce Meyer</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E193</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="US: TBN">
+    <title lang="en">Creflo Dollar</title>
+    <sub-title lang="en">What Does It Mean To Be In Christ (Part 2)</sub-title>
+    <desc lang="en">Join the dynamic leadership and teaching of Dr. Creflo and Taffi Dollar.</desc>
+    <credits>
+      <presenter>Creflo Dollar</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E270</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123143000 +0000" stop="20261123150000 +0000" channel="US: TBN">
+    <title lang="en">Hagee Ministries</title>
+    <sub-title lang="en">The Power To Get Wealth</sub-title>
+    <desc lang="en">Hagee Ministries are committed to change America by taking all the Gospel to all the world and to all generations.</desc>
+    <credits>
+      <presenter>John Hagee</presenter>
+      <presenter>Matt Hagee</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E281</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123150000 +0000" stop="20261123153000 +0000" channel="US: TBN">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Deaf To The Negative</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E326</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123153000 +0000" stop="20261123160000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson Ministries</title>
+    <sub-title lang="en">The Power of Gratitude and Thanksgiving (Part 1)</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E326</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123163000 +0000" channel="US: TBN">
+    <title lang="en">Steven Furtick</title>
+    <sub-title lang="en">The Prayers You're Not Proud Of (Part 1)</sub-title>
+    <desc lang="en">Elevation with Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <credits>
+      <presenter>Steven Furtick</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E327</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="US: TBN">
+    <title lang="en">Kingdom Connection with Jentezen Franklin</title>
+    <sub-title lang="en">When The Waiting Come (Part 1)</sub-title>
+    <desc lang="en">Pastor Jentezen Franklin brings practical meaning to spiritual truths found in Gods Word.</desc>
+    <credits>
+      <presenter>Jentezen Franklin</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E234</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123173000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Robert Jeffress</title>
+    <sub-title lang="en">Touched By An Angel (Part 1)</sub-title>
+    <desc lang="en">Pathway to Victory offers a practical application of Gods Word to everyday life through the clear, biblical teaching of Pastor Jeffress.</desc>
+    <credits>
+      <presenter>Robert Jeffress</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E605</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123173000 +0000" stop="20261123180000 +0000" channel="US: TBN">
+    <title lang="en">The Winning Walk with Dr. Ed Young</title>
+    <sub-title lang="en">Happy People Are Theologically Sound</sub-title>
+    <desc lang="en">The Winning Walk with Dr. Ed Young is the international on-air and online teaching ministry of Dr. Ed Young. The Winning Walk proclaims the proven truth of Gods Word to give men and women the world over a winning way to live life.</desc>
+    <credits>
+      <presenter>Ed Young</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E234</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="US: TBN">
+    <title lang="en">Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title lang="en">A Merciful and Forgiving Attitude (Part 1)</sub-title>
+    <desc lang="en">Mercy is meant to be received and shared, but how do you respond to difficult people? Today, Joyce explains why showing mercy to others begins with receiving Gods mercy yourself.</desc>
+    <credits>
+      <presenter>Joyce Meyer</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E193</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123183000 +0000" stop="20261123193000 +0000" channel="US: TBN">
+    <title lang="en">Better Together</title>
+    <sub-title lang="en">Thankful in All Seasons</sub-title>
+    <desc lang="en">Laurie Crouch, Sheila Walsh, Toni Collier, Robyn Wilkerson, and Blynda Lane share how choosing gratitude in every season, especially through challenges, brings strength and comfort from God.</desc>
+    <credits>
+      <actor>Sheila Walsh</actor>
+      <actor>Toni Collier</actor>
+      <actor>Robyn Wilkerson</actor>
+      <actor>Blynda Lane</actor>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Christian</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S6 E1006</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123193000 +0000" stop="20261123200000 +0000" channel="US: TBN">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Discover The Keys To Staying Full of God</sub-title>
+    <desc lang="en">Andrew Wommack shares how the Word of God transformed his life. He believes the same power will work for you. His teaching is profound, clear, and simple enough for a child. Find great teachings and healing testimonies of changed lives at: awmi.net.</desc>
+    <credits>
+      <presenter>Andrew Wommack</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="US: TBN">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">The 700 Club features a distinctive blend of news from a biblical perspective, inspirational interviews and biblical teaching for everyday life.</desc>
+    <credits>
+      <presenter>Gordon Robertson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E218</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123213000 +0000" channel="US: TBN">
+    <title lang="en">Turning Point with Dr. David Jeremiah</title>
+    <sub-title lang="en">Moses: Overcoming Tremendous Obstacles</sub-title>
+    <desc lang="en">The sound Bible-based teaching of Turning Point carries forward the goal of delivering the unchanging Word of God to an ever-changing world.</desc>
+    <credits>
+      <presenter>David Jeremiah</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123213000 +0000" stop="20261123220000 +0000" channel="US: TBN">
+    <title lang="en">Steven Furtick</title>
+    <sub-title lang="en">The Prayers You're Not Proud Of (Part 1)</sub-title>
+    <desc lang="en">Elevation with Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <credits>
+      <presenter>Steven Furtick</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E327</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123223000 +0000" channel="US: TBN">
+    <title lang="en">Joel Osteen: 15 Ways to Live Longer &amp; Healthier</title>
+    <sub-title lang="en">A Healthy Soul</sub-title>
+    <desc lang="en">In this 15-part series, Joel Osteen shares his best wisdom on the simple choices we can make each day to live longer, happier, and healthier lives.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123223000 +0000" stop="20261123230000 +0000" channel="US: TBN">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">The Miracle You've Been Waiting For Starts Here</sub-title>
+    <desc lang="en">Pastor Joseph Prince is powerfully proclaiming the unadulterated gospel of grace through Jesus Christ to every corner of the earth.</desc>
+    <credits>
+      <presenter>Joseph Prince</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E173</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261123233000 +0000" channel="US: TBN">
+    <title lang="en">New Season with Samuel Rodriguez</title>
+    <desc lang="en">New Season with Pastor Sam will usher in a New Season where individuals and families will no longer live in failure or merely survive but they will thrive for the glory of Jesus.</desc>
+    <credits>
+      <presenter>Samuel Rodriguez</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E47</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123233000 +0000" stop="20261124000000 +0000" channel="US: TBN">
+    <title lang="en">Charlie Kirk Today</title>
+    <desc lang="en">Join Charlie Kirk Today as we break down the biggest news, challenges the mainstream narrative, and delivers fearless commentary on faith, culture, and politics. No spin. No censorship. Just the TRUTH.</desc>
+    <credits>
+      <presenter>Charlie Kirk</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson NOW</title>
+    <desc lang="en">Television is filled with dysfunction, and the world is drowning in it.  Negativity has saturated people of all ages, fed by competition to the bottom on social media. What if someone new came along with a fresh operating principle?  A person who has travelled the world, seen the worst of it but deals strictly with how to move forward.  An honest and inspiring leader who has lived the full Christian life as a pastor and uses his wisdom to inspire others.  Meet Allen Jackson.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124003000 +0000" stop="20261124010000 +0000" channel="US: TBN">
+    <title lang="en">Stakelbeck Tonight</title>
+    <desc lang="en">From wars and rumors of war abroad, to the rise of anti-Christian, "woke" ideology here at home, it's clear that Americans are living in perilous and unprecedented times. Some would even say that we're witnessing biblical prophecy unfold in real time. Stakelbeck Tonight will make sense of these stunning developments through a bold and biblical lens.</desc>
+    <credits>
+      <presenter>Erick Stakelbeck</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="US: TBN">
+    <title lang="en">Praise</title>
+    <sub-title lang="en">To Be Human with John Lennox</sub-title>
+    <desc lang="en">Matt and Laurie welcome mathematician and Christian apologist John Lennox for a timely conversation about artificial intelligence, transhumanism, and the future of humanity.</desc>
+    <credits>
+      <actor>John Lennox</actor>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E1123</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="US: TBN">
+    <title lang="en">Takeaways with Kirk Cameron</title>
+    <sub-title lang="en">Thanking God for His Faithfulness Around the World</sub-title>
+    <desc lang="en">Kirk Cameron is joined by Wendy Speake and Ellen Vaughn on praising God for His faithfulness and goodness as He transforms lives around the globe.</desc>
+    <credits>
+      <actor>Wendy Speake</actor>
+      <actor>Ellen Vaughn</actor>
+      <presenter>Kirk Cameron</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E198</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124033000 +0000" channel="US: TBN">
+    <title lang="en">Harvest with Pastor Greg Laurie</title>
+    <sub-title lang="en">Good News In A Bad World</sub-title>
+    <desc lang="en">Join Pastor Greg Laurie for a time of encouragement, worship, and Bible study.</desc>
+    <credits>
+      <presenter>Greg Laurie</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E280</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124033000 +0000" stop="20261124040000 +0000" channel="US: TBN">
+    <title lang="en">Stakelbeck Tonight</title>
+    <desc lang="en">From wars and rumors of war abroad, to the rise of anti-Christian, "woke" ideology here at home, it's clear that Americans are living in perilous and unprecedented times. Some would even say that we're witnessing biblical prophecy unfold in real time. Stakelbeck Tonight will make sense of these stunning developments through a bold and biblical lens.</desc>
+    <credits>
+      <presenter>Erick Stakelbeck</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="US: TBN">
+    <title lang="en">Praise</title>
+    <sub-title lang="en">To Be Human with John Lennox</sub-title>
+    <desc lang="en">Matt and Laurie welcome mathematician and Christian apologist John Lennox for a timely conversation about artificial intelligence, transhumanism, and the future of humanity.</desc>
+    <credits>
+      <actor>John Lennox</actor>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E1123</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124053000 +0000" channel="US: TBN">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">The Miracle You've Been Waiting For Starts Here</sub-title>
+    <desc lang="en">Pastor Joseph Prince is powerfully proclaiming the unadulterated gospel of grace through Jesus Christ to every corner of the earth.</desc>
+    <credits>
+      <presenter>Joseph Prince</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E173</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124053000 +0000" stop="20261124060000 +0000" channel="US: TBN">
+    <title lang="en">Charlie Kirk Today</title>
+    <desc lang="en">Join Charlie Kirk Today as we break down the biggest news, challenges the mainstream narrative, and delivers fearless commentary on faith, culture, and politics. No spin. No censorship. Just the TRUTH.</desc>
+    <credits>
+      <presenter>Charlie Kirk</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="US: TBN">
+    <title lang="en">Takeaways with Kirk Cameron</title>
+    <sub-title lang="en">Thanking God for His Faithfulness Around the World</sub-title>
+    <desc lang="en">Kirk Cameron is joined by Wendy Speake and Ellen Vaughn on praising God for His faithfulness and goodness as He transforms lives around the globe.</desc>
+    <credits>
+      <actor>Wendy Speake</actor>
+      <actor>Ellen Vaughn</actor>
+      <presenter>Kirk Cameron</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E198</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124073000 +0000" channel="US: TBN">
+    <title lang="en">Ancient Nutrition: Healthy Aging with Mushrooms</title>
+    <desc lang="en">Discussing the benefits of Jordan Rubin and Josh Axes product Lions Mane supplements.</desc>
+    <credits>
+      <actor>Jordan Rubin</actor>
+      <actor>Josh Axe</actor>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124073000 +0000" stop="20261124083000 +0000" channel="US: TBN">
+    <title lang="en">Biblical Storytelling Meets Cutting-Edge Technology</title>
+    <sub-title lang="en">Vision Bible Praise Special</sub-title>
+    <desc lang="en">A panel conversation introducing Vision Bible, how the vision began, and the opportunity to help bring it to life.</desc>
+    <credits>
+      <actor>Shane Sooter, David Holland, Bob Fopma, Sheila Walsh</actor>
+      <presenter>Matt Crouch</presenter>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124083000 +0000" stop="20261124090000 +0000" channel="US: TBN">
+    <title lang="en">LIFE Today</title>
+    <sub-title lang="en">Going On With God</sub-title>
+    <desc lang="en">Randy and Blynda bring a portion of James classic sermon about truly following God.</desc>
+    <credits>
+      <actor>James Robison</actor>
+      <presenter>Randy Robison</presenter>
+      <presenter>Blynda Lane</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E239</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124093000 +0000" channel="US: TBN">
+    <title lang="en">Vinia: Erick Stakelbeck Hydration</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+  </programme>
+  <programme start="20261124093000 +0000" stop="20261124100000 +0000" channel="US: TBN">
+    <title lang="en">The Power of Healing Leaves &amp; Hope</title>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+  </programme>
+  <programme start="20261124100000 +0000" stop="20261124103000 +0000" channel="US: TBN">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Beating Bitterness</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E327</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124103000 +0000" stop="20261124110000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson Ministries</title>
+    <sub-title lang="en">The Power of Gratitude and Thanksgiving (Part 2)</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E327</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124110000 +0000" stop="20261124113000 +0000" channel="US: TBN">
+    <title lang="en">Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title lang="en">Are You Working from Approval or for Approval? (Part 1)</sub-title>
+    <desc lang="en">Do you feel like you need to earn Gods approval? Today, Joyce shares wisdom from Gods Word to remind you of how much He already loves and approves of you.</desc>
+    <credits>
+      <presenter>Joyce Meyer</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E188</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124113000 +0000" stop="20261124120000 +0000" channel="US: TBN">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Discover The Keys To Staying Full of God</sub-title>
+    <desc lang="en">Andrew Wommack shares how the Word of God transformed his life. He believes the same power will work for you. His teaching is profound, clear, and simple enough for a child. Find great teachings and healing testimonies of changed lives at: awmi.net.</desc>
+    <credits>
+      <presenter>Andrew Wommack</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124120000 +0000" stop="20261124123000 +0000" channel="US: TBN">
+    <title lang="en">Turning Point with Dr. David Jeremiah</title>
+    <sub-title lang="en">Daniel: Overcoming The Lion's Den</sub-title>
+    <desc lang="en">The sound Bible-based teaching of Turning Point carries forward the goal of delivering the unchanging Word of God to an ever-changing world.</desc>
+    <credits>
+      <presenter>David Jeremiah</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124123000 +0000" stop="20261124130000 +0000" channel="US: TBN">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">The Five Benefits That Never Expire - Psalm 103</sub-title>
+    <desc lang="en">Pastor Joseph Prince is powerfully proclaiming the unadulterated gospel of grace through Jesus Christ to every corner of the earth.</desc>
+    <credits>
+      <presenter>Joseph Prince</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E174</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124133000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Robert Jeffress</title>
+    <sub-title lang="en">Bright Lights and Night Lights (Part 1)</sub-title>
+    <desc lang="en">Pathway to Victory offers a practical application of Gods Word to everyday life through the clear, biblical teaching of Pastor Jeffress.</desc>
+    <credits>
+      <presenter>Robert Jeffress</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E606</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="US: TBN">
+    <title lang="en">Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title lang="en">A Merciful and Forgiving Attitude (Part 2)</sub-title>
+    <desc lang="en">Holding on to unforgiveness only keeps you hurting. Today, Joyce shares how choosing to forgive can bring freedom and help you let go of the pain from your past.</desc>
+    <credits>
+      <presenter>Joyce Meyer</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E194</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="US: TBN">
+    <title lang="en">Creflo Dollar</title>
+    <sub-title lang="en">What Does It Mean To Be In Christ (Part 2)</sub-title>
+    <desc lang="en">Join the dynamic leadership and teaching of Dr. Creflo and Taffi Dollar.</desc>
+    <credits>
+      <presenter>Creflo Dollar</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E271</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="US: TBN">
+    <title lang="en">Hagee Ministries</title>
+    <sub-title lang="en">The Attitude of Praise</sub-title>
+    <desc lang="en">Hagee Ministries are committed to change America by taking all the Gospel to all the world and to all generations.</desc>
+    <credits>
+      <presenter>John Hagee</presenter>
+      <presenter>Matt Hagee</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E282</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="US: TBN">
+    <title lang="en">Joel Osteen</title>
+    <sub-title lang="en">Beating Bitterness</sub-title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E327</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124153000 +0000" stop="20261124160000 +0000" channel="US: TBN">
+    <title lang="en">Allen Jackson Ministries</title>
+    <sub-title lang="en">The Power of Gratitude and Thanksgiving (Part 2)</sub-title>
+    <desc lang="en">Pastor Allen Jackson's mission is to help people become fully devoted followers of Jesus Christ.</desc>
+    <credits>
+      <presenter>Allen Jackson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E327</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="US: TBN">
+    <title lang="en">Steven Furtick</title>
+    <sub-title lang="en">The Prayers You're Not Proud Of (Part 2)</sub-title>
+    <desc lang="en">Elevation with Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <credits>
+      <presenter>Steven Furtick</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E328</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="US: TBN">
+    <title lang="en">Kingdom Connection with Jentezen Franklin</title>
+    <sub-title lang="en">When The Waiting Comes (Part 2)</sub-title>
+    <desc lang="en">Pastor Jentezen Franklin brings practical meaning to spiritual truths found in Gods Word.</desc>
+    <credits>
+      <presenter>Jentezen Franklin</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E235</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="US: TBN">
+    <title lang="en">Dr. Robert Jeffress</title>
+    <sub-title lang="en">Touched By An Angel (Part 2)</sub-title>
+    <desc lang="en">Pathway to Victory offers a practical application of Gods Word to everyday life through the clear, biblical teaching of Pastor Jeffress.</desc>
+    <credits>
+      <presenter>Robert Jeffress</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E607</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124173000 +0000" stop="20261124180000 +0000" channel="US: TBN">
+    <title lang="en">The Winning Walk with Dr. Ed Young</title>
+    <sub-title lang="en">Happy People Run From Anger</sub-title>
+    <desc lang="en">The Winning Walk with Dr. Ed Young is the international on-air and online teaching ministry of Dr. Ed Young. The Winning Walk proclaims the proven truth of Gods Word to give men and women the world over a winning way to live life.</desc>
+    <credits>
+      <presenter>Ed Young</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E235</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124183000 +0000" channel="US: TBN">
+    <title lang="en">Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title lang="en">A Merciful and Forgiving Attitude (Part 2)</sub-title>
+    <desc lang="en">Holding on to unforgiveness only keeps you hurting. Today, Joyce shares how choosing to forgive can bring freedom and help you let go of the pain from your past.</desc>
+    <credits>
+      <presenter>Joyce Meyer</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E194</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124183000 +0000" stop="20261124193000 +0000" channel="US: TBN">
+    <title lang="en">Better Together</title>
+    <sub-title lang="en">A Heart of Gratitude</sub-title>
+    <desc lang="en">Laurie Crouch, Sheila Walsh, Toni Collier, Robyn Wilkerson, and Blynda Lane discuss how cultivating a heart of gratitude can transform lives and deepen faith in God, even in the hardest moments.</desc>
+    <credits>
+      <actor>Sheila Walsh</actor>
+      <actor>Toni Collier</actor>
+      <actor>Robyn Wilkerson</actor>
+      <actor>Blynda Lane</actor>
+      <presenter>Laurie Crouch</presenter>
+    </credits>
+    <category lang="en">Christian</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S6 E1007</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124193000 +0000" stop="20261124200000 +0000" channel="US: TBN">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Discover The Keys To Staying Full of God</sub-title>
+    <desc lang="en">Andrew Wommack shares how the Word of God transformed his life. He believes the same power will work for you. His teaching is profound, clear, and simple enough for a child. Find great teachings and healing testimonies of changed lives at: awmi.net.</desc>
+    <credits>
+      <presenter>Andrew Wommack</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="US: TBN">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">The 700 Club features a distinctive blend of news from a biblical perspective, inspirational interviews and biblical teaching for everyday life.</desc>
+    <credits>
+      <presenter>Gordon Robertson</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E219</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124210000 +0000" stop="20261124213000 +0000" channel="US: TBN">
+    <title lang="en">Turning Point with Dr. David Jeremiah</title>
+    <sub-title lang="en">Daniel: Overcoming The Lion's Den</sub-title>
+    <desc lang="en">The sound Bible-based teaching of Turning Point carries forward the goal of delivering the unchanging Word of God to an ever-changing world.</desc>
+    <credits>
+      <presenter>David Jeremiah</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124213000 +0000" stop="20261124220000 +0000" channel="US: TBN">
+    <title lang="en">Steven Furtick</title>
+    <sub-title lang="en">The Prayers You're Not Proud Of (Part 2)</sub-title>
+    <desc lang="en">Elevation with Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <credits>
+      <presenter>Steven Furtick</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E328</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124223000 +0000" channel="US: TBN">
+    <title lang="en">Joel Osteen: 15 Ways to Live Longer &amp; Healthier</title>
+    <sub-title lang="en">Stay Positive Toward Yourself</sub-title>
+    <desc lang="en">In this 15-part series, Joel Osteen shares his best wisdom on the simple choices we can make each day to live longer, happier, and healthier lives.</desc>
+    <credits>
+      <presenter>Joel Osteen</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124223000 +0000" stop="20261124230000 +0000" channel="US: TBN">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">The Five Benefits That Never Expire - Psalm 103</sub-title>
+    <desc lang="en">Pastor Joseph Prince is powerfully proclaiming the unadulterated gospel of grace through Jesus Christ to every corner of the earth.</desc>
+    <credits>
+      <presenter>Joseph Prince</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <episode-num system="onscreen">S26 E174</episode-num>
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261124233000 +0000" channel="US: TBN">
+    <title lang="en">BillyGraham.TV</title>
+    <sub-title lang="en">The Unfinished Mission</sub-title>
+    <desc lang="en">Watch the BGEA leadership team discuss creative plans for the future, and witness believers in action through BGEA ministries as they seek to obey Christs command to "go and make disciples of all nations.".</desc>
+    <credits>
+      <presenter>Franklin Graham</presenter>
+    </credits>
+    <category lang="en">Religion</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124233000 +0000" stop="20261125000000 +0000" channel="US: TBN">
+    <title lang="en">Charlie Kirk Today</title>
+    <desc lang="en">Join Charlie Kirk Today as we break down the biggest news, challenges the mainstream narrative, and delivers fearless commentary on faith, culture, and politics. No spin. No censorship. Just the TRUTH.</desc>
+    <credits>
+      <presenter>Charlie Kirk</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.jwplayer.com/v2/media/CrkUnLUc/poster.jpg" />
+    <rating system="TV Parental Guidelines">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <channel id="US: TBS HD">
     <display-name>US: TBS HD</display-name>
@@ -407268,560 +409167,6 @@
     <display-name>US: KTLA LOS ANGELES HD</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s53098_ll_h15_ac.png?w=360&amp;h=270" />
   </channel>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120060000 +0000" stop="20261120064500 +0000">
-    <title lang="en">KTLA 5 News at 10</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2005</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120064500 +0000" stop="20261120070000 +0000">
-    <title lang="en">KTLA 5 Sports Final</title>
-    <date>2015</date>
-    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120070000 +0000" stop="20261120073500 +0000">
-    <title lang="en">KTLA 5 News at 11</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120073500 +0000" stop="20261120080500 +0000">
-    <title lang="en">Friends</title>
-    <sub-title lang="en">The One With the Creepy Holiday Card</sub-title>
-    <desc lang="en">Ross' new girlfriend wants to put their photograph on Christmas cards; Rachel eyes Joey as a possible partner.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
-      <actor>Lisa Kudrow</actor>
-      <director>Gary Halvorson</director>
-    </credits>
-    <date>2001</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E11</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>A</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120080500 +0000" stop="20261120083500 +0000">
-    <title lang="en">Friends</title>
-    <sub-title lang="en">The One With Monica's Boots</sub-title>
-    <desc lang="en">Chandler is aghast when Monica buys expensive boots; Phoebe discovers that Ross' son attends school with Sting's son.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
-      <actor>Lisa Kudrow</actor>
-      <director>Gary Halvorson</director>
-    </credits>
-    <date>2001</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E10</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>A</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120083500 +0000" stop="20261120090500 +0000">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Cooper-Hofstadter Polarization</sub-title>
-    <desc lang="en">Penny tries to mediate when Sheldon and Leonard disagree on whether to present their joint findings at a physics conference.</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <director>Joel Murray</director>
-    </credits>
-    <date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7895966_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120090500 +0000" stop="20261120093500 +0000">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Wheaton Recurrence</sub-title>
-    <desc lang="en">Penny and Leonard have a fight that threatens their relationship; Sheldon and Wil Wheaton face off once again.</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <director>Mark Cendrowski</director>
-    </credits>
-    <date>2010</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120093500 +0000" stop="20261120100500 +0000">
-    <title lang="en">Two and a Half Men</title>
-    <sub-title lang="en">Sleep Tight, Puddin' Pop</sub-title>
-    <desc lang="en">Rose's father (Martin Sheen) confronts Charlie about his intentions toward Rose.</desc>
-    <credits>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-      <director>Gary Halvorson</director>
-    </credits>
-    <date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7895742_b_h10_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120100500 +0000" stop="20261120103500 +0000">
-    <title lang="en">Scrabble</title>
-    <desc lang="en">Wordsmiths battle it out playing a series of addictive, word-based games to win points and add words to a giant Scrabble board in the center of the set.</desc>
-    <credits>
-      <actor>Craig Ferguson</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33793079_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E54</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120103500 +0000" stop="20261120110500 +0000">
-    <title lang="en">Trivial Pursuit</title>
-    <desc lang="en">Contestants compete on a giant version of the iconic game board, battling it out over a range of play-along question categories to win wedges and beat each other to the center.</desc>
-    <credits>
-      <actor>LeVar Burton</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33793119_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E54</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120110500 +0000" stop="20261120113000 +0000">
-    <title lang="en">Police 24/7</title>
-    <desc lang="en">A raw, unfiltered look into the world of sheriff and police departments across the United States as they serve and protect at all costs.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33785388_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E107</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120113000 +0000" stop="20261120120000 +0000">
-    <title lang="en">Judy Justice</title>
-    <sub-title lang="en">Balding at Sixteen</sub-title>
-    <desc lang="en">After hiring a stylist to do her twin daughters' hair for their sweet 16 party, a mother sues for 5,000 dollars over alleged permanent scalp damage; tensions escalate as the stylist countersues for defamation and a litigant is thrown out of court.</desc>
-    <credits>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-      <director>Randy Douthit</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E94</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120120000 +0000" stop="20261120123000 +0000">
-    <title lang="en">KTLA 5 Morning News at 4</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2012</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9458469_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120123000 +0000" stop="20261120130000 +0000">
-    <title lang="en">KTLA 5 Morning News at 4:30</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p3514986_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120130000 +0000" stop="20261120140000 +0000">
-    <title lang="en">KTLA 5 Morning News at 5</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755461_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120140000 +0000" stop="20261120150000 +0000">
-    <title lang="en">KTLA 5 Morning News at 6</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755463_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120150000 +0000" stop="20261120170000 +0000">
-    <title lang="en">KTLA 5 Morning News at 7</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>1995</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120170000 +0000" stop="20261120180000 +0000">
-    <title lang="en">KTLA 5 Morning News at 9</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755464_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120180000 +0000" stop="20261120190000 +0000">
-    <title lang="en">KTLA 5 Morning News at 10</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14220112_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120190000 +0000" stop="20261120200000 +0000">
-    <title lang="en">KTLA 5 Morning News at 11</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15468956_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120200000 +0000" stop="20261120210000 +0000">
-    <title lang="en">KTLA 5 News at Noon</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18702368_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120210000 +0000" stop="20261120220000 +0000">
-    <title lang="en">KTLA 5 News at 1</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p3514976_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120220000 +0000" stop="20261120230000 +0000">
-    <title lang="en">Off the Clock</title>
-    <desc lang="en">Chris Schauble, Megan Henderson and Henry DiCarlo give viewers their take on the tech trends, superhero news, healthy headlines and more; they show their favorite Southern California spots while discovering more.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20569224_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261120230000 +0000" stop="20261121000000 +0000">
-    <title lang="en">KTLA 5 News at 3</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2015</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11371685_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261121000000 +0000" stop="20261121010000 +0000">
-    <title lang="en">KTLA 5 News at 4</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15020116_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261121010000 +0000" stop="20261121043000 +0000">
-    <title lang="en">Live: College Football</title>
-    <desc lang="en">The UTEP Miners visit the Air Force Falcons for an NCAA Division I FBS conference game. The UTEP Miners enter on an eight-game skid with EJ Colson Jr., while the Air Force Falcons ride a three-game win streak with Evan Medders in MWC action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00372K05.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261121043000 +0000" stop="20261121050000 +0000">
-    <title lang="en">Two and a Half Men</title>
-    <sub-title lang="en">Thank God for Scoliosis</sub-title>
-    <desc lang="en">Charlie and Jake fight for the affections of a waitress, while Alan fights sexual tension with his receptionist.</desc>
-    <credits>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-      <director>Jeff Melman</director>
-    </credits>
-    <date>2009</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7895722_b_h8_ag.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S6 E12</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261121050000 +0000" stop="20261121053000 +0000">
-    <title lang="en">L.A. Unscripted</title>
-    <desc lang="en">Join KTLA Entertainment Reporter Dayna Devon and friends as they discuss the unique and fun lifestyles of the Los Angeles area.</desc>
-    <date>2020</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18725702_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261121053000 +0000" stop="20261121060000 +0000">
-    <title lang="en">Friends</title>
-    <sub-title lang="en">The One With the Lottery</sub-title>
-    <desc lang="en">The gang buys scads of lottery tickets for the multimillion-dollar jackpot; Rachel suspects baby Emma is on the verge of saying her first word.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
-      <actor>Lisa Kudrow</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7892580_b_h10_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S9 E18</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>A</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
   <programme channel="US: KTLA LOS ANGELES HD" start="20261121060000 +0000" stop="20261121064500 +0000">
     <title lang="en">KTLA 5 News at 10</title>
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
@@ -409363,6 +410708,519 @@
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124060000 +0000" stop="20261124064500 +0000">
+    <title lang="en">KTLA 5 News at 10</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2005</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124064500 +0000" stop="20261124070000 +0000">
+    <title lang="en">KTLA 5 Sports Final</title>
+    <date>2015</date>
+    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124070000 +0000" stop="20261124073500 +0000">
+    <title lang="en">KTLA 5 News at 11</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124073500 +0000" stop="20261124080500 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With the Birthing Video</sub-title>
+    <desc lang="en">Monica prepares a memorable St. Valentine's Day for Chandler with sexy lingerie and X-rated entertainment.</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox Arquette</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E15</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124080500 +0000" stop="20261124083500 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One Where Joey Tells Rachel</sub-title>
+    <desc lang="en">Joey confesses his true feelings for Rachel; Phoebe introduces Monica to her new boyfriend (Harry Van Gorkum).</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox Arquette</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124083500 +0000" stop="20261124090500 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Pancake Batter Anomaly</sub-title>
+    <desc lang="en">Leonard and the boys avoid Sheldon when he gets sick, leaving Penny to nurse him back to health.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895966_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124090500 +0000" stop="20261124093500 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Plimpton Stimulation</sub-title>
+    <desc lang="en">Sheldon invites a famous physicist to the apartment, and competes with Leonard for her attention.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124093500 +0000" stop="20261124100500 +0000">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Madame and Her Special Friend</sub-title>
+    <desc lang="en">Charlie tries to stop Jake from giving money to a televangelist; Alan is propositioned by one of Charlie's elderly neighbors.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <director>Asaad Kelada</director>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7895742_b_h10_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124100500 +0000" stop="20261124103500 +0000">
+    <title lang="en">Scrabble</title>
+    <desc lang="en">Wordsmiths battle it out playing a series of addictive, word-based games to win points and add words to a giant Scrabble board in the center of the set.</desc>
+    <credits>
+      <actor>Craig Ferguson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33793079_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E56</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124103500 +0000" stop="20261124110500 +0000">
+    <title lang="en">Trivial Pursuit</title>
+    <desc lang="en">Contestants compete on a giant version of the iconic game board, battling it out over a range of play-along question categories to win wedges and beat each other to the center.</desc>
+    <credits>
+      <actor>LeVar Burton</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33793119_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E56</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124110500 +0000" stop="20261124113000 +0000">
+    <title lang="en">Police 24/7</title>
+    <desc lang="en">A raw, unfiltered look into the world of sheriff and police departments across the United States as they serve and protect at all costs.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33785388_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E111</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124113000 +0000" stop="20261124120000 +0000">
+    <title lang="en">Judy Justice</title>
+    <sub-title lang="en">Dubai Yacht Party Fail</sub-title>
+    <desc lang="en">Two cousins sue each other for assault and vacation expenses; on a family trip to Dubai, a yacht party takes an unfortunate turn when one cousin's drunken behavior escalates into a physical confrontation in their hotel room.</desc>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+      <actor>Kevin Rasco</actor>
+      <actor>Whitney Kumar</actor>
+      <director>Randy Douthit</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E98</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124120000 +0000" stop="20261124123000 +0000">
+    <title lang="en">KTLA 5 Morning News at 4</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2012</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9458469_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124123000 +0000" stop="20261124130000 +0000">
+    <title lang="en">KTLA 5 Morning News at 4:30</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3514986_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124130000 +0000" stop="20261124140000 +0000">
+    <title lang="en">KTLA 5 Morning News at 5</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755461_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124140000 +0000" stop="20261124150000 +0000">
+    <title lang="en">KTLA 5 Morning News at 6</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755463_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124150000 +0000" stop="20261124170000 +0000">
+    <title lang="en">KTLA 5 Morning News at 7</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>1995</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124170000 +0000" stop="20261124180000 +0000">
+    <title lang="en">KTLA 5 Morning News at 9</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755464_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124180000 +0000" stop="20261124190000 +0000">
+    <title lang="en">KTLA 5 Morning News at 10</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14220112_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124190000 +0000" stop="20261124200000 +0000">
+    <title lang="en">KTLA 5 Morning News at 11</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15468956_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124200000 +0000" stop="20261124210000 +0000">
+    <title lang="en">KTLA 5 News at Noon</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18702368_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124210000 +0000" stop="20261124220000 +0000">
+    <title lang="en">KTLA 5 News at 1</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3514976_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124220000 +0000" stop="20261124230000 +0000">
+    <title lang="en">Off the Clock</title>
+    <desc lang="en">Chris Schauble, Megan Henderson and Henry DiCarlo give viewers their take on the tech trends, superhero news, healthy headlines and more; they show their favorite Southern California spots while discovering more.</desc>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20569224_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261124230000 +0000" stop="20261125000000 +0000">
+    <title lang="en">KTLA 5 News at 3</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2015</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11371685_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261125000000 +0000" stop="20261125010000 +0000">
+    <title lang="en">KTLA 5 News at 4</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15020116_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261125010000 +0000" stop="20261125020000 +0000">
+    <title lang="en">KTLA 5 News at 5</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7835394_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261125020000 +0000" stop="20261125023000 +0000">
+    <title lang="en">KTLA 5 News at 6</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261125023000 +0000" stop="20261125030000 +0000">
+    <title lang="en">KTLA 5 News at 6:30</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261125030000 +0000" stop="20261125033000 +0000">
+    <title lang="en">KTLA 5 News at 7</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15921240_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261125033000 +0000" stop="20261125040000 +0000">
+    <title lang="en">L.A. Unscripted</title>
+    <desc lang="en">Join KTLA Entertainment Reporter Dayna Devon and friends as they discuss the unique and fun lifestyles of the Los Angeles area.</desc>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18725702_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261125040000 +0000" stop="20261125060000 +0000">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">WWE's hottest up-and-coming Superstars compete to prove they've got what it takes; more than just evolution, it's a revolution; the entertainers, the leading men and women, the WWE Superstars of tomorrow.</desc>
+    <credits>
+      <actor>Vic Joseph</actor>
+      <actor>Booker T</actor>
+      <actor>Corey Graves</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Pro wrestling</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32104953_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S20 E47</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
     </rating>
   </programme>
   <channel id="US: REAL AMERICA'S VOICE HD">

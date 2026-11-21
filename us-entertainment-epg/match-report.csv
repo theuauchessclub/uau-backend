@@ -98,7 +98,7 @@ US: SMITHSONIAN CHANNEL WEST HD,SmithsonianChannel.us,us2,Smithsonian.HD.Network
 US: SYFY HD,Syfy.us,us2,Syfy.HD.(Pacific).us2,98.0,name-exact,81
 US: SYFY WEST HD,Syfy.us,us2,Syfy.HD.(Pacific).us2,96.0,name-relaxed,81
 US: TASTEMADE HD,Tastemade.us,us2,Tastemade.us2,98.0,name-exact,155
-US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,66
+US: TBN,TBN.us,prime,PRIME: TBN RAW,98.0,name-exact,165
 US: TBS HD,,us2,TBS.HD.us2,99.0,alias-name,145
 US: TCM HD,,us2,Turner.Classic.Movies.HD.us2,99.0,alias-name,58
 US: TEEN NICK,,us2,Teen.Nick.us2,98.0,name-exact,222
@@ -125,7 +125,7 @@ US: LAW & CRIME,,us2,Law.and.Crime.us2,99.0,alias-name,136
 US: EL REY,,us2,El.Rey.Network.us2,98.0,alias-relaxed,60
 US: GREAT AMERICAN FAITH & LIVING,,us2,Great.American.Faith.and.Living.us2,99.0,alias-name,49
 US: WORLD FISHING NETWORK HD,,us2,World.Fishing.Network.HD.(US).us2,99.0,alias-name,156
-US: KTLA LOS ANGELES HD,,locals,KTLA-DT.us_locals1,100.0,alias-id,117
+US: KTLA LOS ANGELES HD,,locals,KTLA-DT.us_locals1,100.0,alias-id,119
 US: REAL AMERICA'S VOICE HD,,us2,Real.Americas.Voice.us2,97.4,fuzzy,78
 US: Magnolia Network West (Y) HD,MagnoliaNetwork.us,us2,Magnolia.Network.HD.us2,96.0,name-relaxed,108
 US: FOOD NETWORK WEST HD,foodnetwork.us,us2,Food.Network.HD.us2,96.0,name-relaxed,115
