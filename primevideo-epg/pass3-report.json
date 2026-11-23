@@ -1,18 +1,18 @@
 {
   "starting_unmatched": 798,
-  "candidate_names_loaded": 12259,
+  "candidate_names_loaded": 12255,
   "provisional_matches": 505,
   "new_matches_with_programmes": 491,
   "remaining_unmatched": 302,
   "combined_match_rate_percent": 64.1,
-  "programmes_added": 31971,
+  "programmes_added": 31863,
   "source_programmes": {
-    "pluto": 2231,
-    "samsung": 1076,
-    "roku": 9725,
-    "plex_mjh": 5343,
+    "pluto": 2296,
+    "samsung": 1091,
+    "roku": 9577,
+    "plex_mjh": 5312,
     "canada": 4280,
-    "uk": 1876,
+    "uk": 1867,
     "whaletv": 621,
     "fanduel": 184,
     "rakuten": 3154,
@@ -55,7 +55,7 @@
       "source": "uk",
       "ok": true,
       "candidate_names": 974,
-      "bytes": 2928688
+      "bytes": 2882531
     },
     {
       "source": "canada",
@@ -73,31 +73,31 @@
       "source": "mexico",
       "ok": true,
       "candidate_names": 350,
-      "bytes": 414564
+      "bytes": 377270
     },
     {
       "source": "pluto",
       "ok": true,
       "candidate_names": 916,
-      "bytes": 988547
+      "bytes": 992828
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1188,
-      "bytes": 509595
+      "bytes": 513227
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1482,
-      "bytes": 3399930
+      "candidate_names": 1478,
+      "bytes": 3415829
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1404,
-      "bytes": 2928391
+      "bytes": 2814682
     }
   ],
   "matches": [
@@ -756,7 +756,7 @@
       "base_name": "CBS NEWS TEXAS",
       "stream_id": "",
       "source": "pluto",
-      "epg_id": "5eceb0d4065c240007688ec6",
+      "epg_id": "62cdc813f5def500070361eb",
       "source_display": "CBS News Texas",
       "score": 100.0,
       "method": "pass3-exact"
@@ -3182,6 +3182,16 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: TMZ RAW",
+      "base_name": "TMZ",
+      "stream_id": "",
+      "source": "samsung",
+      "epg_id": "USBD70000213",
+      "source_display": "TMZ",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: TNA WRESTLING CHANNEL RAW",
       "base_name": "TNA WRESTLING CHANNEL",
       "stream_id": "",
@@ -3438,16 +3448,6 @@
       "source": "roku",
       "epg_id": "e38d66dbb4e05f9690f6c573417fc231",
       "source_display": "WPXI Pittsburgh",
-      "score": 95.0,
-      "method": "pass3-fuzzy"
-    },
-    {
-      "name": "PRIME: WSB ATLANTA (ABC) RAW",
-      "base_name": "WSB ATLANTA (ABC)",
-      "stream_id": "",
-      "source": "roku",
-      "epg_id": "69f8d2659a475342b88db93b63f755d0",
-      "source_display": "WSB Atlanta",
       "score": 95.0,
       "method": "pass3-fuzzy"
     },
