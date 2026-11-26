@@ -408144,565 +408144,6 @@
     <display-name>US: KTLA LOS ANGELES HD</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s53098_ll_h15_ac.png?w=360&amp;h=270" />
   </channel>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125060000 +0000" stop="20261125064500 +0000">
-    <title lang="en">KTLA 5 News at 10</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2005</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125064500 +0000" stop="20261125070000 +0000">
-    <title lang="en">KTLA 5 Sports Final</title>
-    <date>2015</date>
-    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125070000 +0000" stop="20261125073500 +0000">
-    <title lang="en">KTLA 5 News at 11</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125073500 +0000" stop="20261125080500 +0000">
-    <title lang="en">Friends</title>
-    <sub-title lang="en">The One With the Tea Leaves</sub-title>
-    <desc lang="en">Rachel devises a lie about her unborn child that she hopes will break the silence between her and Joey; Phoebe reads tea leaves and predicts she will soon encounter the man of her dreams.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
-      <actor>Lisa Kudrow</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E17</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>A</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125080500 +0000" stop="20261125083500 +0000">
-    <title lang="en">Friends</title>
-    <sub-title lang="en">The One in Massapequa</sub-title>
-    <desc lang="en">Phoebe brings her annoyingly upbeat boyfriend to the 35th anniversary of Monica and Ross' parents, who urge Ross and pregnant Rachel to pretend to be married.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
-      <actor>Lisa Kudrow</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E18</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>A</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125083500 +0000" stop="20261125090500 +0000">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Jerusalem Duality</sub-title>
-    <desc lang="en">Sheldon and Leonard look for a way to derail a 15-year-old physics prodigy's research.</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <director>Mark Cendrowski</director>
-    </credits>
-    <date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7895966_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125090500 +0000" stop="20261125093500 +0000">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Staircase Implementation</sub-title>
-    <desc lang="en">Leonard tells Penny about how he met Sheldon and what happened to the elevator.</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <director>Mark Cendrowski</director>
-    </credits>
-    <date>2010</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125093500 +0000" stop="20261125100500 +0000">
-    <title lang="en">Two and a Half Men</title>
-    <sub-title lang="en">Something Salted and Twisted</sub-title>
-    <desc lang="en">Alan organizes a family dinner to celebrate a newspaper article that calls him a good doctor, good neighbor and a good guy; it does not impress his mother.</desc>
-    <credits>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-      <director>Rob Schiller</director>
-    </credits>
-    <date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7895742_b_h10_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125100500 +0000" stop="20261125103500 +0000">
-    <title lang="en">Scrabble</title>
-    <desc lang="en">Wordsmiths battle it out playing a series of addictive, word-based games to win points and add words to a giant Scrabble board in the center of the set.</desc>
-    <credits>
-      <actor>Craig Ferguson</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33793079_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E57</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125103500 +0000" stop="20261125110500 +0000">
-    <title lang="en">Trivial Pursuit</title>
-    <desc lang="en">Contestants compete on a giant version of the iconic game board, battling it out over a range of play-along question categories to win wedges and beat each other to the center.</desc>
-    <credits>
-      <actor>LeVar Burton</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33793119_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E57</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125110500 +0000" stop="20261125113000 +0000">
-    <title lang="en">Police 24/7</title>
-    <desc lang="en">A raw, unfiltered look into the world of sheriff and police departments across the United States as they serve and protect at all costs.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33785388_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E113</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125113000 +0000" stop="20261125120000 +0000">
-    <title lang="en">Judy Justice</title>
-    <sub-title lang="en">GoFundMe Family Fail</sub-title>
-    <desc lang="en">A Florida man sues his estranged wife's niece for over $6K for defamation due to a GoFundMe containing unsubstantiated claims of fraud.</desc>
-    <credits>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-      <director>Randy Douthit</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E105</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125120000 +0000" stop="20261125123000 +0000">
-    <title lang="en">KTLA 5 Morning News at 4</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2012</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9458469_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125123000 +0000" stop="20261125130000 +0000">
-    <title lang="en">KTLA 5 Morning News at 4:30</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p3514986_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125130000 +0000" stop="20261125140000 +0000">
-    <title lang="en">KTLA 5 Morning News at 5</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755461_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125140000 +0000" stop="20261125150000 +0000">
-    <title lang="en">KTLA 5 Morning News at 6</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755463_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125150000 +0000" stop="20261125170000 +0000">
-    <title lang="en">KTLA 5 Morning News at 7</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>1995</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125170000 +0000" stop="20261125180000 +0000">
-    <title lang="en">KTLA 5 Morning News at 9</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755464_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125180000 +0000" stop="20261125190000 +0000">
-    <title lang="en">KTLA 5 Morning News at 10</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14220112_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125190000 +0000" stop="20261125200000 +0000">
-    <title lang="en">KTLA 5 Morning News at 11</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15468956_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125200000 +0000" stop="20261125210000 +0000">
-    <title lang="en">KTLA 5 News at Noon</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18702368_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125210000 +0000" stop="20261125220000 +0000">
-    <title lang="en">KTLA 5 News at 1</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p3514976_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125220000 +0000" stop="20261125230000 +0000">
-    <title lang="en">Off the Clock</title>
-    <desc lang="en">Chris Schauble, Megan Henderson and Henry DiCarlo give viewers their take on the tech trends, superhero news, healthy headlines and more; they show their favorite Southern California spots while discovering more.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20569224_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261125230000 +0000" stop="20261126000000 +0000">
-    <title lang="en">KTLA 5 News at 3</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2015</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11371685_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261126000000 +0000" stop="20261126010000 +0000">
-    <title lang="en">KTLA 5 News at 4</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15020116_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261126010000 +0000" stop="20261126020000 +0000">
-    <title lang="en">KTLA 5 News at 5</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7835394_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261126020000 +0000" stop="20261126023000 +0000">
-    <title lang="en">KTLA 5 News at 6</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261126023000 +0000" stop="20261126030000 +0000">
-    <title lang="en">KTLA 5 News at 6:30</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261126030000 +0000" stop="20261126033000 +0000">
-    <title lang="en">KTLA 5 News at 7</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15921240_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261126033000 +0000" stop="20261126040000 +0000">
-    <title lang="en">L.A. Unscripted</title>
-    <desc lang="en">Join KTLA Entertainment Reporter Dayna Devon and friends as they discuss the unique and fun lifestyles of the Los Angeles area.</desc>
-    <date>2020</date>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18725702_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="US: KTLA LOS ANGELES HD" start="20261126040000 +0000" stop="20261126060000 +0000">
-    <title lang="en">The Wizard of Oz</title>
-    <desc lang="en">When a tornado rips through Kansas, Dorothy and her dog, Toto, are whisked away in their house to the magical land of Oz. They follow the Yellow Brick Road toward the Emerald City to meet the Wizard, and en route they meet a Scarecrow that needs a brain, a Tin Man missing a heart, and a Cowardly Lion who wants courage. The wizard asks the group to bring him the broom of the Wicked Witch of the West to earn his help.</desc>
-    <credits>
-      <actor>Judy Garland</actor>
-      <actor>Frank Morgan</actor>
-      <actor>Ray Bolger</actor>
-      <director>Victor Fleming</director>
-    </credits>
-    <date>1939</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Musical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p5095_v_h10_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-    <rating system="Motion Picture Association">
-      <value>G</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="B.C. Film Classification Office">
-      <value>G</value>
-    </rating>
-    <rating system="Saskatchewan Film and Video Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>U</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Manitoba Film Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Maritime Film Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>All</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
   <programme channel="US: KTLA LOS ANGELES HD" start="20261126060000 +0000" stop="20261126064500 +0000">
     <title lang="en">KTLA 5 News at 10</title>
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
@@ -411031,7 +410472,7 @@
   </programme>
   <programme channel="US: KTLA LOS ANGELES HD" start="20261128200000 +0000" stop="20261128233000 +0000">
     <title lang="en">Live: College Football</title>
-    <desc lang="en">From Lane Stadium in Blacksburg, Va.</desc>
+    <desc lang="en">The Virginia Cavaliers (6-5, 4-4 ACC) and the Virginia Tech Hokies (6-5, 3-5 ACC) battle at Lane Stadium. Virginia aims for three straight wins after a 41-24 win against North Carolina, while Virginia Tech looks to break a three-game skid.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00373MHC.jpg?w=960&amp;h=540" />
@@ -411047,11 +410488,579 @@
   </programme>
   <programme channel="US: KTLA LOS ANGELES HD" start="20261129030000 +0000" stop="20261129063000 +0000">
     <title lang="en">Live: College Football</title>
-    <desc lang="en">From Bulldog Stadium in Fresno, Calif.</desc>
+    <desc lang="en">The Oregon State Beavers visit the Fresno State Bulldogs for an NCAA Division I FBS conference game. Oregon State defeated Utah State 31-24 with Maalik Murphy, while Fresno State defeated Colorado State 49-42 with Jayden Mandal in Pac-12.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003ZSD53.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129063000 +0000" stop="20261129070000 +0000">
+    <title lang="en">KTLA 5 News at 10</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2005</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129070000 +0000" stop="20261129073500 +0000">
+    <title lang="en">KTLA 5 News at 11</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129073500 +0000" stop="20261129080500 +0000">
+    <title lang="en">KTLA 5 Sports Final</title>
+    <date>2015</date>
+    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129080500 +0000" stop="20261129083500 +0000">
+    <title lang="en">The Silver and Black Show</title>
+    <desc lang="en">Player interviews; discussing matchups.</desc>
+    <date>2004</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p510996_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129083500 +0000" stop="20261129090500 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Gyroscopic Collapse</sub-title>
+    <desc lang="en">After celebrating the completion of the top-secret Air Force project, Leonard, Sheldon and Wolowitz get an unwelcome surprise; Amy receives an offer for a summer position as a visiting researcher.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Anthony Rich</director>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12912842_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S10 E23</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129090500 +0000" stop="20261129093500 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Long Distance Dissonance</sub-title>
+    <desc lang="en">The gang is concerned when Sheldon's former admirer, Dr. Ramona Nowitzki, resurfaces while Amy is away at Princeton.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12912842_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S10 E24</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129093500 +0000" stop="20261129100200 +0000">
+    <title lang="en">Police 24/7</title>
+    <desc lang="en">A raw, unfiltered look into the world of sheriff and police departments across the United States as they serve and protect at all costs.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33785388_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E111</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129100200 +0000" stop="20261129103200 +0000">
+    <title lang="en">Lung Cancer from Asbestos?</title>
+    <desc lang="en">Diagnosed with Mesothelioma or Lung Cancer after exposure to asbestos. Call Weitz and Luxenberg.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34012806_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129103200 +0000" stop="20261129110000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129110000 +0000" stop="20261129120000 +0000">
+    <title lang="en">Lung Cancer from Asbestos?</title>
+    <desc lang="en">Diagnosed with Mesothelioma or Lung Cancer after exposure to asbestos. Call Weitz and Luxenberg.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34012806_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129120000 +0000" stop="20261129123000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129123000 +0000" stop="20261129130000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129130000 +0000" stop="20261129133000 +0000">
+    <title lang="en">Police 24/7</title>
+    <desc lang="en">A raw, unfiltered look into the world of sheriff and police departments across the United States as they serve and protect at all costs.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33785388_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E113</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129133000 +0000" stop="20261129140000 +0000">
+    <title lang="en">Inside California Politics</title>
+    <date>2020</date>
+    <category lang="en">Politics</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18676983_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129140000 +0000" stop="20261129150000 +0000">
+    <title lang="en">KTLA 5 Morning News at 6</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755463_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129150000 +0000" stop="20261129170000 +0000">
+    <title lang="en">KTLA 5 Morning News at 7</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>1995</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129170000 +0000" stop="20261129173000 +0000">
+    <title lang="en">Rich on Tech</title>
+    <date>2024</date>
+    <category lang="en">Technology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28692370_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129173000 +0000" stop="20261129180000 +0000">
+    <title lang="en">Rich on Tech</title>
+    <date>2024</date>
+    <category lang="en">Technology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28692370_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129180000 +0000" stop="20261129190000 +0000">
+    <title lang="en">College Tip-Off 2026</title>
+    <desc lang="en">An in-depth breakdown of the top teams and conferences on the eve of the 2026-27 college basketball season.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34427768_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129190000 +0000" stop="20261129210000 +0000">
+    <title lang="en">Live: College Basketball</title>
+    <desc lang="en">From The Pit in Albuquerque, N.M.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003TT4J9.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129210000 +0000" stop="20261129230000 +0000">
+    <title lang="en">Live: College Basketball</title>
+    <desc lang="en">From Mountain America Center in Idaho Falls, Idaho.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003TT1C0.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129230000 +0000" stop="20261129233000 +0000">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Mensa-fied best friends and roommates Leonard and Sheldon, physicists who work at the California Institute of Technology, may be able to tell everybody more than they want to know about quantum physics, but getting through most basic social situations, especially ones involving women, totally baffles them. How lucky, then, that babe-alicious waitress/aspiring actress Penny moves in next door. Frequently seen hanging out with Leonard and Sheldon are friends and fellow Caltech scientists Wolowitz and Koothrappali. Will worlds collide? Does Einstein theorize in the woods?</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Mark Cendrowski</director>
+      <director>Anthony Rich</director>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15720821_b_h10_an.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261129233000 +0000" stop="20261130000000 +0000">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Crocs, Snakes &amp; Caves</sub-title>
+    <desc lang="en">Malaysia: crocodiles; a king cobra; Batu Caves, near Kuala Lumpur.</desc>
+    <credits>
+      <actor>Jack Hanna</actor>
+      <director>Guy Nickerson</director>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261130000000 +0000" stop="20261130003000 +0000">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Africa's Big Five</sub-title>
+    <desc lang="en">The Shamwari Game Reserve is a place for elephants, rhinos, lions and other big animals.</desc>
+    <credits>
+      <actor>Jack Hanna</actor>
+      <director>Guy Nickerson</director>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261130003000 +0000" stop="20261130010000 +0000">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Pride of Sanbona</sub-title>
+    <desc lang="en">A visit to South Africa's Sanbona Wildlife Reserve reveals big cats running free.</desc>
+    <credits>
+      <actor>Jack Hanna</actor>
+      <director>Guy Nickerson</director>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261130010000 +0000" stop="20261130020000 +0000">
+    <title lang="en">KTLA 5 News at 5</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7835394_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261130020000 +0000" stop="20261130023000 +0000">
+    <title lang="en">KTLA 5 News at 6</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261130023000 +0000" stop="20261130030000 +0000">
+    <title lang="en">KTLA 5 News at 6:30</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US: KTLA LOS ANGELES HD" start="20261130030000 +0000" stop="20261130060000 +0000">
+    <title lang="en">The Holiday</title>
+    <desc lang="en">Two women, one from America and one from Britain, swap homes at Christmastime after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship.</desc>
+    <credits>
+      <actor>Cameron Diaz</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Jude Law</actor>
+      <director>Nancy Meyers</director>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Romantic comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p162526_v_h10_an.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
   </programme>
   <channel id="US: REAL AMERICA'S VOICE HD">
     <display-name>US: REAL AMERICA'S VOICE HD</display-name>
