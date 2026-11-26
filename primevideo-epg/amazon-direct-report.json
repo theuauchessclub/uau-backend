@@ -1,19 +1,32 @@
 {
   "source": "Prime Video public Live TV pages (Pass 2B pagination crawl)",
-  "collected_at": "2026-11-26T03:25:25.661664-05:00",
+  "collected_at": "2026-11-26T16:37:58.013333-05:00",
   "seed_url": "https://www.primevideo.com/livetv?tr=us&language=en_US",
-  "http_ok": false,
-  "pages_fetched": 0,
-  "pagination_links_discovered": 0,
-  "channel_images_found": 0,
-  "channels_with_schedule": 0,
-  "programmes": 0,
-  "channels": [],
-  "page_urls": [],
-  "errors": [
-    {
-      "url": "https://www.primevideo.com/livetv?tr=us&language=en_US",
-      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.primevideo.com/livetv?tr=us&language=en_US"
-    }
-  ]
+  "http_ok": true,
+  "pages_fetched": 4,
+  "pagination_links_discovered": 3,
+  "channel_images_found": 119,
+  "channels_with_schedule": 12,
+  "programmes": 84,
+  "channels": [
+    "NBC Boston News",
+    "NBC Chicago News",
+    "NBC LA News",
+    "NBC New York News",
+    "NBC News Now",
+    "NBC Philadelphia News",
+    "NBC South Florida News",
+    "NBC Sports on Peacock",
+    "Premier League TV",
+    "SNL Vault",
+    "Scripps News",
+    "WRC by Peacock"
+  ],
+  "page_urls": [
+    "https://www.primevideo.com/livetv?tr=us&language=en_US",
+    "https://www.primevideo.com/livetv?ref_=atv_hm_nxt_2&startIndex=13&tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&serviceToken=v0_Cl0KJDBhMGVhOGU4LWI1MzktNGNlNS1hOGZiLTUxODhlMTIyMzI1ZBDw7azOoTQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiRiNWJkNjVkZC1lZDVjLTQ4OGUtYWY3OC0zMWNhMmE4NjI0OGVSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVBmYmUxN2JlYWJjZDg5NTZhZDAyZjA1YWQwMjEyYjIzZGZiNTQxZTQ5MzA3NmVjMDkwNTk4YjBlN2YyY2I3MmU0In16tgIqKjI6TFIzQUUwNEU5ODk1OUIjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkUyMDkzNEUzRUVBNCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSQzYwRjdCNzRGNjMzIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFIyNkQ5NkZFMTBGMjYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjlGNkFBN0JBQTFFOSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSQ0YyODM1QTRCM0YzIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI4NUQzM0QyNzAxODEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTTAHggEGMABQAHAA&pageSize=14&page=2",
+    "https://www.primevideo.com/livetv?serviceToken=v0_Cl0KJDgyZWQ1NjdmLWE4YjItNGI3MS04MmI0LTk3NjI5OWFkZjcyNxDY9azOoTQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiRiNWJkNjVkZC1lZDVjLTQ4OGUtYWY3OC0zMWNhMmE4NjI0OGVSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVBmYmUxN2JlYWJjZDg5NTZhZDAyZjA1YWQwMjEyYjIzZGZiNTQxZTQ5MzA3NmVjMDkwNTk4YjBlN2YyY2I3MmU0In16jgMqKjI6TFJENTk1QjUwODc4RTYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjBEQTQyMDRCNjFENiMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSRDlGNzBDMzcyNUFCIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFJBQTJENUZDN0JFMTMjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkY3OTkzNDI3NUNGOCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSM0MwNkUwM0NDOERFIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI0RTk4RUU2NjJGQTEjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUjEzM0E2Qzc4NzlERCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSRDgyRTNBNThBRkE4IyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0wEIIBBjAAUABwAA%3D%3D&tr=us&page=3&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&pageSize=14&ref_=atv_hm_nxt_3&startIndex=27",
+    "https://www.primevideo.com/livetv?tr=us&targetId=V2%3D4AEA6u69gYPeuYe-toZwYWdlSWSIcGFnZVR5cGWMY29sbGVjdGlvbklkiHdpZGdldElkjo5zd2lmdElkVmVyc2lvbt6UioRsaXZli4Rob21ljA-ND46CVjI%3D&serviceToken=v0_Cl0KJDRlM2MzYmFjLTg3OGYtNGRhMy04NWU1LWRlMGY2M2M4NDNkOBDA_azOoTQaLExpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9IAESBXZwYWdlGAAyBmNlbnRlckAqSiRiNWJkNjVkZC1lZDVjLTQ4OGUtYWY3OC0zMWNhMmE4NjI0OGVSCExSNGY0YjVmWjUKDGxpbmVhckZpbHRlchIlCiNhbXpuMS1wdi1saW5lYXItbGl2ZV90YWItZmlsdGVyLWFsbGpWeyJyc2lwU3RhdGVJZCI6IlJTSVBmYmUxN2JlYWJjZDg5NTZhZDAyZjA1YWQwMjEyYjIzZGZiNTQxZTQ5MzA3NmVjMDkwNTk4YjBlN2YyY2I3MmU0In16jgMqKjI6TFI2RjVGMEFCQURCNUYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkU5QTlGQUY3MjgyNSMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSODVBNkRGQ0M4QUJDIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFI2MzgzODRFRUEwQzYjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkY0ODk5NDgxM0JDRCMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSMkJERDdGRjMzODJDIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0qKjI6TFJCNTVGRDdCRDdCRjgjI01aUVdHWkxVTVZTRUdZTFNONTJYR1pMTSoqMjpMUkFFNURBRTYyQTRBMiMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNKioyOkxSQUUzRTJENUEyMkNCIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0wGYIBBjAAUABwAA%3D%3D&pageSize=14&ref_=atv_hm_nxt_4&page=4&startIndex=41"
+  ],
+  "errors": []
 }

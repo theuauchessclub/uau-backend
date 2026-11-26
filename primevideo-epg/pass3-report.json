@@ -1,22 +1,22 @@
 {
-  "starting_unmatched": 836,
-  "candidate_names_loaded": 12261,
-  "provisional_matches": 524,
-  "new_matches_with_programmes": 510,
+  "starting_unmatched": 832,
+  "candidate_names_loaded": 12259,
+  "provisional_matches": 520,
+  "new_matches_with_programmes": 506,
   "remaining_unmatched": 319,
   "combined_match_rate_percent": 62.7,
-  "programmes_added": 32751,
+  "programmes_added": 29020,
   "source_programmes": {
-    "pluto": 2464,
-    "samsung": 1139,
-    "roku": 9739,
-    "plex_mjh": 5391,
+    "pluto": 2477,
+    "samsung": 1119,
+    "roku": 9688,
+    "plex_mjh": 1857,
     "canada": 4416,
     "uk": 1866,
     "whaletv": 621,
     "fanduel": 192,
     "rakuten": 3328,
-    "australia": 3434,
+    "australia": 3295,
     "distro": 0,
     "tbnplus": 161
   },
@@ -79,25 +79,25 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 918,
-      "bytes": 991923
+      "bytes": 983277
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1188,
-      "bytes": 522325
+      "bytes": 514520
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1482,
-      "bytes": 3452909
+      "candidate_names": 1480,
+      "bytes": 3459945
     },
     {
       "source": "plex_mjh",
       "ok": true,
       "candidate_names": 1404,
-      "bytes": 2906505
+      "bytes": 1230537
     }
   ],
   "matches": [
@@ -2382,16 +2382,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "australia",
-      "epg_id": "NBCNEWSNOW.au",
-      "source_display": "NBC NEWS NOW",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: NESN NATION RAW",
       "base_name": "NESN NATION",
       "stream_id": "",
@@ -2828,16 +2818,6 @@
       "source": "roku",
       "epg_id": "aea5e7ccd9a35a4abd9193147fb4d593",
       "source_display": "Slightly Off IFC",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: SNL VAULT RAW",
-      "base_name": "SNL VAULT",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "US1800012MT",
-      "source_display": "SNL Vault",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -4582,16 +4562,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5df97894467dfa00091c873c",
-      "source_display": "NBC News NOW",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: PATERNITY COURT RAW",
       "base_name": "PATERNITY COURT",
       "stream_id": "",
@@ -5058,16 +5028,6 @@
       "source": "pluto",
       "epg_id": "5da0c85bd2c9c10009370984",
       "source_display": "Naruto",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBB2200014DK",
-      "source_display": "NBC News NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
