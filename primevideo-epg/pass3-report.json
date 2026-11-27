@@ -1,21 +1,21 @@
 {
-  "starting_unmatched": 827,
-  "candidate_names_loaded": 10853,
-  "provisional_matches": 473,
-  "new_matches_with_programmes": 455,
-  "remaining_unmatched": 363,
-  "combined_match_rate_percent": 58.8,
-  "programmes_added": 27829,
+  "starting_unmatched": 832,
+  "candidate_names_loaded": 10859,
+  "provisional_matches": 476,
+  "new_matches_with_programmes": 458,
+  "remaining_unmatched": 365,
+  "combined_match_rate_percent": 58.6,
+  "programmes_added": 28229,
   "source_programmes": {
-    "pluto": 2363,
-    "samsung": 1154,
-    "roku": 9301,
+    "pluto": 2452,
+    "samsung": 1103,
+    "roku": 9802,
     "canada": 4316,
     "uk": 1858,
     "rakuten": 4868,
     "whaletv": 0,
     "fanduel": 210,
-    "australia": 3596,
+    "australia": 3457,
     "distro": 0,
     "tbnplus": 163
   },
@@ -78,19 +78,19 @@
       "source": "pluto",
       "ok": true,
       "candidate_names": 918,
-      "bytes": 978533
+      "bytes": 977037
     },
     {
       "source": "samsung",
       "ok": true,
       "candidate_names": 1188,
-      "bytes": 524126
+      "bytes": 515788
     },
     {
       "source": "roku",
       "ok": true,
-      "candidate_names": 1478,
-      "bytes": 3435548
+      "candidate_names": 1484,
+      "bytes": 3466452
     },
     {
       "source": "plex_mjh",
@@ -187,6 +187,16 @@
       "source": "roku",
       "epg_id": "a480d18b23c655d38e2f2bf7275c02cb",
       "source_display": "ABC7 Chicago",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: ABC7 NEW YORK RAW",
+      "base_name": "ABC7 NEW YORK",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "65f1e34427ef5d61a2db61cb9a2819d0",
+      "source_display": "ABC7 New York",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -661,12 +671,32 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: CBS NEWS LOS ANGELES RAW",
+      "base_name": "CBS NEWS LOS ANGELES",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5dc9b875e280c80009a8a44a",
+      "source_display": "CBS News Los Angeles",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: CBS NEWS MINNESOTA RAW",
       "base_name": "CBS NEWS MINNESOTA",
       "stream_id": "",
       "source": "pluto",
       "epg_id": "5eb1b0bf2240d8000732a09c",
       "source_display": "CBS News Minnesota",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: CBS NEWS NEW YORK RAW",
+      "base_name": "CBS NEWS NEW YORK",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "5dc9b8223687ff000936ed79",
+      "source_display": "CBS News New York",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1177,6 +1207,16 @@
       "source": "roku",
       "epg_id": "885d5897052b53709a83c4947174cd09",
       "source_display": "FilmRise Black TV",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: FILMRISE BRITISH TV RAW",
+      "base_name": "FILMRISE BRITISH TV",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "dead0e7a46da533c94c61c8710ef3418",
+      "source_display": "FilmRise British TV",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -1991,6 +2031,26 @@
       "method": "pass3-exact"
     },
     {
+      "name": "PRIME: NBC 4 LOS ANGELES NEWS RAW",
+      "base_name": "NBC 4 LOS ANGELES NEWS",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "7a725b0bd4935ce7bbbd18bdd3e4b5d7",
+      "source_display": "NBC 4 Los Angeles News",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
+      "name": "PRIME: NBC 4 NEW YORK NEWS RAW",
+      "base_name": "NBC 4 NEW YORK NEWS",
+      "stream_id": "",
+      "source": "roku",
+      "epg_id": "f389d9e365a5526b93b076fbb73a8160",
+      "source_display": "NBC 4 New York News",
+      "score": 100.0,
+      "method": "pass3-exact"
+    },
+    {
       "name": "PRIME: NBC 4 WASHINGTON NEWS RAW",
       "base_name": "NBC 4 WASHINGTON NEWS",
       "stream_id": "",
@@ -2057,16 +2117,6 @@
       "source": "samsung",
       "epg_id": "USBB40000028E",
       "source_display": "NBC LX Home",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "australia",
-      "epg_id": "NBCNEWSNOW.au",
-      "source_display": "NBC NEWS NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
@@ -2461,16 +2511,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: SNL VAULT RAW",
-      "base_name": "SNL VAULT",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "US1800012MT",
-      "source_display": "SNL Vault",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: SPACE & BEYOND RAW",
       "base_name": "SPACE & BEYOND",
       "stream_id": "",
@@ -2619,6 +2659,16 @@
       "source_display": "Team USA TV",
       "score": 95.0,
       "method": "pass3-fuzzy"
+    },
+    {
+      "name": "PRIME: TELEMUNDO NOTICIAS CALIFORNIA RAW",
+      "base_name": "TELEMUNDO NOTICIAS CALIFORNIA",
+      "stream_id": "",
+      "source": "pluto",
+      "epg_id": "65790feacbd0d60008fac87a",
+      "source_display": "Telemundo Noticias California",
+      "score": 100.0,
+      "method": "pass3-exact"
     },
     {
       "name": "PRIME: THE ADDAMS FAMILY RAW",
@@ -4061,16 +4111,6 @@
       "method": "pass3-exact"
     },
     {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "pluto",
-      "epg_id": "5df97894467dfa00091c873c",
-      "source_display": "NBC News NOW",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
       "name": "PRIME: PATERNITY COURT RAW",
       "base_name": "PATERNITY COURT",
       "stream_id": "",
@@ -4507,16 +4547,6 @@
       "source": "pluto",
       "epg_id": "5da0c85bd2c9c10009370984",
       "source_display": "Naruto",
-      "score": 100.0,
-      "method": "pass3-exact"
-    },
-    {
-      "name": "PRIME: NBC NEWS NOW RAW",
-      "base_name": "NBC NEWS NOW",
-      "stream_id": "",
-      "source": "samsung",
-      "epg_id": "USBB2200014DK",
-      "source_display": "NBC News NOW",
       "score": 100.0,
       "method": "pass3-exact"
     },
