@@ -1,16 +1,9 @@
 {
   "amazon_channels_before": 12,
-  "amazon_channels_kept_for_safe_merge": 3,
-  "amazon_channels_removed_from_fuzzy_merge": 9,
+  "amazon_channels_kept_for_safe_merge": 10,
+  "amazon_channels_removed_from_fuzzy_merge": 2,
   "removed": [
-    "NBC Boston News",
-    "NBC Chicago News",
-    "NBC LA News",
-    "NBC New York News",
-    "NBC Philadelphia News",
-    "NBC South Florida News",
-    "NBC Sports on Peacock",
-    "Premier League TV",
-    "WRC by Peacock"
+    "FOX Local New York",
+    "Telemundo Suroeste"
   ]
 }
