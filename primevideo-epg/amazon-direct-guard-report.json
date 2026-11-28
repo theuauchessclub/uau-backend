@@ -3,7 +3,6 @@
   "amazon_channels_kept_for_safe_merge": 3,
   "amazon_channels_removed_from_fuzzy_merge": 9,
   "removed": [
-    "KNTV by Peacock",
     "NBC Boston News",
     "NBC Chicago News",
     "NBC LA News",
@@ -11,6 +10,7 @@
     "NBC Philadelphia News",
     "NBC South Florida News",
     "NBC Sports on Peacock",
-    "Premier League TV"
+    "Premier League TV",
+    "WRAL by Peacock"
   ]
 }
